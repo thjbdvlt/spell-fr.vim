@@ -1,0 +1,9 @@
+# encodage
+SET UTF-8
+
+# flag avec deux caractères
+FLAG long
+
+# un flag qui dit: ceci est un radical, qui nécessite un affixe
+NEEDAFFIX __
+

@@ -1,0 +1,155 @@
+# pluriel.en s:
+SFX _s Y 1
+SFX _s 0 s .
+
+# pluriels en x:
+# cheval, chevaux, feu, feux
+SFX _x Y 3
+SFX _x 0 x/ [^l]
+SFX _x l ux/ al
+SFX _x il ux/ ail
+
+# auteur, autrice, autrices, auteurs, auteurice, auteurices. plutôt que de placer "auteur" comme base dont j'enlève "eur" pour fabriquer le reste, je pars du radical (aut). il faut alors utiliser le flag `__` (NEEDAFFIX) sur les mots concernés (pour que "aut" tout seul ne soit pas considéré comme juste). je fais de même pour différentes formes de noms et d'adjectifs ci-dessous, ex. vi -ve -f.
+
+# aut -rice -eur -eurice
+SFX ri Y 4
+SFX ri 0 rice/_s .
+SFX ri 0 eur/_s .
+SFX ri 0 eurice/_s .
+SFX ri 0 euricex/_s .
+
+# accordeu -r -se
+SFX rs Y 4
+SFX rs 0 r/_s .
+SFX rs 0 se/_s .
+SFX rs 0 reuse/_s .
+SFX rs 0 reusex/_s .
+
+# foresti -ère -er
+SFX rr Y 2
+SFX rr 0 ère/_s .
+SFX rr 0 er/_s .
+
+# frauduleu -x -se
+SFX xz Y 2
+SFX xz 0 x .
+SFX xz 0 se/_s .
+
+# vi -ive -f
+SFX fv Y 2
+SFX fv 0 f/_s .
+SFX fv 0 ve/_s .
+
+# aigu, aigüe
+SFX ue Y 2
+SFX ue 0 u/_s .
+SFX ue 0 üe/_s .
+
+# be -au, be -lle, tourtere -au -lle
+SFX la Y 5
+SFX la 0 au .
+SFX la 0 aux .
+SFX la 0 lle/_s .
+SFX la 0 lleau .
+SFX la 0 lleaux .
+
+# po -étesse, -ète
+SFX ee Y 2
+SFX ee 0 ète/_s .
+SFX ee 0 étesse/_s .
+
+# dou -x -ce
+SFX xc Y 2
+SFX xc 0 x .
+SFX xc 0 ce .
+
+# rou -sse, -x, fau -x -sse
+SFX xs Y 2
+SFX xs 0 x .
+SFX xs 0 sse .
+
+# vie -ux -iel - ielle
+SFX xl Y 3
+SFX xl 0 ux .
+SFX xl 0 iel/s .
+SFX xl 0 ielle/s .
+
+# br -ève -ef
+SFX ev Y 2
+SFX ev 0 f/_s .
+SFX ev 0 ève/_s .
+
+# s -ec -èche
+SFX ec Y 2
+SFX ec 0 ec/_s .
+SFX ec 0 èche/_s .
+
+# enseignant -e
+SFX _e Y 4
+SFX _e 0 /_s .
+SFX _e 0 e/_s .
+SFX _e 0 xe/_s .
+SFX _e 0 ex/_s .
+
+# compl -ète -et
+SFX et Y 2
+SFX et 0 et/_s .
+SFX et 0 ète/_s .
+
+# -ène -en
+SFX en Y 3
+SFX en 0 /_s .
+SFX en 0 en/_s .
+SFX en 0 ène/_s .
+
+# publi -c -que
+SFX qc Y 2
+SFX qc 0 c/_s .
+SFX qc 0 que/_s .
+
+# long -ue 
+SFX gu Y 2
+SFX gu 0 /_s .
+SFX gu 0 ue/_s .
+
+# global, globale, globales, globaux (!=cheval, chevaux)
+SFX al Y 3
+SFX al 0 l .
+SFX al 0 ux .
+SFX al 0 le/_s .
+
+# les féminins qui double la dernière consonne
+SFX ll Y 6
+SFX ll 0 /_s .
+SFX ll 0 fe/_s f
+SFX ll 0 le/_s l
+SFX ll 0 ne/_s n
+SFX ll 0 se/_s s
+SFX ll 0 te/_s t
+
+# prêtre -sse
+SFX ss Y 2
+SFX ss 0 /_s .
+SFX ss 0 sse/_s .
+
+# fo -l -lle -u
+SFX lu Y 3
+SFX lu 0 l/_s .
+SFX lu 0 lle/_s .
+SFX lu 0 u/_s .
+
+# mots anglais: cramberry, cramberri -es, sandwich -es
+SFX GB Y 3
+SFX GB y ies y
+SFX GB 0 es [xh]
+SFX GB man men man
+
+# mots latins (et italiens)
+SFX LT Y 6
+SFX LT a e/ a
+SFX LT e i/ e
+SFX LT en ina/ en
+SFX LT o i/ o
+SFX LT um a/ um
+SFX LT us i/ us
+
