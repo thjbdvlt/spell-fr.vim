@@ -1,4 +1,4 @@
-dict. orth. fr. pour Vim construit à partir du dictionnaire de [Grammalecte](https://grammalecte.net/ (disponible dans Hunspell).
+dict. orth. fr. pour Vim construit à partir du dictionnaire de [Grammalecte](https://grammalecte.net/) (disponible dans Hunspell).
 
 contient:
 
