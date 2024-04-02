@@ -10,7 +10,7 @@ cp_nvim: compile
 
 compile: concat
 	# compiler avec neovim, puis quitter lorsque c'est fait
-	nvim -c "mkspell! $(name)" -c "q"
+	vim -c "mkspell! $(name)" -c "q"
 
 concat:
 	# concaténer les fichiers d'affixes
