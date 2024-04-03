@@ -19,11 +19,12 @@ SFX ri 0 eurice/_s .
 SFX ri 0 euricex/_s .
 
 # accordeu -r -se
-SFX rs Y 4
+SFX rs Y 5
 SFX rs 0 r/_s .
 SFX rs 0 se/_s .
 SFX rs 0 reuse/_s .
 SFX rs 0 reusex/_s .
+SFX rs 0 xes/_s .
 
 # foresti -ère -er
 SFX rr Y 2
