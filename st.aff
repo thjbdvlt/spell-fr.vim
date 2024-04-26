@@ -86,7 +86,7 @@ SFX xl 0 ielle/s .
 
 # br -ève -ef
 SFX ev Y 2
-SFX ev 0 f/_s .
+SFX ev 0 ef/_s .
 SFX ev 0 ève/_s .
 
 # s -ec -èche
