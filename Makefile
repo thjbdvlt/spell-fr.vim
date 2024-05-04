@@ -19,7 +19,7 @@ concat:
 		$(diraff)/verbs.aff \
 		> ${CURDIR}/$(name).aff
 	# concaténer les dictionnaires
-	@cat ${CURDIR}/words/*/*.dic  ${CURDIR}/words/*.dic | \
+	@cat ${CURDIR}/words/*.dic | \
 		sort | uniq > $(dic)
 	# ajouter le nombre de mots en première ligne du fichier
 	@sed -i "1s/^/$$(wc -l $(dic) | cut -d ' ' -f 1)\n/" $(dic)

@@ -3426,12 +3426,12 @@ SFX Bi bous bouillir .
 SFX Bi bout bouillir .
 
 SFX Bu Y 6
-SFX bruissaient bruire .
-SFX bruissait bruire .
-SFX bruissant bruire .
-SFX bruisse bruire .
-SFX bruissent bruire .
-SFX bruit bruire .
+SFX Bu bruissaient bruire .
+SFX Bu bruissait bruire .
+SFX Bu bruissant bruire .
+SFX Bu bruisse bruire .
+SFX Bu bruissent bruire .
+SFX Bu bruit bruire .
 
 SFX Ha Y 1
 SFX Ha chaut challoir .
@@ -3859,12 +3859,12 @@ SFX Vr put pouvoir .
 SFX Vr pût pouvoir .
 SFX Vr pûtes pouvoir .
 
-SFX Rc Y R
+SFX Rc Y 3
 SFX Rc reclus reclure .
 SFX Rc recluse reclure .
 SFX Rc recluses reclure .
 
-SFX Sc Y R
+SFX Sc Y 44
 SFX Sc sachant savoir .
 SFX Sc sache savoir .
 SFX Sc sachent savoir .
@@ -3910,7 +3910,7 @@ SFX Sc sut savoir .
 SFX Sc sût savoir .
 SFX Sc sûtes savoir .
 
-SFX Sr Y R
+SFX Sr Y 19
 SFX Sr messeyait seoir .
 SFX Sr messied seoir .
 SFX Sr messiérait seoir .
@@ -3931,13 +3931,13 @@ SFX Sr sis seoir .
 SFX Sr sise seoir .
 SFX Sr sises seoir .
 
-SFX Sd Y R
+SFX Sd Y 4
 SFX Sd sourd sourdre .
 SFX Sd sourdaient sourdre .
 SFX Sd sourdait sourdre .
 SFX Sd sourdent sourdre .
 
-SFX Ur Y R
+SFX Ur Y 48
 SFX Ur surseoira sursoir .
 SFX Ur surseoirai sursoir .
 SFX Ur surseoiraient sursoir .
@@ -3987,7 +3987,7 @@ SFX Ur sursoyiez sursoir .
 SFX Ur sursoyions sursoir .
 SFX Ur sursoyons sursoir .
 
-SFX Ts Y R
+SFX Ts Y 4
 SFX Ts tissu tistre .
 SFX Ts tissue tistre .
 SFX Ts tissues tistre .
