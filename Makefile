@@ -1,25 +1,40 @@
 lang=fr
 name=st
-dic=${CURDIR}/$(name).dic
-diraff=${CURDIR}/affixes
+spl=$(name).utf-8.spl
+# argument optionel: noexcept.
+# à utiliser ainsi: `make noexcept=1`
 
-cp_nvim: compile
+cp_nvim: $(spl)
 	# copie le fichier compilé (.spl) dans le dossier 'spell' de neovim
-	cp ${CURDIR}/$(name).utf-8.spl \
+	cp $(spl) \
 		~/.config/nvim/spell/$(lang).utf-8.spl
 
-compile: concat
+$(spl): $(name).dic $(name).aff
 	# compiler avec neovim, puis quitter lorsque c'est fait
 	vim -c "mkspell! $(name)" -c "q"
 
-concat:
+$(name).dic:
+	# concaténer les dictionnaires.
+ifdef noexcept
+	@cat words/*.dic | \
+		sort | uniq > $(name).dic
+	make addwordnumber
+else
+	@cat words/*.dic exceptions/*.dic | \
+		sort | uniq > $(name).dic
+	make addwordnumber
+endif
+
+$(name).aff:
 	# concaténer les fichiers d'affixes
-	@cat $(diraff)/options.aff \
-		$(diraff)/non-verbs.aff \
-		$(diraff)/verbs.aff \
-		> ${CURDIR}/$(name).aff
-	# concaténer les dictionnaires
-	@cat ${CURDIR}/words/*.dic | \
-		sort | uniq > $(dic)
+	@cat affixes/options.aff \
+		affixes/non-verbs.aff \
+		affixes/verbs.aff \
+		> $(name).aff
+
+addwordnumber:
 	# ajouter le nombre de mots en première ligne du fichier
-	@sed -i "1s/^/$$(wc -l $(dic) | cut -d ' ' -f 1)\n/" $(dic)
+	@sed -i "1s/^/$$(wc -l $(name).dic | cut -d ' ' -f 1)\n/" $(name).dic
+
+clean:
+	rm -f $(spl) $(name).dic $(name).aff
