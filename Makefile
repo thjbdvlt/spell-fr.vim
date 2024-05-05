@@ -1,7 +1,14 @@
 lang=fr
 name=st
 spl=$(name).utf-8.spl
-# argument optionel: noexcept. à utiliser ainsi: `make noexcept=1`. les 'exceptions' en questions sont les verbes "être", "avoir" et "aller" qui ont des formes tellement différentes de l'infinitif qu'elles nécessite d'enlever la totalité de l'infinitif avant d'ajouter un affixe (si on peut encore appeler ça un affixe). dans hunspell, l'option "FULLSTRIP" permet de faire ça, mais vim ne la reconnait pas: il faut donc ajouter ces formes (je suis, nous sommes, nous allons, etc.) séparément.
+
+# arguments optionels: 
+#
+# 1. noexcept
+# les 'exceptions' en questions sont les verbes "être", "avoir" et "aller" qui ont des formes tellement différentes de l'infinitif qu'elles nécessite d'enlever la totalité de l'infinitif avant d'ajouter un affixe (si on peut encore appeler ça un affixe). dans hunspell, l'option "FULLSTRIP" permet de faire ça, mais vim ne la reconnait pas: il faut donc ajouter ces formes (je suis, nous sommes, nous allons, etc.) séparément.
+#
+# 2. noprefix 
+# (pas de préfixes scientifques: la liste se trouve dans le fichier prefixes-scientifiques.dic)
 
 cp_nvim: $(spl)
 	# copie le fichier compilé (.spl) dans le dossier 'spell' de neovim
@@ -13,16 +20,20 @@ $(spl): $(name).dic $(name).aff
 	vim -c "mkspell! $(name)" -c "q"
 
 $(name).dic:
+	@cat words/*.dic > $(name).dic
 	# concaténer les dictionnaires.
 ifdef noexcept
-	@cat words/*.dic | \
-		sort | uniq > $(name).dic
-	make addwordnumber
+	@echo "no exceptions"
 else
-	@cat words/*.dic exceptions/*.dic | \
-		sort | uniq > $(name).dic
-	make addwordnumber
+	@cat exceptions/*.dic >> $(name).dic
 endif
+ifdef noprefix
+	@echo "no prefix"
+else
+	@cat prefixes/*.dic >> $(name).dic
+endif
+	sort < $(name).dic | uniq | sponge $(name).dic 
+	make addwordnumber
 
 $(name).aff:
 	# concaténer les fichiers d'affixes
