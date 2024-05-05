@@ -1,8 +1,7 @@
 lang=fr
 name=st
 spl=$(name).utf-8.spl
-# argument optionel: noexcept.
-# à utiliser ainsi: `make noexcept=1`
+# argument optionel: noexcept. à utiliser ainsi: `make noexcept=1`. les 'exceptions' en questions sont les verbes "être", "avoir" et "aller" qui ont des formes tellement différentes de l'infinitif qu'elles nécessite d'enlever la totalité de l'infinitif avant d'ajouter un affixe (si on peut encore appeler ça un affixe). dans hunspell, l'option "FULLSTRIP" permet de faire ça, mais vim ne la reconnait pas: il faut donc ajouter ces formes (je suis, nous sommes, nous allons, etc.) séparément.
 
 cp_nvim: $(spl)
 	# copie le fichier compilé (.spl) dans le dossier 'spell' de neovim
