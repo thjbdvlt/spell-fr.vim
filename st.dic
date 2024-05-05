@@ -1,4 +1,4 @@
-69387
+69446
 -
 _
 a
@@ -283,7 +283,6 @@ absinthisme/_s
 absolu/_e
 absoluité/_s
 absolument
-absolu/_s
 absolutif/_s
 absoluti/fv__
 absolution/_s
@@ -353,7 +352,6 @@ académiste/_s
 acadianisme/_s
 acadien/ll
 acagnarder/Er
-acajou
 acajou/_s
 acalèphe/_s
 acalorique/_s
@@ -395,7 +393,6 @@ accédant/_e
 accédé/_e
 accéder/Eg
 accelerando
-accélérando
 accélérando/_s
 accélérateur/_s
 accélération/_s
@@ -462,7 +459,6 @@ accommodage/_s
 accommodant/_e
 accommodation/_s
 accommodat/ri__
-accommodat/_s
 accommodement/_s
 accommoder/Er
 accompagnant/_e
@@ -595,7 +591,6 @@ acétification/_s
 acétifier/Er
 acétimètre/_s
 acétique/_s
-acétobacter
 acétobacter/_s
 acétocellulose/_s
 acétonémie/_s
@@ -741,7 +736,6 @@ acre/_s
 âcre/_s
 âcreté/_s
 acridien/ll
-acridien/_s
 acridine/_s
 acrimonie/_s
 acrimonieusement
@@ -865,7 +859,6 @@ acyltransférase/_s
 ad
 adage/_s
 adagietto/_s
-adagio
 adagio/_s
 adamantin/_e
 adamique/_s
@@ -879,7 +872,6 @@ adaptat/ri__
 adapter/Er
 adatome/_s
 addax
-addenda
 addenda/_s
 addendum/LT
 addicti/fv__
@@ -921,7 +913,6 @@ adénosarcome/_s
 adénosine/_s
 adénovira/al
 adénovirus
-adent
 adent/_s
 adeptat/_s
 adepte/_s
@@ -982,7 +973,6 @@ adjuration/_s
 adjurer/Er
 adjut/ri__
 adjuvant/_e
-adjuvant/_s
 adjuvat/_s
 adlérien/ll
 adlérisme/_s
@@ -1182,7 +1172,6 @@ aéroport/_s
 aéroportuaire/_s
 aéroposta/al
 aéroréfrigérant/_e
-aéroréfrigérant/_s
 aéroscope/_s
 aérosolisation/_s
 aérosol/_s
@@ -1314,7 +1303,6 @@ affliger/Er
 afflouer/Er
 affluence/_s
 affluent/_e
-affluent/_s
 affluer/Er
 afflux
 affolant/_e
@@ -1460,7 +1448,6 @@ age/_s
 agger/_s
 aggiornamento/_s
 agglomérant/_e
-agglomérant/_s
 agglomération/_s
 agglomérat/_s
 agglomérer/Eg
@@ -1484,7 +1471,6 @@ agio/_s
 agiotage/_s
 agioter/Er
 agioteu/rs__
-agir
 agir/Ir
 âgisme/_s
 agissant/_e
@@ -1670,7 +1656,6 @@ aiguière/_s
 aiguillage/_s
 aiguillat/_s
 aiguiller/Er
-aiguiller/_s
 aiguille/_s
 aiguilleter/El
 aiguilleteu/rs__
@@ -1706,7 +1691,6 @@ aimantation/_s
 aimant/_e
 aimanter/Er
 aimantin/_e
-aimantin/_s
 aimant/_s
 aimé/_e
 aimer/Er
@@ -24917,6 +24901,7 @@ erse/_s
 érythropoïétine/_s
 érythrose/_s
 érythrosine/_s
+es
 ès
 esbaudir/Ir
 esbigner/Er
@@ -25225,8 +25210,11 @@ et
 étage/_s
 étagiste/_s
 étaiement/_s
+étaient
 étain/_s
 étai/_s
+étais
+était
 étalager/Er
 étalage/_s
 étalagiste/_s
@@ -25269,6 +25257,7 @@ et
 étançonner/Er
 étançon/_s
 étang/_s
+étant
 étape/_s
 étarquer/Er
 êta/_s
@@ -25285,6 +25274,7 @@ et
 étayer/Er
 etc
 etcétéra/_s
+été
 ète
 éteigneu/rs__
 éteignoir/_s
@@ -25302,6 +25292,7 @@ etcétéra/_s
 éternuement/_s
 éternuer/Er
 été/_s
+êtes
 étésien/_s
 étêtage/_s
 étêtement/_s
@@ -25402,6 +25393,7 @@ ethos
 éthyne/_s
 étiage/_s
 étier/_s
+étiez
 étincelage/_s
 étincelant/_e
 étincèlement/_s
@@ -25412,6 +25404,7 @@ ethos
 étioler/Er
 étiologie/_s
 étiologique/_s
+étions
 étiopathe/_s
 étiopathie/_s
 étique/_s
@@ -25512,6 +25505,7 @@ etre/Ee
 étymologiste/_s
 étymologue/_s
 étymon/_s
+eu
 eubactérie/_s
 eubage/_s
 eucalyptol/_s
@@ -25530,6 +25524,8 @@ eudiomètre/_s
 eudiométrie/_s
 eudiométrique/_s
 eudiste/_s
+eue
+eues
 eugénate/_s
 eugénie/_s
 eugénique/_s
@@ -25542,6 +25538,7 @@ eulérien/ll
 eulogie/_s
 eumélanine/_s
 euménide/_s
+eûmes
 eunecte/_s
 eunuque/_s
 eupatoire/_s
@@ -25572,6 +25569,7 @@ eurasiatique/_s
 eurasien/ll
 eurêka
 eurélien/ll
+eurent
 euristique/_s
 eurobanque/_s
 eurocentime/_s
@@ -25616,16 +25614,27 @@ eurytherme/_s
 eurythermie/_s
 eurythmie/_s
 eurythmique/_s
+eus
 euscarien/ll
 euse
 euskara/_s
 euskarien/ll
 eusocia/al
+eusse
+eussé
+eussè
+eussent
+eusses
+eussiez
+eussions
 eustache/_s
 eustasie/_s
 eustatique/_s
 eustatisme/_s
+eut
+eût
 eutectique/_s
+eûtes
 eutexie/_s
 euthanasié/_e
 euthanasier/Er
@@ -28715,6 +28724,7 @@ fumerolien/ll
 fumerolle/_s
 fumerollien/ll
 fumeron/_s
+fûmes
 fumeterre/_s
 fumet/_s
 fumette/_s
@@ -28758,6 +28768,7 @@ furane/_s
 furanne/_s
 furax
 furcula/_s
+furent
 furetage/_s
 fureter/Ec
 fureteu/rs__
@@ -28783,6 +28794,7 @@ furosémide/_s
 furti/fv__
 furtivement
 furtivité/_s
+fus
 fusainiste/_s
 fusain/_s
 fusant/_e
@@ -28814,6 +28826,13 @@ fusionnel/ll
 fusionnement/_s
 fusionner/Er
 fusion/_s
+fusse
+fussé
+fussè
+fussent
+fusses
+fussiez
+fussions
 fustanelle/_s
 fuste/_s
 fustet/_s
@@ -28821,12 +28840,15 @@ fustibale/_s
 fustigation/_s
 fustiger/Er
 fusuline/_s
+fut
+fût
 futaie/_s
 futaille/_s
 futaine/_s
 futal/_s
 futé/_e
 futée/_s
+fûtes
 futier/_s
 fûtier/_s
 futilement
@@ -36176,8 +36198,14 @@ ippon/_s
 ipséité/_s
 ipse/_s
 ipso
+ira
+irai
+iraient
+irais
+irait
 irakien/ll
 iranien/ll
+iras
 irascibilité/_s
 irascible/_s
 irato
@@ -36185,6 +36213,7 @@ irénique/_s
 irénisme/_s
 iréniste/_s
 ire/_s
+irez
 iridacée/_s
 iridectomie/_s
 iridescence/_s
@@ -36197,6 +36226,8 @@ iridologie/_s
 iridologique/_s
 iridologue/_s
 irien/ll
+iriez
+irions
 iris
 irisable/_s
 irisation/_s
@@ -36211,6 +36242,8 @@ ironique/_s
 ironiser/Er
 ironisme/_s
 ironiste/_s
+irons
+iront
 iroquois/_e
 irraccommodable/_s
 irrachetable/_s
@@ -41425,12 +41458,15 @@ messag/rr__
 messeigneurs
 messer/_s
 messe/_s
+messeyait
 messianique/_s
 messianisme/_s
 messianiste/_s
 messianité/_s
 messicole/_s
 messidor/_s
+messied
+messiérait
 messier/_s
 messie/_s
 messieurs
@@ -45817,6 +45853,7 @@ onomastique/_s
 onomatopée/_s
 onomatopéique/_s
 onques
+ont
 ontarien/ll
 ontogenèse/_s
 ontogénétique/_s
@@ -59641,8 +59678,13 @@ séquestre/_s
 sequin/_s
 sequoia/_s
 séquoia/_s
+sera
 sérac/_s
+serai
+seraient
 sérail/_s
+serais
+serait
 sérançage/_s
 sérancer/Er
 séranceur/_s
@@ -59652,6 +59694,7 @@ sérapéum/_s
 séraphin/_e
 séraphin/_s
 séraphique/_s
+seras
 serbe/_s
 serdab/_s
 serdeau/_x
@@ -59662,6 +59705,7 @@ sérendipité/_s
 sérénissime/_s
 sérénité/_s
 séreu/xz__
+serez
 serfouette/_s
 serfouir/Ir
 serfouissage/_s
@@ -59687,6 +59731,7 @@ sérier/Er
 série/_s
 sérieusement
 sérieu/xz__
+seriez
 serif/_s
 sérigraphier/Er
 sérigraphie/_s
@@ -59702,6 +59747,7 @@ seringuer/Er
 seringuero/_s
 séringuéro/_s
 seringue/_s
+serions
 sérique/_s
 serlienne/_s
 serment/_s
@@ -59718,6 +59764,8 @@ sérologique/_s
 sérologiste/_s
 séronégati/fv__
 séronégativité/_s
+serons
+seront
 séropositi/fv__
 séropositivité/_s
 séroprophylaxie/_s
@@ -60493,6 +60541,7 @@ softball/_s
 soft/_s
 software/_s
 soi
+soient
 soierie/_s
 soie/_s
 soiffard/_e
@@ -60507,6 +60556,7 @@ soin/_s
 soirée/_s
 soirer/Er
 soir/_s
+sois
 soit
 soixantaine/_s
 soixante
@@ -60655,6 +60705,7 @@ sommeli/rr__
 sommellerie/_s
 sommer/Er
 somme/_s
+sommes
 sommet/_s
 sommière/_s
 sommier/_s
@@ -60718,6 +60769,7 @@ sonotone/_s
 sonotrode/_s
 sonrer/Er
 son/_s
+sont
 sophisme/_s
 sophiste/_s
 sophistication/_s
@@ -60998,6 +61050,8 @@ sovkhoze/_s
 soya/_s
 soyer/_s
 soyeu/xz__
+soyez
+soyons
 spacieusement
 spacieu/xz__
 spadassin/_s
@@ -62166,6 +62220,7 @@ suintement/_s
 suinter/Er
 suintine/_s
 suint/_s
+suis
 suisse/_s
 suissesse/_s
 suitée/_s
@@ -67247,6 +67302,7 @@ uxoricide/_s
 uxoriloca/al
 uzbek/_s
 v
+va
 vacance/_s
 vacanci/rr__
 vacant/_e
@@ -67333,6 +67389,7 @@ vairé/_e
 vaironner/Er
 vairon/_s
 vair/_s
+vais
 vaisseau/_x
 vaisselier/_s
 vaisselle/_s
@@ -67517,6 +67574,7 @@ var/_s
 varsovien/ll
 varus
 varve/_s
+vas
 vasard/_e
 vasculaire/_s
 vascularisation/_s
@@ -68715,6 +68773,7 @@ vomissure/_s
 vomiti/fv__
 vomitoire/_s
 vomito/_s
+vont
 voracement
 vorace/_s
 voracité/_s
