@@ -4,6 +4,7 @@ SET UTF-8
 # flag avec deux caractères
 FLAG long
 
+FULLSTRIP
+
 # un flag qui dit: ceci est un radical, qui nécessite un affixe
 NEEDAFFIX __
-

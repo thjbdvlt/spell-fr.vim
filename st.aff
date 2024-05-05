@@ -4,9 +4,10 @@ SET UTF-8
 # flag avec deux caractères
 FLAG long
 
+FULLSTRIP
+
 # un flag qui dit: ceci est un radical, qui nécessite un affixe
 NEEDAFFIX __
-
 # pluriel.en s:
 SFX _s Y 1
 SFX _s 0 s .

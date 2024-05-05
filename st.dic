@@ -1,4 +1,4 @@
-69446
+69447
 -
 _
 a
@@ -68304,6 +68304,7 @@ ville/_s
 villeu/xz__
 villosité/_s
 vimaire/_s
+# vim `mkspell` doesn't recognize 'FULLSTRIP' option, therefore i have to add these exceptions
 vinage/_s
 vinaigrer/Er
 vinaigrerie/_s
