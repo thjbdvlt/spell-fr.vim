@@ -4,7 +4,5 @@ SET UTF-8
 # flag avec deux caractères
 FLAG long
 
+# peut strip la totalité d'un mot: par exemple "être" -> "sont"
 FULLSTRIP
-
-# un flag qui dit: ceci est un radical, qui nécessite un affixe
-NEEDAFFIX __
