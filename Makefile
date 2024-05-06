@@ -50,7 +50,7 @@ $(name).aff:
 		affixes/verbs.aff \
 		> $(name).aff
 ifdef morph
-	@./scripts/decommenter $(name).aff
+	@./scripts/decommenter.sh $(name).aff
 endif
 
 clean:
