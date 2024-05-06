@@ -33,7 +33,7 @@ else
 	@cat prefixes/*.dic >> $(name).dic
 endif
 	sort < $(name).dic | uniq | sponge $(name).dic 
-	make addwordnumber
+	./scripts/header-number.sh $(name).dic
 
 $(name).aff:
 	# concaténer les fichiers d'affixes
@@ -41,10 +41,6 @@ $(name).aff:
 		affixes/non-verbs.aff \
 		affixes/verbs.aff \
 		> $(name).aff
-
-addwordnumber:
-	# ajouter le nombre de mots en première ligne du fichier
-	@sed -i "1s/^/$$(wc -l $(name).dic | cut -d ' ' -f 1)\n/" $(name).dic
 
 clean:
 	rm -f $(spl) $(name).dic $(name).aff
