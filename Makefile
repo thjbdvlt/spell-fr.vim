@@ -9,6 +9,9 @@ spl=$(name).utf-8.spl
 #
 # 2. noprefix 
 # (pas de préfixes scientifques: la liste se trouve dans le fichier prefixes-scientifiques.dic)
+#
+# 3. morph
+# incompatible avec vim: décommente les annotations morphologiques et grammaticales.
 
 cp_nvim: $(spl)
 	# copie le fichier compilé (.spl) dans le dossier 'spell' de neovim
@@ -32,6 +35,11 @@ ifdef noprefix
 else
 	@cat prefixes/*.dic >> $(name).dic
 endif
+ifdef morph
+	@./scripts/decommenter.sh $(name).dic
+else
+	@./scripts/enlever-commentaires.sh
+endif
 	sort < $(name).dic | uniq | sponge $(name).dic 
 	./scripts/header-number.sh $(name).dic
 
@@ -41,6 +49,9 @@ $(name).aff:
 		affixes/non-verbs.aff \
 		affixes/verbs.aff \
 		> $(name).aff
+ifdef morph
+	@./scripts/decommenter $(name).aff
+endif
 
 clean:
 	rm -f $(spl) $(name).dic $(name).aff
