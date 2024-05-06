@@ -13,131 +13,136 @@ SFX _x il ux/ ail
 
 # aut -rice -eur -eurice
 SFX ri Y 4
-SFX ri 0 rice/_s .
-SFX ri 0 eur/_s .
-SFX ri 0 eurice/_s .
-SFX ri 0 euricex/_s .
+SFX ri eur·rice rice/_s .
+SFX ri eur·rice eur/_s .
+SFX ri eur·rice eurice/_s .
+SFX ri eur·rice euricex/_s .
 
-# accordeu -r -se
+# accordeu -r -se -eureuse -exes
 SFX rs Y 5
-SFX rs 0 r/_s .
-SFX rs 0 se/_s .
-SFX rs 0 reuse/_s .
-SFX rs 0 reusex/_s .
-SFX rs 0 xes/_s .
+SFX rs eur·euse r/_s .
+SFX rs eur·euse se/_s .
+SFX rs eur·euse reuse/_s .
+SFX rs eur·euse reusex/_s .
+SFX rs eur·euse xes/_s .
 
 # foresti -ère -er
 SFX rr Y 2
-SFX rr 0 ère/_s .
-SFX rr 0 er/_s .
+SFX rr er·ère ère/_s .
+SFX rr er·ère er/_s .
 
 # frauduleu -x -se
 SFX xz Y 2
-SFX xz 0 x .
-SFX xz 0 se/_s .
+SFX xz eux·euse x .
+SFX xz eux·euse se/_s .
 
 # vi -ive -f
 SFX fv Y 2
-SFX fv 0 f/_s .
-SFX fv 0 ve/_s .
+SFX fv f·ve f/_s .
+SFX fv f·ve ve/_s .
 
 # aigu, aigüe
 SFX ue Y 2
-SFX ue 0 u/_s .
-SFX ue 0 üe/_s .
+SFX ue u·ue u/_s .
+SFX ue u·ue üe/_s .
 
 # be -au, be -lle, tourtere -au -lle
 SFX la Y 5
-SFX la 0 au .
-SFX la 0 aux .
-SFX la 0 lle/_s .
-SFX la 0 lleau .
-SFX la 0 lleaux .
+SFX la eau·elle au .
+SFX la eau·elle aux .
+SFX la eau·elle lle/_s .
+SFX la eau·elle lleau .
+SFX la eau·elle lleaux .
 
 # po -étesse, -ète
 SFX ee Y 2
-SFX ee 0 ète/_s .
-SFX ee 0 étesse/_s .
+SFX ee ète·esse ète/_s .
+SFX ee ète·esse étesse/_s .
 
 # dou -x -ce
 SFX xc Y 2
-SFX xc 0 x .
-SFX xc 0 ce .
+SFX xc x·ce x .
+SFX xc x·ce ce .
 
 # rou -sse, -x, fau -x -sse
 SFX xs Y 2
-SFX xs 0 x .
-SFX xs 0 sse .
+SFX xs x·sse x .
+SFX xs x·sse sse .
 
 # vie -ux -iel - ielle
 SFX xl Y 3
-SFX xl 0 ux .
-SFX xl 0 iel/s .
-SFX xl 0 ielle/s .
+SFX xl eux·eille ux .
+SFX xl eux·eille iel/s .
+SFX xl eux·eille ielle/s .
 
 # br -ève -ef
 SFX ev Y 2
-SFX ev 0 f/_s .
-SFX ev 0 ève/_s .
+SFX ev ef·ève f/_s .
+SFX ev ef·ève ève/_s .
 
 # s -ec -èche
 SFX ec Y 2
-SFX ec 0 ec/_s .
-SFX ec 0 èche/_s .
+SFX ec ec·èche ec/_s .
+SFX ec ec·èche èche/_s .
 
 # enseignant -e
 SFX _e Y 4
-SFX _e 0 /_s .
-SFX _e 0 e/_s .
-SFX _e 0 xe/_s .
-SFX _e 0 ex/_s .
+SFX _e ·e /_s .
+SFX _e ·e e/_s .
+SFX _e ·e xe/_s .
+SFX _e ·e ex/_s .
 
 # compl -ète -et
 SFX et Y 2
-SFX et 0 et/_s .
-SFX et 0 ète/_s .
+SFX et et·ète et/_s .
+SFX et et·ète ète/_s .
 
 # -ène -en
 SFX en Y 3
-SFX en 0 /_s .
-SFX en 0 en/_s .
-SFX en 0 ène/_s .
+SFX en en·ène /_s .
+SFX en en·ène en/_s .
+SFX en en·ène ène/_s .
 
 # publi -c -que
 SFX qc Y 2
-SFX qc 0 c/_s .
-SFX qc 0 que/_s .
+SFX qc c·que c/_s .
+SFX qc c·que que/_s .
 
 # long -ue 
 SFX gu Y 2
-SFX gu 0 /_s .
-SFX gu 0 ue/_s .
+SFX gu ·ue /_s .
+SFX gu ·ue ue/_s .
 
 # global, globale, globales, globaux (!=cheval, chevaux)
 SFX al Y 3
-SFX al 0 l .
-SFX al 0 ux .
-SFX al 0 le/_s .
+SFX al l·e l .
+SFX al l·e ux .
+SFX al l·e le/_s .
 
 # les féminins qui double la dernière consonne
-SFX ll Y 6
+SFX ll Y 11
 SFX ll 0 /_s .
-SFX ll 0 fe/_s f
-SFX ll 0 le/_s l
-SFX ll 0 ne/_s n
-SFX ll 0 se/_s s
-SFX ll 0 te/_s t
+SFX ll ·fe fe/_s f·fe
+SFX ll ·le le/_s l·le
+SFX ll ·ne ne/_s n·ne
+SFX ll ·se se/_s s·se
+SFX ll ·te te/_s t·te
+SFX ll ·fe /_s f·fe
+SFX ll ·le /_s l·le
+SFX ll ·ne /_s n·ne
+SFX ll ·se /_s s·se
+SFX ll ·te /_s t·te
 
 # prêtre -sse
 SFX ss Y 2
-SFX ss 0 /_s .
-SFX ss 0 sse/_s .
+SFX ss ·sse /_s .
+SFX ss ·sse sse/_s .
 
 # fo -l -lle -u
 SFX lu Y 3
-SFX lu 0 l/_s .
-SFX lu 0 lle/_s .
-SFX lu 0 u/_s .
+SFX lu ou·lle l/_s .
+SFX lu ou·lle lle/_s .
+SFX lu ou·lle u/_s .
 
 # mots anglais: cramberry, cramberri -es, sandwich -es
 SFX GB Y 3
