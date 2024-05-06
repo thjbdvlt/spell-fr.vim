@@ -3,8 +3,8 @@
 # récupérer et modifier les dictionnaires de hunspell (ceux, en fait, de grammalecte), ils sont très complets (ça me semble être un travail assez formidable), et moyennant quelques modifications, ils sont tout à fait utilisables pour vim.
 d=$(git root)/hunspell
 if ! [ -d "$d" ];then mkdir -p "$d"; fi
-aff=$d/copied.aff
-dic=$d/copied.dic
+aff=$d/fr.aff
+dic=$d/fr.dic
 
 # copier les fichiers depuis hunpsell (chez moi c'est juste des alias).
 # cp /usr/share/myspell/dicts/fr_CH.aff $aff

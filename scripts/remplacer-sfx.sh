@@ -2,9 +2,9 @@
 
 # modifie le fichier .dic provenant de hunspell et l'ajuste aux affixes que j'ai définis pour pouvoir prendre en compte diverses formes d'écriture inclusive.
 
-f=$(git root)/words/most.dic
+f=$(git root)/words/words.dic
 
-cp $(git root)/hunspell/copied.dic $f
+cp $(git root)/hunspell/fr.dic $f
 
 # plutôt qu'un seul affixe pour toutes les formes du féminin, je fais un affixe pour chaque forme
 
