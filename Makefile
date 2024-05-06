@@ -38,7 +38,7 @@ endif
 ifdef morph
 	@./scripts/decommenter.sh $(name).dic
 else
-	@./scripts/enlever-commentaires.sh
+	@./scripts/enlever-commentaires.sh $(name).dic
 endif
 	sort < $(name).dic | uniq | sponge $(name).dic 
 	./scripts/header-number.sh $(name).dic
@@ -51,6 +51,8 @@ $(name).aff:
 		> $(name).aff
 ifdef morph
 	@./scripts/decommenter.sh $(name).aff
+else
+	@./scripts/enlever-commentaires.sh $(name).aff
 endif
 
 clean:
