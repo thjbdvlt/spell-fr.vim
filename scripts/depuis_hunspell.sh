@@ -152,13 +152,16 @@ sed -i -E -e 's/po:loc\./po:/g' \
     -e 's/po:patr\S*/po:part/g' \
     -e 's/po:pfx\S*/po:part/g' \
     -e 's/po:pre(p|verb)\S*/po:adp/g' \
-    -e 's/po:(\d\S+)/is:\1/g' \
+    -e 's/po:([0-9]\S+)/is:\1/g' \
     -e 's/po:titr/po:pro/g' \
     -e 's/po:sign//g' \
     $dic
 
 # modifie les attribut `po` dans le fichier .aff, comme il s'agit essentiellement d'indications de temps verbaux et de personnes, je déplace en `is` (inflectionnal suffix), car il me semble que cela ne relève pas du part-of-speech.
 sed -i -E -e 's/po:/is:/g' $aff
+
+# j'utilise un script extérieur écrit en python pour enlever les doublons dans les informations morphologiques, car avec les changements dans les `po:...` que j'ai fait, il y en a pas mal.
+python3 ${root}/scripts/remove_repeated_pos.py
 
 # une fois cela fait, je déplace le fichier .dic vers ../words/words.dic, car la compilation se fait à partir des fichiers qui se trouve dans ce dossier. le fichier .aff doit en revanche être édité manuellement et partiellement réécrit. 
 cp $dic ${root}/words/words.dic
