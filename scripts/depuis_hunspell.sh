@@ -63,3 +63,10 @@ sed -E -i 's/^(SFX \S+ \S+ \S+ \S+) (.*$)/\1 # \2/' $aff
 
 # s'il manque le '/' et qu'ensuite il y a un commentaire, alors la ligne est discard. il faut donc les ajouter.
 sed -E -i 's|^(\w+) |\1/ |' $dic
+
+s=$(git rev-parse --show-toplevel)/scripts
+# utiliser le script qui modifie les affixes dans le fichier .dic (essentiellement pour les suffixes féminin/masculin et l'écriture inclusive).
+${s}/remplacer-sfx.sh
+# utiliser les deux scripts qui remplacent les part-of-speech (où les autres informations qui sont placées dans l'attributs `po:`) par des POS tags standardisés (upos).
+${s}/vers-upos.sh $dic
+${s}/po-to-is-aff.sh $aff
