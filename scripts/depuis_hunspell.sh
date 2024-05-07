@@ -159,3 +159,6 @@ sed -i -E -e 's/po:loc\./po:/g' \
 
 # modifie les attribut `po` dans le fichier .aff, comme il s'agit essentiellement d'indications de temps verbaux et de personnes, je déplace en `is` (inflectionnal suffix), car il me semble que cela ne relève pas du part-of-speech.
 sed -i -E -e 's/po:/is:/g' $aff
+
+# une fois cela fait, je déplace le fichier .dic vers ../words/words.dic, car la compilation se fait à partir des fichiers qui se trouve dans ce dossier. le fichier .aff doit en revanche être édité manuellement et partiellement réécrit. 
+cp $dic ${root}/words/words.dic
