@@ -77,68 +77,69 @@ sed -E -i 's/^(SFX \S+ \S+ \S+ \S+) (.*$)/\1 # \2/' $aff
 sed -E -i 's|^(\w+) |\1/ |' $dic
 
 ### modifications des flags du dic, accordément aux modifications que j'écris (manuellement) dans la définitions des affixes (essentiellement pour une meilleure prise en compte de l'écriture inclusive).
-# auteur·rice
-sed -E -i "s;eur/(Fc|Gc|F\.Gc);eur·rice/ri;" $dic
-# vif·ive, sauf·ve
-sed -E -i "s|([iïu])f/F\.|\1f·ve/fv|" $dic
-# aigu·ue
-sed -E -i "s|gu/Fx|gu·ue/ue|" $dic
-# accordeur·euse
-sed -E -i "s|eur/Fs|eur·euse/rs|" $dic
-# poète·sse, prophète·sse
-sed -E -i "s|ète/F\.|ète·sse/ee|" $dic
-# bref·ève
-sed -E -i "s|ef/F\.|ef·ève/ev|" $dic
-# forestier·ère
-sed -E -i "s|er/F\.|er·ère/rr|" $dic
-# public·que
-sed -E -i "s|c/F\.|c·que/qc|" $dic
-# incomplet·ète
-sed -E -i "s|et/F\.|et·ète/et|" $dic
-# ...en·ène
-sed -E -i "s|en/F\.|en·ène/en|" $dic
-# cramberry, berries
-sed -E -i "s;(y|sh|man|x)/A\.;\1/GB;" $dic
-# une exception avant la suite: sec·èche
-sed -E -i "s,^sec/.*,sec·èche/ec," $dic
-# long·ue
-sed -E -i "s|g/F\.|g·ue/gu|" $dic
-# les autres féminin avec le flag "F." deviennent la forme avec un "e" à la fin: enseignant·e, zurichois·e, vrai·e. important: ne pas faire avant les traitement spéciaux comme "forestier·ère".
-sed -E -i "s@/F\.@·e/_e@" $dic
-# les féminins qui double la dernière consonne
-sed -E -i "s@([flnst])/F\+@\1·\1e/ll@" $dic
-# les féminins qui ajoute -sse (prêtre·sse)
-sed -E -i "s@e/F\+@e·sse/ss@" $dic
-# fou·olle
-sed -E -i "s@([mf]o)u/F\+@\1u·olle/lu@" $dic
-# frauduleux·euse
-sed -E -i "s|([eo]u)x/W\.|\1x·euse/xz|" $dic
-# global·e
-sed -E -i "s|al/W\.|al·e/al|" $dic
-# tourtereau·elle
-sed -E -i "s|eau/W\.|eau·elle/la|" $dic
-# beau
-sed -E -i "s|eau/Wx|eau·elle/la|" $dic
-# doux·ce
-sed -E -i "s|^doux/Wx|doux·ce/xc|" $dic
-# roux·sse
-sed -E -i "s@^(dou|fau)x/Wx@\1x·sse/xs@" $dic
-# vieux·eille
-sed -E -i "s|^vieux/Wx|vieux·eille/xl|" $dic
-# taximan
-sed -E -i "s|man/A\.|man/GB|" $dic
-# flag "Gs": les féminin en ·e sur un mot en ·eur. j'enlève car c'est similaire à des suffixes déjà définis.
-sed -E -i "s|Gs||" $dic
-# renommer quelques suffixes pour adopter une autre terminologie.
-sed -i -E 's/S\./_s/g' $dic
-sed -i -E 's/X\./_x/g' $dic
-sed -i -E 's/I\./LT/g' $dic
+# dans l'ordre: (l'ordre est important pour certains)
+# - auteur·rice
+# - vif·ive, sauf·ve
+# - aigu·ue
+# - accordeur·euse
+# - poète·sse, prophète·sse
+# - bref·ève
+# - forestier·ère
+# - public·que
+# - incomplet·ète
+# - ...en·ène
+# - cramberry, berries
+# - une exception avant la suite: sec·èche
+# - long·ue
+# - les autres féminin avec le flag "F." deviennent la forme avec un "e" à la fin: enseignant·e, zurichois·e, vrai·e. important: ne pas faire avant les traitement spéciaux comme "forestier·ère".
+# - les féminins qui double la dernière consonne
+# - les féminins qui ajoute -sse (prêtre·sse)
+# - fou·olle
+# - frauduleux·euse
+# - global·e
+# - tourtereau·elle
+# - beau
+# - doux·ce
+# - roux·sse
+# - vieux·eille
+# - taximan
+# - flag "Gs": les féminin en ·e sur un mot en ·eur. j'enlève car c'est similaire à des suffixes déjà définis.
+# - renommer quelques suffixes pour adopter une autre terminologie.
+sed -E -i -e "s;eur/(Fc|Gc|F\.Gc);eur·rice/ri;" \
+    -e "s|([iïu])f/F\.|\1f·ve/fv|" \
+    -e "s|gu/Fx|gu·ue/ue|" \
+    -e "s|eur/Fs|eur·euse/rs|" \
+    -e "s|ète/F\.|ète·sse/ee|" \
+    -e "s|ef/F\.|ef·ève/ev|" \
+    -e "s|er/F\.|er·ère/rr|" \
+    -e "s|c/F\.|c·que/qc|" \
+    -e "s|et/F\.|et·ète/et|" \
+    -e "s|en/F\.|en·ène/en|" \
+    -e "s;(y|sh|man|x)/A\.;\1/GB;" \
+    -e "s,^sec/.*,sec·èche/ec," \
+    -e "s|g/F\.|g·ue/gu|" \
+    -e "s@/F\.@·e/_e@" \
+    -e "s@([flnst])/F\+@\1·\1e/ll@" \
+    -e "s@e/F\+@e·sse/ss@" \
+    -e "s@([mf]o)u/F\+@\1u·olle/lu@" \
+    -e "s|([eo]u)x/W\.|\1x·euse/xz|" \
+    -e "s|al/W\.|al·e/al|" \
+    -e "s|eau/W\.|eau·elle/la|" \
+    -e "s|eau/Wx|eau·elle/la|" \
+    -e "s|^doux/Wx|doux·ce/xc|" \
+    -e "s@^(dou|fau)x/Wx@\1x·sse/xs@" \
+    -e "s|^vieux/Wx|vieux·eille/xl|" \
+    -e "s|man/A\.|man/GB|" \
+    -e "s|Gs||" \
+    -e 's/S\./_s/g' \
+    -e 's/X\./_x/g' \
+    -e 's/I\./LT/g' $dic
 
 # modifie les attributs `po` (part-of-speech) dans le fichier .dic pour les faire correspondre au standard upos.
 # (un seul truc qui ne change pas: po:adj)
 sed -i -E -e 's/po:loc\./po:/g' \
     -e 's/po:nom\S*/po:noun/g' \
-    -e 's/po:ponc/po:punct/g' \
+    -e 's/po:(sign|ponc|div)/po:punct/g' \
     -e 's/po:pro\S*/po:pron/g' \
     -e 's/po:(sg|epi|mg)//g' \
     -e 's/po:nb/po:num/g' \
@@ -153,8 +154,7 @@ sed -i -E -e 's/po:loc\./po:/g' \
     -e 's/po:pfx\S*/po:part/g' \
     -e 's/po:pre(p|verb)\S*/po:adp/g' \
     -e 's/po:([0-9]\S+)/is:\1/g' \
-    -e 's/po:titr/po:pro/g' \
-    -e 's/po:sign//g' \
+    -e 's/po:titr/po:pron/g' \
     $dic
 
 # modifie les attribut `po` dans le fichier .aff, comme il s'agit essentiellement d'indications de temps verbaux et de personnes, je déplace en `is` (inflectionnal suffix), car il me semble que cela ne relève pas du part-of-speech.
