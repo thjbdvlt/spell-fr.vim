@@ -1,5 +1,5 @@
 - # po:punct
-_/ # po:div
+_/ # po:punct
 a/ # po:noun is:mas is:inv
 à/ # po:adp
 ab/ # po:adv
@@ -21356,7 +21356,7 @@ dock/_s # po:noun is:mas
 docker/_s # po:noun is:epi
 docte/_s # po:adj is:epi
 doctement/ # po:adv
-docteur·e/_eGo # po:pro po:noun
+docteur·e/_eGo # po:pron po:noun
 doctissime/_s # po:adj is:epi
 doctoral·e/al # po:adj
 doctoralement/ # po:adv
@@ -21485,7 +21485,7 @@ domptage/_s # po:noun is:mas
 dompter/a0p+ # po:verb
 dompteur·euse/rs # po:noun po:adj
 don/_s # po:noun is:mas
-doña/_s # po:pro po:noun is:fem
+doña/_s # po:pron po:noun is:fem
 donacie/_s # po:noun is:fem
 donataire/_s # po:noun is:epi
 donateur·rice/ri # po:noun
@@ -40017,14 +40017,14 @@ maculature/_s # po:noun is:fem
 macule/_s # po:noun is:fem
 maculer/a0p+ # po:verb
 macumba/_s # po:noun is:fem
-madame/_s # po:pro po:noun is:fem
+madame/_s # po:pron po:noun is:fem
 madapolam/_s # po:noun is:mas
 made/ # po:adj is:inv is:epi
 madécasse/_s # po:noun is:fem
 madéfier/a0p+ # po:verb
 madeleine/_s # po:noun is:fem
 madelonnette/_s # po:noun is:fem
-mademoiselle/ # po:pro po:noun is:sg is:fem
+mademoiselle/ # po:pron po:noun is:sg is:fem
 madère/_s # po:noun is:mas
 madériser/a0p+ # po:verb
 madison/_s # po:noun is:mas
@@ -40247,8 +40247,8 @@ maisonnerie/_s # po:noun is:fem
 maisonnette/_s # po:noun is:fem
 maistrance/_s # po:noun is:fem
 maïthili/_s # po:noun is:mas
-maitre·sse/ss # po:pro po:noun po:adj
-maître·sse/ss # po:pro po:noun po:adj
+maitre·sse/ss # po:pron po:noun po:adj
+maître·sse/ss # po:pron po:noun po:adj
 maitrisable/_s # po:adj is:epi
 maîtrisable/_s # po:adj is:epi
 maitrise/_s # po:noun is:fem
@@ -40463,7 +40463,7 @@ malvoyant·e/_e # po:noun po:adj
 malware/_s # po:noun is:mas
 mama/_s # po:noun is:fem
 mamamouchi/_s # po:noun is:mas
-maman/_s # po:pro po:noun is:fem
+maman/_s # po:pron po:noun is:fem
 mamba/_s # po:noun is:mas
 mambo/_s # po:noun is:mas
 mamelle/_s # po:noun is:fem
@@ -41903,9 +41903,9 @@ mescal/_s # po:noun is:mas
 mescaline/_s # po:noun is:fem
 mesclun/_s # po:noun is:mas
 mesdames/ # po:noun is:pl is:fem
-mesdames/ # po:pro is:pl is:fem
+mesdames/ # po:pron is:pl is:fem
 mesdemoiselles/ # po:noun is:pl is:fem
-mesdemoiselles/ # po:pro is:pl is:fem
+mesdemoiselles/ # po:pron is:pl is:fem
 mésemploi/_s # po:noun is:mas
 mésencéphale/_s # po:noun is:mas
 mésencéphalique/_s # po:adj is:epi
@@ -41978,7 +41978,7 @@ messager·ère/rr # po:noun
 messagerie/_s # po:noun is:fem
 messe/_s # po:noun is:fem
 messeigneurs/ # po:noun is:pl is:mas
-messeigneurs/ # po:pro is:pl is:mas
+messeigneurs/ # po:pron is:pl is:mas
 messeoir/pW # po:verb
 messer/_s # po:noun is:mas
 messianique/_s # po:adj is:epi
@@ -41990,9 +41990,9 @@ messidor/_s # po:noun is:mas
 messie/_s # po:noun is:epi
 messier/_s # po:noun is:mas
 messieurs/ # po:noun is:pl is:mas
-messieurs/ # po:pro is:pl is:mas
+messieurs/ # po:pron is:pl is:mas
 messin·e/_e # po:noun po:adj
-messire/_s # po:pro po:noun is:mas
+messire/_s # po:pron po:noun is:mas
 messoir/pW # po:verb
 mestrance/_s # po:noun is:fem
 mestre/_s # po:noun is:epi
@@ -42549,7 +42549,7 @@ mijoteuse/_s # po:noun is:fem
 mikado/_s # po:noun is:mas
 mil/ # po:num is:pl is:epi
 mil/_s # po:noun is:mas
-milady/GB # po:pro po:noun is:fem
+milady/GB # po:pron po:noun is:fem
 milan/_s # po:noun is:mas
 milanais·e/_e # po:noun po:adj
 mildiou/_s # po:noun is:mas
@@ -43407,8 +43407,8 @@ monoxyde/_s # po:noun is:mas
 monoxyle/_s # po:adj is:epi
 monozygote/_s # po:noun po:adj is:epi
 monseigneur/ # po:noun is:sg is:mas
-monseigneur/ # po:pro is:sg is:mas
-monsieur/ # po:pro po:noun is:sg is:mas
+monseigneur/ # po:pron is:sg is:mas
+monsieur/ # po:pron po:noun is:sg is:mas
 monsignor/_s # po:noun is:mas
 monsignore/LT # po:noun is:mas
 monstrance/_s # po:noun is:fem
@@ -43624,7 +43624,7 @@ mosellan·e/_e # po:noun po:adj
 mosette/_s # po:noun is:fem
 mosquée/_s # po:noun is:fem
 mossi/_s # po:noun po:adj is:epi
-môssieur/ # po:pro po:noun is:sg is:mas
+môssieur/ # po:pron po:noun is:sg is:mas
 mostelle/_s # po:noun is:fem
 mot/_s # po:noun is:mas
 motacillidé/_s # po:noun is:mas
@@ -47820,7 +47820,7 @@ panzer/_s # po:noun is:mas
 panzootie/_s # po:noun is:fem
 paon·ne/ll # po:noun
 paonneau/_x # po:noun is:mas
-papa/_s # po:pro po:noun is:mas
+papa/_s # po:pron po:noun is:mas
 papabile/_s # po:noun po:adj is:mas
 papable/_s # po:adj is:epi
 papaïne/_s # po:noun is:fem
@@ -53099,7 +53099,7 @@ profération/_s # po:noun is:fem
 proférer/c0p+ # po:verb
 professant·e/_e # po:noun po:adj
 professer/a0p+ # po:verb
-professeur·e/_e # po:pro po:noun
+professeur·e/_e # po:pron po:noun
 profession/_s # po:noun is:fem
 professionnalisant·e/_e # po:adj
 professionnalisation/_s # po:noun is:fem
@@ -60055,7 +60055,7 @@ séguidilla/_s # po:noun is:fem
 seiche/_s # po:noun is:fem
 séide/_s # po:noun is:epi
 seigle/_s # po:noun is:mas
-seigneur/_s # po:pro po:noun is:mas
+seigneur/_s # po:pron po:noun is:mas
 seigneuresse/_s # po:noun is:fem
 seigneuriage/_s # po:noun is:mas
 seigneurial·e/al # po:adj
@@ -60233,13 +60233,13 @@ sénior·e/_e # po:noun po:adj
 senior/_s # po:noun po:adj is:epi
 séniorie/_s # po:noun is:fem
 séniorisation/_s # po:noun is:fem
-séniorita/_s # po:pro po:noun is:fem
+séniorita/_s # po:pron po:noun is:fem
 séniorité/_s # po:noun is:fem
 senne/_s # po:noun is:fem
 sénologie/_s # po:noun is:fem
-señor/_s # po:pro po:noun is:mas
-señora/_s # po:pro po:noun is:fem
-señorita/_s # po:pro po:noun is:fem
+señor/_s # po:pron po:noun is:mas
+señora/_s # po:pron po:noun is:fem
+señorita/_s # po:pron po:noun is:fem
 sens/ # po:noun is:mas is:inv
 sensass/ # po:adj is:inv is:epi
 sensation/_s # po:noun is:fem
