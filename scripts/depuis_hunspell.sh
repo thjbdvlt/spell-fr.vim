@@ -145,14 +145,14 @@ sed -i -E -e 's/po:loc\./po:/g' \
     -e 's/po:(cjsub|cj)\S*/po:sconj/g' \
     -e 's/po:(cjco|cj)\S*/po:cconj/g' \
     -e 's/po:det\S*/po:det/g' \
-    -e 's/po:adv\S*/po:adv/g' \
+    -e 's/po:(neg)?adv\S*/po:adv/g' \
     -e 's/po:v\S*/po:verb/g' \
     -e 's/po:inf\S*//g' \
     -e 's/po:interj/po:intj/g' \
     -e 's/po:patr\S*/po:part/g' \
     -e 's/po:pfx\S*/po:part/g' \
-    -e 's/po:preverb/po:adp/g' \
-    -e 's/po:(\d\S*)/is:\1/g' \
+    -e 's/po:pre(p|verb)\S*/po:adp/g' \
+    -e 's/po:(\d\S+)/is:\1/g' \
     -e 's/po:titr/po:pro/g' \
     -e 's/po:sign//g' \
     $dic
