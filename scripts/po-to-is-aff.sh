@@ -13,4 +13,4 @@ then
     exit 1
 fi
 
-sed -i -E -e 's/po:'
+sed -i -E -e 's/po:/is:/g' "$file"
