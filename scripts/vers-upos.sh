@@ -7,7 +7,7 @@ file="$1"
 if ! [ -f "$file" ];then echo "no file, exit."; exit 1; fi
 
 # (un seul truc qui ne change pas: po:adj)
-sed -E -e 's/po:loc\./po:/g' \
+sed -i -E -e 's/po:loc\./po:/g' \
     -e 's/po:nom\S*/po:noun/g' \
     -e 's/po:ponc/po:punct/g' \
     -e 's/po:pro\S*/po:pron/g' \
@@ -24,4 +24,6 @@ sed -E -e 's/po:loc\./po:/g' \
     -e 's/po:pfx\S*/po:part/g' \
     -e 's/po:preverb/po:adp/g' \
     -e 's/po:(\d\S*)/is:\1/g' \
+    -e 's/po:titr/po:pro/g' \
+    -e 's/po:sign//g' \
     "$file"

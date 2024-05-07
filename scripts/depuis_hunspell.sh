@@ -19,6 +19,7 @@ egrep -v "^[^/]+-" $dic | \
     rg -v "\|\|" | \
     rg -v "\-\-" | \
     rg -v '^[\w]*\d' | \
+    rg -v 'po:npr' | \
     sponge $dic
 
 # enlever certaines lignes entières de features non-supportées par vim. les apostrophes et tirets de la liste des caractères qui font partie des mots.
