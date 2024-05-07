@@ -1,6 +1,7 @@
 lang=fr
 name=st
 spl=$(name).utf-8.spl
+spelldir=~/.config/nvim/spell
 
 # options: `make [rules] noexcept=1 noprefix=1 morph=1`
 #
@@ -13,27 +14,36 @@ spl=$(name).utf-8.spl
 # `morph`
 # incompatible avec vim: décommente les annotations morphologiques et grammaticales. comme cette option est incompatible avec vim, il faut l'utiliser en précisant une commande: `make concat morph=1`.
 
-cp_nvim: $(spl)
+all:
 	# copie le fichier compilé (.spl) dans le dossier 'spell' de neovim
-	cp $(spl) \
-		~/.config/nvim/spell/$(lang).utf-8.spl
+ifdef morph
+	# avec l'option morph, pas de compilation: uniquement la concaténation.
+	make concat
+else
+	# sans l'option morph, compiler le fichier et ensuite le placer dans le dossier 'spell' de neovim.
+	make cp_file
+endif
+
+cp_file: $(spl)
+	# copier le fichier compiler dans le dossier de spell.
+	cp $(spl) $(spelldir)/$(lang).utf-8.spl
 
 concat: $(name).dic $(name).aff
+	# concaténation des fichiers *.dic et *.aff
 
 $(spl): $(name).dic $(name).aff
-	# compiler avec neovim, puis quitter lorsque c'est fait
+	# compilation avec vim
 	vim -c "mkspell! $(name)" -c "q"
 
 $(name).dic:
-	@cat words/*.dic > $(name).dic
 	# concaténer les dictionnaires.
+	# c'est ici que s'applique la plupart des options, qui servent à inclure ou exclure certains types d'objets lexicaux, par exemple les préfixes.
+	@cat words/*.dic > $(name).dic
 ifdef noexcept
-	@echo "no exceptions"
 else
 	@cat exceptions/*.dic >> $(name).dic
 endif
 ifdef noprefix
-	@echo "no prefix"
 else
 	@cat prefixes/*.dic >> $(name).dic
 endif
@@ -52,8 +62,10 @@ $(name).aff:
 		affixes/verbs.aff \
 		> $(name).aff
 ifdef morph
+	# dé-commenter les informations morphologiques et grammaticales: part-of-speech notamment. comme certaines lignes doivent rester des commentaires, j'utilise pour çâ un script spécial (même s'il est extrêmement simpe). (ce qui évite de devoir escape les caractères.)
 	@./scripts/decommenter.sh $(name).aff
 else
+	# enlever les commentaires pour accélerer la lecture du fichier pendant la compilation.
 	@./scripts/enlever-commentaires.sh $(name).aff
 endif
 
