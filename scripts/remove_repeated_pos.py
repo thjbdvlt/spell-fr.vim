@@ -8,7 +8,7 @@ par exemple:
 
 def enlever_doublons(line):
     word, comment = line.split("#")
-    annotations = " ".join(set(comment.split()))
+    annotations = " ".join(sorted(set(comment.split()), reverse=True))
     return f"{word.strip()} # {annotations.strip()}"
 
 
@@ -16,11 +16,10 @@ if __name__ == "__main__":
     import sys
 
     try:
-        filepath = sys.argv[0]
+        filepath = sys.argv[1]
     except IndexError:
         print("need an argument: filepath.")
 
-    filepath = "../hunspell/fr_st.dic"
     with open(filepath, "r") as f:
         c = f.readlines()
 

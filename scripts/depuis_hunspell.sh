@@ -161,7 +161,7 @@ sed -i -E -e 's/po:loc\./po:/g' \
 sed -i -E -e 's/po:/is:/g' $aff
 
 # j'utilise un script extérieur écrit en python pour enlever les doublons dans les informations morphologiques, car avec les changements dans les `po:...` que j'ai fait, il y en a pas mal.
-python3 ${root}/scripts/remove_repeated_pos.py
+python3 ${root}/scripts/remove_repeated_pos.py $dic
 
 # une fois cela fait, je déplace le fichier .dic vers ../words/words.dic, car la compilation se fait à partir des fichiers qui se trouve dans ce dossier. le fichier .aff doit en revanche être édité manuellement et partiellement réécrit. 
 cp $dic ${root}/words/words.dic
