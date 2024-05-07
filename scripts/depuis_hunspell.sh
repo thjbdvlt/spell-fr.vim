@@ -1,17 +1,28 @@
 #!/bin/bash
 
 # récupérer et modifier les dictionnaires de hunspell (ceux, en fait, de grammalecte), ils sont très complets (ça me semble être un travail assez formidable), et moyennant quelques modifications, ils sont tout à fait utilisables pour vim.
-d=$(git root)/hunspell
-if ! [ -d "$d" ];then mkdir -p "$d"; fi
-aff=$d/fr.aff
-dic=$d/fr.dic
 
-# copier les fichiers depuis hunpsell (chez moi c'est juste des alias).
-# cp /usr/share/myspell/dicts/fr_CH.aff $aff
-# cp /usr/share/myspell/dicts/fr_CH.dic $dic
+suffname=_st
 
-cp /usr/share/hunspell/fr.aff $aff
-cp /usr/share/hunspell/fr.dic $dic
+root=$(git rev-parse --show-toplevel)
+copydir=${root}/hunspell
+
+# créer le dossier s'il n'existe pas, et copier les fichiers depuis hunspell s'ils n'existent pas déjà. et faire une seconde copie qui est celle que je modifie (comme ça je garde toujours une copie des fichiers non-modifié de hunspell).
+if ! [ -d ${copydir} ];then mkdir -p "$d"; fi
+for i in dic aff;do
+    copyfp=${copydir}/fr.${i}
+    fp=${copydir}/fr${suffname}.${i}
+    if ! [ -f "$fp" ];then
+        cp /usr/share/hunspell/fr.${i} ${copyfp}
+    fi
+    cp $copyfp $fp
+done
+
+# les deux fichiers que je vais modifier.
+dic=${copydir}/fr${suffname}.dic
+aff=${copydir}/fr${suffname}.aff
+
+### la première partie du script fait un tri dans les lignes en utilisant grep/rg --invert.
 
 # enlever les mots avec des tirets (car je décide que les tirets coupent les mots), et les mots qui commencent avec des majuscules (les noms propres). enlever aussi les lignes avec "||", qui correspond à KEEPCASE donc plutôt des non-mots (ou noms propres). idem pour "--", c'est NOSUGGEST. c'est des nombres romains et des préfixes, et d'autres trucs qui ne me semble pas vraiment utiles. j'enlève aussi les mots qui contiennent des nombres: les nombres ne sont pas des mots et ça me semble un peu arbitraire d'avoir des marques ou des choses comme ça: à ajouter par les utilisateur·rices.
 egrep -v "^[^/]+-" $dic | \
@@ -35,14 +46,9 @@ rg -v "^TRY " $aff | \
     rg -v "^NOSUGGEST " | \
     sponge $aff
 
+### ensuite, un tri dans les flags.
 # enlever les () qui d'une part pose problème, mais en plus sont de trop avec les modifications que je fais (ça discard des mots essentiels comme "je" ou "nous").
 sed -E -i "s/\(\)//g" $dic
-
-# enlever les espaces en fin de ligne, et les espaces multiples successifs.
-for i in $dic $aff; do
-    sed -E -i 's/ +$//g' $i
-    sed -E -i 's/  +/ /g' $i
-done
 
 # j'enlève tout ce qui concerne les préfixes d'apostrophes: tout comme les tirets, les apostrophes sont ici considérées comme des limites entre des mots (des 'word boundaries' et non des 'word chars').
 rg -v "^PFX (\w+'|Q*|Qj)" $aff | sponge $aff
@@ -51,6 +57,12 @@ rg -v "^PFX (\w+'|Q*|Qj)" $aff | sponge $aff
 rg -v "^[^/]+'.*$" $dic | sponge $dic
 for i in $dic $aff; do
     sed -i -E "s/(\w'|Qj|Q\*)//g" $i
+done
+
+# enlever les espaces en fin de ligne, et les espaces multiples successifs.
+for i in $dic $aff; do
+    sed -E -i 's/ +$//g' $i
+    sed -E -i 's/  +/ /g' $i
 done
 
 # je n'ai pas besoin d'avoir de différences entre S. et S= vu que pas de préfixes. tout va dans "S."
@@ -64,6 +76,7 @@ sed -E -i 's/^(SFX \S+ \S+ \S+ \S+) (.*$)/\1 # \2/' $aff
 # s'il manque le '/' et qu'ensuite il y a un commentaire, alors la ligne est discard. il faut donc les ajouter.
 sed -E -i 's|^(\w+) |\1/ |' $dic
 
+## todo: ici, faire un seul script, plutôt. parce qu'ils sont toujours utilisés ensemble et dans le même ordre: pas de sens à ce qu'ils soint séparés.
 s=$(git rev-parse --show-toplevel)/scripts
 # utiliser le script qui modifie les affixes dans le fichier .dic (essentiellement pour les suffixes féminin/masculin et l'écriture inclusive).
 ${s}/remplacer-sfx.sh
