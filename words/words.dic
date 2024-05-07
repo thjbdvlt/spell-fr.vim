@@ -1,7 +1,7 @@
 -  # po:punct 
 _/  # is:div
 a/  # po:noun is:mas is:inv
-à/  #  po:prep po:prepv
+à/  #  po:adp po:adp
 ab/  # po:adv
 abaca/_s  # po:noun is:mas
 abacule/_s  # po:noun is:mas
@@ -1384,7 +1384,7 @@ affûtoir/_s  # po:noun is:mas
 afghan·e/_e  # po:noun po:adj
 afibrinogénémie/_s  # po:noun is:fem
 aficionado/_s  # po:noun is:mas
-afin/  #  po:prepv po:sconj
+afin/  #  po:adp po:sconj
 aflatoxine/_s  # po:noun is:fem
 afocal·e/al  # po:adj
 africain·e/_e  # po:noun po:adj
@@ -4195,7 +4195,7 @@ apraxie/_s  # po:noun is:fem
 apraxique/_s  # po:noun po:adj is:epi
 âpre/_s  # po:adj is:epi
 âprement/  # po:adv
-après/  #  po:prep
+après/  #  po:adp
 âpreté/_s  # po:noun is:fem
 apriori/_s  # po:noun is:mas
 apriorique/_s  # po:adj is:epi
@@ -5297,7 +5297,7 @@ attendrir/f0p+  # po:verb
 attendrissant·e/_e  # po:adj
 attendrissement/_s  # po:noun is:mas
 attendrisseur/_s  # po:noun is:mas
-attendu/  #  po:prep
+attendu/  #  po:adp
 attendu/_s  # po:noun is:mas
 attentat/_s  # po:noun is:mas
 attentatoire/_s  # po:adj is:epi
@@ -5376,7 +5376,7 @@ attroupement/_s  # po:noun is:mas
 attrouper/a0p+  # po:verb
 atypie/_s  # po:noun is:fem
 atypique/_s  # po:adj is:epi
-au/  #  po:prep is:det is:mas is:sg
+au/  #  po:adp is:det is:mas is:sg
 aubade/_s  # po:noun is:fem
 aubage/_s  # po:noun is:mas
 aubain·e/_e  # po:noun po:adj
@@ -5442,7 +5442,7 @@ audiovidéothèque/_s  # po:noun is:fem
 audiovision/_s  # po:noun is:fem
 audiovisuel·le/ll  # po:adj
 audiovisuel/_s  # po:noun is:mas
-audit/  #  po:prep is:det is:mas is:sg
+audit/  #  po:adp is:det is:mas is:sg
 audit/_s  # po:noun is:mas
 auditer/a0p+  # po:verb
 auditeur·rice/ri  # po:noun
@@ -5488,7 +5488,7 @@ aunage/_s  # po:noun is:mas
 aune/_s  # po:noun is:fem
 auner/a0p+  # po:verb
 auparavant/  # po:adv
-auprès/  #  po:prep
+auprès/  #  po:adp
 auquel/  #  po:pron po:pron is:mas is:sg
 aura/_s  # po:noun is:fem
 aurantiacée/_s  # po:noun is:fem
@@ -5825,7 +5825,7 @@ autotransformateur/_s  # po:noun is:mas
 autotransfusion/_s  # po:noun is:fem
 autotrophe/_s  # po:adj is:epi
 autotrophie/_s  # po:noun is:fem
-autour/  #  po:prep po:adv
+autour/  #  po:adp po:adv
 autour/_s  # po:noun is:mas
 autovaccin/_s  # po:noun is:mas
 autovaccination/_s  # po:noun is:fem
@@ -5839,9 +5839,9 @@ autrui/  #  po:pron
 autunite/_s  # po:noun is:fem
 auvent/_s  # po:noun is:mas
 auvergnat·e/_e  # po:noun po:adj
-aux/  #  po:prep is:det is:epi is:pl st:au
-auxdites/  #  po:prep is:det is:fem is:pl st:audit
-auxdits/  #  po:prep is:det is:mas is:pl st:audit
+aux/  #  po:adp is:det is:epi is:pl st:au
+auxdites/  #  po:adp is:det is:fem is:pl st:audit
+auxdits/  #  po:adp is:det is:mas is:pl st:audit
 auxiliaire/_s  # po:noun po:adj is:epi
 auxiliairement/  # po:adv
 auxiliariat/_s  # po:noun is:mas
@@ -5850,7 +5850,7 @@ auxine/_s  # po:noun is:fem
 auxotrophe/_s  # po:adj is:epi
 auxquelles/  #  po:pron po:pron is:fem is:pl
 auxquels/  #  po:pron po:pron is:mas is:pl
-av/  #  po:prep
+av/  #  po:adp
 avachir/f0p+  # po:verb
 avachissement/_s  # po:noun is:mas
 aval/_s  # po:noun is:mas
@@ -5872,7 +5872,7 @@ avancée/_s  # po:noun is:fem
 avancement/_s  # po:noun is:mas
 avancer/a0p+  # po:verb
 avanie/_s  # po:noun is:fem
-avant/  #  po:prep
+avant/  #  po:adp
 avant/_s  # po:noun is:mas
 avantagé·e/_e  # po:noun
 avantage/_s  # po:noun is:mas
@@ -5889,7 +5889,7 @@ avarie/_s  # po:noun is:fem
 avarier/a0p+  # po:verb
 avatar/_s  # po:noun is:mas
 avé/_s  # po:noun is:mas
-avec/  #  po:prep
+avec/  #  po:adp
 aveindre/wB  # po:verb
 aveline/_s  # po:noun is:fem
 avelinier/_s  # po:noun is:mas
@@ -12259,7 +12259,7 @@ chevrotin/_s  # po:noun is:mas
 chevrotine/_s  # po:noun is:fem
 chewa/_s  # po:noun po:adj is:epi
 cheyenne/_s  # po:noun po:adj is:epi
-chez/  #  po:prep
+chez/  #  po:adp
 chhattisgarhi/_s  # po:noun is:mas
 chi/_s  # po:noun is:mas
 chia/_s  # po:noun is:fem
@@ -14372,7 +14372,7 @@ conceptualiste/_s  # po:noun po:adj is:epi
 conceptualité/_s  # po:noun is:fem
 conceptuel·le/ll  # po:adj
 conceptuellement/  # po:adv
-concernant/  #  po:prep
+concernant/  #  po:adp
 concerné·e/_e  # po:noun po:adj
 concerner/aF  # po:verb
 concert/_s  # po:noun is:mas
@@ -15100,7 +15100,7 @@ contravariant/_s  # po:noun is:mas
 contravention/_s  # po:noun is:fem
 contraventionnel·le/ll  # po:adj
 contravis/  # po:noun is:mas is:inv
-contre/  #  po:prep
+contre/  #  po:adp
 contre/_s  # po:noun is:mas
 contrebalancement/_s  # po:noun is:mas
 contrebalancer/a0p+  # po:verb
@@ -16038,7 +16038,7 @@ courageusement/  # po:adv
 courageux·euse/xz  # po:noun po:adj
 courailler/a0p.  # po:verb
 couramment/  # po:adv
-courant/  #  po:prep
+courant/  #  po:adp
 courant·e/_e  # po:noun po:adj
 courantologie/_s  # po:noun is:fem
 courantomètre/_s  # po:noun is:mas
@@ -17349,7 +17349,7 @@ dangereux·euse/xz  # po:adj
 dangerosité/_s  # po:noun is:fem
 danien·ne/ll  # po:adj
 danois·e/_e  # po:noun po:adj
-dans/  #  po:prep
+dans/  #  po:adp
 dansable/_s  # po:adj is:epi
 dansant·e/_e  # po:adj
 danse/_s  # po:noun is:fem
@@ -17418,7 +17418,7 @@ davantage/  #  po:adv
 davier/_s  # po:noun is:mas
 dazibao/_s  # po:noun is:mas
 de/  #  is:det is:epi is:inv
-de/  #  po:prep po:prepv
+de/  #  po:adp po:adp
 dé/_s  # po:noun is:mas
 déactiver/a0p+  # po:verb
 deal/_s  # po:noun is:mas
@@ -18598,7 +18598,7 @@ déjucher/a0p+  # po:verb
 déjudiciarisation/_s  # po:noun is:fem
 déjudiciariser/a0p+  # po:verb
 déjuger/a0p+  # po:verb
-delà/  #  po:prep
+delà/  #  po:adp
 delà/  # po:adv
 délabialisation/_s  # po:noun is:fem
 délabialiser/a0p+  # po:verb
@@ -19338,7 +19338,7 @@ dépropaniser/a0p+  # po:verb
 déprotéger/c0p+  # po:verb
 dépucelage/_s  # po:noun is:mas
 dépuceler/d0p+  # po:verb
-depuis/  #  po:prep
+depuis/  #  po:adp
 depuis/  # po:adv
 dépulper/a0p+  # po:verb
 dépuratif·ve/fv  # po:adj
@@ -19489,13 +19489,13 @@ déroute/_s  # po:noun is:fem
 déroutement/_s  # po:noun is:mas
 dérouter/a0p+  # po:verb
 derrick/_s  # po:noun is:mas
-derrière/  #  po:prep
+derrière/  #  po:adp
 derrière/  # po:adv
 derrière/_s  # po:noun is:mas
 déruralisation/_s  # po:noun is:fem
 derviche/_s  # po:noun is:epi
 des/  #  is:det is:epi is:pl
-dès/  #  po:prep
+dès/  #  po:adp
 désabonné·e/_e  # po:noun
 désabonnement/_s  # po:noun is:mas
 désabonner/a0p+  # po:verb
@@ -20049,12 +20049,12 @@ dessoudure/_s  # po:noun is:fem
 dessouffler/a0p+  # po:verb
 dessouler/a0p+  # po:verb
 dessoûler/a0p+  # po:verb
-dessous/  #  po:prep po:adv
+dessous/  #  po:adp po:adv
 dessous/  # po:adv
 dessous/  # po:noun is:mas is:inv
 dessuintage/_s  # po:noun is:mas
 dessuinter/a0p+  # po:verb
-dessus/  #  po:prep po:adv
+dessus/  #  po:adp po:adv
 dessus/  # po:adv
 dessus/  # po:noun is:mas is:inv
 déstabilisant·e/_e  # po:adj
@@ -20265,7 +20265,7 @@ dévanagari/_s  # po:noun is:fem
 devancement/_s  # po:noun is:mas
 devancer/a0p+  # po:verb
 devancier·ère/rr  # po:noun
-devant/  #  po:prep po:adv
+devant/  #  po:adp po:adv
 devant/  # po:adv
 devant/_s  # po:noun is:mas
 devanture/_s  # po:noun is:fem
@@ -20298,7 +20298,7 @@ dévernir/f0p+  # po:verb
 dévernissage/_s  # po:noun is:mas
 déverrouillage/_s  # po:noun is:mas
 déverrouiller/a0p+  # po:verb
-devers/  #  po:prep
+devers/  #  po:adp
 dévers·e/_e  # po:noun
 déversement/_s  # po:noun is:mas
 déverser/a0p+  # po:verb
@@ -21323,7 +21323,7 @@ divulsion/_s  # po:noun is:fem
 dix/  # po:num is:epi is:pl
 dixième/_s  # po:noun po:adj is:epi
 dixièmement/  # po:adv
-dixit/  #  po:prep
+dixit/  #  po:adp
 dizain/_s  # po:noun is:mas
 dizaine/_s  # po:noun is:fem
 dizygote/_s  # po:adj is:epi
@@ -21911,7 +21911,7 @@ duraille/_s  # po:adj is:epi
 dural·e/al  # po:adj
 duralumin/_s  # po:noun is:mas
 duramen/_s  # po:noun is:mas
-durant/  #  po:prep
+durant/  #  po:adp
 duratif·ve/fv  # po:adj
 duratif/_s  # po:noun is:mas
 durcir/f0p+  # po:verb
@@ -23607,7 +23607,7 @@ empyreume/_s  # po:noun is:mas
 émulsion/_s  # po:noun is:fem
 émulsionnable/_s  # po:adj is:epi
 émulsionner/a0p+  # po:verb
-en/  #  po:prep
+en/  #  po:adp
 en/  #  po:pron po:adp po:pron
 enamourer/a0p+  # po:verb
 énamourer/a0p+  # po:verb
@@ -23833,7 +23833,7 @@ encyclopédique/_s  # po:adj is:epi
 encyclopédisme/_s  # po:noun is:mas
 encyclopédiste/_s  # po:noun is:epi
 endauber/a0p+  # po:verb
-endéans/  #  po:prep
+endéans/  #  po:adp
 endémicité/_s  # po:noun is:fem
 endémie/_s  # po:noun is:fem
 endémique/_s  # po:adj is:epi
@@ -24455,7 +24455,7 @@ entrave/_s  # po:noun is:fem
 entraver/a0p+  # po:verb
 entravon/_s  # po:noun is:mas
 entraxe/_s  # po:noun is:mas
-entre/  #  po:prep po:prepv
+entre/  #  po:adp po:adp
 entrebâillement/_s  # po:noun is:mas
 entrebâiller/a0p+  # po:verb
 entrebâilleur/_s  # po:noun is:mas
@@ -24577,7 +24577,7 @@ envenimer/a0p+  # po:verb
 enverger/a0p+  # po:verb
 enverguer/a0p+  # po:verb
 envergure/_s  # po:noun is:fem
-envers/  #  po:prep
+envers/  #  po:adp
 envers/  # po:noun is:mas is:inv
 envi/  # po:adv
 enviable/_s  # po:adj is:epi
@@ -25247,7 +25247,7 @@ erseau/_x  # po:noun is:mas
 érythropoïétine/_s  # po:noun is:fem
 érythrose/_s  # po:noun is:fem
 érythrosine/_s  # po:noun is:fem
-ès/  #  po:prep
+ès/  #  po:adp
 esbaudir/f0p+  # po:verb
 esbigner/a0p+  # po:verb
 esbroufe/_s  # po:noun is:epi
@@ -26143,7 +26143,7 @@ excentrer/a0p+  # po:verb
 excentricité/_s  # po:noun is:fem
 excentrique/_s  # po:noun po:adj is:epi
 excentriquement/  # po:adv
-excepté/  #  po:prep po:prepv
+excepté/  #  po:adp po:adp
 excepter/a0p+  # po:verb
 exception/_s  # po:noun is:fem
 exceptionnalisme/_s  # po:noun is:mas
@@ -26705,7 +26705,7 @@ fac/_s  # po:noun is:fem
 façade/_s  # po:noun is:fem
 façadier·ère/rr  # po:noun po:adj
 façadisme/_s  # po:noun is:mas
-face/  #  po:prep
+face/  #  po:adp
 face/_s  # po:noun is:fem
 facétie/_s  # po:noun is:fem
 facétieusement/  # po:adv
@@ -28406,7 +28406,7 @@ fornicateur·rice/ri  # po:noun po:adj
 fornication/_s  # po:noun is:fem
 forniquer/a0p.  # po:verb
 fornix/  # po:noun is:mas is:inv
-fors/  #  po:prep
+fors/  #  po:adp
 forstérite/_s  # po:noun is:fem
 forsythia/_s  # po:noun is:mas
 fort·e/_e  # po:noun po:adj
@@ -30829,7 +30829,7 @@ grabataire/_s  # po:noun po:adj is:epi
 grabatisation/_s  # po:noun is:fem
 graben/_s  # po:noun is:mas
 grabuge/_s  # po:noun is:mas
-grâce/  #  po:prep
+grâce/  #  po:adp
 grâce/_s  # po:noun is:fem
 graciable/_s  # po:adj is:epi
 gracier/a0p+  # po:verb
@@ -32948,7 +32948,7 @@ horloge/_s  # po:noun is:fem
 horloger·ère/rr  # po:noun po:adj
 horlogerie/_s  # po:noun is:fem
 horlogique/_s  # po:adj is:epi
-hormis/  #  po:prep
+hormis/  #  po:adp
 hormonal·e/al  # po:adj
 hormone/_s  # po:noun is:fem
 hormoner/a0p+  # po:verb
@@ -32976,7 +32976,7 @@ horripilant·e/_e  # po:adj
 horripilation/_s  # po:noun is:fem
 horripiler/a0p+  # po:verb
 hors/  # po:adv
-hors/  #  po:prep
+hors/  #  po:adp
 horsain·e/_e  # po:noun po:adj
 horseball/_s  # po:noun is:mas
 horseguard/_s  # po:noun is:mas
@@ -35872,7 +35872,7 @@ instantanéiste/_s  # po:adj is:epi
 instantanéité/_s  # po:noun is:fem
 instantanément/  # po:adv
 instanton/_s  # po:noun is:mas
-instar/  #  po:prep
+instar/  #  po:adp
 instationnaire/_s  # po:adj is:epi
 instaurateur·rice/ri  # po:noun
 instauration/_s  # po:noun is:fem
@@ -37108,7 +37108,7 @@ jaloux·euse/xz  # po:noun po:adj
 jam/_s  # po:noun is:epi
 jamaïcain·e/_e  # po:noun po:adj
 jamaïquain·e/_e  # po:noun po:adj
-jamais/  #  po:negadv
+jamais/  #  po:adv
 jambage/_s  # po:noun is:mas
 jambalaya/_s  # po:noun is:mas
 jambart/_s  # po:noun is:mas
@@ -37531,8 +37531,8 @@ jusant/_s  # po:noun is:mas
 jusée/_s  # po:noun is:fem
 jusnaturalisme/_s  # po:noun is:mas
 jusnaturaliste/_s  # po:noun po:adj is:epi
-jusque/  #  po:prep
-jusques/  #  po:prep
+jusque/  #  po:adp
+jusques/  #  po:adp
 jusquiame/_s  # po:noun is:fem
 jussiée/_s  # po:noun is:fem
 jussion/_s  # po:noun is:fem
@@ -38657,7 +38657,7 @@ lequel/  #  po:pron po:pron is:mas is:sg
 lerche/  # po:adv
 lérot/_s  # po:noun is:mas
 les/  #  is:det is:epi is:pl st:le
-lès/  #  po:prep
+lès/  #  po:adp
 les/  #  po:pron po:adp is:epi is:pl
 lesbianisme/_s  # po:noun is:mas
 lesbien·ne/ll  # po:noun po:adj
@@ -38790,7 +38790,7 @@ lexicométrique/_s  # po:adj is:epi
 lexie/_s  # po:noun is:fem
 lexique/_s  # po:noun is:mas
 lexis/  # po:noun is:fem is:inv
-lez/  #  po:prep
+lez/  #  po:adp
 lézard·e/_e  # po:noun
 lézarder/a0p+  # po:verb
 lherzolite/_s  # po:noun is:fem
@@ -39529,7 +39529,7 @@ loriquet/_s  # po:noun is:mas
 lorrain·e/_e  # po:noun po:adj
 lorry/GB  # po:noun is:mas
 lors/  #  po:adv po:adv
-lors/  #  po:prep
+lors/  #  po:adp
 lorsque/  #  po:sconj
 losangé·e/_e  # po:adj
 losange/_s  # po:noun is:mas
@@ -39879,7 +39879,7 @@ maboul·e/_e  # po:noun
 maboulisme/_s  # po:noun is:mas
 mac/_s  # po:noun is:mas
 macabre/_s  # po:adj is:epi
-macache/  # po:negadv
+macache/  # po:adv
 macadam/_s  # po:noun is:mas
 macadamia/_s  # po:noun is:mas
 macadamisage/_s  # po:noun is:mas
@@ -40276,7 +40276,7 @@ majoritaire/_s  # po:adj is:epi
 majoritairement/  # po:adv
 majorité/_s  # po:noun is:fem
 majuscule/_s  # po:noun is:fem
-makach/  # po:negadv
+makach/  # po:adv
 makaire/_s  # po:noun is:mas
 makhzen/_s  # po:noun is:mas
 maki/_s  # po:noun is:mas
@@ -40368,7 +40368,7 @@ malformer/a0p+  # po:verb
 malfrat/_s  # po:noun is:mas
 malgache/_s  # po:noun po:adj is:epi
 malgracieux·euse/xz  # po:adj
-malgré/  #  po:prep
+malgré/  #  po:adp
 malhabile/_s  # po:adj is:epi
 malhabilement/  # po:adv
 malhabileté/_s  # po:noun is:fem
@@ -43035,7 +43035,7 @@ moine/_s  # po:noun is:mas
 moineau/_x  # po:noun is:mas
 moinerie/_s  # po:noun is:fem
 moinillon/_s  # po:noun is:mas
-moins/  #  po:prep po:adv
+moins/  #  po:adp po:adv
 moins/  # po:noun is:mas is:inv
 moinssoyer/a0p+  # po:verb
 moirage/_s  # po:noun is:mas
@@ -44673,7 +44673,7 @@ nazir/_s  # po:noun is:mas
 naziréat/_s  # po:noun is:mas
 naziréen·ne/ll  # po:noun po:adj
 nazisme/_s  # po:noun is:mas
-ne/  #  po:negadv po:adp
+ne/  #  po:adv po:adp
 néandertalien·ne/ll  # po:adj
 néandertalien/_s  # po:noun is:mas
 néanmoins/  # po:adv
@@ -44805,7 +44805,7 @@ nématomorphe/_s  # po:noun is:mas
 néné/_s  # po:noun is:mas
 nénette/_s  # po:noun is:fem
 nénies/  # po:noun is:fem is:pl
-nenni/  #  po:negadv
+nenni/  #  po:adv
 nénufar/_s  # po:noun is:mas
 nénuphar/_s  # po:noun is:mas
 néo/_s  # po:noun is:mas
@@ -45414,7 +45414,7 @@ nomophobie/_s  # po:noun is:fem
 nomothète/_s  # po:noun is:mas
 nomothétique/_s  # po:adj is:epi
 nomothétique/_s  # po:noun is:fem
-non/  #  po:negadv
+non/  #  po:adv
 non/  # po:noun is:mas is:inv
 nonagénaire/_s  # po:noun po:adj is:epi
 nonaire/_s  # po:adj is:epi
@@ -45434,7 +45434,7 @@ nonillion/_s  # po:noun is:mas
 nonne/_s  # po:noun is:fem
 nonnette/_s  # po:noun is:fem
 nono/  # po:adv
-nonobstant/  #  po:prep po:adv
+nonobstant/  #  po:adp po:adv
 nonpareil·le/ll  # po:noun po:adj
 nonstop/_s  # po:noun po:adj is:epi
 nonupler/a0p+  # po:verb
@@ -47173,7 +47173,7 @@ outrance/_s  # po:noun is:fem
 outrancier·ère/rr  # po:adj
 outrancièrement/  # po:adv
 outre/  # po:adv
-outre/  #  po:prep po:prepv
+outre/  #  po:adp po:adp
 outre/_s  # po:noun is:fem
 outrecuidance/_s  # po:noun is:fem
 outrecuidant·e/_e  # po:adj
@@ -47895,7 +47895,7 @@ paquet/_s  # po:noun is:mas
 paquetage/_s  # po:noun is:mas
 paqueté·e/_e  # po:adj
 paqueteur·euse/rs  # po:noun
-par/  #  po:prep po:prepv
+par/  #  po:adp po:adp
 para/_s  # po:noun is:epi
 parabase/_s  # po:noun is:fem
 parabellum/  # po:noun is:mas is:inv
@@ -48244,7 +48244,7 @@ parmélie/_s  # po:noun is:fem
 parmentier/  # po:adj is:epi is:inv
 parmenture/_s  # po:noun is:fem
 parmesan·e/_e  # po:noun po:adj
-parmi/  #  po:prep
+parmi/  #  po:adp
 parmi/  # po:adv
 parnasse/_s  # po:noun is:mas
 parnassien·ne/ll  # po:noun po:adj
@@ -48387,7 +48387,7 @@ parvenir/i0q+  # po:verb
 parvenu·e/_e  # po:noun
 parvis/  # po:noun is:mas is:inv
 parvovirus/  # po:noun is:mas is:inv
-pas/  #  po:negadv
+pas/  #  po:adv
 pas/  # po:noun is:mas is:inv
 pascal·e/_e  # po:adj
 pascal/Um  # po:noun is:mas
@@ -48411,7 +48411,7 @@ passagèrement/  # po:adv
 passant·e/_e  # po:noun po:adj
 passation/_s  # po:noun is:fem
 passavant/_s  # po:noun is:mas
-passé/  #  po:prep
+passé/  #  po:adp
 passé·e/_e  # po:noun
 passe/_s  # po:noun is:epi
 passéisme/_s  # po:noun is:mas
@@ -48979,7 +48979,7 @@ pencher/a0p+  # po:verb
 pendable/_s  # po:adj is:epi
 pendage/_s  # po:noun is:mas
 pendaison/_s  # po:noun is:fem
-pendant/  #  po:prep
+pendant/  #  po:adp
 pendant·e/_e  # po:adj
 pendant/_s  # po:noun is:mas
 pendard·e/_e  # po:noun
@@ -51013,7 +51013,7 @@ plécoptère/_s  # po:noun is:mas
 plecquer/a0p.  # po:verb
 plectre/_s  # po:noun is:mas
 pléiade/_s  # po:noun is:fem
-plein/  #  po:prep
+plein/  #  po:adp
 plein·e/_e  # po:adj
 plein/_s  # po:noun is:mas
 pleinement/  # po:adv
@@ -51200,7 +51200,7 @@ plurithérapie/_s  # po:noun is:fem
 plurivalent·e/_e  # po:adj
 plurivocité/_s  # po:noun is:fem
 plurivoque/_s  # po:adj is:epi
-plus/  #  po:adv po:negadv
+plus/  #  po:adv po:adv
 plus/  # po:noun is:mas is:inv
 plusieurs/  #  is:det is:epi is:pl
 plusieurs/  #  po:pron is:epi is:pl
@@ -51348,7 +51348,7 @@ poinçonner/a0p+  # po:verb
 poinçonneur·euse/rs  # po:noun
 poindre/wB  # po:verb
 poing/_s  # po:noun is:mas
-point/  #  po:negadv
+point/  #  po:adv
 point/_s  # po:noun is:mas
 pointage/_s  # po:noun is:mas
 pointal/_x  # po:noun is:mas
@@ -52169,7 +52169,7 @@ pouponné·e/_e  # po:adj
 pouponner/a0p.  # po:verb
 pouponnière/_s  # po:noun is:fem
 poupoule/_s  # po:noun is:fem
-pour/  #  po:prep po:prepv
+pour/  #  po:adp po:adp
 pourboire/_s  # po:noun is:mas
 pourceau/_x  # po:noun is:mas
 pourcent/_s  # po:noun is:mas
@@ -54290,7 +54290,7 @@ qualitativement/  # po:adv
 qualité/_s  # po:noun is:fem
 qualiticien·ne/ll  # po:noun
 quand/  #  po:sconj
-quant/  #  po:prep
+quant/  #  po:adp
 quanta/_s  # po:noun is:mas
 quanti/  # po:adv
 quantième/_s  # po:noun po:adj is:epi
@@ -57767,8 +57767,8 @@ révocabilité/_s  # po:noun is:fem
 révocable/_s  # po:adj is:epi
 révocation/_s  # po:noun is:fem
 révocatoire/_s  # po:adj is:epi
-revoici/  #  po:prep
-revoilà/  #  po:prep
+revoici/  #  po:adp
+revoilà/  #  po:adp
 revoir/  # po:intj
 revoir/pF  # po:verb
 revoler/a0p+  # po:verb
@@ -59198,7 +59198,7 @@ sanisette/_s  # po:noun is:fem
 sanitaire/_s  # po:adj is:epi
 sanitairement/  # po:adv
 sanité/_s  # po:noun is:fem
-sans/  #  po:prep po:prepv po:sconj po:adv
+sans/  #  po:adp po:adp po:sconj po:adv
 sanscrit·e/_e  # po:adj
 sanscrit/_s  # po:noun is:mas
 sanscritisme/_s  # po:noun is:mas
@@ -59422,7 +59422,7 @@ saucissonnage/_s  # po:noun is:mas
 saucissonner/a0p+  # po:verb
 saucissonneur·euse/rs  # po:noun
 saudade/_s  # po:noun is:fem
-sauf/  #  po:prep po:prepv
+sauf/  #  po:adp po:adp
 sauf·ve/fv  # po:adj
 saufconduit/_s  # po:noun is:mas
 sauge/_s  # po:noun is:fem
@@ -60120,7 +60120,7 @@ seller/a0p+  # po:verb
 sellerie/_s  # po:noun is:fem
 sellette/_s  # po:noun is:fem
 sellier/_s  # po:noun is:mas
-selon/  #  po:prep
+selon/  #  po:adp
 selon/  # po:adv
 selve/_s  # po:noun is:fem
 semailles/  # po:noun is:fem is:pl
@@ -61700,7 +61700,7 @@ souris/  # po:noun is:mas is:inv
 sournois·e/_e  # po:noun po:adj
 sournoisement/  # po:adv
 sournoiserie/_s  # po:noun is:fem
-sous/  #  po:prep
+sous/  #  po:adp
 souscripteur·rice/ri  # po:noun
 souscription/_s  # po:noun is:fem
 souscrire/y1  # po:verb
@@ -62941,7 +62941,7 @@ suisse/_s  # po:noun po:adj is:epi
 suissesse/_s  # po:noun is:fem
 suite/_s  # po:noun is:fem
 suitée/_s  # po:adj is:fem
-suivant/  #  po:prep
+suivant/  #  po:adp
 suivant·e/_e  # po:noun po:adj
 suiveur·euse/rs  # po:noun po:adj
 suivi/_s  # po:noun is:mas
@@ -63205,7 +63205,7 @@ suprématisme/_s  # po:noun is:mas
 suprématiste/_s  # po:noun po:adj is:epi
 suprême/_s  # po:adj is:epi
 suprêmement/  # po:adv
-sur/  #  po:prep
+sur/  #  po:adp
 sur·e/_e  # po:adj
 sûr·e/_e  # po:adj
 sûr/  # po:adj is:mas is:sg
@@ -64180,7 +64180,7 @@ tanaisie/_s  # po:noun is:fem
 tancer/a0p+  # po:verb
 tanche/_s  # po:noun is:fem
 tandem/_s  # po:noun is:mas
-tandis/  #  po:sconj po:prep po:adv
+tandis/  #  po:sconj po:adp po:adv
 tandoori/_s  # po:adj is:epi
 tandoori/_s  # po:noun is:mas
 tangage/_s  # po:noun is:mas
@@ -68776,7 +68776,7 @@ verrucaire/_s  # po:noun is:fem
 verrucosité/_s  # po:noun is:fem
 verrue/_s  # po:noun is:fem
 verruqueux·euse/xz  # po:adj
-vers/  #  po:prep
+vers/  #  po:adp
 vers/  # po:noun is:mas is:inv
 versaillais·e/_e  # po:noun po:adj
 versant·e/_e  # po:adj
@@ -68800,7 +68800,7 @@ versionner/a0p+  # po:verb
 verso/_s  # po:noun is:mas
 versoir/_s  # po:noun is:mas
 verste/_s  # po:noun is:fem
-versus/  #  po:prep
+versus/  #  po:adp
 vert·e/_e  # po:noun po:adj
 vertébral·e/al  # po:adj
 vertébré·e/_e  # po:noun po:adj
@@ -68904,7 +68904,7 @@ vexillaire/_s  # po:noun is:mas
 vexille/_s  # po:noun is:mas
 vexillologie/_s  # po:noun is:fem
 vexillologue/_s  # po:noun is:epi
-via/  #  po:prep
+via/  #  po:adp
 viabilisation/_s  # po:noun is:fem
 viabiliser/a0p+  # po:verb
 viabilité/_s  # po:noun is:fem
@@ -69432,10 +69432,10 @@ vogoul·e/_e  # po:noun po:adj
 vogoule/_s  # po:noun po:adj is:epi
 vogue/_s  # po:noun is:fem
 voguer/a0p.  # po:verb
-voici/  #  po:prep
+voici/  #  po:adp
 voie/_s  # po:noun is:fem
 voïévodie/_s  # po:noun is:fem
-voilà/  #  po:prep
+voilà/  #  po:adp
 voilage/_s  # po:noun is:mas
 voile/_s  # po:noun is:epi
 voilement/_s  # po:noun is:mas
@@ -69646,8 +69646,8 @@ vrombir/f0p.  # po:verb
 vrombissant·e/_e  # po:adj
 vrombissement/_s  # po:noun is:mas
 vroum/  # po:intj
-vs/  #  po:prep
-vu/  #  po:prep
+vs/  #  po:adp
+vu/  #  po:adp
 vu·e/_e  # po:noun
 vulcain/_s  # po:noun is:mas
 vulcanales/  # po:noun is:fem is:pl
