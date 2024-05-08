@@ -1,3 +1,7 @@
+# elision
+SFX u' Y 1
+SFX u' e 0 .
+
 # pluriel.en s:
 SFX _s Y 1
 SFX _s 0 s .

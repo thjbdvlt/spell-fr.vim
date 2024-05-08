@@ -11248,8 +11248,8 @@ cavitation/_s # po:noun is:fem
 cavité/_s # po:noun is:fem
 caviter/a0p. # po:verb
 cavurne/_s # po:noun is:fem
-ce/ # po:det is:sg is:mas
-ce/ # po:pron is:inv is:epi
+ce/u' # po:det is:sg is:mas
+ce/u' # po:pron is:inv is:epi
 céans/ # po:adv
 cébette/_s # po:noun is:fem
 cébiste/_s # po:noun is:epi
@@ -17417,8 +17417,8 @@ daurade/_s # po:noun is:fem
 davantage/ # po:adv
 davier/_s # po:noun is:mas
 dazibao/_s # po:noun is:mas
-de/ # po:det is:inv is:epi
-de/ # po:adp
+de/u' # po:det is:inv is:epi
+de/u' # po:adp
 dé/_s # po:noun is:mas
 déactiver/a0p+ # po:verb
 deal/_s # po:noun is:mas
@@ -37231,7 +37231,7 @@ jazz/ # po:noun is:mas is:inv
 jazzman/GB # po:noun is:mas
 jazzy/ # po:adj is:inv is:epi
 jazzy/_s # po:adj is:epi
-je/ # po:pron is:sg is:epi is:1pe
+je/u' # po:pron is:sg is:epi is:1pe
 jean/_s # po:noun is:mas
 jeanfoutre/_s # po:noun is:mas
 jeannette/_s # po:noun is:fem
@@ -37531,7 +37531,7 @@ jusant/_s # po:noun is:mas
 jusée/_s # po:noun is:fem
 jusnaturalisme/_s # po:noun is:mas
 jusnaturaliste/_s # po:noun po:adj is:epi
-jusque/ # po:adp
+jusque/u' # po:adp
 jusques/ # po:adp
 jusquiame/_s # po:noun is:fem
 jussiée/_s # po:noun is:fem
@@ -37941,10 +37941,10 @@ kystique/_s # po:adj is:epi
 kyu/_s # po:noun is:mas
 kyudo/_s # po:noun is:mas
 l/ # po:noun is:mas is:inv
-la/ # st:le po:det is:sg is:fem
-la/ # st:le po:pron po:adp is:sg is:fem
+la/u' # st:le po:det is:sg is:fem
+la/u' # st:le po:pron po:adp is:sg is:fem
 là/ # po:adv
-la/ # po:noun is:mas is:inv
+la/u' # po:noun is:mas is:inv
 labadens/ # po:noun is:mas is:inv
 labarum/_s # po:noun is:mas
 labbe/_s # po:noun is:mas
@@ -38485,8 +38485,8 @@ lazurite/_s # po:noun is:fem
 lazzarone/LT # po:noun is:mas
 lazzi/ # po:noun is:mas is:inv
 lazzi/_s # po:noun is:mas
-le/ # po:det is:sg is:mas
-le/ # po:pron po:adp is:sg is:mas
+le/u' # po:det is:sg is:mas
+le/u' # po:pron po:adp is:sg is:mas
 lé/_s # po:noun is:mas
 leader/_s # po:noun is:epi
 leadership/_s # po:noun is:mas
@@ -39530,7 +39530,7 @@ lorrain·e/_e # po:noun po:adj
 lorry/GB # po:noun is:mas
 lors/ # po:adv
 lors/ # po:adp
-lorsque/ # po:sconj
+lorsque/u' # po:sconj
 losangé·e/_e # po:adj
 losange/_s # po:noun is:mas
 losangique/_s # po:adj is:epi
@@ -41313,7 +41313,7 @@ mazoutage/_s # po:noun is:mas
 mazouter/a0p+ # po:verb
 mazurka/_s # po:noun is:fem
 mbalax/ # po:noun is:mas is:inv
-me/ # po:pron po:adp is:sg is:epi is:1pe
+me/u' # po:pron po:adp is:sg is:epi is:1pe
 méaculpa/_s # po:noun is:mas
 méandre/_s # po:noun is:mas
 méandreux·euse/xz # po:adj
@@ -44673,7 +44673,7 @@ nazir/_s # po:noun is:mas
 naziréat/_s # po:noun is:mas
 naziréen·ne/ll # po:noun po:adj
 nazisme/_s # po:noun is:mas
-ne/ # po:adv po:adp
+ne/u' # po:adv po:adp
 néandertalien·ne/ll # po:adj
 néandertalien/_s # po:noun is:mas
 néanmoins/ # po:adv
@@ -52746,7 +52746,7 @@ présomptueusement/ # po:adv
 présomptueux·euse/xz # po:noun po:adj
 présonorisation/_s # po:noun is:fem
 présonoriser/a0p+ # po:verb
-presque/ # po:adv
+presque/u' # po:adv
 pressabilité/_s # po:noun is:fem
 pressage/_s # po:noun is:mas
 pressant·e/_e # po:adj
@@ -53909,7 +53909,7 @@ puisatier/_s # po:noun is:mas
 puisement/_s # po:noun is:mas
 puiser/a0p+ # po:verb
 puisette/_s # po:noun is:fem
-puisque/ # po:sconj
+puisque/u' # po:sconj
 puissamment/ # po:adv
 puissance/_s # po:noun is:fem
 puissant·e/_e # po:adj
@@ -54383,8 +54383,8 @@ queen/_s # po:noun is:fem
 queer/_s # po:noun po:adj is:epi
 quel·le/ll # po:det
 quelconque/_s # po:adj is:epi
-quelque/ # po:adv
-quelque/_s # po:det is:epi
+quelque/u' # po:adv
+quelque/u'_s # po:det is:epi
 quelquefois/ # po:adv
 quémande/_s # po:noun is:fem
 quémander/a0p+ # po:verb
@@ -54528,7 +54528,7 @@ quo/ # po:noun is:mas is:inv
 quoailler/ # po:verb
 quocngu/_s # po:noun is:mas
 quoi/ # po:pron
-quoique/ # po:sconj
+quoique/u' # po:sconj
 quolibet/_s # po:noun is:mas
 quorum/_s # po:noun is:mas
 quota/_s # po:noun is:mas
@@ -59897,7 +59897,7 @@ scytale/_s # po:noun is:fem
 scythe/_s # po:noun po:adj is:epi
 scythique/_s # po:adj is:epi
 sdcard/_s # po:noun is:fem
-se/ # po:pron po:adp is:inv is:epi is:3pe
+se/u' # po:pron po:adp is:inv is:epi is:3pe
 seaborgium/_s # po:noun is:mas
 séance/_s # po:noun is:fem
 séant·e/_e # po:adj
@@ -64509,7 +64509,7 @@ tchétchène/_s # po:noun po:adj is:epi
 tchintchin/ # po:intj
 tchiper/a0p+ # po:verb
 tchitola/_s # po:noun is:mas
-te/ # po:pron po:adp is:sg is:epi is:2pe
+te/u' # po:pron po:adp is:sg is:epi is:2pe
 té/_s # po:noun is:mas
 teaser/_s # po:noun is:mas
 teaseur/_s # po:noun is:mas
