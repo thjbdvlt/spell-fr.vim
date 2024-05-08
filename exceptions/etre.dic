@@ -1,46 +1,46 @@
-être  # po:verb po:aux
-étant  # po:verb po:aux
-été  # po:verb po:aux
-suis  # po:verb po:aux
-es  # po:verb po:aux
-est  # po:verb po:aux
-sommes  # po:verb po:aux
-êtes  # po:verb po:aux
-sont  # po:verb po:aux
-étais  # po:verb po:aux
-était  # po:verb po:aux
-étions  # po:verb po:aux
-étiez  # po:verb po:aux
-étaient  # po:verb po:aux
-fus  # po:verb po:aux
-fut  # po:verb po:aux
-fûmes  # po:verb po:aux
-fûtes  # po:verb po:aux
-furent  # po:verb po:aux
-serai  # po:verb po:aux
-seras  # po:verb po:aux
-sera  # po:verb po:aux
-serons  # po:verb po:aux
-serez  # po:verb po:aux
-seront  # po:verb po:aux
-serais  # po:verb po:aux
-serait  # po:verb po:aux
-serions  # po:verb po:aux
-seriez  # po:verb po:aux
-seraient  # po:verb po:aux
-sois  # po:verb po:aux
-soit  # po:verb po:aux
-soyons  # po:verb po:aux
-soyez  # po:verb po:aux
-soient  # po:verb po:aux
-fusse  # po:verb po:aux
-fussé  # po:verb po:aux
-fussè  # po:verb po:aux
-fusses  # po:verb po:aux
-fût  # po:verb po:aux
-fussions  # po:verb po:aux
-fussiez  # po:verb po:aux
-fussent  # po:verb po:aux
-sois  # po:verb po:aux
-soyons  # po:verb po:aux
-soyez  # po:verb po:aux
+être  # po:verb po:aux st:être
+étant  # po:verb po:aux st:être
+été  # po:verb po:aux st:être
+suis  # po:verb po:aux st:être
+es  # po:verb po:aux st:être
+est  # po:verb po:aux st:être
+sommes  # po:verb po:aux st:être
+êtes  # po:verb po:aux st:être
+sont  # po:verb po:aux st:être
+étais  # po:verb po:aux st:être
+était  # po:verb po:aux st:être
+étions  # po:verb po:aux st:être
+étiez  # po:verb po:aux st:être
+étaient  # po:verb po:aux st:être
+fus  # po:verb po:aux st:être
+fut  # po:verb po:aux st:être
+fûmes  # po:verb po:aux st:être
+fûtes  # po:verb po:aux st:être
+furent  # po:verb po:aux st:être
+serai  # po:verb po:aux st:être
+seras  # po:verb po:aux st:être
+sera  # po:verb po:aux st:être
+serons  # po:verb po:aux st:être
+serez  # po:verb po:aux st:être
+seront  # po:verb po:aux st:être
+serais  # po:verb po:aux st:être
+serait  # po:verb po:aux st:être
+serions  # po:verb po:aux st:être
+seriez  # po:verb po:aux st:être
+seraient  # po:verb po:aux st:être
+sois  # po:verb po:aux st:être
+soit  # po:verb po:aux st:être
+soyons  # po:verb po:aux st:être
+soyez  # po:verb po:aux st:être
+soient  # po:verb po:aux st:être
+fusse  # po:verb po:aux st:être
+fussé  # po:verb po:aux st:être
+fussè  # po:verb po:aux st:être
+fusses  # po:verb po:aux st:être
+fût  # po:verb po:aux st:être
+fussions  # po:verb po:aux st:être
+fussiez  # po:verb po:aux st:être
+fussent  # po:verb po:aux st:être
+sois  # po:verb po:aux st:être
+soyons  # po:verb po:aux st:être
+soyez  # po:verb po:aux st:être
