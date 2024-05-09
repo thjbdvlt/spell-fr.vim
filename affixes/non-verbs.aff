@@ -36,8 +36,8 @@ SFX rr er·ère er/_s .
 
 # frauduleu -x -se
 SFX xz Y 2
-SFX xz eux·euse x .
-SFX xz eux·euse se/_s .
+SFX xz eux·euse eux .
+SFX xz eux·euse euse/_s .
 
 # vi -ive -f
 SFX fv Y 2
@@ -51,11 +51,11 @@ SFX ue u·ue üe/_s .
 
 # be -au, be -lle, tourtere -au -lle
 SFX la Y 5
-SFX la eau·elle au .
-SFX la eau·elle aux .
-SFX la eau·elle lle/_s .
-SFX la eau·elle lleau .
-SFX la eau·elle lleaux .
+SFX la eau·elle eau .
+SFX la eau·elle eaux .
+SFX la eau·elle elle/_s .
+SFX la eau·elle elleau .
+SFX la eau·elle elleaux .
 
 # po -étesse, -ète
 SFX ee Y 2
@@ -72,11 +72,11 @@ SFX xs Y 2
 SFX xs x·sse x .
 SFX xs x·sse sse .
 
-# vie -ux -iel - ielle
+# vie -ux -eil - eille
 SFX xl Y 3
-SFX xl eux·eille ux .
-SFX xl eux·eille iel/s .
-SFX xl eux·eille ielle/s .
+SFX xl eux·eille eux .
+SFX xl eux·eille eil/s .
+SFX xl eux·eille eille/s .
 
 # br -ève -ef
 SFX ev Y 2
