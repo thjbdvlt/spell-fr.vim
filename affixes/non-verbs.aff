@@ -1,157 +1,157 @@
 # elision
 SFX u' Y 1
-SFX u' e 0 .
+SFX u' e 0 . # is:eli
 
 # pluriel.en s:
 SFX _s Y 1
-SFX _s 0 s .
+SFX _s 0 s . # is:pl
 
 # pluriels en x:
 # cheval, chevaux, feu, feux
 SFX _x Y 3
-SFX _x 0 x/ [^l]
-SFX _x l ux/ al
-SFX _x il ux/ ail
+SFX _x 0 x/ [^l] # is:pl
+SFX _x l ux/ al # is:pl
+SFX _x il ux/ ail # is:pl
 
 # auteur, autrice, autrices, auteurs, auteurice, auteurices. plutôt que de placer "auteur" comme base dont j'enlève "eur" pour fabriquer le reste, je pars du radical (aut). il faut alors utiliser le flag `__` (NEEDAFFIX) sur les mots concernés (pour que "aut" tout seul ne soit pas considéré comme juste). je fais de même pour différentes formes de noms et d'adjectifs ci-dessous, ex. vi -ve -f.
 
 # aut -rice -eur -eurice
 SFX ri Y 4
-SFX ri eur·rice rice/_s .
-SFX ri eur·rice eur/_s .
-SFX ri eur·rice eurice/_s .
-SFX ri eur·rice euricex/_s .
+SFX ri eur·rice rice/_s . # is:fem
+SFX ri eur·rice eur/_s .  # is:mas
+SFX ri eur·rice eurice/_s . # is:incl
+SFX ri eur·rice euricex/_s . # is:incl
 
 # accordeu -r -se -eureuse -exes
 SFX rs Y 4
-SFX rs eur·euse eur/_s .
-SFX rs eur·euse euse/_s .
-SFX rs eur·euse eureuse/_s .
-SFX rs eur·euse eureusex/_s .
+SFX rs eur·euse euse/_s . # is:fem
+SFX rs eur·euse eur/_s . # is:mas
+SFX rs eur·euse eureuse/_s . # is:incl
+SFX rs eur·euse eureusex/_s . # is:incl
 
 # foresti -ère -er
 SFX rr Y 2
-SFX rr er·ère ère/_s .
-SFX rr er·ère er/_s .
+SFX rr er·ère er/_s . # is:mas
+SFX rr er·ère ère/_s . # is:fem
 
 # frauduleu -x -se
 SFX xz Y 2
-SFX xz eux·euse eux .
-SFX xz eux·euse euse/_s .
+SFX xz eux·euse euse/_s . # is:fem
+SFX xz eux·euse eux . # is:mas
 
 # vi -ive -f
 SFX fv Y 2
-SFX fv f·ve f/_s .
-SFX fv f·ve ve/_s .
+SFX fv f·ve f/_s . # is:mas
+SFX fv f·ve ve/_s . # is:fem
 
 # aigu, aigüe
 SFX ue Y 2
-SFX ue u·ue u/_s .
-SFX ue u·ue üe/_s .
+SFX ue u·ue u/_s . # is:mas
+SFX ue u·ue üe/_s . # is:fem
 
 # be -au, be -lle, tourtere -au -lle
 SFX la Y 5
-SFX la eau·elle eau .
-SFX la eau·elle eaux .
-SFX la eau·elle elle/_s .
-SFX la eau·elle elleau .
-SFX la eau·elle elleaux .
+SFX la eau·elle eau . # is:mas
+SFX la eau·elle eaux . # is:mas
+SFX la eau·elle elle/_s . # is:fem
+SFX la eau·elle elleau . # is:incl
+SFX la eau·elle elleaux . # is:incl
 
 # po -étesse, -ète
 SFX ee Y 2
-SFX ee ète·sse ète/_s .
-SFX ee ète·sse étesse/_s .
+SFX ee ète·sse ète/_s . # is:mas
+SFX ee ète·sse étesse/_s . # is:fem
 
 # dou -x -ce
 SFX xc Y 2
-SFX xc x·ce x .
-SFX xc x·ce ce .
+SFX xc x·ce ce . # is:fem
+SFX xc x·ce x . # is:mas
 
 # rou -sse, -x, fau -x -sse
 SFX xs Y 2
-SFX xs x·sse x .
-SFX xs x·sse sse .
+SFX xs x·sse sse . # is:fem
+SFX xs x·sse x . # is:mas
 
 # vie -ux -eil - eille
 SFX xl Y 3
-SFX xl eux·eille eux .
-SFX xl eux·eille eil/s .
-SFX xl eux·eille eille/s .
+SFX xl eux·eille eil/s . # is:fem
+SFX xl eux·eille eille/s . # is:incl
+SFX xl eux·eille eux . # is:mas
 
 # br -ève -ef
 SFX ev Y 2
-SFX ev ef·ève f/_s .
-SFX ev ef·ève ève/_s .
+SFX ev ef·ève f/_s . # is:mas
+SFX ev ef·ève ève/_s . # is:fem
 
 # s -ec -èche
 SFX ec Y 2
-SFX ec ec·èche ec/_s .
-SFX ec ec·èche èche/_s .
+SFX ec ec·èche ec/_s . # is:mas
+SFX ec ec·èche èche/_s . # is:fem
 
 # enseignant -e
 SFX _e Y 4
-SFX _e ·e /_s .
-SFX _e ·e e/_s .
-SFX _e ·e xe/_s .
-SFX _e ·e ex/_s .
+SFX _e ·e /_s . # is:mas
+SFX _e ·e e/_s . # is:fem
+SFX _e ·e ex/_s . # is:incl
+SFX _e ·e xe/_s . # is:incl
 
 # compl -ète -et
 SFX et Y 2
-SFX et et·ète et/_s .
-SFX et et·ète ète/_s .
+SFX et et·ète et/_s . # is:mas
+SFX et et·ète ète/_s . # is:fem
 
 # -ène -en
 SFX en Y 3
-SFX en en·ène /_s .
-SFX en en·ène en/_s .
-SFX en en·ène ène/_s .
+SFX en en·ène /_s . # is:incl
+SFX en en·ène en/_s . # is:mas
+SFX en en·ène ène/_s . # is:fem
 
 # publi -c -que
 SFX qc Y 2
-SFX qc c·que c/_s .
-SFX qc c·que que/_s .
+SFX qc c·que c/_s . # is:mas
+SFX qc c·que que/_s . # is:fem
 
 # long -ue 
 SFX gu Y 2
-SFX gu ·ue /_s .
-SFX gu ·ue ue/_s .
+SFX gu ·ue /_s . # is:mas
+SFX gu ·ue ue/_s . # is:fem
 
 # global, globale, globales, globaux (!=cheval, chevaux)
 SFX al Y 3
-SFX al l·e l .
-SFX al l·e ux .
-SFX al l·e le/_s .
+SFX al l·e l . # is:mas
+SFX al l·e ux . # is:mas is:pl
+SFX al l·e le/_s . # is:fem
 
 # les féminins qui double la dernière consonne
 SFX ll Y 11
-SFX ll 0 /_s .
-SFX ll ·fe fe/_s f·fe
-SFX ll ·le le/_s l·le
-SFX ll ·ne ne/_s n·ne
-SFX ll ·se se/_s s·se
-SFX ll ·te te/_s t·te
-SFX ll ·fe /_s f·fe
-SFX ll ·le /_s l·le
-SFX ll ·ne /_s n·ne
-SFX ll ·se /_s s·se
-SFX ll ·te /_s t·te
+SFX ll 0 /_s . # is:mas
+SFX ll ·fe fe/_s f·fe # is:fem
+SFX ll ·le le/_s l·le # is:fem
+SFX ll ·ne ne/_s n·ne # is:fem
+SFX ll ·se se/_s s·se # is:fem
+SFX ll ·te te/_s t·te # is:fem
+SFX ll ·fe /_s f·fe # is:fem
+SFX ll ·le /_s l·le # is:fem
+SFX ll ·ne /_s n·ne # is:fem
+SFX ll ·se /_s s·se # is:fem
+SFX ll ·te /_s t·te # is:fem
 
 # prêtre -sse
 SFX ss Y 2
-SFX ss ·sse /_s .
-SFX ss ·sse sse/_s .
+SFX ss ·sse /_s . # is:mas
+SFX ss ·sse sse/_s . # is:fem
 
 # fo -l -lle -u
 SFX lu Y 3
-SFX lu ou·lle l/_s .
-SFX lu ou·lle lle/_s .
-SFX lu ou·lle u/_s .
+SFX lu ou·lle l/_s . # is:mas
+SFX lu ou·lle lle/_s . # is:fem
+SFX lu ou·lle u/_s . # is:mas
 
 # mots anglais: cramberry, cramberri -es, sandwich -es
 SFX GB Y 3
-SFX GB y ies y
-SFX GB 0 es [xh]
-SFX GB man men man
+SFX GB y ies y # is:pl
+SFX GB 0 es [xh] # is:sg
+SFX GB man men man # is:pl
 
 # mots latins (et italiens)
 SFX LT Y 6
