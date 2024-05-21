@@ -163,6 +163,7 @@ sed -i -E -e 's/po:/is:/g' $aff
 # j'utilise un script extérieur écrit en python pour enlever les doublons dans les informations morphologiques, car avec les changements dans les `po:...` que j'ai fait, il y en a pas mal.
 python3 ${root}/scripts/remove_repeated_pos.py $dic
 
+# "je", "j'", "jusqu'" et "jusque" (etc.) deviennent une seule entrée
 sed -E -i "s@^(je|ne|se|ce|me|te|le|la|de|(puis|quoi|jus|pres|lors|quel)que)/(\S*)@\1/u'\3@" $dic
 
 # une fois cela fait, je déplace le fichier .dic vers ../words/words.dic, car la compilation se fait à partir des fichiers qui se trouve dans ce dossier. le fichier .aff doit en revanche être édité manuellement et partiellement réécrit. 
