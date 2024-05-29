@@ -1,4 +1,4 @@
-dictionnaire orthographique français au format [HunSpell](http://hunspell.github.io/) construit à partir du dictionnaire de [Grammalecte](https://grammalecte.net/), au format HunSpell, compatible avec Vim/NeoVim.
+dictionnaire orthographique français au format [HunSpell](http://hunspell.github.io/) construit à partir du dictionnaire de [Grammalecte](https://grammalecte.net/), compatible avec Vim/NeoVim.
 
 contenu du dépôt
 ----------------
