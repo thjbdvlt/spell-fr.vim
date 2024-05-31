@@ -66,7 +66,9 @@ else
 endif
 
 dump:
-	unmunch $(name).dic $(name).aff | sed -E 's;/.*;;g' | sort | uniq > all_words.txt
+	unmunch $(name).dic $(name).aff \
+		| sed -E 's;/.*;;g' \
+		| sort | uniq > all_words.txt
 
 clean:
 	rm -f $(spl) $(name).dic $(name).aff
