@@ -44,9 +44,9 @@ endif
 ifdef morph
 	@./scripts/decommenter.sh $(name).dic
 else
-	@./scripts/enlever-commentaires.sh $(name).dic
 	# enlever les exceptions
 	@cat exceptions/*.dic >> $(name).dic
+	@./scripts/enlever-commentaires.sh $(name).dic
 endif
 	sort < $(name).dic | uniq | sponge $(name).dic 
 	./scripts/header-number.sh $(name).dic
