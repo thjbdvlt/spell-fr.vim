@@ -158,7 +158,9 @@ sed -i -E -e 's/po:loc\./po:/g' \
     $dic
 
 # modifie les attribut `po` dans le fichier .aff, comme il s'agit essentiellement d'indications de temps verbaux et de personnes, je déplace en `is` (inflectionnal suffix), car il me semble que cela ne relève pas du part-of-speech.
-sed -i -E -e 's/po:/is:/g' $aff
+# sed -i -E -e 's/po:/is:/g' $aff
+# sauf, une chose: is:adj
+sed -i -E -e 's/po:/is:/g' -e 's/is:adj/po:adj/g' $aff
 
 # j'utilise un script extérieur écrit en python pour enlever les doublons dans les informations morphologiques, car avec les changements dans les `po:...` que j'ai fait, il y en a pas mal.
 python3 ${root}/scripts/remove_repeated_pos.py $dic

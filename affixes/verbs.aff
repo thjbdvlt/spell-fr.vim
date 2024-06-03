@@ -1091,10 +1091,10 @@ SFX aA ller llez-vous-en/ aller # is:impe is:2pl ds:+vous ds:+en
 SFX aD Y 44
 SFX aD voyer voyer/ envoyer # is:infi
 SFX aD voyer voyant/ envoyer # is:ppre
-SFX aD voyer voyé/ envoyer # is:ppas is:adj is:mas is:sg
-SFX aD voyer voyés/ envoyer # is:ppas is:adj is:mas is:pl
-SFX aD voyer voyée/ envoyer # is:ppas is:adj is:fem is:sg
-SFX aD voyer voyées/ envoyer # is:ppas is:adj is:fem is:pl
+SFX aD voyer voyé/ envoyer # is:ppas po:adj is:mas is:sg
+SFX aD voyer voyés/ envoyer # is:ppas po:adj is:mas is:pl
+SFX aD voyer voyée/ envoyer # is:ppas po:adj is:fem is:sg
+SFX aD voyer voyées/ envoyer # is:ppas po:adj is:fem is:pl
 SFX aD voyer voie/ envoyer # is:ipre is:1sg is:3sg
 SFX aD voyer voies/ envoyer # is:ipre is:2sg
 SFX aD voyer voyons/ envoyer # is:ipre is:1pl
@@ -1137,18 +1137,18 @@ SFX aD voyer voyez/ envoyer # is:impe is:2pl
 SFX aE Y 6
 SFX aE direr direr/ direr # is:infi
 SFX aE direr dirant/ direr # is:ppre
-SFX aE direr diré/ direr # is:ppas is:adj is:mas is:sg
-SFX aE direr dirés/ direr # is:ppas is:adj is:mas is:pl
-SFX aE direr dirée/ direr # is:ppas is:adj is:fem is:sg
-SFX aE direr dirées/ direr # is:ppas is:adj is:fem is:pl
+SFX aE direr diré/ direr # is:ppas po:adj is:mas is:sg
+SFX aE direr dirés/ direr # is:ppas po:adj is:mas is:pl
+SFX aE direr dirée/ direr # is:ppas po:adj is:fem is:sg
+SFX aE direr dirées/ direr # is:ppas po:adj is:fem is:pl
 
 SFX aF Y 18
 SFX aF cerner cerner/ er # is:infi
 SFX aF cerner cernant/ er # is:ppre
-SFX aF cerner cerné/ er # is:ppas is:adj is:mas is:sg
-SFX aF cerner cernés/ er # is:ppas is:adj is:mas is:pl
-SFX aF cerner cernée/ er # is:ppas is:adj is:fem is:sg
-SFX aF cerner cernées/ er # is:ppas is:adj is:fem is:pl
+SFX aF cerner cerné/ er # is:ppas po:adj is:mas is:sg
+SFX aF cerner cernés/ er # is:ppas po:adj is:mas is:pl
+SFX aF cerner cernée/ er # is:ppas po:adj is:fem is:sg
+SFX aF cerner cernées/ er # is:ppas po:adj is:fem is:pl
 SFX aF cerner cerne/ er # is:ipre is:spre is:3sg
 SFX aF cerner cernent/ er # is:ipre is:spre is:3pl
 SFX aF cerner cernait/ er # is:iimp is:3sg
@@ -1166,10 +1166,10 @@ SFX aG Y 19
 SFX aG er er/ er # is:infi
 SFX aG er ant/ er # is:ppre
 SFX aG mber mbé/ mber # is:ppas is:epi is:inv
-SFX aG lter lté/ lter # is:ppas is:adj is:mas is:sg
-SFX aG lter ltés/ lter # is:ppas is:adj is:mas is:pl
-SFX aG lter ltée/ lter # is:ppas is:adj is:fem is:sg
-SFX aG lter ltées/ lter # is:ppas is:adj is:fem is:pl
+SFX aG lter lté/ lter # is:ppas po:adj is:mas is:sg
+SFX aG lter ltés/ lter # is:ppas po:adj is:mas is:pl
+SFX aG lter ltée/ lter # is:ppas po:adj is:fem is:sg
+SFX aG lter ltées/ lter # is:ppas po:adj is:fem is:pl
 SFX aG er e/ er # is:ipre is:spre is:3sg
 SFX aG er ent/ er # is:ipre is:spre is:3pl
 SFX aG er ait/ er # is:iimp is:3sg
@@ -1227,10 +1227,10 @@ SFX aH er ez/ gger # is:impe is:2pl
 SFX aY Y 57
 SFX aY neler neler/ neler # is:infi
 SFX aY neler nelant/ neler # is:ppre
-SFX aY neler nelé/ neler # is:ppas is:adj is:1jsg is:mas is:sg
-SFX aY neler nelés/ neler # is:ppas is:adj is:mas is:pl
-SFX aY neler nelée/ neler # is:ppas is:adj is:fem is:sg
-SFX aY neler nelées/ neler # is:ppas is:adj is:fem is:pl
+SFX aY neler nelé/ neler # is:ppas po:adj is:1jsg is:mas is:sg
+SFX aY neler nelés/ neler # is:ppas po:adj is:mas is:pl
+SFX aY neler nelée/ neler # is:ppas po:adj is:fem is:sg
+SFX aY neler nelées/ neler # is:ppas po:adj is:fem is:pl
 SFX aY éneler énelle/ éneler # is:ipre is:spre is:1sg is:3sg
 SFX aY èneler énèle/ èneler # is:ipre is:spre is:1sg is:3sg
 SFX aY éneler énelles/ éneler # is:ipre is:spre is:2sg
@@ -1286,10 +1286,10 @@ SFX aY neler nelez/ neler # is:impe is:2pl
 SFX aZ Y 57
 SFX aZ teler teler/ teler # is:infi
 SFX aZ teler telant/ teler # is:ppre
-SFX aZ teler telé/ teler # is:ppas is:adj is:1jsg is:mas is:sg
-SFX aZ teler telés/ teler # is:ppas is:adj is:mas is:pl
-SFX aZ teler telée/ teler # is:ppas is:adj is:fem is:sg
-SFX aZ teler telées/ teler # is:ppas is:adj is:fem is:pl
+SFX aZ teler telé/ teler # is:ppas po:adj is:1jsg is:mas is:sg
+SFX aZ teler telés/ teler # is:ppas po:adj is:mas is:pl
+SFX aZ teler telée/ teler # is:ppas po:adj is:fem is:sg
+SFX aZ teler telées/ teler # is:ppas po:adj is:fem is:pl
 SFX aZ ételer ételle/ ételer # is:ipre is:spre is:1sg is:3sg
 SFX aZ èteler étèle/ èteler # is:ipre is:spre is:1sg is:3sg
 SFX aZ ételer ételles/ ételer # is:ipre is:spre is:2sg
@@ -1345,10 +1345,10 @@ SFX aZ teler telez/ teler # is:impe is:2pl
 SFX dA Y 42
 SFX dA peler peler/ peler # is:infi
 SFX dA peler pelant/ peler # is:ppre
-SFX dA peler pelé/ peler # is:ppas is:adj is:1jsg is:mas is:sg
-SFX dA peler pelés/ peler # is:ppas is:adj is:mas is:pl
-SFX dA peler pelée/ peler # is:ppas is:adj is:fem is:sg
-SFX dA peler pelées/ peler # is:ppas is:adj is:fem is:pl
+SFX dA peler pelé/ peler # is:ppas po:adj is:1jsg is:mas is:sg
+SFX dA peler pelés/ peler # is:ppas po:adj is:mas is:pl
+SFX dA peler pelée/ peler # is:ppas po:adj is:fem is:sg
+SFX dA peler pelées/ peler # is:ppas po:adj is:fem is:pl
 SFX dA peler pelle/ peler # is:ipre is:spre is:1sg is:3sg
 SFX dA peler pelles/ peler # is:ipre is:spre is:2sg
 SFX dA peler pelons/ peler # is:ipre is:1pl
@@ -1424,10 +1424,10 @@ SFX f0 ir issez/ ir # is:impe is:2pl
 SFX fA Y 38
 SFX fA aïr aïr/ aïr # is:infi
 SFX fA aïr aïssant/ aïr # is:ppre
-SFX fA aïr aï/ aïr # is:ppas is:adj is:mas is:sg
-SFX fA aïr aïs/ aïr # is:ppas is:adj is:mas is:pl
-SFX fA aïr aïe/ aïr # is:ppas is:adj is:fem is:sg
-SFX fA aïr aïes/ aïr # is:ppas is:adj is:fem is:pl
+SFX fA aïr aï/ aïr # is:ppas po:adj is:mas is:sg
+SFX fA aïr aïs/ aïr # is:ppas po:adj is:mas is:pl
+SFX fA aïr aïe/ aïr # is:ppas po:adj is:fem is:sg
+SFX fA aïr aïes/ aïr # is:ppas po:adj is:fem is:pl
 SFX fA aïr ais/ aïr # is:ipre is:1sg is:2sg
 SFX fA aïr ait/ aïr # is:ipre is:3sg
 SFX fA aïr aïssons/ aïr # is:ipre is:1pl
@@ -1464,10 +1464,10 @@ SFX fA aïr aïssez/ aïr # is:impe is:2pl
 SFX fB Y 29
 SFX fB haïr haïr/ aïr # is:infi
 SFX fB haïr haïssant/ aïr # is:ppre
-SFX fB haïr haï/ aïr # is:ppas is:adj is:mas is:sg
-SFX fB haïr haïs/ aïr # is:ppas is:adj is:mas is:pl
-SFX fB haïr haïe/ aïr # is:ppas is:adj is:fem is:sg
-SFX fB haïr haïes/ aïr # is:ppas is:adj is:fem is:pl
+SFX fB haïr haï/ aïr # is:ppas po:adj is:mas is:sg
+SFX fB haïr haïs/ aïr # is:ppas po:adj is:mas is:pl
+SFX fB haïr haïe/ aïr # is:ppas po:adj is:fem is:sg
+SFX fB haïr haïes/ aïr # is:ppas po:adj is:fem is:pl
 SFX fB haïr hait/ aïr # is:ipre is:3sg
 SFX fB haïr haïssons/ aïr # is:ipre is:1pl
 SFX fB haïr haïssez/ aïr # is:ipre is:2pl
@@ -1495,10 +1495,10 @@ SFX fB haïr haïssez/ aïr # is:impe is:2pl
 SFX fC Y 11
 SFX fC partir partir/ impartir # is:infi
 SFX fC partir partissant/ impartir # is:ppre
-SFX fC partir parti/ impartir # is:ppas is:adj is:mas is:sg
-SFX fC partir partis/ impartir # is:ppas is:adj is:mas is:pl
-SFX fC partir partie/ impartir # is:ppas is:adj is:fem is:sg
-SFX fC partir parties/ impartir # is:ppas is:adj is:fem is:pl
+SFX fC partir parti/ impartir # is:ppas po:adj is:mas is:sg
+SFX fC partir partis/ impartir # is:ppas po:adj is:mas is:pl
+SFX fC partir partie/ impartir # is:ppas po:adj is:fem is:sg
+SFX fC partir parties/ impartir # is:ppas po:adj is:fem is:pl
 SFX fC partir partis/ impartir # is:ipre is:1sg is:2sg
 SFX fC partir partit/ impartir # is:ipre is:3sg
 SFX fC partir partissons/ impartir # is:ipre is:1pl
@@ -1522,10 +1522,10 @@ SFX fD ortir ortît/ sortir # is:simp is:3sg
 SFX fY Y 37
 SFX fY uïr uïr/ uïr # is:infi
 SFX fY uïr uïssant/ uïr # is:ppre
-SFX fY uïr uï/ uïr # is:ppas is:adj is:mas is:sg
-SFX fY uïr uïs/ uïr # is:ppas is:adj is:mas is:pl
-SFX fY uïr uïe/ uïr # is:ppas is:adj is:fem is:sg
-SFX fY uïr uïes/ uïr # is:ppas is:adj is:fem is:pl
+SFX fY uïr uï/ uïr # is:ppas po:adj is:mas is:sg
+SFX fY uïr uïs/ uïr # is:ppas po:adj is:mas is:pl
+SFX fY uïr uïe/ uïr # is:ppas po:adj is:fem is:sg
+SFX fY uïr uïes/ uïr # is:ppas po:adj is:fem is:pl
 SFX fY uïr uïs/ uïr # is:ipre is:ipsi is:1sg is:2sg
 SFX fY uïr uït/ uïr # is:ipre is:ipsi is:3sg
 SFX fY uïr uïssons/ uïr # is:ipre is:1pl
@@ -1559,14 +1559,14 @@ SFX fY uïr uïssons/ uïr # is:impe is:1pl
 SFX fY uïr uïssez/ uïr # is:impe is:2pl
 
 SFX p+ Y 8
-SFX p+ er é/ er # is:ppas is:adj is:1jsg is:mas is:sg
-SFX p+ er és/ er # is:ppas is:adj is:mas is:pl
-SFX p+ er ée/ er # is:ppas is:adj is:fem is:sg
-SFX p+ er ées/ er # is:ppas is:adj is:fem is:pl
-SFX p+ ir i/ ir # is:ppas is:adj is:mas is:sg
-SFX p+ ir is/ ir # is:ppas is:adj is:mas is:pl
-SFX p+ ir ie/ ir # is:ppas is:adj is:fem is:sg
-SFX p+ ir ies/ ir # is:ppas is:adj is:fem is:pl
+SFX p+ er é/ er # is:ppas po:adj is:1jsg is:mas is:sg
+SFX p+ er és/ er # is:ppas po:adj is:mas is:pl
+SFX p+ er ée/ er # is:ppas po:adj is:fem is:sg
+SFX p+ er ées/ er # is:ppas po:adj is:fem is:pl
+SFX p+ ir i/ ir # is:ppas po:adj is:mas is:sg
+SFX p+ ir is/ ir # is:ppas po:adj is:mas is:pl
+SFX p+ ir ie/ ir # is:ppas po:adj is:fem is:sg
+SFX p+ ir ies/ ir # is:ppas po:adj is:fem is:pl
 
 SFX p. Y 2
 SFX p. er é/ er # is:ppas is:1jsg is:epi is:inv
@@ -1657,10 +1657,10 @@ SFX i5 tir tez/ tir # is:impe is:2pl
 SFX iA Y 19
 SFX iA dvenir dvenir/ venir # is:infi
 SFX iA dvenir dvenant/ venir # is:ppre
-SFX iA dvenir dvenu/ venir # is:ppas is:adj is:mas is:sg
-SFX iA dvenir dvenus/ venir # is:ppas is:adj is:mas is:pl
-SFX iA dvenir dvenue/ venir # is:ppas is:adj is:fem is:sg
-SFX iA dvenir dvenues/ venir # is:ppas is:adj is:fem is:pl
+SFX iA dvenir dvenu/ venir # is:ppas po:adj is:mas is:sg
+SFX iA dvenir dvenus/ venir # is:ppas po:adj is:mas is:pl
+SFX iA dvenir dvenue/ venir # is:ppas po:adj is:fem is:sg
+SFX iA dvenir dvenues/ venir # is:ppas po:adj is:fem is:pl
 SFX iA dvenir dvient/ venir # is:ipre is:3sg
 SFX iA dvenir dviennent/ venir # is:ipre is:spre is:3pl
 SFX iA dvenir dvenait/ venir # is:iimp is:3sg
@@ -1720,10 +1720,10 @@ SFX iB partenir partenez/ tenir # is:impe is:2pl
 SFX iC Y 41
 SFX iC rir rir/ [vf]rir # is:infi
 SFX iC rir rant/ [vf]rir # is:ppre
-SFX iC rir ert/ [vf]rir # is:ppas is:adj is:mas is:sg
-SFX iC rir erts/ [vf]rir # is:ppas is:adj is:mas is:pl
-SFX iC rir erte/ [vf]rir # is:ppas is:adj is:fem is:sg
-SFX iC rir ertes/ [vf]rir # is:ppas is:adj is:fem is:pl
+SFX iC rir ert/ [vf]rir # is:ppas po:adj is:mas is:sg
+SFX iC rir erts/ [vf]rir # is:ppas po:adj is:mas is:pl
+SFX iC rir erte/ [vf]rir # is:ppas po:adj is:fem is:sg
+SFX iC rir ertes/ [vf]rir # is:ppas po:adj is:fem is:pl
 SFX iC rir re/ [vf]rir # is:ipre is:spre is:1sg is:3sg
 SFX iC rir res/ [vf]rir # is:ipre is:spre is:2sg
 SFX iC rir rons/ [vf]rir # is:ipre is:1pl
@@ -1763,10 +1763,10 @@ SFX iC rir rez/ [vf]rir # is:impe is:2pl
 SFX iD Y 43
 SFX iD courir courir/ courir # is:infi
 SFX iD courir courant/ courir # is:ppre
-SFX iD courir couru/ courir # is:ppas is:adj is:mas is:sg
-SFX iD courir courus/ courir # is:ppas is:adj is:mas is:pl
-SFX iD courir courue/ courir # is:ppas is:adj is:fem is:sg
-SFX iD courir courues/ courir # is:ppas is:adj is:fem is:pl
+SFX iD courir couru/ courir # is:ppas po:adj is:mas is:sg
+SFX iD courir courus/ courir # is:ppas po:adj is:mas is:pl
+SFX iD courir courue/ courir # is:ppas po:adj is:fem is:sg
+SFX iD courir courues/ courir # is:ppas po:adj is:fem is:pl
 SFX iD courir cours/ courir # is:ipre is:1sg is:2sg
 SFX iD courir court/ courir # is:ipre is:3sg
 SFX iD courir courons/ courir # is:ipre is:1pl
@@ -1808,10 +1808,10 @@ SFX iD courir courez/ courir # is:impe is:2pl
 SFX iE Y 43
 SFX iE ourir ourir/ courir # is:infi
 SFX iE ourir ourant/ courir # is:ppre
-SFX iE ourir ouru/ courir # is:ppas is:adj is:mas is:sg
-SFX iE ourir ourus/ courir # is:ppas is:adj is:mas is:pl
-SFX iE ourir ourue/ courir # is:ppas is:adj is:fem is:sg
-SFX iE ourir ourues/ courir # is:ppas is:adj is:fem is:pl
+SFX iE ourir ouru/ courir # is:ppas po:adj is:mas is:sg
+SFX iE ourir ourus/ courir # is:ppas po:adj is:mas is:pl
+SFX iE ourir ourue/ courir # is:ppas po:adj is:fem is:sg
+SFX iE ourir ourues/ courir # is:ppas po:adj is:fem is:pl
 SFX iE ourir ours/ courir # is:ipre is:1sg is:2sg
 SFX iE ourir ourt/ courir # is:ipre is:3sg
 SFX iE ourir ourons/ courir # is:ipre is:1pl
@@ -1853,10 +1853,10 @@ SFX iE ourir ourez/ courir # is:impe is:2pl
 SFX iF Y 43
 SFX iF ervir ervir/ servir # is:infi
 SFX iF ervir ervant/ servir # is:ppre
-SFX iF ervir ervi/ servir # is:ppas is:adj is:mas is:sg
-SFX iF ervir ervis/ servir # is:ppas is:adj is:mas is:pl
-SFX iF ervir ervie/ servir # is:ppas is:adj is:fem is:sg
-SFX iF ervir ervies/ servir # is:ppas is:adj is:fem is:pl
+SFX iF ervir ervi/ servir # is:ppas po:adj is:mas is:sg
+SFX iF ervir ervis/ servir # is:ppas po:adj is:mas is:pl
+SFX iF ervir ervie/ servir # is:ppas po:adj is:fem is:sg
+SFX iF ervir ervies/ servir # is:ppas po:adj is:fem is:pl
 SFX iF ervir ers/ servir # is:ipre is:1sg is:2sg
 SFX iF ervir ert/ servir # is:ipre is:3sg
 SFX iF ervir ervons/ servir # is:ipre is:1pl
@@ -1898,10 +1898,10 @@ SFX iF ervir ervez/ servir # is:impe is:2pl
 SFX iG Y 43
 SFX iG êtir êtir/ vêtir # is:infi
 SFX iG êtir êtant/ vêtir # is:ppre
-SFX iG êtir êtu/ vêtir # is:ppas is:adj is:mas is:sg
-SFX iG êtir êtus/ vêtir # is:ppas is:adj is:mas is:pl
-SFX iG êtir êtue/ vêtir # is:ppas is:adj is:fem is:sg
-SFX iG êtir êtues/ vêtir # is:ppas is:adj is:fem is:pl
+SFX iG êtir êtu/ vêtir # is:ppas po:adj is:mas is:sg
+SFX iG êtir êtus/ vêtir # is:ppas po:adj is:mas is:pl
+SFX iG êtir êtue/ vêtir # is:ppas po:adj is:fem is:sg
+SFX iG êtir êtues/ vêtir # is:ppas po:adj is:fem is:pl
 SFX iG êtir êts/ vêtir # is:ipre is:1sg is:2sg
 SFX iG êtir êt/ vêtir # is:ipre is:3sg
 SFX iG êtir êtons/ vêtir # is:ipre is:1pl
@@ -1985,10 +1985,10 @@ SFX iI ormir ormez/ dormir # is:impe is:2pl
 SFX iJ Y 43
 SFX iJ dormir dormir/ dormir # is:infi
 SFX iJ dormir dormant/ dormir # is:ppre
-SFX iJ dormir dormi/ dormir # is:ppas is:adj is:mas is:sg
-SFX iJ dormir dormis/ dormir # is:ppas is:adj is:mas is:pl
-SFX iJ dormir dormie/ dormir # is:ppas is:adj is:fem is:sg
-SFX iJ dormir dormies/ dormir # is:ppas is:adj is:fem is:pl
+SFX iJ dormir dormi/ dormir # is:ppas po:adj is:mas is:sg
+SFX iJ dormir dormis/ dormir # is:ppas po:adj is:mas is:pl
+SFX iJ dormir dormie/ dormir # is:ppas po:adj is:fem is:sg
+SFX iJ dormir dormies/ dormir # is:ppas po:adj is:fem is:pl
 SFX iJ dormir dors/ dormir # is:ipre is:1sg is:2sg
 SFX iJ dormir dort/ dormir # is:ipre is:3sg
 SFX iJ dormir dormons/ dormir # is:ipre is:1pl
@@ -2030,9 +2030,9 @@ SFX iJ dormir dormez/ dormir # is:impe is:2pl
 SFX iK Y 42
 SFX iK quérir quérir/ quérir # is:infi
 SFX iK quérir quérant/ quérir # is:ppre
-SFX iK quérir quis/ quérir # is:ppas is:adj is:mas is:inv
-SFX iK quérir quise/ quérir # is:ppas is:adj is:fem is:sg
-SFX iK quérir quises/ quérir # is:ppas is:adj is:fem is:pl
+SFX iK quérir quis/ quérir # is:ppas po:adj is:mas is:inv
+SFX iK quérir quise/ quérir # is:ppas po:adj is:fem is:sg
+SFX iK quérir quises/ quérir # is:ppas po:adj is:fem is:pl
 SFX iK quérir quiers/ quérir # is:ipre is:1sg is:2sg
 SFX iK quérir quiert/ quérir # is:ipre is:3sg
 SFX iK quérir quérons/ quérir # is:ipre is:1pl
@@ -2074,9 +2074,9 @@ SFX iK quérir quérez/ quérir # is:impe is:2pl
 SFX iM Y 42
 SFX iM quérir quérir/ quérir # is:infi
 SFX iM quérir quérant/ quérir # is:ppre
-SFX iM quérir quis/ quérir # is:ppas is:adj is:mas is:inv
-SFX iM quérir quise/ quérir # is:ppas is:adj is:fem is:sg
-SFX iM quérir quises/ quérir # is:ppas is:adj is:fem is:pl
+SFX iM quérir quis/ quérir # is:ppas po:adj is:mas is:inv
+SFX iM quérir quise/ quérir # is:ppas po:adj is:fem is:sg
+SFX iM quérir quises/ quérir # is:ppas po:adj is:fem is:pl
 SFX iM quérir quiers/ quérir # is:ipre is:1sg is:2sg
 SFX iM quérir quiert/ quérir # is:ipre is:3sg
 SFX iM quérir quérons/ quérir # is:ipre is:1pl
@@ -2118,10 +2118,10 @@ SFX iM quérir quérez/ quérir # is:impe is:2pl
 SFX iN Y 41
 SFX iN uir uir/ fuir # is:infi
 SFX iN uir uyant/ fuir # is:ppre
-SFX iN uir ui/ fuir # is:ppas is:adj is:mas is:sg
-SFX iN uir uis/ fuir # is:ppas is:adj is:mas is:pl
-SFX iN uir uie/ fuir # is:ppas is:adj is:fem is:sg
-SFX iN uir uies/ fuir # is:ppas is:adj is:fem is:pl
+SFX iN uir ui/ fuir # is:ppas po:adj is:mas is:sg
+SFX iN uir uis/ fuir # is:ppas po:adj is:mas is:pl
+SFX iN uir uie/ fuir # is:ppas po:adj is:fem is:sg
+SFX iN uir uies/ fuir # is:ppas po:adj is:fem is:pl
 SFX iN uir uis/ fuir # is:ipre is:ipsi is:1sg is:2sg
 SFX iN uir uit/ fuir # is:ipre is:ipsi is:3sg
 SFX iN uir uyons/ fuir # is:ipre is:1pl
@@ -2161,10 +2161,10 @@ SFX iN uir uyez/ fuir # is:impe is:2pl
 SFX iO Y 41
 SFX iO fuir fuir/ enfuir # is:infi
 SFX iO fuir fuyant/ enfuir # is:ppre
-SFX iO fuir fui/ enfuir # is:ppas is:adj is:mas is:sg
-SFX iO fuir fuis/ enfuir # is:ppas is:adj is:mas is:pl
-SFX iO fuir fuie/ enfuir # is:ppas is:adj is:fem is:sg
-SFX iO fuir fuies/ enfuir # is:ppas is:adj is:fem is:pl
+SFX iO fuir fui/ enfuir # is:ppas po:adj is:mas is:sg
+SFX iO fuir fuis/ enfuir # is:ppas po:adj is:mas is:pl
+SFX iO fuir fuie/ enfuir # is:ppas po:adj is:fem is:sg
+SFX iO fuir fuies/ enfuir # is:ppas po:adj is:fem is:pl
 SFX iO fuir fuis/ enfuir # is:ipre is:ipsi is:1sg is:2sg
 SFX iO fuir fuit/ enfuir # is:ipre is:ipsi is:3sg
 SFX iO fuir fuyons/ enfuir # is:ipre is:1pl
@@ -2204,10 +2204,10 @@ SFX iO fuir fuyez/ enfuir # is:impe is:2pl
 SFX iP Y 43
 SFX iP ourir ourir/ mourir # is:infi
 SFX iP ourir ourant/ mourir # is:ppre
-SFX iP ourir ort/ mourir # is:ppas is:adj is:mas is:sg
-SFX iP ourir orts/ mourir # is:ppas is:adj is:mas is:pl
-SFX iP ourir orte/ mourir # is:ppas is:adj is:fem is:sg
-SFX iP ourir ortes/ mourir # is:ppas is:adj is:fem is:pl
+SFX iP ourir ort/ mourir # is:ppas po:adj is:mas is:sg
+SFX iP ourir orts/ mourir # is:ppas po:adj is:mas is:pl
+SFX iP ourir orte/ mourir # is:ppas po:adj is:fem is:sg
+SFX iP ourir ortes/ mourir # is:ppas po:adj is:fem is:pl
 SFX iP ourir eurs/ mourir # is:ipre is:1sg is:2sg
 SFX iP ourir eurt/ mourir # is:ipre is:3sg
 SFX iP ourir ourons/ mourir # is:ipre is:1pl
@@ -2249,10 +2249,10 @@ SFX iP ourir ourez/ mourir # is:impe is:2pl
 SFX iQ Y 43
 SFX iQ ouillir ouillir/ bouillir # is:infi
 SFX iQ ouillir ouillant/ bouillir # is:ppre
-SFX iQ ouillir ouilli/ bouillir # is:ppas is:adj is:mas is:sg
-SFX iQ ouillir ouillis/ bouillir # is:ppas is:adj is:mas is:pl
-SFX iQ ouillir ouillie/ bouillir # is:ppas is:adj is:fem is:sg
-SFX iQ ouillir ouillies/ bouillir # is:ppas is:adj is:fem is:pl
+SFX iQ ouillir ouilli/ bouillir # is:ppas po:adj is:mas is:sg
+SFX iQ ouillir ouillis/ bouillir # is:ppas po:adj is:mas is:pl
+SFX iQ ouillir ouillie/ bouillir # is:ppas po:adj is:fem is:sg
+SFX iQ ouillir ouillies/ bouillir # is:ppas po:adj is:fem is:pl
 SFX iQ ouillir ous/ bouillir # is:ipre is:1sg is:2sg
 SFX iQ ouillir out/ bouillir # is:ipre is:3sg
 SFX iQ ouillir ouillons/ bouillir # is:ipre is:1pl
@@ -2294,10 +2294,10 @@ SFX iQ ouillir ouillez/ bouillir # is:impe is:2pl
 SFX iR Y 41
 SFX iR ueillir ueillir/ cueillir # is:infi
 SFX iR ueillir ueillant/ cueillir # is:ppre
-SFX iR ueillir ueilli/ cueillir # is:ppas is:adj is:mas is:sg
-SFX iR ueillir ueillis/ cueillir # is:ppas is:adj is:mas is:pl
-SFX iR ueillir ueillie/ cueillir # is:ppas is:adj is:fem is:sg
-SFX iR ueillir ueillies/ cueillir # is:ppas is:adj is:fem is:pl
+SFX iR ueillir ueilli/ cueillir # is:ppas po:adj is:mas is:sg
+SFX iR ueillir ueillis/ cueillir # is:ppas po:adj is:mas is:pl
+SFX iR ueillir ueillie/ cueillir # is:ppas po:adj is:fem is:sg
+SFX iR ueillir ueillies/ cueillir # is:ppas po:adj is:fem is:pl
 SFX iR ueillir ueille/ cueillir # is:ipre is:spre is:1sg is:3sg
 SFX iR ueillir ueilles/ cueillir # is:ipre is:spre is:2sg
 SFX iR ueillir ueillons/ cueillir # is:ipre is:1pl
@@ -2377,10 +2377,10 @@ SFX iS aillir aillez/ aillir # is:impe is:2pl
 SFX iT Y 41
 SFX iT saillir saillir/ aillir # is:infi
 SFX iT saillir saillant/ aillir # is:ppre
-SFX iT saillir sailli/ aillir # is:ppas is:adj is:mas is:sg
-SFX iT saillir saillis/ aillir # is:ppas is:adj is:mas is:pl
-SFX iT saillir saillie/ aillir # is:ppas is:adj is:fem is:sg
-SFX iT saillir saillies/ aillir # is:ppas is:adj is:fem is:pl
+SFX iT saillir sailli/ aillir # is:ppas po:adj is:mas is:sg
+SFX iT saillir saillis/ aillir # is:ppas po:adj is:mas is:pl
+SFX iT saillir saillie/ aillir # is:ppas po:adj is:fem is:sg
+SFX iT saillir saillies/ aillir # is:ppas po:adj is:fem is:pl
 SFX iT saillir saille/ aillir # is:ipre is:spre is:1sg is:3sg
 SFX iT saillir sailles/ aillir # is:ipre is:spre is:2sg
 SFX iT saillir saillons/ aillir # is:ipre is:1pl
@@ -2474,10 +2474,10 @@ SFX iV ésir isaient/ gésir # is:iimp is:3pl
 SFX iW Y 54
 SFX iW uïr uïr/ ouïr # is:infi
 SFX iW uïr yant/ ouïr # is:ppre
-SFX iW uïr uï/ ouïr # is:ppas is:adj is:mas is:sg
-SFX iW uïr uïs/ ouïr # is:ppas is:adj is:mas is:pl
-SFX iW uïr uïe/ ouïr # is:ppas is:adj is:fem is:sg
-SFX iW uïr uïes/ ouïr # is:ppas is:adj is:fem is:pl
+SFX iW uïr uï/ ouïr # is:ppas po:adj is:mas is:sg
+SFX iW uïr uïs/ ouïr # is:ppas po:adj is:mas is:pl
+SFX iW uïr uïe/ ouïr # is:ppas po:adj is:fem is:sg
+SFX iW uïr uïes/ ouïr # is:ppas po:adj is:fem is:pl
 SFX iW uïr is/ ouïr # is:ipre is:1sg is:2sg
 SFX iW uïr it/ ouïr # is:ipre is:3sg
 SFX iW uïr yons/ ouïr # is:ipre is:1pl
@@ -2529,17 +2529,17 @@ SFX iW uïr yez/ ouïr # is:impe is:2pl
 
 SFX iX Y 5
 SFX iX érir érir/ férir # is:infi
-SFX iX érir éru/ férir # is:ppas is:adj is:mas is:sg
-SFX iX érir érus/ férir # is:ppas is:adj is:mas is:pl
-SFX iX érir érue/ férir # is:ppas is:adj is:fem is:sg
-SFX iX érir érues/ férir # is:ppas is:adj is:fem is:pl
+SFX iX érir éru/ férir # is:ppas po:adj is:mas is:sg
+SFX iX érir érus/ férir # is:ppas po:adj is:mas is:pl
+SFX iX érir érue/ férir # is:ppas po:adj is:fem is:sg
+SFX iX érir érues/ férir # is:ppas po:adj is:fem is:pl
 
 SFX iY Y 5
 SFX iY ssir ssir/ issir # is:infi
-SFX iY ssir ssu/ issir # is:ppas is:adj is:mas is:sg
-SFX iY ssir ssus/ issir # is:ppas is:adj is:mas is:pl
-SFX iY ssir ssue/ issir # is:ppas is:adj is:fem is:sg
-SFX iY ssir ssues/ issir # is:ppas is:adj is:fem is:pl
+SFX iY ssir ssu/ issir # is:ppas po:adj is:mas is:sg
+SFX iY ssir ssus/ issir # is:ppas po:adj is:mas is:pl
+SFX iY ssir ssue/ issir # is:ppas po:adj is:fem is:sg
+SFX iY ssir ssues/ issir # is:ppas po:adj is:fem is:pl
 
 SFX pA Y 45
 SFX pA ouvoir ouvoir/ pouvoir # is:infi
@@ -2591,10 +2591,10 @@ SFX pA ouvoir ussent/ pouvoir # is:simp is:3pl
 SFX pB Y 49
 SFX pB ouloir ouloir/ vouloir # is:infi
 SFX pB ouloir oulant/ vouloir # is:ppre
-SFX pB ouloir oulu/ vouloir # is:ppas is:adj is:mas is:sg
-SFX pB ouloir oulus/ vouloir # is:ppas is:adj is:mas is:pl
-SFX pB ouloir oulue/ vouloir # is:ppas is:adj is:fem is:sg
-SFX pB ouloir oulues/ vouloir # is:ppas is:adj is:fem is:pl
+SFX pB ouloir oulu/ vouloir # is:ppas po:adj is:mas is:sg
+SFX pB ouloir oulus/ vouloir # is:ppas po:adj is:mas is:pl
+SFX pB ouloir oulue/ vouloir # is:ppas po:adj is:fem is:sg
+SFX pB ouloir oulues/ vouloir # is:ppas po:adj is:fem is:pl
 SFX pB ouloir eux/ vouloir # is:ipre is:1sg is:2sg
 SFX pB ouloir eut/ vouloir # is:ipre is:3sg
 SFX pB ouloir oulons/ vouloir # is:ipre is:1pl
@@ -2642,11 +2642,11 @@ SFX pB ouloir oulez/ vouloir # is:impe is:2pl
 SFX pC Y 46
 SFX pC evoir evoir/ devoir # is:infi
 SFX pC evoir evant/ devoir # is:ppre
-SFX pC evoir û/ redevoir # is:ppas is:adj is:epi is:inv
-SFX pC evoir u/ redevoir # is:ppas is:adj is:epi is:inv
-SFX pC evoir us/ devoir # is:ppas is:adj is:mas is:pl
-SFX pC evoir ue/ devoir # is:ppas is:adj is:fem is:sg
-SFX pC evoir ues/ devoir # is:ppas is:adj is:fem is:pl
+SFX pC evoir û/ redevoir # is:ppas po:adj is:epi is:inv
+SFX pC evoir u/ redevoir # is:ppas po:adj is:epi is:inv
+SFX pC evoir us/ devoir # is:ppas po:adj is:mas is:pl
+SFX pC evoir ue/ devoir # is:ppas po:adj is:fem is:sg
+SFX pC evoir ues/ devoir # is:ppas po:adj is:fem is:pl
 SFX pC evoir ois/ devoir # is:ipre is:1sg is:2sg
 SFX pC evoir oit/ devoir # is:ipre is:3sg
 SFX pC evoir evons/ devoir # is:ipre is:1pl
@@ -2688,15 +2688,15 @@ SFX pC evoir evons/ devoir # is:impe is:1pl
 SFX pC evoir evez/ devoir # is:impe is:2pl
 
 SFX pD Y 1
-SFX pD evoir û devoir # is:ppas is:adj is:mas is:sg
+SFX pD evoir û devoir # is:ppas po:adj is:mas is:sg
 
 SFX pE Y 46
 SFX pE avoir avoir/ savoir # is:infi
 SFX pE avoir achant/ savoir # is:ppre
-SFX pE avoir u/ savoir # is:ppas is:adj is:mas is:sg
-SFX pE avoir us/ savoir # is:ppas is:adj is:mas is:pl
-SFX pE avoir ue/ savoir # is:ppas is:adj is:fem is:sg
-SFX pE avoir ues/ savoir # is:ppas is:adj is:fem is:pl
+SFX pE avoir u/ savoir # is:ppas po:adj is:mas is:sg
+SFX pE avoir us/ savoir # is:ppas po:adj is:mas is:pl
+SFX pE avoir ue/ savoir # is:ppas po:adj is:fem is:sg
+SFX pE avoir ues/ savoir # is:ppas po:adj is:fem is:pl
 SFX pE avoir ais/ savoir # is:ipre is:1sg is:2sg
 SFX pE avoir ait/ savoir # is:ipre is:3sg
 SFX pE avoir avons/ savoir # is:ipre is:1pl
@@ -2741,10 +2741,10 @@ SFX pE avoir achez/ savoir # is:impe is:2pl
 SFX pF Y 54
 SFX pF oir oir/ voir # is:infi
 SFX pF oir oyant/ voir # is:ppre
-SFX pF oir u/ voir # is:ppas is:adj is:mas is:sg
-SFX pF oir us/ voir # is:ppas is:adj is:mas is:pl
-SFX pF oir ue/ voir # is:ppas is:adj is:fem is:sg
-SFX pF oir ues/ voir # is:ppas is:adj is:fem is:pl
+SFX pF oir u/ voir # is:ppas po:adj is:mas is:sg
+SFX pF oir us/ voir # is:ppas po:adj is:mas is:pl
+SFX pF oir ue/ voir # is:ppas po:adj is:fem is:sg
+SFX pF oir ues/ voir # is:ppas po:adj is:fem is:pl
 SFX pF oir ois/ voir # is:ipre is:1sg is:2sg
 SFX pF oir oit/ voir # is:ipre is:3sg
 SFX pF oir oyons/ voir # is:ipre is:1pl
@@ -2810,10 +2810,10 @@ SFX pG oir erraient/ voir # is:cond is:3pl
 SFX pH Y 43
 SFX pH ouvoir ouvoir/ mouvoir # is:infi
 SFX pH ouvoir ouvant/ mouvoir # is:ppre
-SFX pH ouvoir u/ .mouvoir # is:ppas is:adj is:mas is:sg
-SFX pH ouvoir us/ mouvoir # is:ppas is:adj is:mas is:pl
-SFX pH ouvoir ue/ mouvoir # is:ppas is:adj is:fem is:sg
-SFX pH ouvoir ues/ mouvoir # is:ppas is:adj is:fem is:pl
+SFX pH ouvoir u/ .mouvoir # is:ppas po:adj is:mas is:sg
+SFX pH ouvoir us/ mouvoir # is:ppas po:adj is:mas is:pl
+SFX pH ouvoir ue/ mouvoir # is:ppas po:adj is:fem is:sg
+SFX pH ouvoir ues/ mouvoir # is:ppas po:adj is:fem is:pl
 SFX pH ouvoir eus/ mouvoir # is:ipre is:1sg is:2sg
 SFX pH ouvoir eut/ mouvoir # is:ipre is:3sg
 SFX pH ouvoir ouvons/ mouvoir # is:ipre is:1pl
@@ -2853,16 +2853,16 @@ SFX pH ouvoir ouvons/ mouvoir # is:impe is:1pl
 SFX pH ouvoir ouvez/ mouvoir # is:impe is:2pl
 
 SFX pI Y 2
-SFX pI ouvoir û/ mouvoir # is:ppas is:adj is:mas is:sg
-SFX pI ouvoir u/ mouvoir # is:ppas is:adj is:mas is:sg
+SFX pI ouvoir û/ mouvoir # is:ppas po:adj is:mas is:sg
+SFX pI ouvoir u/ mouvoir # is:ppas po:adj is:mas is:sg
 
 SFX pJ Y 43
 SFX pJ ourvoir ourvoir/ pourvoir # is:infi
 SFX pJ ourvoir ourvoyant/ pourvoir # is:ppre
-SFX pJ ourvoir ourvu/ pourvoir # is:ppas is:adj is:mas is:sg
-SFX pJ ourvoir ourvus/ pourvoir # is:ppas is:adj is:mas is:pl
-SFX pJ ourvoir ourvue/ pourvoir # is:ppas is:adj is:fem is:sg
-SFX pJ ourvoir ourvues/ pourvoir # is:ppas is:adj is:fem is:pl
+SFX pJ ourvoir ourvu/ pourvoir # is:ppas po:adj is:mas is:sg
+SFX pJ ourvoir ourvus/ pourvoir # is:ppas po:adj is:mas is:pl
+SFX pJ ourvoir ourvue/ pourvoir # is:ppas po:adj is:fem is:sg
+SFX pJ ourvoir ourvues/ pourvoir # is:ppas po:adj is:fem is:pl
 SFX pJ ourvoir ourvois/ pourvoir # is:ipre is:1sg is:2sg
 SFX pJ ourvoir ourvoit/ pourvoir # is:ipre is:3sg
 SFX pJ ourvoir ourvoyons/ pourvoir # is:ipre is:1pl
@@ -2904,10 +2904,10 @@ SFX pJ ourvoir ourvoyez/ pourvoir # is:impe is:2pl
 SFX pK Y 43
 SFX pK cevoir cevoir/ cevoir # is:infi
 SFX pK cevoir cevant/ cevoir # is:ppre
-SFX pK cevoir çu/ cevoir # is:ppas is:adj is:mas is:sg
-SFX pK cevoir çus/ cevoir # is:ppas is:adj is:mas is:pl
-SFX pK cevoir çue/ cevoir # is:ppas is:adj is:fem is:sg
-SFX pK cevoir çues/ cevoir # is:ppas is:adj is:fem is:pl
+SFX pK cevoir çu/ cevoir # is:ppas po:adj is:mas is:sg
+SFX pK cevoir çus/ cevoir # is:ppas po:adj is:mas is:pl
+SFX pK cevoir çue/ cevoir # is:ppas po:adj is:fem is:sg
+SFX pK cevoir çues/ cevoir # is:ppas po:adj is:fem is:pl
 SFX pK cevoir çois/ cevoir # is:ipre is:1sg is:2sg
 SFX pK cevoir çoit/ cevoir # is:ipre is:3sg
 SFX pK cevoir cevons/ cevoir # is:ipre is:1pl
@@ -3040,10 +3040,10 @@ SFX pN valoir valez/ valoir # is:impe is:2pl
 SFX pO Y 17
 SFX pO valoir valoir/ revaloir # is:infi
 SFX pO valoir valant/ revaloir # is:ppre
-SFX pO valoir valu/ revaloir # is:ppas is:adj is:mas is:sg
-SFX pO valoir valus/ revaloir # is:ppas is:adj is:mas is:pl
-SFX pO valoir value/ revaloir # is:ppas is:adj is:fem is:sg
-SFX pO valoir values/ revaloir # is:ppas is:adj is:fem is:pl
+SFX pO valoir valu/ revaloir # is:ppas po:adj is:mas is:sg
+SFX pO valoir valus/ revaloir # is:ppas po:adj is:mas is:pl
+SFX pO valoir value/ revaloir # is:ppas po:adj is:fem is:sg
+SFX pO valoir values/ revaloir # is:ppas po:adj is:fem is:pl
 SFX pO valoir vaudrai/ revaloir # is:ifut is:1sg
 SFX pO valoir vaudras/ revaloir # is:ifut is:2sg
 SFX pO valoir vaudra/ revaloir # is:ifut is:3sg
@@ -3074,12 +3074,12 @@ SFX pS sseoir sseyant/ seoir # is:ppre
 SFX pS ssoir sseyant/ soir # is:ppre
 SFX pS sseoir ssoyant/ seoir # is:ppre
 SFX pS ssoir ssoyant/ soir # is:ppre
-SFX pS sseoir ssis/ seoir # is:ppas is:adj is:mas is:inv
-SFX pS sseoir ssise/ seoir # is:ppas is:adj is:fem is:sg
-SFX pS sseoir ssises/ seoir # is:ppas is:adj is:fem is:pl
-SFX pS ssoir ssis/ soir # is:ppas is:adj is:mas is:inv
-SFX pS ssoir ssise/ soir # is:ppas is:adj is:fem is:sg
-SFX pS ssoir ssises/ soir # is:ppas is:adj is:fem is:pl
+SFX pS sseoir ssis/ seoir # is:ppas po:adj is:mas is:inv
+SFX pS sseoir ssise/ seoir # is:ppas po:adj is:fem is:sg
+SFX pS sseoir ssises/ seoir # is:ppas po:adj is:fem is:pl
+SFX pS ssoir ssis/ soir # is:ppas po:adj is:mas is:inv
+SFX pS ssoir ssise/ soir # is:ppas po:adj is:fem is:sg
+SFX pS ssoir ssises/ soir # is:ppas po:adj is:fem is:pl
 SFX pS sseoir ssieds/ seoir # is:ipre is:1sg is:2sg
 SFX pS sseoir ssied/ seoir # is:ipre is:3sg
 SFX pS sseoir sseyons/ seoir # is:ipre is:1pl
@@ -3211,12 +3211,12 @@ SFX pT Y 83
 SFX pT oir oir/ oir # is:infi
 SFX pT urseoir ursoyant/ seoir # is:ppre
 SFX pT ursoir ursoyant/ soir # is:ppre
-SFX pT urseoir ursis/ seoir # is:ppas is:adj is:mas is:inv
-SFX pT urseoir ursise/ seoir # is:ppas is:adj is:fem is:sg
-SFX pT urseoir ursises/ seoir # is:ppas is:adj is:fem is:pl
-SFX pT ursoir ursis/ soir # is:ppas is:adj is:mas is:inv
-SFX pT ursoir ursise/ soir # is:ppas is:adj is:fem is:sg
-SFX pT ursoir ursises/ soir # is:ppas is:adj is:fem is:pl
+SFX pT urseoir ursis/ seoir # is:ppas po:adj is:mas is:inv
+SFX pT urseoir ursise/ seoir # is:ppas po:adj is:fem is:sg
+SFX pT urseoir ursises/ seoir # is:ppas po:adj is:fem is:pl
+SFX pT ursoir ursis/ soir # is:ppas po:adj is:mas is:inv
+SFX pT ursoir ursise/ soir # is:ppas po:adj is:fem is:sg
+SFX pT ursoir ursises/ soir # is:ppas po:adj is:fem is:pl
 SFX pT urseoir ursois/ seoir # is:ipre is:1sg is:2sg
 SFX pT urseoir ursoit/ seoir # is:ipre is:3sg
 SFX pT urseoir ursoyons/ seoir # is:ipre is:1pl
@@ -3295,9 +3295,9 @@ SFX pT ursoir ursoyez/ soir # is:impe is:2pl
 SFX pU Y 5
 SFX pU eoir eoir/ seoir # is:infi
 SFX pU eoir éant/ seoir # is:ppre
-SFX pU eoir is/ seoir # is:ppas is:adj is:mas is:inv
-SFX pU eoir ise/ seoir # is:ppas is:adj is:fem is:sg
-SFX pU eoir ises/ seoir # is:ppas is:adj is:fem is:pl
+SFX pU eoir is/ seoir # is:ppas po:adj is:mas is:inv
+SFX pU eoir ise/ seoir # is:ppas po:adj is:fem is:sg
+SFX pU eoir ises/ seoir # is:ppas po:adj is:fem is:pl
 
 SFX pV Y 14
 SFX pV eoir eoir/ seoir # is:infi
@@ -3342,10 +3342,10 @@ SFX pW ssoir ssiéent/ soir # is:spre is:3pl
 
 SFX pX Y 53
 SFX pX hoir hoir/ choir # is:infi
-SFX pX hoir hu/ choir # is:ppas is:adj is:mas is:sg
-SFX pX hoir hus/ choir # is:ppas is:adj is:mas is:pl
-SFX pX hoir hue/ choir # is:ppas is:adj is:fem is:sg
-SFX pX hoir hues/ choir # is:ppas is:adj is:fem is:pl
+SFX pX hoir hu/ choir # is:ppas po:adj is:mas is:sg
+SFX pX hoir hus/ choir # is:ppas po:adj is:mas is:pl
+SFX pX hoir hue/ choir # is:ppas po:adj is:fem is:sg
+SFX pX hoir hues/ choir # is:ppas po:adj is:fem is:pl
 SFX pX hoir hois/ choir # is:ipre is:1sg is:2sg
 SFX pX hoir hoit/ choir # is:ipre is:3sg
 SFX pX hoir hoyons/ choir # is:ipre is:1pl
@@ -3398,10 +3398,10 @@ SFX pX hoir hoyez/ déchoir # is:impe is:2pl
 SFX pY Y 26
 SFX pY choir choir/ échoir # is:infi
 SFX pY choir chéant/ échoir # is:ppre
-SFX pY choir chu/ échoir # is:ppas is:adj is:mas is:sg
-SFX pY choir chus/ échoir # is:ppas is:adj is:mas is:pl
-SFX pY choir chue/ échoir # is:ppas is:adj is:fem is:sg
-SFX pY choir chues/ échoir # is:ppas is:adj is:fem is:pl
+SFX pY choir chu/ échoir # is:ppas po:adj is:mas is:sg
+SFX pY choir chus/ échoir # is:ppas po:adj is:mas is:pl
+SFX pY choir chue/ échoir # is:ppas po:adj is:fem is:sg
+SFX pY choir chues/ échoir # is:ppas po:adj is:fem is:pl
 SFX pY choir choit/ échoir # is:ipre is:3sg
 SFX pY choir chet/ échoir # is:ipre is:3sg
 SFX pY choir choient/ échoir # is:ipre is:3pl
@@ -3458,9 +3458,9 @@ SFX qA alloir allût/ falloir # is:simp is:3sg
 SFX rA Y 28
 SFX rA lore lore/ clore # is:infi
 SFX rA lore losant/ clore # is:ppre
-SFX rA lore los/ clore # is:ppas is:adj is:mas is:inv
-SFX rA lore lose/ clore # is:ppas is:adj is:fem is:sg
-SFX rA lore loses/ clore # is:ppas is:adj is:fem is:pl
+SFX rA lore los/ clore # is:ppas po:adj is:mas is:inv
+SFX rA lore lose/ clore # is:ppas po:adj is:fem is:sg
+SFX rA lore loses/ clore # is:ppas po:adj is:fem is:pl
 SFX rA lore los/ clore # is:ipre is:1sg is:2sg
 SFX rA lore lot/ .clore # is:ipre is:3sg
 SFX rA lore losons/ clore # is:ipre is:1pl
@@ -3491,9 +3491,9 @@ SFX rB lore lôt/ clore # is:ipre is:3sg
 SFX rC Y 28
 SFX rC clore clore/ clore # is:infi
 SFX rC clore closant/ clore # is:ppre
-SFX rC clore clos/ clore # is:ppas is:adj is:mas is:inv
-SFX rC clore close/ clore # is:ppas is:adj is:fem is:sg
-SFX rC clore closes/ clore # is:ppas is:adj is:fem is:pl
+SFX rC clore clos/ clore # is:ppas po:adj is:mas is:inv
+SFX rC clore close/ clore # is:ppas po:adj is:fem is:sg
+SFX rC clore closes/ clore # is:ppas po:adj is:fem is:pl
 SFX rC clore clos/ clore # is:ipre is:1sg is:2sg
 SFX rC clore clot/ clore # is:ipre is:3sg
 SFX rC clore closons/ clore # is:ipre is:1pl
@@ -3520,17 +3520,17 @@ SFX rC clore closez/ clore # is:impe is:2pl
 
 SFX rD Y 4
 SFX rD clore clore/ clore # is:infi
-SFX rD clore clos/ clore # is:ppas is:adj is:mas is:inv
-SFX rD clore close/ clore # is:ppas is:adj is:fem is:sg
-SFX rD clore closes/ clore # is:ppas is:adj is:fem is:pl
+SFX rD clore clos/ clore # is:ppas po:adj is:mas is:inv
+SFX rD clore close/ clore # is:ppas po:adj is:fem is:sg
+SFX rD clore closes/ clore # is:ppas po:adj is:fem is:pl
 
 SFX tA Y 44
 SFX tA re re/ [dp]re # is:infi
 SFX tA re ant/ [dp]re # is:ppre
-SFX tA re u/ [dp]re # is:ppas is:adj is:mas is:sg
-SFX tA re us/ [dp]re # is:ppas is:adj is:mas is:pl
-SFX tA re ue/ [dp]re # is:ppas is:adj is:fem is:sg
-SFX tA re ues/ [dp]re # is:ppas is:adj is:fem is:pl
+SFX tA re u/ [dp]re # is:ppas po:adj is:mas is:sg
+SFX tA re us/ [dp]re # is:ppas po:adj is:mas is:pl
+SFX tA re ue/ [dp]re # is:ppas po:adj is:fem is:sg
+SFX tA re ues/ [dp]re # is:ppas po:adj is:fem is:pl
 SFX tA re s/ [dp]re # is:ipre is:1sg is:2sg
 SFX tA dre d/ dre # is:ipre is:3sg
 SFX tA pre pt/ pre # is:ipre is:3sg
@@ -3573,10 +3573,10 @@ SFX tA re ez/ [dp]re # is:impe is:2pl
 SFX tD Y 43
 SFX tD perdre perdre/ perdre # is:infi
 SFX tD perdre perdant/ perdre # is:ppre
-SFX tD perdre perdu/ perdre # is:ppas is:adj is:mas is:sg
-SFX tD perdre perdus/ perdre # is:ppas is:adj is:mas is:pl
-SFX tD perdre perdue/ perdre # is:ppas is:adj is:fem is:sg
-SFX tD perdre perdues/ perdre # is:ppas is:adj is:fem is:pl
+SFX tD perdre perdu/ perdre # is:ppas po:adj is:mas is:sg
+SFX tD perdre perdus/ perdre # is:ppas po:adj is:mas is:pl
+SFX tD perdre perdue/ perdre # is:ppas po:adj is:fem is:sg
+SFX tD perdre perdues/ perdre # is:ppas po:adj is:fem is:pl
 SFX tD perdre perds/ perdre # is:ipre is:1sg is:2sg
 SFX tD perdre perd/ perdre # is:ipre is:3sg
 SFX tD perdre perdons/ perdre # is:ipre is:1pl
@@ -3659,9 +3659,9 @@ SFX tE dre dez/ dre # is:impe is:2pl
 SFX tF Y 42
 SFX tF rendre rendre/ prendre # is:infi
 SFX tF rendre renant/ prendre # is:ppre
-SFX tF rendre ris/ prendre # is:ppas is:adj is:mas is:inv
-SFX tF rendre rise/ prendre # is:ppas is:adj is:fem is:sg
-SFX tF rendre rises/ prendre # is:ppas is:adj is:fem is:pl
+SFX tF rendre ris/ prendre # is:ppas po:adj is:mas is:inv
+SFX tF rendre rise/ prendre # is:ppas po:adj is:fem is:sg
+SFX tF rendre rises/ prendre # is:ppas po:adj is:fem is:pl
 SFX tF rendre rends/ prendre # is:ipre is:1sg is:2sg
 SFX tF rendre rend/ prendre # is:ipre is:3sg
 SFX tF rendre renons/ prendre # is:ipre is:1pl
@@ -3703,9 +3703,9 @@ SFX tF rendre renez/ prendre # is:impe is:2pl
 SFX tG Y 42
 SFX tG prendre prendre/ prendre # is:infi
 SFX tG prendre prenant/ prendre # is:ppre
-SFX tG prendre pris/ prendre # is:ppas is:adj is:mas is:inv
-SFX tG prendre prise/ prendre # is:ppas is:adj is:fem is:sg
-SFX tG prendre prises/ prendre # is:ppas is:adj is:fem is:pl
+SFX tG prendre pris/ prendre # is:ppas po:adj is:mas is:inv
+SFX tG prendre prise/ prendre # is:ppas po:adj is:fem is:sg
+SFX tG prendre prises/ prendre # is:ppas po:adj is:fem is:pl
 SFX tG prendre prends/ prendre # is:ipre is:1sg is:2sg
 SFX tG prendre prend/ prendre # is:ipre is:3sg
 SFX tG prendre prenons/ prendre # is:ipre is:1pl
@@ -3747,10 +3747,10 @@ SFX tG prendre prenez/ prendre # is:impe is:2pl
 SFX tM Y 32
 SFX tM outre outre/ foutre # is:infi
 SFX tM outre outant/ foutre # is:ppre
-SFX tM outre outu/ foutre # is:ppas is:adj is:mas is:sg
-SFX tM outre outus/ foutre # is:ppas is:adj is:mas is:pl
-SFX tM outre outue/ foutre # is:ppas is:adj is:fem is:sg
-SFX tM outre outues/ foutre # is:ppas is:adj is:fem is:pl
+SFX tM outre outu/ foutre # is:ppas po:adj is:mas is:sg
+SFX tM outre outus/ foutre # is:ppas po:adj is:mas is:pl
+SFX tM outre outue/ foutre # is:ppas po:adj is:fem is:sg
+SFX tM outre outues/ foutre # is:ppas po:adj is:fem is:pl
 SFX tM outre ous/ foutre # is:ipre is:1sg is:2sg
 SFX tM outre out/ foutre # is:ipre is:3sg
 SFX tM outre outons/ foutre # is:ipre is:1pl
@@ -3780,18 +3780,18 @@ SFX tM outre outez/ foutre # is:impe is:2pl
 
 SFX tU Y 5
 SFX tU istre istre/ tistre # is:infi
-SFX tU istre issu/ tistre # is:ppas is:adj is:mas is:sg
-SFX tU istre issus/ tistre # is:ppas is:adj is:mas is:pl
-SFX tU istre issue/ tistre # is:ppas is:adj is:fem is:sg
-SFX tU istre issues/ tistre # is:ppas is:adj is:fem is:pl
+SFX tU istre issu/ tistre # is:ppas po:adj is:mas is:sg
+SFX tU istre issus/ tistre # is:ppas po:adj is:mas is:pl
+SFX tU istre issue/ tistre # is:ppas po:adj is:fem is:sg
+SFX tU istre issues/ tistre # is:ppas po:adj is:fem is:pl
 
 SFX uA Y 46
 SFX uA tre tre/ tre # is:infi
 SFX uA tre tant/ tre # is:ppre
-SFX uA tre tu/ tre # is:ppas is:adj is:mas is:sg
-SFX uA tre tus/ tre # is:ppas is:adj is:mas is:pl
-SFX uA tre tue/ tre # is:ppas is:adj is:fem is:sg
-SFX uA tre tues/ tre # is:ppas is:adj is:fem is:pl
+SFX uA tre tu/ tre # is:ppas po:adj is:mas is:sg
+SFX uA tre tus/ tre # is:ppas po:adj is:mas is:pl
+SFX uA tre tue/ tre # is:ppas po:adj is:fem is:sg
+SFX uA tre tues/ tre # is:ppas po:adj is:fem is:pl
 SFX uA ttre ts/ ttre # is:ipre is:1sg is:2sg
 SFX uA ttre t/ ttre # is:ipre is:3sg
 SFX uA tre ts/ embatre # is:ipre is:1sg is:2sg
@@ -3836,10 +3836,10 @@ SFX uA tre tez/ tre # is:impe is:2pl
 SFX uC Y 43
 SFX uC battre battre/ battre # is:infi
 SFX uC battre battant/ battre # is:ppre
-SFX uC battre battu/ battre # is:ppas is:adj is:mas is:sg
-SFX uC battre battus/ battre # is:ppas is:adj is:mas is:pl
-SFX uC battre battue/ battre # is:ppas is:adj is:fem is:sg
-SFX uC battre battues/ battre # is:ppas is:adj is:fem is:pl
+SFX uC battre battu/ battre # is:ppas po:adj is:mas is:sg
+SFX uC battre battus/ battre # is:ppas po:adj is:mas is:pl
+SFX uC battre battue/ battre # is:ppas po:adj is:fem is:sg
+SFX uC battre battues/ battre # is:ppas po:adj is:fem is:pl
 SFX uC battre bats/ battre # is:ipre is:1sg is:2sg
 SFX uC battre bat/ battre # is:ipre is:3sg
 SFX uC battre battons/ battre # is:ipre is:1pl
@@ -3881,10 +3881,10 @@ SFX uC battre battez/ battre # is:impe is:2pl
 SFX uD Y 33
 SFX uD battre battre/ battre # is:infi
 SFX uD battre battant/ battre # is:ppre
-SFX uD battre battu/ battre # is:ppas is:adj is:mas is:sg
-SFX uD battre battus/ battre # is:ppas is:adj is:mas is:pl
-SFX uD battre battue/ battre # is:ppas is:adj is:fem is:sg
-SFX uD battre battues/ battre # is:ppas is:adj is:fem is:pl
+SFX uD battre battu/ battre # is:ppas po:adj is:mas is:sg
+SFX uD battre battus/ battre # is:ppas po:adj is:mas is:pl
+SFX uD battre battue/ battre # is:ppas po:adj is:fem is:sg
+SFX uD battre battues/ battre # is:ppas po:adj is:fem is:pl
 SFX uD battre bat/ battre # is:ipre is:3sg
 SFX uD battre battons/ battre # is:ipre is:1pl
 SFX uD battre battez/ battre # is:ipre is:2pl
@@ -3916,9 +3916,9 @@ SFX uD battre battez-vous/ battre # is:impe is:2pl ds:+pr
 SFX vA Y 42
 SFX vA ettre ettre/ mettre # is:infi
 SFX vA ettre ettant/ mettre # is:ppre
-SFX vA ettre is/ mettre # is:ppas is:adj is:mas is:inv
-SFX vA ettre ise/ mettre # is:ppas is:adj is:fem is:sg
-SFX vA ettre ises/ mettre # is:ppas is:adj is:fem is:pl
+SFX vA ettre is/ mettre # is:ppas po:adj is:mas is:inv
+SFX vA ettre ise/ mettre # is:ppas po:adj is:fem is:sg
+SFX vA ettre ises/ mettre # is:ppas po:adj is:fem is:pl
 SFX vA ettre ets/ mettre # is:ipre is:1sg is:2sg
 SFX vA ettre et/ mettre # is:ipre is:3sg
 SFX vA ettre ettons/ mettre # is:ipre is:1pl
@@ -3960,9 +3960,9 @@ SFX vA ettre ettez/ mettre # is:impe is:2pl
 SFX vC Y 42
 SFX vC mettre mettre/ mettre # is:infi
 SFX vC mettre mettant/ mettre # is:ppre
-SFX vC mettre mis/ mettre # is:ppas is:adj is:mas is:inv
-SFX vC mettre mise/ mettre # is:ppas is:adj is:fem is:sg
-SFX vC mettre mises/ mettre # is:ppas is:adj is:fem is:pl
+SFX vC mettre mis/ mettre # is:ppas po:adj is:mas is:inv
+SFX vC mettre mise/ mettre # is:ppas po:adj is:fem is:sg
+SFX vC mettre mises/ mettre # is:ppas po:adj is:fem is:pl
 SFX vC mettre mets/ mettre # is:ipre is:1sg is:2sg
 SFX vC mettre met/ mettre # is:ipre is:3sg
 SFX vC mettre mettons/ mettre # is:ipre is:1pl
@@ -4004,10 +4004,10 @@ SFX vC mettre mettez/ mettre # is:impe is:2pl
 SFX wA Y 43
 SFX wA eindre eindre/ eindre # is:infi
 SFX wA eindre eignant/ eindre # is:ppre
-SFX wA eindre eint/ eindre # is:ppas is:adj is:mas is:sg
-SFX wA eindre eints/ eindre # is:ppas is:adj is:mas is:pl
-SFX wA eindre einte/ eindre # is:ppas is:adj is:fem is:sg
-SFX wA eindre eintes/ eindre # is:ppas is:adj is:fem is:pl
+SFX wA eindre eint/ eindre # is:ppas po:adj is:mas is:sg
+SFX wA eindre eints/ eindre # is:ppas po:adj is:mas is:pl
+SFX wA eindre einte/ eindre # is:ppas po:adj is:fem is:sg
+SFX wA eindre eintes/ eindre # is:ppas po:adj is:fem is:pl
 SFX wA eindre eins/ eindre # is:ipre is:1sg is:2sg
 SFX wA eindre eint/ eindre # is:ipre is:3sg
 SFX wA eindre eignons/ eindre # is:ipre is:1pl
@@ -4049,10 +4049,10 @@ SFX wA eindre eignez/ eindre # is:impe is:2pl
 SFX wB Y 43
 SFX wB indre indre/ indre # is:infi
 SFX wB indre ignant/ indre # is:ppre
-SFX wB indre int/ indre # is:ppas is:adj is:mas is:sg
-SFX wB indre ints/ indre # is:ppas is:adj is:mas is:pl
-SFX wB indre inte/ indre # is:ppas is:adj is:fem is:sg
-SFX wB indre intes/ indre # is:ppas is:adj is:fem is:pl
+SFX wB indre int/ indre # is:ppas po:adj is:mas is:sg
+SFX wB indre ints/ indre # is:ppas po:adj is:mas is:pl
+SFX wB indre inte/ indre # is:ppas po:adj is:fem is:sg
+SFX wB indre intes/ indre # is:ppas po:adj is:fem is:pl
 SFX wB indre ins/ indre # is:ipre is:1sg is:2sg
 SFX wB indre int/ indre # is:ipre is:3sg
 SFX wB indre ignons/ indre # is:ipre is:1pl
@@ -4094,10 +4094,10 @@ SFX wB indre ignez/ indre # is:impe is:2pl
 SFX wD Y 46
 SFX wD aire aire/ faire # is:infi
 SFX wD aire aisant/ faire # is:ppre
-SFX wD aire ait/ faire # is:ppas is:adj is:mas is:sg
-SFX wD aire aits/ faire # is:ppas is:adj is:mas is:pl
-SFX wD aire aite/ faire # is:ppas is:adj is:fem is:sg
-SFX wD aire aites/ faire # is:ppas is:adj is:fem is:pl
+SFX wD aire ait/ faire # is:ppas po:adj is:mas is:sg
+SFX wD aire aits/ faire # is:ppas po:adj is:mas is:pl
+SFX wD aire aite/ faire # is:ppas po:adj is:fem is:sg
+SFX wD aire aites/ faire # is:ppas po:adj is:fem is:pl
 SFX wD aire ais/ faire # is:ipre is:1sg is:2sg
 SFX wD aire ait/ faire # is:ipre is:3sg
 SFX wD aire aisons/ faire # is:ipre is:1pl
@@ -4142,10 +4142,10 @@ SFX wD aire aites/ faire # is:impe is:2pl
 SFX wF Y 14
 SFX wF faire faire/ faire # is:infi
 SFX wF faire faisant/ faire # is:ppre
-SFX wF faire fait/ faire # is:ppas is:adj is:mas is:sg
-SFX wF faire faits/ faire # is:ppas is:adj is:mas is:pl
-SFX wF faire faite/ faire # is:ppas is:adj is:fem is:sg
-SFX wF faire faites/ faire # is:ppas is:adj is:fem is:pl
+SFX wF faire fait/ faire # is:ppas po:adj is:mas is:sg
+SFX wF faire faits/ faire # is:ppas po:adj is:mas is:pl
+SFX wF faire faite/ faire # is:ppas po:adj is:fem is:sg
+SFX wF faire faites/ faire # is:ppas po:adj is:fem is:pl
 SFX wF faire fais/ faire # is:ipre is:1sg is:2sg
 SFX wF faire fait/ faire # is:ipre is:3sg
 SFX wF faire faisons/ faire # is:ipre is:1pl
@@ -4158,18 +4158,18 @@ SFX wF faire faites/ faire # is:impe is:2pl
 SFX wG Y 6
 SFX wG aire aire/ faire # is:infi
 SFX wG aire aisant/ faire # is:ppre
-SFX wG aire ait/ faire # is:ppas is:adj is:mas is:sg
-SFX wG aire aits/ faire # is:ppas is:adj is:mas is:pl
-SFX wG aire aite/ faire # is:ppas is:adj is:fem is:sg
-SFX wG aire aites/ faire # is:ppas is:adj is:fem is:pl
+SFX wG aire ait/ faire # is:ppas po:adj is:mas is:sg
+SFX wG aire aits/ faire # is:ppas po:adj is:mas is:pl
+SFX wG aire aite/ faire # is:ppas po:adj is:fem is:sg
+SFX wG aire aites/ faire # is:ppas po:adj is:fem is:pl
 
 SFX wL Y 32
 SFX wL raire raire/ traire # is:infi
 SFX wL raire rayant/ traire # is:ppre
-SFX wL raire rait/ traire # is:ppas is:adj is:mas is:sg
-SFX wL raire raits/ traire # is:ppas is:adj is:mas is:pl
-SFX wL raire raite/ traire # is:ppas is:adj is:fem is:sg
-SFX wL raire raites/ traire # is:ppas is:adj is:fem is:pl
+SFX wL raire rait/ traire # is:ppas po:adj is:mas is:sg
+SFX wL raire raits/ traire # is:ppas po:adj is:mas is:pl
+SFX wL raire raite/ traire # is:ppas po:adj is:fem is:sg
+SFX wL raire raites/ traire # is:ppas po:adj is:fem is:pl
 SFX wL raire rais/ traire # is:ipre is:1sg is:2sg
 SFX wL raire rait/ traire # is:ipre is:3sg
 SFX wL raire rayons/ traire # is:ipre is:1pl
@@ -4274,10 +4274,10 @@ SFX wN aire aisez/ aire # is:impe is:2pl
 SFX wO Y 43
 SFX wO aindre aindre/ aindre # is:infi
 SFX wO aindre aignant/ aindre # is:ppre
-SFX wO aindre aint/ aindre # is:ppas is:adj is:mas is:sg
-SFX wO aindre aints/ aindre # is:ppas is:adj is:mas is:pl
-SFX wO aindre ainte/ aindre # is:ppas is:adj is:fem is:sg
-SFX wO aindre aintes/ aindre # is:ppas is:adj is:fem is:pl
+SFX wO aindre aint/ aindre # is:ppas po:adj is:mas is:sg
+SFX wO aindre aints/ aindre # is:ppas po:adj is:mas is:pl
+SFX wO aindre ainte/ aindre # is:ppas po:adj is:fem is:sg
+SFX wO aindre aintes/ aindre # is:ppas po:adj is:fem is:pl
 SFX wO aindre ains/ aindre # is:ipre is:1sg is:2sg
 SFX wO aindre aint/ aindre # is:ipre is:3sg
 SFX wO aindre aignons/ aindre # is:ipre is:1pl
@@ -4319,10 +4319,10 @@ SFX wO aindre aignez/ aindre # is:impe is:2pl
 SFX wP Y 43
 SFX wP aincre aincre/ vaincre # is:infi
 SFX wP aincre ainquant/ vaincre # is:ppre
-SFX wP aincre aincu/ vaincre # is:ppas is:adj is:mas is:sg
-SFX wP aincre aincus/ vaincre # is:ppas is:adj is:mas is:pl
-SFX wP aincre aincue/ vaincre # is:ppas is:adj is:fem is:sg
-SFX wP aincre aincues/ vaincre # is:ppas is:adj is:fem is:pl
+SFX wP aincre aincu/ vaincre # is:ppas po:adj is:mas is:sg
+SFX wP aincre aincus/ vaincre # is:ppas po:adj is:mas is:pl
+SFX wP aincre aincue/ vaincre # is:ppas po:adj is:fem is:sg
+SFX wP aincre aincues/ vaincre # is:ppas po:adj is:fem is:pl
 SFX wP aincre aincs/ vaincre # is:ipre is:1sg is:2sg
 SFX wP aincre ainc/ vaincre # is:ipre is:3sg
 SFX wP aincre ainquons/ vaincre # is:ipre is:1pl
@@ -4439,14 +4439,14 @@ SFX wR Y 74
 SFX wR tre tre/ tre # is:infi
 SFX wR aître aissant/ naître # is:ppre
 SFX wR aitre aissant/ naitre # is:ppre
-SFX wR aître é/ naître # is:ppas is:adj is:mas is:sg
-SFX wR aître és/ naître # is:ppas is:adj is:mas is:pl
-SFX wR aître ée/ naître # is:ppas is:adj is:fem is:sg
-SFX wR aître ées/ naître # is:ppas is:adj is:fem is:pl
-SFX wR aitre é/ naitre # is:ppas is:adj is:mas is:sg
-SFX wR aitre és/ naitre # is:ppas is:adj is:mas is:pl
-SFX wR aitre ée/ naitre # is:ppas is:adj is:fem is:sg
-SFX wR aitre ées/ naitre # is:ppas is:adj is:fem is:pl
+SFX wR aître é/ naître # is:ppas po:adj is:mas is:sg
+SFX wR aître és/ naître # is:ppas po:adj is:mas is:pl
+SFX wR aître ée/ naître # is:ppas po:adj is:fem is:sg
+SFX wR aître ées/ naître # is:ppas po:adj is:fem is:pl
+SFX wR aitre é/ naitre # is:ppas po:adj is:mas is:sg
+SFX wR aitre és/ naitre # is:ppas po:adj is:mas is:pl
+SFX wR aitre ée/ naitre # is:ppas po:adj is:fem is:sg
+SFX wR aitre ées/ naitre # is:ppas po:adj is:fem is:pl
 SFX wR aître ais/ naître # is:ipre is:1sg is:2sg
 SFX wR aître aît/ naître # is:ipre is:3sg
 SFX wR aître aissons/ naître # is:ipre is:1pl
@@ -4515,14 +4515,14 @@ SFX wS Y 74
 SFX wS tre tre/ tre # is:infi
 SFX wS aître aissant/ paître # is:ppre
 SFX wS aitre aissant/ paitre # is:ppre
-SFX wS aître u/ repaître # is:ppas is:adj is:mas is:sg
-SFX wS aître us/ repaître # is:ppas is:adj is:mas is:pl
-SFX wS aître ue/ repaître # is:ppas is:adj is:fem is:sg
-SFX wS aître ues/ repaître # is:ppas is:adj is:fem is:pl
-SFX wS aitre u/ repaitre # is:ppas is:adj is:mas is:sg
-SFX wS aitre us/ repaitre # is:ppas is:adj is:mas is:pl
-SFX wS aitre ue/ repaitre # is:ppas is:adj is:fem is:sg
-SFX wS aitre ues/ repaitre # is:ppas is:adj is:fem is:pl
+SFX wS aître u/ repaître # is:ppas po:adj is:mas is:sg
+SFX wS aître us/ repaître # is:ppas po:adj is:mas is:pl
+SFX wS aître ue/ repaître # is:ppas po:adj is:fem is:sg
+SFX wS aître ues/ repaître # is:ppas po:adj is:fem is:pl
+SFX wS aitre u/ repaitre # is:ppas po:adj is:mas is:sg
+SFX wS aitre us/ repaitre # is:ppas po:adj is:mas is:pl
+SFX wS aitre ue/ repaitre # is:ppas po:adj is:fem is:sg
+SFX wS aitre ues/ repaitre # is:ppas po:adj is:fem is:pl
 SFX wS aître ais/ paître # is:ipre is:1sg is:2sg
 SFX wS aître aît/ paître # is:ipre is:3sg
 SFX wS aître aissons/ paître # is:ipre is:1pl
@@ -4591,18 +4591,18 @@ SFX wT Y 78
 SFX wT tre tre/ tre # is:infi
 SFX wT roître roissant/ croître # is:ppre
 SFX wT roitre roissant/ croitre # is:ppre
-SFX wT roître rû/ recroître # is:ppas is:adj is:mas is:sg
-SFX wT roître rûs/ recroître # is:ppas is:adj is:mas is:pl
-SFX wT roître rûe/ recroître # is:ppas is:adj is:fem is:sg
-SFX wT roître rûes/ recroître # is:ppas is:adj is:fem is:pl
-SFX wT roître ru/ décroître # is:ppas is:adj is:mas is:sg
-SFX wT roître rus/ décroître # is:ppas is:adj is:mas is:pl
-SFX wT roître rue/ décroître # is:ppas is:adj is:fem is:sg
-SFX wT roître rues/ décroître # is:ppas is:adj is:fem is:pl
-SFX wT roitre ru/ .croitre # is:ppas is:adj is:mas is:sg
-SFX wT roitre rus/ .croitre # is:ppas is:adj is:mas is:pl
-SFX wT roitre rue/ .croitre # is:ppas is:adj is:fem is:sg
-SFX wT roitre rues/ .croitre # is:ppas is:adj is:fem is:pl
+SFX wT roître rû/ recroître # is:ppas po:adj is:mas is:sg
+SFX wT roître rûs/ recroître # is:ppas po:adj is:mas is:pl
+SFX wT roître rûe/ recroître # is:ppas po:adj is:fem is:sg
+SFX wT roître rûes/ recroître # is:ppas po:adj is:fem is:pl
+SFX wT roître ru/ décroître # is:ppas po:adj is:mas is:sg
+SFX wT roître rus/ décroître # is:ppas po:adj is:mas is:pl
+SFX wT roître rue/ décroître # is:ppas po:adj is:fem is:sg
+SFX wT roître rues/ décroître # is:ppas po:adj is:fem is:pl
+SFX wT roitre ru/ .croitre # is:ppas po:adj is:mas is:sg
+SFX wT roitre rus/ .croitre # is:ppas po:adj is:mas is:pl
+SFX wT roitre rue/ .croitre # is:ppas po:adj is:fem is:sg
+SFX wT roitre rues/ .croitre # is:ppas po:adj is:fem is:pl
 SFX wT roître rois/ .croître # is:ipre is:1sg is:2sg
 SFX wT roître roît/ .croître # is:ipre is:3sg
 SFX wT roître roissons/ croître # is:ipre is:1pl
@@ -4668,14 +4668,14 @@ SFX wT roitre roissons/ croitre # is:impe is:1pl
 SFX wT roitre roissez/ croitre # is:impe is:2pl
 
 SFX wU Y 30
-SFX wU roître rû/ croître # is:ppas is:adj is:mas is:sg
-SFX wU roître rûs/ croître # is:ppas is:adj is:mas is:pl
-SFX wU roître rûe/ croître # is:ppas is:adj is:fem is:sg
-SFX wU roître rûes/ croître # is:ppas is:adj is:fem is:pl
-SFX wU roitre rû/ croitre # is:ppas is:adj is:mas is:sg
-SFX wU roitre rûs/ croitre # is:ppas is:adj is:mas is:pl
-SFX wU roitre rûe/ croitre # is:ppas is:adj is:fem is:sg
-SFX wU roitre rûes/ croitre # is:ppas is:adj is:fem is:pl
+SFX wU roître rû/ croître # is:ppas po:adj is:mas is:sg
+SFX wU roître rûs/ croître # is:ppas po:adj is:mas is:pl
+SFX wU roître rûe/ croître # is:ppas po:adj is:fem is:sg
+SFX wU roître rûes/ croître # is:ppas po:adj is:fem is:pl
+SFX wU roitre rû/ croitre # is:ppas po:adj is:mas is:sg
+SFX wU roitre rûs/ croitre # is:ppas po:adj is:mas is:pl
+SFX wU roitre rûe/ croitre # is:ppas po:adj is:fem is:sg
+SFX wU roitre rûes/ croitre # is:ppas po:adj is:fem is:pl
 SFX wU roître roîs/ croître # is:ipre is:1sg is:2sg
 SFX wU roître roît/ croître # is:ipre is:3sg
 SFX wU roitre roîs/ croitre # is:ipre is:1sg is:2sg
@@ -4703,14 +4703,14 @@ SFX wV Y 74
 SFX wV tre tre/ tre # is:infi
 SFX wV croître croissant/ croître # is:ppre
 SFX wV croitre croissant/ croitre # is:ppre
-SFX wV croître cru/ croître # is:ppas is:adj is:mas is:sg
-SFX wV croître crus/ croître # is:ppas is:adj is:mas is:pl
-SFX wV croître crue/ croître # is:ppas is:adj is:fem is:sg
-SFX wV croître crues/ croître # is:ppas is:adj is:fem is:pl
-SFX wV croitre cru/ croitre # is:ppas is:adj is:mas is:sg
-SFX wV croitre crus/ croitre # is:ppas is:adj is:mas is:pl
-SFX wV croitre crue/ croitre # is:ppas is:adj is:fem is:sg
-SFX wV croitre crues/ croitre # is:ppas is:adj is:fem is:pl
+SFX wV croître cru/ croître # is:ppas po:adj is:mas is:sg
+SFX wV croître crus/ croître # is:ppas po:adj is:mas is:pl
+SFX wV croître crue/ croître # is:ppas po:adj is:fem is:sg
+SFX wV croître crues/ croître # is:ppas po:adj is:fem is:pl
+SFX wV croitre cru/ croitre # is:ppas po:adj is:mas is:sg
+SFX wV croitre crus/ croitre # is:ppas po:adj is:mas is:pl
+SFX wV croitre crue/ croitre # is:ppas po:adj is:fem is:sg
+SFX wV croitre crues/ croitre # is:ppas po:adj is:fem is:pl
 SFX wV croître crois/ croître # is:ipre is:1sg is:2sg
 SFX wV croître croît/ croître # is:ipre is:3sg
 SFX wV croître croissons/ croître # is:ipre is:1pl
@@ -4778,10 +4778,10 @@ SFX wV croitre croissez/ croitre # is:impe is:2pl
 SFX xA Y 43
 SFX xA roire roire/ croire # is:infi
 SFX xA roire royant/ croire # is:ppre
-SFX xA roire ru/ croire # is:ppas is:adj is:mas is:sg
-SFX xA roire rus/ croire # is:ppas is:adj is:mas is:pl
-SFX xA roire rue/ croire # is:ppas is:adj is:fem is:sg
-SFX xA roire rues/ croire # is:ppas is:adj is:fem is:pl
+SFX xA roire ru/ croire # is:ppas po:adj is:mas is:sg
+SFX xA roire rus/ croire # is:ppas po:adj is:mas is:pl
+SFX xA roire rue/ croire # is:ppas po:adj is:fem is:sg
+SFX xA roire rues/ croire # is:ppas po:adj is:fem is:pl
 SFX xA roire rois/ croire # is:ipre is:1sg is:2sg
 SFX xA roire roit/ croire # is:ipre is:3sg
 SFX xA roire royons/ croire # is:ipre is:1pl
@@ -4823,10 +4823,10 @@ SFX xA roire royez/ croire # is:impe is:2pl
 SFX xC Y 43
 SFX xC oire oire/ boire # is:infi
 SFX xC oire uvant/ boire # is:ppre
-SFX xC oire u/ boire # is:ppas is:adj is:mas is:sg
-SFX xC oire us/ boire # is:ppas is:adj is:mas is:pl
-SFX xC oire ue/ boire # is:ppas is:adj is:fem is:sg
-SFX xC oire ues/ boire # is:ppas is:adj is:fem is:pl
+SFX xC oire u/ boire # is:ppas po:adj is:mas is:sg
+SFX xC oire us/ boire # is:ppas po:adj is:mas is:pl
+SFX xC oire ue/ boire # is:ppas po:adj is:fem is:sg
+SFX xC oire ues/ boire # is:ppas po:adj is:fem is:pl
 SFX xC oire ois/ boire # is:ipre is:1sg is:2sg
 SFX xC oire oit/ boire # is:ipre is:3sg
 SFX xC oire uvons/ boire # is:ipre is:1pl
@@ -4867,16 +4867,16 @@ SFX xC oire uvez/ boire # is:impe is:2pl
 
 SFX xJ Y 4
 SFX xJ clure clure/ clure # is:infi
-SFX xJ clure clus/ clure # is:ppas is:adj is:mas is:inv
-SFX xJ clure cluse/ clure # is:ppas is:adj is:fem is:sg
-SFX xJ clure cluses/ clure # is:ppas is:adj is:fem is:pl
+SFX xJ clure clus/ clure # is:ppas po:adj is:mas is:inv
+SFX xJ clure cluse/ clure # is:ppas po:adj is:fem is:sg
+SFX xJ clure cluses/ clure # is:ppas po:adj is:fem is:pl
 
 SFX xK Y 40
 SFX xK clure clure/ clure # is:infi
 SFX xK clure cluant/ clure # is:ppre
-SFX xK clure clus/ clure # is:ppas is:adj is:mas is:inv
-SFX xK clure cluse/ clure # is:ppas is:adj is:fem is:sg
-SFX xK clure cluses/ clure # is:ppas is:adj is:fem is:pl
+SFX xK clure clus/ clure # is:ppas po:adj is:mas is:inv
+SFX xK clure cluse/ clure # is:ppas po:adj is:fem is:sg
+SFX xK clure cluses/ clure # is:ppas po:adj is:fem is:pl
 SFX xK clure clus/ clure # is:ipre is:ipsi is:1sg is:2sg
 SFX xK clure clut/ clure # is:ipre is:ipsi is:3sg
 SFX xK clure cluons/ clure # is:ipre is:1pl
@@ -4916,13 +4916,13 @@ SFX xK clure cluez/ clure # is:impe is:2pl
 SFX xL Y 44
 SFX xL clure clure/ clure # is:infi
 SFX xL clure cluant/ clure # is:ppre
-SFX xL clure clus/ inclure # is:ppas is:adj is:mas is:inv
-SFX xL clure cluse/ inclure # is:ppas is:adj is:fem is:sg
-SFX xL clure cluses/ inclure # is:ppas is:adj is:fem is:pl
-SFX xL clure clu/ [eo].clure # is:ppas is:adj is:mas is:sg
-SFX xL clure clus/ [eo].clure # is:ppas is:adj is:mas is:pl
-SFX xL clure clue/ [eo].clure # is:ppas is:adj is:fem is:sg
-SFX xL clure clues/ [eo].clure # is:ppas is:adj is:fem is:pl
+SFX xL clure clus/ inclure # is:ppas po:adj is:mas is:inv
+SFX xL clure cluse/ inclure # is:ppas po:adj is:fem is:sg
+SFX xL clure cluses/ inclure # is:ppas po:adj is:fem is:pl
+SFX xL clure clu/ [eo].clure # is:ppas po:adj is:mas is:sg
+SFX xL clure clus/ [eo].clure # is:ppas po:adj is:mas is:pl
+SFX xL clure clue/ [eo].clure # is:ppas po:adj is:fem is:sg
+SFX xL clure clues/ [eo].clure # is:ppas po:adj is:fem is:pl
 SFX xL clure clus/ clure # is:ipre is:ipsi is:1sg is:2sg
 SFX xL clure clut/ clure # is:ipre is:ipsi is:3sg
 SFX xL clure cluons/ clure # is:ipre is:1pl
@@ -4979,15 +4979,15 @@ SFX xM ourdre ourdissent/ sourdre # is:simp is:3pl
 SFX xN Y 48
 SFX xN soudre soudre/ soudre # is:infi
 SFX xN soudre solvant/ soudre # is:ppre
-SFX xN soudre solu/ résoudre # is:ppas is:adj is:mas is:sg
-SFX xN soudre solus/ résoudre # is:ppas is:adj is:mas is:pl
-SFX xN soudre solue/ résoudre # is:ppas is:adj is:fem is:sg
-SFX xN soudre solues/ résoudre # is:ppas is:adj is:fem is:pl
-SFX xN soudre sous/ soudre # is:ppas is:adj is:mas is:inv
-SFX xN soudre sout/ soudre # is:ppas is:adj is:mas is:sg
-SFX xN soudre souts/ soudre # is:ppas is:adj is:mas is:pl
-SFX xN soudre soute/ soudre # is:ppas is:adj is:fem is:sg
-SFX xN soudre soutes/ soudre # is:ppas is:adj is:fem is:pl
+SFX xN soudre solu/ résoudre # is:ppas po:adj is:mas is:sg
+SFX xN soudre solus/ résoudre # is:ppas po:adj is:mas is:pl
+SFX xN soudre solue/ résoudre # is:ppas po:adj is:fem is:sg
+SFX xN soudre solues/ résoudre # is:ppas po:adj is:fem is:pl
+SFX xN soudre sous/ soudre # is:ppas po:adj is:mas is:inv
+SFX xN soudre sout/ soudre # is:ppas po:adj is:mas is:sg
+SFX xN soudre souts/ soudre # is:ppas po:adj is:mas is:pl
+SFX xN soudre soute/ soudre # is:ppas po:adj is:fem is:sg
+SFX xN soudre soutes/ soudre # is:ppas po:adj is:fem is:pl
 SFX xN soudre sous/ soudre # is:ipre is:1sg is:2sg
 SFX xN soudre sout/ soudre # is:ipre is:3sg
 SFX xN soudre solvons/ soudre # is:ipre is:1pl
@@ -5029,10 +5029,10 @@ SFX xN soudre solvez/ soudre # is:impe is:2pl
 SFX xO Y 43
 SFX xO oudre oudre/ coudre # is:infi
 SFX xO oudre ousant/ coudre # is:ppre
-SFX xO oudre ousu/ coudre # is:ppas is:adj is:mas is:sg
-SFX xO oudre ousus/ coudre # is:ppas is:adj is:mas is:pl
-SFX xO oudre ousue/ coudre # is:ppas is:adj is:fem is:sg
-SFX xO oudre ousues/ coudre # is:ppas is:adj is:fem is:pl
+SFX xO oudre ousu/ coudre # is:ppas po:adj is:mas is:sg
+SFX xO oudre ousus/ coudre # is:ppas po:adj is:mas is:pl
+SFX xO oudre ousue/ coudre # is:ppas po:adj is:fem is:sg
+SFX xO oudre ousues/ coudre # is:ppas po:adj is:fem is:pl
 SFX xO oudre ouds/ coudre # is:ipre is:1sg is:2sg
 SFX xO oudre oud/ coudre # is:ipre is:3sg
 SFX xO oudre ousons/ coudre # is:ipre is:1pl
@@ -5074,10 +5074,10 @@ SFX xO oudre ousez/ coudre # is:impe is:2pl
 SFX xP Y 43
 SFX xP oudre oudre/ moudre # is:infi
 SFX xP oudre oulant/ moudre # is:ppre
-SFX xP oudre oulu/ moudre # is:ppas is:adj is:mas is:sg
-SFX xP oudre oulus/ moudre # is:ppas is:adj is:mas is:pl
-SFX xP oudre oulue/ moudre # is:ppas is:adj is:fem is:sg
-SFX xP oudre oulues/ moudre # is:ppas is:adj is:fem is:pl
+SFX xP oudre oulu/ moudre # is:ppas po:adj is:mas is:sg
+SFX xP oudre oulus/ moudre # is:ppas po:adj is:mas is:pl
+SFX xP oudre oulue/ moudre # is:ppas po:adj is:fem is:sg
+SFX xP oudre oulues/ moudre # is:ppas po:adj is:fem is:pl
 SFX xP oudre ouds/ moudre # is:ipre is:1sg is:2sg
 SFX xP oudre oud/ moudre # is:ipre is:3sg
 SFX xP oudre oulons/ moudre # is:ipre is:1pl
@@ -5119,10 +5119,10 @@ SFX xP oudre oulez/ moudre # is:impe is:2pl
 SFX xQ Y 43
 SFX xQ uivre uivre/ suivre # is:infi
 SFX xQ uivre uivant/ suivre # is:ppre
-SFX xQ uivre uivi/ suivre # is:ppas is:adj is:mas is:sg
-SFX xQ uivre uivis/ suivre # is:ppas is:adj is:mas is:pl
-SFX xQ uivre uivie/ suivre # is:ppas is:adj is:fem is:sg
-SFX xQ uivre uivies/ suivre # is:ppas is:adj is:fem is:pl
+SFX xQ uivre uivi/ suivre # is:ppas po:adj is:mas is:sg
+SFX xQ uivre uivis/ suivre # is:ppas po:adj is:mas is:pl
+SFX xQ uivre uivie/ suivre # is:ppas po:adj is:fem is:sg
+SFX xQ uivre uivies/ suivre # is:ppas po:adj is:fem is:pl
 SFX xQ uivre uis/ suivre # is:ipre is:1sg is:2sg
 SFX xQ uivre uit/ suivre # is:ipre is:3sg
 SFX xQ uivre uivons/ suivre # is:ipre is:1pl
@@ -5223,10 +5223,10 @@ SFX xS ivre ivez/ vivre # is:impe is:2pl
 SFX y1 Y 43
 SFX y1 crire crire/ crire # is:infi
 SFX y1 crire crivant/ crire # is:ppre
-SFX y1 crire crit/ crire # is:ppas is:adj is:mas is:sg
-SFX y1 crire crits/ crire # is:ppas is:adj is:mas is:pl
-SFX y1 crire crite/ crire # is:ppas is:adj is:fem is:sg
-SFX y1 crire crites/ crire # is:ppas is:adj is:fem is:pl
+SFX y1 crire crit/ crire # is:ppas po:adj is:mas is:sg
+SFX y1 crire crits/ crire # is:ppas po:adj is:mas is:pl
+SFX y1 crire crite/ crire # is:ppas po:adj is:fem is:sg
+SFX y1 crire crites/ crire # is:ppas po:adj is:fem is:pl
 SFX y1 crire cris/ crire # is:ipre is:1sg is:2sg
 SFX y1 crire crit/ crire # is:ipre is:3sg
 SFX y1 crire crivons/ crire # is:ipre is:1pl
@@ -5268,10 +5268,10 @@ SFX y1 crire crivez/ crire # is:impe is:2pl
 SFX yA Y 43
 SFX yA ire ire/ lire # is:infi
 SFX yA ire isant/ lire # is:ppre
-SFX yA ire u/ lire # is:ppas is:adj is:mas is:sg
-SFX yA ire us/ lire # is:ppas is:adj is:mas is:pl
-SFX yA ire ue/ lire # is:ppas is:adj is:fem is:sg
-SFX yA ire ues/ lire # is:ppas is:adj is:fem is:pl
+SFX yA ire u/ lire # is:ppas po:adj is:mas is:sg
+SFX yA ire us/ lire # is:ppas po:adj is:mas is:pl
+SFX yA ire ue/ lire # is:ppas po:adj is:fem is:sg
+SFX yA ire ues/ lire # is:ppas po:adj is:fem is:pl
 SFX yA ire is/ lire # is:ipre is:1sg is:2sg
 SFX yA ire it/ lire # is:ipre is:3sg
 SFX yA ire isons/ lire # is:ipre is:1pl
@@ -5313,10 +5313,10 @@ SFX yA ire isez/ lire # is:impe is:2pl
 SFX yB Y 43
 SFX yB lire lire/ lire # is:infi
 SFX yB lire lisant/ lire # is:ppre
-SFX yB lire lu/ lire # is:ppas is:adj is:mas is:sg
-SFX yB lire lus/ lire # is:ppas is:adj is:mas is:pl
-SFX yB lire lue/ lire # is:ppas is:adj is:fem is:sg
-SFX yB lire lues/ lire # is:ppas is:adj is:fem is:pl
+SFX yB lire lu/ lire # is:ppas po:adj is:mas is:sg
+SFX yB lire lus/ lire # is:ppas po:adj is:mas is:pl
+SFX yB lire lue/ lire # is:ppas po:adj is:fem is:sg
+SFX yB lire lues/ lire # is:ppas po:adj is:fem is:pl
 SFX yB lire lis/ lire # is:ipre is:1sg is:2sg
 SFX yB lire lit/ lire # is:ipre is:3sg
 SFX yB lire lisons/ lire # is:ipre is:1pl
@@ -5358,10 +5358,10 @@ SFX yB lire lisez/ lire # is:impe is:2pl
 SFX yC Y 41
 SFX yC ire ire/ dire # is:infi
 SFX yC ire isant/ dire # is:ppre
-SFX yC ire it/ dire # is:ppas is:adj is:mas is:sg
-SFX yC ire its/ dire # is:ppas is:adj is:mas is:pl
-SFX yC ire ite/ dire # is:ppas is:adj is:fem is:sg
-SFX yC ire ites/ dire # is:ppas is:adj is:fem is:pl
+SFX yC ire it/ dire # is:ppas po:adj is:mas is:sg
+SFX yC ire its/ dire # is:ppas po:adj is:mas is:pl
+SFX yC ire ite/ dire # is:ppas po:adj is:fem is:sg
+SFX yC ire ites/ dire # is:ppas po:adj is:fem is:pl
 SFX yC ire is/ dire # is:ipre is:ipsi is:1sg is:2sg
 SFX yC ire it/ dire # is:ipre is:ipsi is:3sg
 SFX yC ire isons/ dire # is:ipre is:1pl
@@ -5401,10 +5401,10 @@ SFX yC ire ites/ dire # is:impe is:2pl
 SFX yD Y 41
 SFX yD dire dire/ dire # is:infi
 SFX yD dire disant/ dire # is:ppre
-SFX yD dire dit/ dire # is:ppas is:adj is:mas is:sg
-SFX yD dire dits/ dire # is:ppas is:adj is:mas is:pl
-SFX yD dire dite/ dire # is:ppas is:adj is:fem is:sg
-SFX yD dire dites/ dire # is:ppas is:adj is:fem is:pl
+SFX yD dire dit/ dire # is:ppas po:adj is:mas is:sg
+SFX yD dire dits/ dire # is:ppas po:adj is:mas is:pl
+SFX yD dire dite/ dire # is:ppas po:adj is:fem is:sg
+SFX yD dire dites/ dire # is:ppas po:adj is:fem is:pl
 SFX yD dire dis/ dire # is:ipre is:ipsi is:1sg is:2sg
 SFX yD dire dit/ dire # is:ipre is:ipsi is:3sg
 SFX yD dire disons/ dire # is:ipre is:1pl
@@ -5484,10 +5484,10 @@ SFX yE édire édisez/ édire # is:impe is:2pl
 SFX yF Y 37
 SFX yF audire audire/ udire # is:infi
 SFX yF audire audissant/ udire # is:ppre
-SFX yF audire audit/ udire # is:ppas is:adj is:mas is:sg
-SFX yF audire audits/ udire # is:ppas is:adj is:mas is:pl
-SFX yF audire audite/ udire # is:ppas is:adj is:fem is:sg
-SFX yF audire audites/ udire # is:ppas is:adj is:fem is:pl
+SFX yF audire audit/ udire # is:ppas po:adj is:mas is:sg
+SFX yF audire audits/ udire # is:ppas po:adj is:mas is:pl
+SFX yF audire audite/ udire # is:ppas po:adj is:fem is:sg
+SFX yF audire audites/ udire # is:ppas po:adj is:fem is:pl
 SFX yF audire audis/ udire # is:ipre is:ipsi is:1sg is:2sg
 SFX yF audire audit/ udire # is:ipre is:ipsi is:3sg
 SFX yF audire audissons/ udire # is:ipre is:1pl
@@ -5572,18 +5572,18 @@ SFX yJ ruire ruisse/ uire # is:spre is:3sg
 
 SFX yK Y 5
 SFX yK bduire bduire/ uire # is:infi
-SFX yK bduire bduit/ uire # is:ppas is:adj is:mas is:sg
-SFX yK bduire bduits/ uire # is:ppas is:adj is:mas is:pl
-SFX yK bduire bduite/ uire # is:ppas is:adj is:fem is:sg
-SFX yK bduire bduites/ uire # is:ppas is:adj is:fem is:pl
+SFX yK bduire bduit/ uire # is:ppas po:adj is:mas is:sg
+SFX yK bduire bduits/ uire # is:ppas po:adj is:mas is:pl
+SFX yK bduire bduite/ uire # is:ppas po:adj is:fem is:sg
+SFX yK bduire bduites/ uire # is:ppas po:adj is:fem is:pl
 
 SFX yL Y 43
 SFX yL uire uire/ uire # is:infi
 SFX yL uire uisant/ uire # is:ppre
-SFX yL uire uit/ uire # is:ppas is:adj is:mas is:sg
-SFX yL uire uits/ uire # is:ppas is:adj is:mas is:pl
-SFX yL uire uite/ uire # is:ppas is:adj is:fem is:sg
-SFX yL uire uites/ uire # is:ppas is:adj is:fem is:pl
+SFX yL uire uit/ uire # is:ppas po:adj is:mas is:sg
+SFX yL uire uits/ uire # is:ppas po:adj is:mas is:pl
+SFX yL uire uite/ uire # is:ppas po:adj is:fem is:sg
+SFX yL uire uites/ uire # is:ppas po:adj is:fem is:pl
 SFX yL uire uis/ uire # is:ipre is:1sg is:2sg
 SFX yL uire uit/ uire # is:ipre is:3sg
 SFX yL uire uisons/ uire # is:ipre is:1pl
@@ -5625,10 +5625,10 @@ SFX yL uire uisez/ uire # is:impe is:2pl
 SFX yM Y 43
 SFX yM uire uire/ uire # is:infi
 SFX yM uire uisant/ uire # is:ppre
-SFX yM uire uit/ uire # is:ppas is:adj is:mas is:sg
-SFX yM uire uits/ uire # is:ppas is:adj is:mas is:pl
-SFX yM uire uite/ uire # is:ppas is:adj is:fem is:sg
-SFX yM uire uites/ uire # is:ppas is:adj is:fem is:pl
+SFX yM uire uit/ uire # is:ppas po:adj is:mas is:sg
+SFX yM uire uits/ uire # is:ppas po:adj is:mas is:pl
+SFX yM uire uite/ uire # is:ppas po:adj is:fem is:sg
+SFX yM uire uites/ uire # is:ppas po:adj is:fem is:pl
 SFX yM uire uis/ uire # is:ipre is:1sg is:2sg
 SFX yM uire uit/ uire # is:ipre is:3sg
 SFX yM uire uisons/ uire # is:ipre is:1pl
@@ -5670,10 +5670,10 @@ SFX yM uire uisez/ uire # is:impe is:2pl
 SFX yN Y 33
 SFX yN truire truire/ uire # is:infi
 SFX yN truire truisant/ uire # is:ppre
-SFX yN truire truit/ uire # is:ppas is:adj is:mas is:sg
-SFX yN truire truits/ uire # is:ppas is:adj is:mas is:pl
-SFX yN truire truite/ uire # is:ppas is:adj is:fem is:sg
-SFX yN truire truites/ uire # is:ppas is:adj is:fem is:pl
+SFX yN truire truit/ uire # is:ppas po:adj is:mas is:sg
+SFX yN truire truits/ uire # is:ppas po:adj is:mas is:pl
+SFX yN truire truite/ uire # is:ppas po:adj is:fem is:sg
+SFX yN truire truites/ uire # is:ppas po:adj is:fem is:pl
 SFX yN truire truit/ uire # is:ipre is:3sg
 SFX yN truire truisons/ uire # is:ipre is:1pl
 SFX yN truire truisez/ uire # is:ipre is:2pl
@@ -5705,10 +5705,10 @@ SFX yN truire truisez-vous/ uire # is:impe is:2pl ds:+pr
 SFX yO Y 43
 SFX yO détruire détruire/ détruire # is:infi
 SFX yO détruire détruisant/ détruire # is:ppre
-SFX yO détruire détruit/ détruire # is:ppas is:adj is:mas is:sg
-SFX yO détruire détruits/ détruire # is:ppas is:adj is:mas is:pl
-SFX yO détruire détruite/ détruire # is:ppas is:adj is:fem is:sg
-SFX yO détruire détruites/ détruire # is:ppas is:adj is:fem is:pl
+SFX yO détruire détruit/ détruire # is:ppas po:adj is:mas is:sg
+SFX yO détruire détruits/ détruire # is:ppas po:adj is:mas is:pl
+SFX yO détruire détruite/ détruire # is:ppas po:adj is:fem is:sg
+SFX yO détruire détruites/ détruire # is:ppas po:adj is:fem is:pl
 SFX yO détruire détruis/ détruire # is:ipre is:1sg is:2sg
 SFX yO détruire détruit/ détruire # is:ipre is:3sg
 SFX yO détruire détruisons/ détruire # is:ipre is:1pl
@@ -5792,13 +5792,13 @@ SFX yU uire uisez/ uire # is:impe is:2pl
 SFX yV Y 45
 SFX yV ire ire/ ire # is:infi
 SFX yV ire isant/ ire # is:ppre
-SFX yV ire it/ nfire # is:ppas is:adj is:mas is:sg
-SFX yV ire its/ nfire # is:ppas is:adj is:mas is:pl
-SFX yV ire ite/ nfire # is:ppas is:adj is:fem is:sg
-SFX yV ire ites/ nfire # is:ppas is:adj is:fem is:pl
-SFX yV ire is/ cire # is:ppas is:adj is:mas is:inv
-SFX yV ire ise/ cire # is:ppas is:adj is:fem is:sg
-SFX yV ire ises/ cire # is:ppas is:adj is:fem is:pl
+SFX yV ire it/ nfire # is:ppas po:adj is:mas is:sg
+SFX yV ire its/ nfire # is:ppas po:adj is:mas is:pl
+SFX yV ire ite/ nfire # is:ppas po:adj is:fem is:sg
+SFX yV ire ites/ nfire # is:ppas po:adj is:fem is:pl
+SFX yV ire is/ cire # is:ppas po:adj is:mas is:inv
+SFX yV ire ise/ cire # is:ppas po:adj is:fem is:sg
+SFX yV ire ises/ cire # is:ppas po:adj is:fem is:pl
 SFX yV ire i/ ffire # is:ppas is:epi is:inv
 SFX yV ire is/ ire # is:ipre is:ipsi is:1sg is:2sg
 SFX yV ire it/ ire # is:ipre is:ipsi is:3sg
@@ -5910,17 +5910,17 @@ SFX yX nuire nuisez-vous/ nuire # is:impe is:2pl ds:+pr
 
 SFX yY Y 4
 SFX yY ccire ccire/ occire # is:infi
-SFX yY ccire ccis/ occire # is:ppas is:adj is:mas is:inv
-SFX yY ccire ccise/ occire # is:ppas is:adj is:fem is:sg
-SFX yY ccire ccises/ occire # is:ppas is:adj is:fem is:pl
+SFX yY ccire ccis/ occire # is:ppas po:adj is:mas is:inv
+SFX yY ccire ccise/ occire # is:ppas po:adj is:fem is:sg
+SFX yY ccire ccises/ occire # is:ppas po:adj is:fem is:pl
 
 SFX yZ Y 14
 SFX yZ rire rire/ rire # is:infi
 SFX yZ rire risant/ rire # is:ppre
-SFX yZ rire rit/ rire # is:ppas is:adj is:mas is:sg
-SFX yZ rire rits/ rire # is:ppas is:adj is:mas is:pl
-SFX yZ rire rite/ rire # is:ppas is:adj is:fem is:sg
-SFX yZ rire rites/ rire # is:ppas is:adj is:fem is:pl
+SFX yZ rire rit/ rire # is:ppas po:adj is:mas is:sg
+SFX yZ rire rits/ rire # is:ppas po:adj is:mas is:pl
+SFX yZ rire rite/ rire # is:ppas po:adj is:fem is:sg
+SFX yZ rire rites/ rire # is:ppas po:adj is:fem is:pl
 SFX yZ rire ris/ rire # is:ipre is:1sg is:2sg
 SFX yZ rire rit/ rire # is:ipre is:3sg
 SFX yZ rire rirai/ rire # is:ifut is:1sg
@@ -5931,42 +5931,42 @@ SFX yZ rire rirait/ rire # is:cond is:3sg
 SFX yZ rire ris/ rire # is:impe is:2sg
 
 SFX q+ Y 36
-SFX q+ enir enu/ enir # is:ppas is:adj is:mas is:sg
-SFX q+ enir enus/ enir # is:ppas is:adj is:mas is:pl
-SFX q+ enir enue/ enir # is:ppas is:adj is:fem is:sg
-SFX q+ enir enues/ enir # is:ppas is:adj is:fem is:pl
-SFX q+ tir ti/ tir # is:ppas is:adj is:mas is:sg
-SFX q+ tir tis/ tir # is:ppas is:adj is:mas is:pl
-SFX q+ tir tie/ tir # is:ppas is:adj is:fem is:sg
-SFX q+ tir ties/ tir # is:ppas is:adj is:fem is:pl
-SFX q+ courir couru/ courir # is:ppas is:adj is:mas is:sg
-SFX q+ courir courus/ courir # is:ppas is:adj is:mas is:pl
-SFX q+ courir courue/ courir # is:ppas is:adj is:fem is:sg
-SFX q+ courir courues/ courir # is:ppas is:adj is:fem is:pl
-SFX q+ ivre écu/ vivre # is:ppas is:adj is:mas is:sg
-SFX q+ ivre écus/ vivre # is:ppas is:adj is:mas is:pl
-SFX q+ ivre écue/ vivre # is:ppas is:adj is:fem is:sg
-SFX q+ ivre écues/ vivre # is:ppas is:adj is:fem is:pl
-SFX q+ aire u/ aire # is:ppas is:adj is:mas is:sg
-SFX q+ aire us/ aire # is:ppas is:adj is:mas is:pl
-SFX q+ aire ue/ aire # is:ppas is:adj is:fem is:sg
-SFX q+ aire ues/ aire # is:ppas is:adj is:fem is:pl
-SFX q+ dre du/ dre # is:ppas is:adj is:mas is:sg
-SFX q+ dre dus/ dre # is:ppas is:adj is:mas is:pl
-SFX q+ dre due/ dre # is:ppas is:adj is:fem is:sg
-SFX q+ dre dues/ dre # is:ppas is:adj is:fem is:pl
-SFX q+ valoir valu/ .valoir # is:ppas is:adj is:mas is:sg
-SFX q+ valoir valus/ .valoir # is:ppas is:adj is:mas is:pl
-SFX q+ valoir value/ .valoir # is:ppas is:adj is:fem is:sg
-SFX q+ valoir values/ .valoir # is:ppas is:adj is:fem is:pl
-SFX q+ aître u/ aître # is:ppas is:adj is:mas is:sg
-SFX q+ aître us/ aître # is:ppas is:adj is:mas is:pl
-SFX q+ aître ue/ aître # is:ppas is:adj is:fem is:sg
-SFX q+ aître ues/ aître # is:ppas is:adj is:fem is:pl
-SFX q+ aitre u/ aitre # is:ppas is:adj is:mas is:sg
-SFX q+ aitre us/ aitre # is:ppas is:adj is:mas is:pl
-SFX q+ aitre ue/ aitre # is:ppas is:adj is:fem is:sg
-SFX q+ aitre ues/ aitre # is:ppas is:adj is:fem is:pl
+SFX q+ enir enu/ enir # is:ppas po:adj is:mas is:sg
+SFX q+ enir enus/ enir # is:ppas po:adj is:mas is:pl
+SFX q+ enir enue/ enir # is:ppas po:adj is:fem is:sg
+SFX q+ enir enues/ enir # is:ppas po:adj is:fem is:pl
+SFX q+ tir ti/ tir # is:ppas po:adj is:mas is:sg
+SFX q+ tir tis/ tir # is:ppas po:adj is:mas is:pl
+SFX q+ tir tie/ tir # is:ppas po:adj is:fem is:sg
+SFX q+ tir ties/ tir # is:ppas po:adj is:fem is:pl
+SFX q+ courir couru/ courir # is:ppas po:adj is:mas is:sg
+SFX q+ courir courus/ courir # is:ppas po:adj is:mas is:pl
+SFX q+ courir courue/ courir # is:ppas po:adj is:fem is:sg
+SFX q+ courir courues/ courir # is:ppas po:adj is:fem is:pl
+SFX q+ ivre écu/ vivre # is:ppas po:adj is:mas is:sg
+SFX q+ ivre écus/ vivre # is:ppas po:adj is:mas is:pl
+SFX q+ ivre écue/ vivre # is:ppas po:adj is:fem is:sg
+SFX q+ ivre écues/ vivre # is:ppas po:adj is:fem is:pl
+SFX q+ aire u/ aire # is:ppas po:adj is:mas is:sg
+SFX q+ aire us/ aire # is:ppas po:adj is:mas is:pl
+SFX q+ aire ue/ aire # is:ppas po:adj is:fem is:sg
+SFX q+ aire ues/ aire # is:ppas po:adj is:fem is:pl
+SFX q+ dre du/ dre # is:ppas po:adj is:mas is:sg
+SFX q+ dre dus/ dre # is:ppas po:adj is:mas is:pl
+SFX q+ dre due/ dre # is:ppas po:adj is:fem is:sg
+SFX q+ dre dues/ dre # is:ppas po:adj is:fem is:pl
+SFX q+ valoir valu/ .valoir # is:ppas po:adj is:mas is:sg
+SFX q+ valoir valus/ .valoir # is:ppas po:adj is:mas is:pl
+SFX q+ valoir value/ .valoir # is:ppas po:adj is:fem is:sg
+SFX q+ valoir values/ .valoir # is:ppas po:adj is:fem is:pl
+SFX q+ aître u/ aître # is:ppas po:adj is:mas is:sg
+SFX q+ aître us/ aître # is:ppas po:adj is:mas is:pl
+SFX q+ aître ue/ aître # is:ppas po:adj is:fem is:sg
+SFX q+ aître ues/ aître # is:ppas po:adj is:fem is:pl
+SFX q+ aitre u/ aitre # is:ppas po:adj is:mas is:sg
+SFX q+ aitre us/ aitre # is:ppas po:adj is:mas is:pl
+SFX q+ aitre ue/ aitre # is:ppas po:adj is:fem is:sg
+SFX q+ aitre ues/ aitre # is:ppas po:adj is:fem is:pl
 
 SFX q. Y 9
 SFX q. enir enu/ enir # is:ppas is:epi is:inv
