@@ -6,7 +6,7 @@ is:1pe	Person=1
 is:1pl	Person=1|Number=Plur
 is:1sg	Person=1|Number=Sing
 is:2pe	Person=2
-is:2pl	Person=2 Number=Plur
+is:2pl	Person=2|Number=Plur
 is:2sg	Person=2|Number=Sing
 is:3pe	Person=3
 is:3pl!	Person=3|Number=Plur
