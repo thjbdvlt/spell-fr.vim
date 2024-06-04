@@ -3,7 +3,7 @@ dictionnaire orthographique français au format [HunSpell](http://hunspell.githu
 contenu du dépôt
 ----------------
 
-dans le dossier [vim/](./vim) se trouvent le fichier compilé (`.spl`) tel qu'il peut être utilisé pour la correction orthographique dans vim, ainsi que les fichiers `st.dic` et `st.aff` adaptés pour le produire. le dossier [morph/](./morph) contient, lui, les fichiers `st.dic` et `st.aff` avec des informations morphologiques au format _FEATS_ et les part-of-speech conformes aux _universal part-of-speech_: on peut les utiliser pour faire de l'analyse morphologique. on trouvera également un fichier avec la liste de tous les mots possibles (un par ligne) dans [dump/](./dump). les autres dossiers contiennent les données et scripts utilisées pour produire ces fichiers.
+dans le dossier [vim/](./vim) se trouvent le fichier compilé (`.spl`) tel qu'il peut être utilisé pour la correction orthographique dans vim, ainsi que les fichiers `st.dic` et `st.aff` adaptés pour le produire. le dossier [morph/](./morph) contient, lui, les fichiers `st.dic` et `st.aff` avec les informations morphologiques, les part-of-speech modifiés pour correspondre aux _universal part-of-speech_: on peut les utiliser pour faire de l'analyse morphologique (le fichier [feats/is_to_feats.csv](feats/is_to_feats.csv) permet de récupérer, sans trop de perte, les FEATS correspondant à chaque flag morphologique). on trouvera également un fichier avec la liste de tous les mots possibles (un par ligne) dans [dump/](./dump). les autres dossiers contiennent les données et scripts utilisées pour produire ces fichiers.
 
 différences avec le dictionnaire orthographique français par défaut de Vim
 --------------------------------------------------------------------------

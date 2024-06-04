@@ -59,7 +59,8 @@ if __name__ == "__main__":
     with open(filepath, "r") as f:
         c = f.readlines()
 
-    _rows = [convert_to_feats(l) if COMMENT_STRING in l else l for l in c]
+    # _rows = [convert_to_feats(l) if COMMENT_STRING in l else l for l in c]
+    _rows = [enlever_doublons(l) if COMMENT_STRING in l else l for l in c]
 
     with open(filepath, "w") as f:
         f.write("\n".join(_rows))
