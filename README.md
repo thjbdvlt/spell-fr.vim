@@ -3,15 +3,7 @@ dictionnaire orthographique français au format [HunSpell](http://hunspell.githu
 contenu du dépôt
 ----------------
 
-- [vim/](./vim):  le fichier compilé (`.spl`) tel qu'il peut être utilisé pour la correction orthographique dans vim, ainsi que les fichiers `st.dic` et `st.aff` adaptés pour le produire.
-- [morph/](./morph):  les fichiers `st.dic` et `st.aff` avec des informations morphologiques au format FEATS et les part-of-speech conformes aux _universal part-of-speech_.
-- [dump/](./dump):  un fichier contenant tous les mots (un par ligne).
-- [scripts](./scripts):  les scripts pour générer ces différents fichiers à partir des fichiers de HunSpell, notamment en enlevant les éléments qui conduisent à des erreurs lors de la compilation, ou en réorganisant et en renommant les informations morphologiques
-- [words](./words):  les listes de mots.
-- [affixes](./affixes):  les définitions des règles de flexions.
-- [prefixes](./prefixes):  des préfixes additionnels, notamment scientifiques.
-- [hunspell](./hunspell):  les fichiers sources.
-
+dans le dossier [vim/](./vim) se trouvent le fichier compilé (`.spl`) tel qu'il peut être utilisé pour la correction orthographique dans vim, ainsi que les fichiers `st.dic` et `st.aff` adaptés pour le produire. le dossier [morph/](./morph) contient, lui, les fichiers `st.dic` et `st.aff` avec des informations morphologiques au format _FEATS_ et les part-of-speech conformes aux _universal part-of-speech_: on peut les utiliser pour faire de l'analyse morphologique. on trouvera également un fichier avec la liste de tous les mots possibles (un par ligne) dans [dump/](./dump). les autres dossiers contiennent les données et scripts utilisées pour produire ces fichiers.
 
 différences avec le dictionnaire orthographique français par défaut de Vim
 --------------------------------------------------------------------------
