@@ -3,10 +3,15 @@ dictionnaire orthographique français au format [HunSpell](http://hunspell.githu
 contenu du dépôt
 ----------------
 
-- la définitions des affixes dans les fichiers `.aff`.
-- les listes de mots dans les fichiers `.dic`.
-- un Makefile pour les assembler, soit afin de les utiliser comme correcteur orthographique dans vim/neovim, soit pour effectuer des analyses morphologiques.
-- des scripts pour les générer à partir des fichiers de HunSpell.
+- [vim/](./vim):  le fichier compilé (`.spl`) tel qu'il peut être utilisé pour la correction orthographique dans vim, ainsi que les fichiers `st.dic` et `st.aff` adaptés pour le produire.
+- [morph/](./morph):  les fichiers `st.dic` et `st.aff` avec des informations morphologiques au format FEATS et les part-of-speech conformes aux _universal part-of-speech_.
+- [dump/](./dump):  un fichier contenant tous les mots (un par ligne).
+- [scripts](./scripts):  les scripts pour générer ces différents fichiers à partir des fichiers de HunSpell, notamment en enlevant les éléments qui conduisent à des erreurs lors de la compilation, ou en réorganisant et en renommant les informations morphologiques
+- [words](./words):  les listes de mots.
+- [affixes](./affixes):  les définitions des règles de flexions.
+- [prefixes](./prefixes):  des préfixes additionnels, notamment scientifiques.
+- [hunspell](./hunspell):  les fichiers sources.
+
 
 différences avec le dictionnaire orthographique français par défaut de Vim
 --------------------------------------------------------------------------
@@ -16,23 +21,6 @@ différences avec le dictionnaire orthographique français par défaut de Vim
 - écriture inclusive: auteur·rice, auteurice, auteuricex, ... (le _stemma_ des mots féminins ou masculins est la forme inclusive.)
 - les mots contenant des ligatures `œ` et `æ` sont doublées de leurs versions non-ligaturées (ex. "oeuvre").
 - aucun nom propre.
-
-usage
------
-
-quoi qu'il s'agisse avant tout d'un projet destiné à faire de la correction orthographique, la définition d'un lexique et de règles dérivationnelles pour chacun de ces éléments en fait un outil utile à l'analyse textuelle, en particulier pour l'analyse morphologique (flexionnelle) et la lemmatisation.
-
-pour l'utiliser comme correcteur orthographique dans VIM:
-
-```shell
-make  # compile un fichier .spl
-```
-
-pour l'utiliser avec HunSpell pour l'analyse:
-
-```shell
-make morph=1
-```
 
 sources
 -------
