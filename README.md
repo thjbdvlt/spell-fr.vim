@@ -5,8 +5,8 @@ contenu du dépôt
 
 - la définitions des affixes dans les fichiers `.aff`.
 - les listes de mots dans les fichiers `.dic`.
-- un Makefile pour les assembler à l'aide de Vim (`vim -e "mkspell ..."`).
-- des scripts pour les produire (à partir des fichiers de HunSpell) et les modifier (`sed`, `grep -v`, ...).
+- un Makefile pour les assembler, soit afin de les utiliser comme correcteur orthographique dans vim/neovim, soit pour effectuer des analyses morphologiques.
+- des scripts pour les générer à partir des fichiers de HunSpell.
 
 différences avec le dictionnaire orthographique français par défaut de Vim
 --------------------------------------------------------------------------
