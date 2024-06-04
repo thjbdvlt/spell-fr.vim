@@ -45,6 +45,7 @@ _sortuniq st.dic
 
 # création des fichiers pour vim
 cd ../vim
+cat ../exceptions/*.dic >> st.dic
 ../scripts/enlever-commentaires.sh st.dic
 ../scripts/enlever-commentaires.sh st.aff
 _sortuniq st.dic
