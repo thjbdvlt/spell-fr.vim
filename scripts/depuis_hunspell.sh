@@ -161,6 +161,7 @@ sed -i -E -e 's/po:loc\./po:/g' \
 # sed -i -E -e 's/po:/is:/g' $aff
 # sauf, une chose: is:adj
 sed -i -E -e 's/po:/is:/g' -e 's/is:adj/po:adj/g' $aff
+sed -i -E -e 's/is:adj/po:adj/g' $dic
 
 # j'utilise un script extérieur écrit en python pour enlever les doublons dans les informations morphologiques, car avec les changements dans les `po:...` que j'ai fait, il y en a pas mal.
 python3 ${root}/scripts/remove_repeated_pos.py $dic

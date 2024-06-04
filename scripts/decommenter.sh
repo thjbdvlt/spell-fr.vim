@@ -6,4 +6,4 @@
 if ! [ -f "$1" ];then echo "no file!"; exit 1; fi
 
 # décommente tout simplement (sauf les commentaires qui commencent en début de ligne).
-sed -i -E 's/(\w+.*)#(.*$)/\1 \2/' "$1"
+sed -i -E 's/(\w+.*) *# *(.*$)/\1 \2/' "$1"

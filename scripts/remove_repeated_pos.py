@@ -34,18 +34,18 @@ def enlever_doublons(line):
 
 
 def convert_to_feats(line):
-    word, comment = line.split()
+    word, comment = line.split(COMMENT_STRING)
     annotes = comment.split()
-    x = []
-    y = []
+    base_annotes = []
+    feats = []
     for i in annotes:
         if i.startswith("is:"):
-            y.append(LOOKUP_FEATS[i])
+            feats.append(LOOKUP_FEATS[i])
         else:
-            x.append(i)
-    annotes = set(x) + list(sorted(set(x)))
+            base_annotes.append(i)
+    annotes = list(set(base_annotes)) + sorted(set(feats))
     annotes = " ".join(annotes)
-    return f"{word.stri()} {COMMENT_STRING} {annotes.strip()}"
+    return f"{word.strip()} {COMMENT_STRING} {annotes.strip()}"
 
 
 if __name__ == "__main__":
