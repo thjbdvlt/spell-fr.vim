@@ -10557,7 +10557,7 @@ caquetage/_s # po:noun is:mas
 caquetant·e/_e # po:adj
 caquètement/_s # po:noun is:mas
 caqueter/d0p. # po:verb
-car/ # po:sconj
+car/ # po:cconj
 car/_s # po:noun is:mas
 carabe/_s # po:noun is:mas
 carabin/_s # po:noun is:mas
@@ -21492,7 +21492,7 @@ donateur·rice/ri # po:noun
 donation/_s # po:noun is:fem
 donatisme/_s # po:noun is:mas
 donatiste/_s # po:noun po:adj is:epi
-donc/ # po:sconj
+donc/ # po:cconj
 dondaine/_s # po:noun is:fem
 dondon/_s # po:noun is:fem
 dongle/_s # po:noun is:mas
@@ -25545,7 +25545,7 @@ estuarien·ne/ll # po:adj
 estudiantin·e/_e # po:adj
 esturgeon/_s # po:noun is:mas
 eszett/_s # po:noun is:mas
-et/ # po:sconj
+et/ # po:cconj
 êta/ # po:noun is:mas is:inv
 êta/_s # po:noun is:mas
 étable/_s # po:noun is:fem
@@ -40236,7 +40236,7 @@ maïorat/_s # po:noun is:mas
 maire/_s # po:noun is:epi
 mairesse/_s # po:noun is:fem
 mairie/_s # po:noun is:fem
-mais/ # po:sconj
+mais/ # po:cconj
 maïs/ # po:noun is:mas is:inv
 maïserie/_s # po:noun is:fem
 maïsiculteur·rice/ri # po:noun
@@ -45148,7 +45148,7 @@ newton/Um # po:noun is:mas
 newtonien·ne/ll # po:noun po:adj
 nexus/ # po:noun is:mas is:inv
 nez/ # po:noun is:mas is:inv
-ni/ # po:sconj
+ni/ # po:cconj
 niable/_s # po:adj is:epi
 niacine/_s # po:noun is:fem
 niais·e/_e # po:noun po:adj
@@ -46598,7 +46598,7 @@ opulent·e/_e # po:noun po:adj
 opuntia/_s # po:noun is:mas
 opus/ # po:noun is:mas is:inv
 opuscule/_s # po:noun is:mas
-or/ # po:sconj
+or/ # po:cconj
 or/_s # po:noun is:mas
 oracle/_s # po:noun is:mas
 oraculaire/_s # po:adj is:epi
@@ -47082,7 +47082,7 @@ otoscopie/_s # po:noun is:fem
 otospongiose/_s # po:noun is:fem
 ottoman·e/_e # po:noun po:adj
 ottonien·ne/ll # po:adj
-ou/ # po:sconj
+ou/ # po:cconj
 où/ # po:pron po:adv
 ouabaïne/_s # po:noun is:fem
 ouadi/ # po:noun is:pl is:mas
