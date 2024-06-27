@@ -1,4 +1,4 @@
-71098
+71099
 abaca/_s  po:noun is:mas
 abacule/_s  po:noun is:mas
 abader/  po:verb
@@ -2876,6 +2876,7 @@ anarchiste/_s  po:noun po:adj is:epi
 anarchocapitalisme/_s  po:noun is:mas
 anarchocapitaliste/_s  po:noun po:adj is:epi
 anarchocommunisme/_s  po:noun is:mas
+anarcho  po:adp
 anarchosyndicalisme/_s  po:noun is:mas
 anarchosyndicaliste/_s  po:noun is:epi
 anar/_s  po:noun po:adj is:epi
@@ -10958,10 +10959,10 @@ carpiculture/_s  po:noun is:fem
 carpien·ne/ll  po:adj
 carpillon/_s  po:noun is:mas
 carpocapse/_s  po:noun is:mas
+car/  po:cconj
 carpologie/_s  po:noun is:fem
 carpophore/_s  po:noun is:mas
 carpo  po:adp
-car/  po:sconj
 carquois/  po:noun is:mas is:inv
 carragheen/_s  po:noun is:mas
 carrare/_s  po:noun is:mas
@@ -21690,7 +21691,7 @@ donateur·rice/ri  po:noun
 donation/_s  po:noun is:fem
 donatisme/_s  po:noun is:mas
 donatiste/_s  po:noun po:adj is:epi
-donc/  po:sconj
+donc/  po:cconj
 dondaine/_s  po:noun is:fem
 dondon/_s  po:noun is:fem
 dongle/_s  po:noun is:mas
@@ -26039,7 +26040,7 @@ eth/  po:noun is:mas is:inv
 étourdissant·e/_e  po:adj
 étourdissement/_s  po:noun is:mas
 étourneau/_x  po:noun is:mas
-et/  po:sconj
+et/  po:cconj
 étrangement/  po:adv
 étranger·ère/rr  po:noun po:adj
 étrange/_s  po:adj is:epi
@@ -40634,9 +40635,9 @@ maisonnée/_s  po:noun is:fem
 maisonnerie/_s  po:noun is:fem
 maisonnette/_s  po:noun is:fem
 maison/_s  po:noun is:fem
+mais/  po:cconj
 mai/_s  po:noun is:mas
 maïs/  po:noun is:mas is:inv
-mais/  po:sconj
 maistrance/_s  po:noun is:fem
 maïthili/_s  po:noun is:mas
 maitre·sse/ss  po:pron po:noun po:adj
@@ -45686,7 +45687,7 @@ niobium/_s  po:noun is:mas
 niôle/_s  po:noun is:fem
 niolo/_s  po:noun is:mas
 niortais·e/_e  po:noun po:adj
-ni/  po:sconj
+ni/  po:cconj
 nipper/a0p+  po:verb
 nippe/_s  po:noun is:fem
 nippon·e/_e  po:noun po:adj
@@ -47412,7 +47413,7 @@ orphique/_s  po:adj is:epi
 orphisme/_s  po:noun is:mas
 orpiment/_s  po:noun is:mas
 orpin/_s  po:noun is:mas
-or/  po:sconj
+or/  po:cconj
 orque/_s  po:noun is:epi
 orseille/_s  po:noun is:fem
 or/_s  po:noun is:mas
@@ -47693,8 +47694,8 @@ oukase/_s  po:noun is:mas
 ouléma/_s  po:noun is:mas
 oulipien·ne/ll  po:noun po:adj
 oumma/_s  po:noun is:fem
+ou/  po:cconj
 où/  po:pron po:adv
-ou/  po:sconj
 oups/  po:intj
 ouragan/_s  po:noun is:mas
 ouralien·ne/ll  po:noun po:adj
@@ -71096,4 +71097,4 @@ zzzz/  po:intj
 φ/  po:noun is:mas is:inv
 χ/  po:noun is:mas is:inv
 ψ/  po:noun is:mas is:inv
-ω/ # po:noun is:mas is:invanarcho  po:adp
+ω/  po:noun is:mas is:inv
