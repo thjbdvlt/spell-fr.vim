@@ -1,4 +1,4 @@
-71100
+71109
 abaca/_s  po:noun is:mas
 abacule/_s  po:noun is:mas
 abader/  po:verb
@@ -167,6 +167,7 @@ abordable/_s  po:adj is:epi
 abordage/_s  po:noun is:mas
 aborder/a0p+  po:verb
 abordeur/_s  po:noun is:mas
+abord/  po:adv
 abord/_s  po:noun is:mas
 aborigène/_s  po:noun po:adj is:epi
 aborné·e/_e  po:adj
@@ -487,6 +488,7 @@ accorder/a0p+  po:verb
 accorderie/_s  po:noun is:fem
 accordeur·euse/rs  po:noun
 accordoir/_s  po:noun is:mas
+accord/  po:adv
 accord/_s  po:noun is:mas
 accorer/a0p+  po:verb
 accore/_s  po:noun po:adj is:epi
@@ -5540,6 +5542,8 @@ auguste/_s  po:noun is:mas
 augustin·e/_e  po:noun po:adj
 augustinien·ne/ll  po:noun po:adj
 augustinisme/_s  po:noun is:mas
+aujourd'hui/  po:adv
+aujourd/  po:adv
 aulacode/_s  po:noun is:mas
 aulique/_s  po:adj is:epi
 aulnaie/_s  po:noun is:fem
@@ -17431,6 +17435,8 @@ czardas/  po:noun is:inv is:fem
 czar/_s  po:noun is:mas
 czimbalum/_s  po:noun is:mas
 daba/_s  po:noun is:fem
+d'abord/  po:adv
+d'accord/  po:adv
 dacite/_s  po:noun is:fem
 dacryoadénite/_s  po:noun is:fem
 dacryocystite/_s  po:noun is:fem
@@ -33438,6 +33444,7 @@ huilerie/_s  po:noun is:fem
 huile/_s  po:noun is:fem
 huileux·euse/xz  po:adj
 huilier·ère/rr  po:noun po:adj
+hui/  po:adv
 huis/  po:noun is:mas is:inv
 huisserie/_s  po:noun is:fem
 huissier·ère/rr  po:noun
@@ -50327,6 +50334,7 @@ peu/  po:adv
 peureusement/  po:adv
 peureux·euse/xz  po:noun po:adj
 peur/_s  po:noun is:fem
+peut-être/  po:adv
 peuton/_s  po:noun is:mas
 peyotl/_s  po:noun is:mas
 pèze/_s  po:noun is:mas
@@ -66930,7 +66938,7 @@ tourtereau·elle/la  po:noun
 tourte/_s  po:noun is:fem
 tourtière/_s  po:noun is:fem
 touselle/_s  po:noun is:fem
-tous/  po:det is:pl is:mas
+tous/  po:det is:pl is:mas po:adj po:pron
 toussailler/a0p.  po:verb
 tousser/a0p.  po:verb
 tousserie/_s  po:noun is:fem
@@ -66947,6 +66955,7 @@ toutes/  po:pron is:pl is:fem
 toutime/  po:noun is:sg is:mas
 toutim/  po:noun is:sg is:mas
 toutou/_s  po:noun is:mas
+tout/  po:adj
 tout/  po:adv
 tout/  po:det is:sg is:mas
 tout/  po:pron is:sg is:mas

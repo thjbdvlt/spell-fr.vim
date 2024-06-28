@@ -168,6 +168,13 @@ abonnir/f0p+ # po:verb
 abonnissement/_s # po:noun is:mas
 aboral·e/al # po:adj
 abord/_s # po:noun is:mas
+abord/ # po:adv
+accord/ # po:adv
+aujourd/ # po:adv
+aujourd'hui/ # po:adv
+d'accord/ # po:adv
+d'abord/ # po:adv
+peut-être/ # po:adv
 abordable/_s # po:adj is:epi
 abordage/_s # po:noun is:mas
 aborder/a0p+ # po:verb
@@ -12741,6 +12748,7 @@ chuchoterie/_s # po:noun is:fem
 chuchoteur·euse/rs # po:noun po:adj
 chuchotis/ # po:noun is:mas is:inv
 chuintant·e/_e # po:adj
+hui/ # po:adv
 chuintante/_s # po:noun is:fem
 chuintement/_s # po:noun is:mas
 chuinter/a0p. # po:verb
@@ -66154,8 +66162,7 @@ tourtelé·e/_e # po:adj
 tourtelette/_s # po:noun is:fem
 tourtereau·elle/la # po:noun
 tourtière/_s # po:noun is:fem
-tous/ # po:det is:pl is:mas
-tous/ # po:det is:pl is:mas
+tous/ # po:det is:pl is:mas po:adj po:pron
 touselle/_s # po:noun is:fem
 toussailler/a0p. # po:verb
 tousser/a0p. # po:verb
@@ -66167,6 +66174,7 @@ toussoteux·euse/xz # po:adj
 tout/ # po:det is:sg is:mas
 tout/ # po:pron is:sg is:mas
 tout/ # po:adv
+tout/ # po:adj
 tout/_s # po:noun is:mas
 toute/ # po:adv
 toute/ # po:det is:sg is:fem
