@@ -1,4 +1,4 @@
-71109
+71113
 abaca/_s  po:noun is:mas
 abacule/_s  po:noun is:mas
 abader/  po:verb
@@ -960,6 +960,7 @@ adialectique/_s  po:adj is:epi
 adiante/_s  po:noun is:mas
 adiaphorèse/_s  po:noun is:fem
 adiaphorie/_s  po:noun is:fem
+adieu/  po:intj
 adieu/_x  po:noun is:mas
 adimensionnel·le/ll  po:adj
 adipeux·euse/xz  po:noun po:adj
@@ -55069,7 +55070,6 @@ quenouillée/_s  po:noun is:fem
 quenouille/_s  po:noun is:fem
 quenouillette/_s  po:noun is:fem
 qué/  po:pron
-que/  po:sconj po:pron
 quéquette/_s  po:noun is:fem
 quérable/_s  po:adj is:epi
 quercitrin·e/_e  po:noun
@@ -55103,6 +55103,7 @@ quetzal/_s  po:noun is:mas
 queue/_s  po:noun is:fem
 queuillère/_s  po:noun is:fem
 que/u'  po:adp
+que/u'  po:sconj po:pron
 queursage/_s  po:noun is:mas
 queusot/_s  po:noun is:mas
 queutard·e/_e  po:noun
@@ -55218,7 +55219,8 @@ quotidienneté/_s  po:noun is:fem
 quotient/_s  po:noun is:mas
 quotité/_s  po:noun is:fem
 quotter/a0p.  po:verb
-qu/u'  po:sconj po:pron
+qu/u'  po:pron
+qu/u'  po:sconj:pron
 qwerty/  po:noun is:mas is:inv
 rabâchage/_s  po:noun is:mas
 rabâchement/_s  po:noun is:mas
@@ -66938,7 +66940,9 @@ tourtereau·elle/la  po:noun
 tourte/_s  po:noun is:fem
 tourtière/_s  po:noun is:fem
 touselle/_s  po:noun is:fem
-tous/  po:det is:pl is:mas po:adj po:pron
+tous/  is:pl is:mas po:adj
+tous/  po:det is:pl is:mas
+tous/  po:det is:pl is:mas po:pron
 toussailler/a0p.  po:verb
 tousser/a0p.  po:verb
 tousserie/_s  po:noun is:fem

@@ -54376,8 +54376,9 @@ quattrocentiste/_s # po:noun po:adj is:epi
 quattrocento/ # po:noun is:sg is:mas
 quatuor/_s # po:noun is:mas
 qubit/_s # po:noun is:mas
-que/ # po:sconj po:pron
-qu/u' # po:sconj po:pron
+que/u' # po:sconj po:pron
+qu/u' # po:sconj:pron
+qu/u' # po:pron
 qué/ # po:pron
 québéciser/a0p+ # po:verb
 québécisme/_s # po:noun is:mas
