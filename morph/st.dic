@@ -1,4 +1,4 @@
-71099
+71100
 abaca/_s  po:noun is:mas
 abacule/_s  po:noun is:mas
 abader/  po:verb
@@ -20172,7 +20172,7 @@ déspiritualisation/_s  po:noun is:fem
 déspiritualiser/a0p+  po:verb
 dés  po:adp
 dès/  po:adp
-des/  po:det is:pl is:epi
+des/  po:det is:pl is:epi po:adp st:de
 dé/_s  po:noun is:mas
 despotat/_s  po:noun is:mas
 despote/_s  po:noun po:adj is:epi
@@ -22105,7 +22105,7 @@ duplicateur/_s  po:noun is:mas
 duplication/_s  po:noun is:fem
 duplicité/_s  po:noun is:fem
 dupliquer/a0p+  po:verb
-du/  po:det is:sg is:mas
+du/  po:det is:sg is:mas po:adp
 dû/  po:noun is:sg is:mas
 duquel/  po:pron is:sg is:mas
 durabilité/_s  po:noun is:fem
@@ -55210,6 +55210,7 @@ quotidienneté/_s  po:noun is:fem
 quotient/_s  po:noun is:mas
 quotité/_s  po:noun is:fem
 quotter/a0p.  po:verb
+qu/u'  po:sconj po:pron
 qwerty/  po:noun is:mas is:inv
 rabâchage/_s  po:noun is:mas
 rabâchement/_s  po:noun is:mas

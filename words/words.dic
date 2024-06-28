@@ -19494,7 +19494,7 @@ derrière/ # po:adv
 derrière/_s # po:noun is:mas
 déruralisation/_s # po:noun is:fem
 derviche/_s # po:noun is:epi
-des/ # po:det is:pl is:epi
+des/ # po:det is:pl is:epi po:adp st:de
 dès/ # po:adp
 désabonné·e/_e # po:noun
 désabonnement/_s # po:noun is:mas
@@ -21816,7 +21816,7 @@ dry/_s # po:noun is:mas
 dryade/_s # po:noun is:fem
 dryfarming/_s # po:noun is:mas
 dryopithèque/_s # po:noun is:mas
-du/ # po:det is:sg is:mas
+du/ # po:det is:sg is:mas po:adp
 dû/ # po:noun is:sg is:mas
 dual·e/al # po:adj
 dualisation/_s # po:noun is:fem
@@ -54368,6 +54368,7 @@ quattrocento/ # po:noun is:sg is:mas
 quatuor/_s # po:noun is:mas
 qubit/_s # po:noun is:mas
 que/ # po:sconj po:pron
+qu/u' # po:sconj po:pron
 qué/ # po:pron
 québéciser/a0p+ # po:verb
 québécisme/_s # po:noun is:mas
