@@ -963,6 +963,7 @@ adiante/_s # po:noun is:mas
 adiaphorèse/_s # po:noun is:fem
 adiaphorie/_s # po:noun is:fem
 adieu/_x # po:noun is:mas
+adieu/ # po:intj
 adimensionnel·le/ll # po:adj
 adipeux·euse/xz # po:noun po:adj
 adipique/_s # po:adj is:epi
@@ -66162,7 +66163,9 @@ tourtelé·e/_e # po:adj
 tourtelette/_s # po:noun is:fem
 tourtereau·elle/la # po:noun
 tourtière/_s # po:noun is:fem
-tous/ # po:det is:pl is:mas po:adj po:pron
+tous/ # po:det is:pl is:mas
+tous/ # is:pl is:mas po:adj
+tous/ # po:det is:pl is:mas po:pron
 touselle/_s # po:noun is:fem
 toussailler/a0p. # po:verb
 tousser/a0p. # po:verb
