@@ -1,4 +1,4 @@
-71115
+71119
 abaca/_s  po:noun is:mas
 abacule/_s  po:noun is:mas
 abader/  po:verb
@@ -8124,6 +8124,7 @@ blâmer/a0p+  po:verb
 blâme/_s  po:noun is:mas
 blanchaille/_s  po:noun is:fem
 blanchâtre/_s  po:adj is:epi
+blanche/_s  st:blanc·he po:adj is:fem
 blanchet/_s  po:noun is:mas
 blancheur/_s  po:noun is:fem
 blanchiment/_s  po:noun is:mas
@@ -8137,6 +8138,7 @@ blanchité/_s  po:noun is:fem
 blanchon/_s  po:noun is:mas
 blanchoyer/a0p.  po:verb
 blanc·que/qc  po:noun po:adj
+blanc/_s  st:blanc·he is:mas
 blandice/_s  po:noun is:fem
 blanquette/_s  po:noun is:fem
 blanquisme/_s  po:noun is:mas
@@ -28943,6 +28945,7 @@ français·e/_e  po:noun po:adj
 franca/  po:adj is:inv is:epi
 franchement/  po:adv
 franche/_s  po:adj is:fem
+franche/_s  st:blanc·he po:adj is:fem
 franchir/f0p+  po:verb
 franchisage/_s  po:noun is:mas
 franchisé·e/_e  po:noun
@@ -28982,6 +28985,7 @@ franco  po:adp
 franco/  po:adv
 franco/  po:part
 franc/_s  po:noun po:adj is:mas
+franc/_s  st:blanc·he is:mas
 frangeant·e/_e  po:adj
 franger/a0p+  po:verb
 frange/_s  po:noun is:fem

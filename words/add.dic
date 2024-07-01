@@ -16,3 +16,9 @@ toutes/ # po:det is:pl is:fem
 toutes/ # po:pron is:pl is:fem
 toutes/ # po:adj is:pl is:fem
 s'/ # st:si po:sconj
+franc/_s # st:blanc·he is:mas
+franche/_s # st:blanc·he po:adj is:fem
+franche/_s # st:blanc·he po:adj is:fem
+blanc/_s # st:blanc·he is:mas
+blanche/_s # st:blanc·he po:adj is:fem
+blanche/_s # st:blanc·he po:adj is:fem
