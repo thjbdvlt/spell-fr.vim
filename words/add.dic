@@ -1,0 +1,18 @@
+holà/ # po:intj
+hé/ # po:intj
+que/u' # po:pron po:adp po:det
+adieu/ # po:intj
+tout/ # po:det is:sg is:mas
+tout/ # po:pron is:sg is:mas
+tout/ # po:adv
+tout/ # po:adj
+tout/_s # po:noun is:mas
+toute/_s # po:adv po:adj po:pron po:det is:sg is:fem
+tous/ # po:det is:pl is:mas
+tous/ # is:pl is:mas po:adj
+tous/ # po:det is:pl is:mas po:pron
+toutes/ # po:adv
+toutes/ # po:det is:pl is:fem
+toutes/ # po:pron is:pl is:fem
+toutes/ # po:adj is:pl is:fem
+s'/ # st:si po:sconj
