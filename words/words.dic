@@ -66164,9 +66164,6 @@ tourtelé·e/_e # po:adj
 tourtelette/_s # po:noun is:fem
 tourtereau·elle/la # po:noun
 tourtière/_s # po:noun is:fem
-tous/ # po:det is:pl is:mas
-tous/ # is:pl is:mas po:adj
-tous/ # po:det is:pl is:mas po:pron
 touselle/_s # po:noun is:fem
 toussailler/a0p. # po:verb
 tousser/a0p. # po:verb
@@ -66175,17 +66172,7 @@ tousseur·euse/rs # po:noun po:adj
 toussotement/_s # po:noun is:mas
 toussoter/a0p. # po:verb
 toussoteux·euse/xz # po:adj
-tout/ # po:det is:sg is:mas
-tout/ # po:pron is:sg is:mas
-tout/ # po:adv
-tout/ # po:adj
-tout/_s # po:noun is:mas
-toute/ # po:adv
-toute/ # po:det is:sg is:fem
 toutefois/ # po:adv
-toutes/ # po:adv
-toutes/ # po:det is:pl is:fem
-toutes/ # po:pron is:pl is:fem
 toutim/ # po:noun is:sg is:mas
 toutime/ # po:noun is:sg is:mas
 toutou/_s # po:noun is:mas

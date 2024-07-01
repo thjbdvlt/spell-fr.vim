@@ -10,6 +10,7 @@ FULLSTRIP
 SFX u' Y 2
 SFX u' e 0 .  is:eli
 SFX u' e ' .  is:eli
+SFX u' e ’ .  is:eli
 
 # pluriel.en s:
 SFX _s Y 1

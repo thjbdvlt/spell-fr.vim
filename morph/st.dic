@@ -1,4 +1,4 @@
-71113
+71115
 abaca/_s  po:noun is:mas
 abacule/_s  po:noun is:mas
 abader/  po:verb
@@ -55103,6 +55103,7 @@ quetzal/_s  po:noun is:mas
 queue/_s  po:noun is:fem
 queuillère/_s  po:noun is:fem
 que/u'  po:adp
+que/u'  po:pron po:adp po:det
 que/u'  po:sconj po:pron
 queursage/_s  po:noun is:mas
 queusot/_s  po:noun is:mas
@@ -62859,6 +62860,7 @@ squirre/_s  po:noun is:mas
 squirreux·euse/xz  po:adj
 squirrhe/_s  po:noun is:mas
 squirrheux·euse/xz  po:adj
+s'/  st:si po:sconj
 stabile/_s  po:noun is:mas
 stabilimètre/_s  po:noun is:mas
 stabilisant·e/_e  po:adj
@@ -66951,9 +66953,9 @@ toussotement/_s  po:noun is:mas
 toussoter/a0p.  po:verb
 toussoteux·euse/xz  po:adj
 toutefois/  po:adv
-toute/  po:adv
-toute/  po:det is:sg is:fem
+toutes/  po:adj is:pl is:fem
 toutes/  po:adv
+toute/_s  po:adv po:adj po:pron po:det is:sg is:fem
 toutes/  po:det is:pl is:fem
 toutes/  po:pron is:pl is:fem
 toutime/  po:noun is:sg is:mas
