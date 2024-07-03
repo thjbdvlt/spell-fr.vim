@@ -7,10 +7,19 @@ FLAG long
 
 FULLSTRIP
 
+BREAK '
+BREAK ’
+BREAK /
+BREAK -
+
+ICONV 2
+ICONV ' ’
+ICONV . ·
+
+
 SFX u' Y 2
 SFX u' e 0 .
 SFX u' e ' .
-SFX u' e ’ .
 
 
 SFX _s Y 1
@@ -26,114 +35,133 @@ SFX _x il ux/ ail
 
 
 
-SFX ri Y 4
+SFX ri Y 5
 SFX ri eur·rice rice/_s .
 SFX ri eur·rice eur/_s .
 SFX ri eur·rice eurice/_s .
 SFX ri eur·rice euricex/_s .
+SFX ri eur·rice eur·rice/_s .
 
 
-SFX rs Y 4
+SFX rs Y 5
 SFX rs eur·euse euse/_s .
 SFX rs eur·euse eur/_s .
 SFX rs eur·euse eureuse/_s .
 SFX rs eur·euse eureusex/_s .
+SFX rs eur·euse eur·euse/_s .
 
 
-SFX rr Y 2
+SFX rr Y 3
 SFX rr er·ère er/_s .
 SFX rr er·ère ère/_s .
+SFX rr er·ère er·ère/_s .
 
 
-SFX xz Y 2
+SFX xz Y 3
 SFX xz eux·euse euse/_s .
 SFX xz eux·euse eux .
+SFX xz eux·euse eux·euse .
 
 
-SFX fv Y 2
+SFX fv Y 3
 SFX fv f·ve f/_s .
 SFX fv f·ve ve/_s .
+SFX fv f·ve f·ve/_s .
 
 
-SFX ue Y 2
+SFX ue Y 3
 SFX ue u·ue u/_s .
 SFX ue u·ue üe/_s .
+SFX ue u·ue u·ue/_s .
 
 
-SFX la Y 5
+SFX la Y 6
 SFX la eau·elle eau .
 SFX la eau·elle eaux .
 SFX la eau·elle elle/_s .
 SFX la eau·elle elleau .
 SFX la eau·elle elleaux .
+SFX la eau·elle eau·elle .
 
 
-SFX ee Y 2
+SFX ee Y 3
 SFX ee ète·sse ète/_s .
 SFX ee ète·sse étesse/_s .
+SFX ee ète·sse ète·sse/_s .
 
 
-SFX xc Y 2
-SFX xc x·ce ce .
+SFX xc Y 3
+SFX xc x·ce ce/_s .
 SFX xc x·ce x .
+SFX xc x·ce x·ce/_s .
 
 
-SFX xs Y 2
-SFX xs x·sse sse .
+SFX xs Y 3
+SFX xs x·sse sse/_s .
 SFX xs x·sse x .
+SFX xs x·sse x·sse/_s .
 
 
-SFX xl Y 3
+SFX xl Y 4
 SFX xl eux·eille eil/s .
-SFX xl eux·eille eille/s .
+SFX xl eux·eille eille/_s .
 SFX xl eux·eille eux .
+SFX xl eux·eille eux·eille/_s .
 
 
-SFX ev Y 2
+SFX ev Y 3
 SFX ev ef·ève ef/_s .
 SFX ev ef·ève ève/_s .
+SFX ev ef·ève ef·ève/_s .
 
 
-SFX ec Y 2
+SFX ec Y 3
 SFX ec ec·èche ec/_s .
 SFX ec ec·èche èche/_s .
+SFX ec ec·èche ec·èche/_s .
 
 
-SFX _e Y 4
+SFX _e Y 5
 SFX _e ·e /_s .
 SFX _e ·e e/_s .
 SFX _e ·e ex/_s .
 SFX _e ·e xe/_s .
+SFX _e ·e ·e/_s .
 
 
-SFX et Y 2
+SFX et Y 3
 SFX et et·ète et/_s .
 SFX et et·ète ète/_s .
+SFX et et·ète et·ète/_s .
 
 
-SFX en Y 3
+SFX en Y 4
 SFX en en·ène /_s .
 SFX en en·ène en/_s .
 SFX en en·ène ène/_s .
+SFX en en·ène en·ène/_s .
 
 
-SFX qc Y 2
+SFX qc Y 3
 SFX qc c·que c/_s .
 SFX qc c·que que/_s .
+SFX qc c·que c·que/_s .
 
 
-SFX gu Y 2
+SFX gu Y 3
 SFX gu ·ue /_s .
 SFX gu ·ue ue/_s .
+SFX gu ·ue ·ue/_s .
 
 
-SFX al Y 3
+SFX al Y 4
 SFX al l·e l .
 SFX al l·e ux .
 SFX al l·e le/_s .
+SFX al l·e l·e/_s .
 
 
-SFX ll Y 11
+SFX ll Y 16
 SFX ll 0 /_s .
 SFX ll ·fe fe/_s f·fe
 SFX ll ·le le/_s l·le
@@ -145,6 +173,11 @@ SFX ll ·le /_s l·le
 SFX ll ·ne /_s n·ne
 SFX ll ·se /_s s·se
 SFX ll ·te /_s t·te
+SFX ll 0 /_s f·fe
+SFX ll 0 /_s l·le
+SFX ll 0 /_s n·ne
+SFX ll 0 /_s s·se
+SFX ll 0 /_s t·te
 
 
 SFX ss Y 2
