@@ -1,4 +1,4 @@
-71095
+71116
 abaca/_s  po:noun is:mas
 abacule/_s  po:noun is:mas
 abader/  po:verb
@@ -1373,6 +1373,7 @@ affres/  po:noun is:pl is:fem
 affrètement/_s  po:noun is:mas
 affréter/c0p+  po:verb
 affréteur·euse/,,rs  po:noun
+affréteur·rice/,,ri  po:noun
 affreusement/  po:adv
 affreux·euse/,,xz  po:noun po:adj
 affriander/a0p+  po:verb
@@ -2415,6 +2416,7 @@ amazonien·ne/,,ll  po:adj
 amazonite/_s  po:noun is:fem
 ambage/_s  po:noun is:fem
 ambassade/_s  po:noun is:fem
+ambassadeur·euse/,,rs  po:noun
 ambassadeur·rice/,,ri  po:noun po:adj
 ambiancer/a0p.  po:verb
 ambiance/_s  po:noun is:fem
@@ -5048,6 +5050,7 @@ asservissement/_s  po:noun is:mas
 asservisseur/_s  po:noun is:mas
 asse/_s  po:noun is:fem
 assesseur·e/,,_e  po:noun
+assesseur·euse/,,rs  po:noun
 assette/_s  po:noun is:fem
 assez/  po:adv
 assibilation/_s  po:noun is:fem
@@ -7842,6 +7845,7 @@ biomagnification/_s  po:noun is:fem
 biomarqueur/_s  po:noun is:mas
 biomasse/_s  po:noun is:fem
 biomatériau/_x  po:noun is:mas
+biomathématicien·ne/,,ll  po:noun
 biomathématique/_s  po:adj is:epi
 biomathématique/_s  po:noun is:fem
 biomécanique/_s  po:noun is:fem
@@ -12202,6 +12206,7 @@ chaumage/_s  po:noun is:mas
 chaumard/_s  po:noun is:mas
 chaumer/a0p+  po:verb
 chaume/_s  po:noun is:mas
+chaumier·ère/,,rr  po:noun
 chaumière/_s  po:noun is:fem
 chaumine/_s  po:noun is:fem
 chaussant·e/,,_e  po:adj
@@ -15003,6 +15008,7 @@ console/_s  po:noun is:fem
 consolidable/_s  po:adj is:epi
 consolidation/_s  po:noun is:fem
 consolider/a0p+  po:verb
+consolideur·euse/,,rs  po:noun
 consommable/_s  po:adj is:epi
 consommable/_s  po:noun is:mas
 consommateur·rice/,,ri  po:noun po:adj
@@ -24753,6 +24759,7 @@ entre/  po:adp
 entrepont/_s  po:noun is:mas
 entreposage/_s  po:noun is:mas
 entreposer/a0p+  po:verb
+entreposeur·euse/,,rs  po:noun
 entreposeur/_s  po:noun is:mas
 entrepositaire/_s  po:noun is:epi
 entrepôt/_s  po:noun is:mas
@@ -25525,6 +25532,7 @@ escalator/_s  po:noun is:mas
 escale/_s  po:noun is:fem
 escalier/_s  po:noun is:mas
 escaliéteur·euse/,,rs  po:noun
+escaliéteur·rice/,,ri  po:noun
 escaloper/a0p+  po:verb
 escalope/_s  po:noun is:fem
 escamotable/_s  po:adj is:epi
@@ -31133,6 +31141,7 @@ gouvernement/_s  po:noun is:mas
 gouverner/a0p+  po:verb
 gouverne/_s  po:noun is:fem
 gouverneur·e/,,_e  po:noun
+gouverneur·euse/,,rs  po:noun
 gouvernorat/_s  po:noun is:mas
 gouzigouzi/_s  po:noun is:mas
 goyave/_s  po:noun is:fem
@@ -38052,6 +38061,7 @@ kayac/_s  po:noun is:mas
 kayakiste/_s  po:noun is:epi
 kayak/_s  po:noun is:mas
 kazakh·e/,,_e  po:noun po:adj
+kebabier·ère/,,rr  po:noun
 kebab/_s  po:noun is:mas
 kébab/_s  po:noun is:mas
 keepsake/_s  po:noun is:mas
@@ -38710,6 +38720,7 @@ larcin/_s  po:noun is:mas
 larder/a0p+  po:verb
 lardoire/_s  po:noun is:fem
 lardonner/a0p+  po:verb
+lardonnier·ère/,,rr  po:noun
 lardon/_s  po:noun is:mas
 lard/_s  po:noun is:mas
 lardure/_s  po:noun is:fem
@@ -44052,6 +44063,7 @@ mosaïqué·e/,,_e  po:adj
 mosaïque/_s  po:adj is:epi
 mosaïque/_s  po:noun is:fem
 mosaïsme/_s  po:noun is:mas
+mosaiste/_s  po:noun
 mosaïste/_s  po:noun is:epi
 mosan·e/,,_e  po:adj
 mosasaure/_s  po:noun is:mas
@@ -48552,6 +48564,7 @@ paraître/  po:noun is:mas is:inv
 paraitre/wQq+  po:verb
 paraître/wQq+  po:verb
 parajudiciaire/_s  po:adj is:epi
+parajuriste/_s  po:noun
 parakératose/_s  po:noun is:fem
 paralangage/_s  po:noun is:mas
 paralipomènes/  po:noun is:pl is:mas
@@ -51516,6 +51529,7 @@ planisphère/_s  po:noun is:mas
 planisphérique/_s  po:adj is:epi
 planiste/_s  po:noun po:adj is:epi
 planitude/_s  po:noun is:fem
+planneur·euse/,,rs  po:noun
 planning/_s  po:noun is:mas
 planoir/_s  po:noun is:mas
 planorbe/_s  po:noun is:epi
@@ -53150,6 +53164,7 @@ préférence/_s  po:noun is:fem
 préférentiel·le/,,ll  po:adj
 préférentiellement/  po:adv
 préférer/c0p+  po:verb
+préfet·e/,,_e  po:noun
 préfet·ète/,,et  po:noun
 préfigurateur·rice/,,ri  po:adj
 préfiguratif·ve/,,fv  po:adj
@@ -56831,6 +56846,7 @@ référençable/_s  po:adj is:epi
 référencement/_s  po:noun is:mas
 référencer/a0p+  po:verb
 référence/_s  po:noun is:fem
+référenceur·euse/,,rs  po:noun
 référenciation/_s  po:noun is:fem
 référendaire/_s  po:adj is:epi
 referendum/_s  po:noun is:mas
@@ -59025,6 +59041,7 @@ rondelle/_s  po:noun is:fem
 rondel/_s  po:noun is:mas
 rondement/  po:adv
 rondeur/_s  po:noun is:fem
+rondier·ère/,,rr  po:noun
 rondier/_s  po:noun is:mas
 rondin/_s  po:noun is:mas
 rondir/f0p+  po:verb
@@ -61143,6 +61160,7 @@ série/_s  po:noun is:fem
 sérieusement/  po:adv
 sérieux·euse/,,xz  po:adj
 serif/_s  po:noun is:mas
+sérigraphe/_s  po:noun
 sérigraphier/a0p+  po:verb
 sérigraphie/_s  po:noun is:fem
 sérigraphique/_s  po:adj is:epi
@@ -66656,6 +66674,7 @@ tonnant·e/,,_e  po:adj
 tonneau/_x  po:noun is:mas
 tonnelage/_s  po:noun is:mas
 tonnelet/_s  po:noun is:mas
+tonnelier·ère/,,rr  po:noun
 tonnelier/_s  po:noun is:mas
 tonnellerie/_s  po:noun is:fem
 tonnelle/_s  po:noun is:fem
@@ -67130,6 +67149,7 @@ traitement/_s  po:noun is:mas
 traiter/a0p+  po:verb
 traite/_s  po:noun is:fem
 traité/_s  po:noun is:mas
+traiteur·euse/,,rs  po:noun
 traiteur/_s  po:noun is:mas
 traitre/_s  po:noun po:adj is:epi
 traître/_s  po:noun po:adj is:epi
@@ -70157,6 +70177,7 @@ viticulture/_s  po:noun is:fem
 vitiligo/_s  po:noun is:mas
 vitivinicole/_s  po:adj is:epi
 vitrage/_s  po:noun is:mas
+vitrailliste/_s  po:noun
 vitrail/_x  po:noun is:mas
 vitrectomie/_s  po:noun is:fem
 vitrer/a0p+  po:verb

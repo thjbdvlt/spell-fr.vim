@@ -1,4 +1,4 @@
-70155
+70176
 -
 _/
 a
@@ -1356,6 +1356,7 @@ affres/
 affrètement/_s
 affréter/c0p+
 affréteur·euse/,,rs
+affréteur·rice/,,ri
 affreusement/
 affreux·euse/,,xz
 affriander/a0p+
@@ -2412,6 +2413,7 @@ amazonien·ne/,,ll
 amazonite/_s
 ambage/_s
 ambassade/_s
+ambassadeur·euse/,,rs
 ambassadeur·rice/,,ri
 ambi
 ambiancer/a0p.
@@ -4961,6 +4963,7 @@ asservissement/_s
 asservisseur/_s
 asse/_s
 assesseur·e/,,_e
+assesseur·euse/,,rs
 assette/_s
 assez/
 assibilation/_s
@@ -7740,6 +7743,7 @@ biomagnification/_s
 biomarqueur/_s
 biomasse/_s
 biomatériau/_x
+biomathématicien·ne/,,ll
 biomathématique/_s
 biomécanique/_s
 biomédecine/_s
@@ -12026,6 +12030,7 @@ chaumage/_s
 chaumard/_s
 chaumer/a0p+
 chaume/_s
+chaumier·ère/,,rr
 chaumière/_s
 chaumine/_s
 chaussant·e/,,_e
@@ -14799,6 +14804,7 @@ console/_s
 consolidable/_s
 consolidation/_s
 consolider/a0p+
+consolideur·euse/,,rs
 consommable/_s
 consommateur·rice/,,ri
 consommation/_s
@@ -24443,6 +24449,7 @@ entrenuire/yX
 entrepont/_s
 entreposage/_s
 entreposer/a0p+
+entreposeur·euse/,,rs
 entreposeur/_s
 entrepositaire/_s
 entrepôt/_s
@@ -25204,6 +25211,7 @@ escalator/_s
 escale/_s
 escalier/_s
 escaliéteur·euse/,,rs
+escaliéteur·rice/,,ri
 escaloper/a0p+
 escalope/_s
 escamotable/_s
@@ -30768,6 +30776,7 @@ gouvernement/_s
 gouverner/a0p+
 gouverne/_s
 gouverneur·e/,,_e
+gouverneur·euse/,,rs
 gouvernorat/_s
 gouzigouzi/_s
 goyave/_s
@@ -37598,6 +37607,7 @@ kayac/_s
 kayakiste/_s
 kayak/_s
 kazakh·e/,,_e
+kebabier·ère/,,rr
 kebab/_s
 kébab/_s
 keepsake/_s
@@ -38240,6 +38250,7 @@ larcin/_s
 larder/a0p+
 lardoire/_s
 lardonner/a0p+
+lardonnier·ère/,,rr
 lardon/_s
 lard/_s
 lardure/_s
@@ -43475,6 +43486,7 @@ mosaïculture/_s
 mosaïqué·e/,,_e
 mosaïque/_s
 mosaïsme/_s
+mosaiste/_s
 mosaïste/_s
 mosan·e/,,_e
 mosasaure/_s
@@ -47890,6 +47902,7 @@ paraître/
 paraitre/wQq+
 paraître/wQq+
 parajudiciaire/_s
+parajuriste/_s
 parakératose/_s
 paralangage/_s
 paralipomènes/
@@ -50815,6 +50828,7 @@ planisphère/_s
 planisphérique/_s
 planiste/_s
 planitude/_s
+planneur·euse/,,rs
 planning/_s
 planoir/_s
 planorbe/_s
@@ -52417,6 +52431,7 @@ préférence/_s
 préférentiel·le/,,ll
 préférentiellement/
 préférer/c0p+
+préfet·e/,,_e
 préfet·ète/,,et
 préfigurateur·rice/,,ri
 préfiguratif·ve/,,fv
@@ -56053,6 +56068,7 @@ référençable/_s
 référencement/_s
 référencer/a0p+
 référence/_s
+référenceur·euse/,,rs
 référenciation/_s
 référendaire/_s
 referendum/_s
@@ -58227,6 +58243,7 @@ rondelle/_s
 rondel/_s
 rondement/
 rondeur/_s
+rondier·ère/,,rr
 rondier/_s
 rondin/_s
 rondir/f0p+
@@ -60326,6 +60343,7 @@ sérieusement/
 sérieux·euse/,,xz
 seriez
 serif/_s
+sérigraphe/_s
 sérigraphier/a0p+
 sérigraphie/_s
 sérigraphique/_s
@@ -65783,6 +65801,7 @@ tonnant·e/,,_e
 tonneau/_x
 tonnelage/_s
 tonnelet/_s
+tonnelier·ère/,,rr
 tonnelier/_s
 tonnellerie/_s
 tonnelle/_s
@@ -66244,6 +66263,7 @@ traitement/_s
 traiter/a0p+
 traite/_s
 traité/_s
+traiteur·euse/,,rs
 traiteur/_s
 traitre/_s
 traître/_s
@@ -69233,6 +69253,7 @@ viticulture/_s
 vitiligo/_s
 vitivinicole/_s
 vitrage/_s
+vitrailliste/_s
 vitrail/_x
 vitrectomie/_s
 vitrer/a0p+
