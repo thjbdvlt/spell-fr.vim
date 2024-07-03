@@ -7,15 +7,11 @@ FLAG long
 # peut strip la totalité d'un mot: par exemple "être" -> "sont"
 FULLSTRIP
 
-BREAK '
-BREAK ’
-BREAK /
-BREAK -
-
 ICONV 2
 ICONV ' ’
 ICONV . ·
 
+NEEDAFFIX ,,
 # elision
 SFX u' Y 2
 SFX u' e 0 .  is:eli

@@ -169,5 +169,8 @@ python3 ${root}/scripts/remove_repeated_pos.py $dic
 # "je", "j'", "jusqu'" et "jusque" (etc.) deviennent une seule entrée
 sed -E -i "s@^(je|ne|se|ce|me|te|le|la|de|(puis|quoi|jus|pres|lors|quel)que)/(\S*)@\1/u'\3@" $dic
 
+# ajoute un flag 'NEEDAFFIX' pour tous les mots avec des formes inclusives
+sed -r '/·/ s!/!/,,!' $dic -i
+
 # une fois cela fait, je déplace le fichier .dic vers ../words/words.dic, car la compilation se fait à partir des fichiers qui se trouve dans ce dossier. le fichier .aff doit en revanche être édité manuellement et partiellement réécrit. 
 cp $dic ${root}/words/words.dic

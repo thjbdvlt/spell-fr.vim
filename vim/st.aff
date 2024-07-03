@@ -7,15 +7,11 @@ FLAG long
 
 FULLSTRIP
 
-BREAK '
-BREAK ’
-BREAK /
-BREAK -
-
 ICONV 2
 ICONV ' ’
 ICONV . ·
 
+NEEDAFFIX ,,
 
 SFX u' Y 2
 SFX u' e 0 .
