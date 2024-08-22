@@ -7,8 +7,15 @@ FLAG long
 # peut strip la totalité d'un mot: par exemple "être" -> "sont"
 FULLSTRIP
 
-ICONV 2
+ICONV 1
 ICONV ' ’
-ICONV . ·
 
 NEEDAFFIX ,,
+
+MAP 6
+MAP eéëêè
+MAP uüùúû
+MAP aâàä
+MAP iîïy
+MAP cçsz
+MAP jg

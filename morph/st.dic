@@ -1,4 +1,4 @@
-71116
+71155
 abaca/_s  po:noun is:mas
 abacule/_s  po:noun is:mas
 abader/  po:verb
@@ -6944,6 +6944,7 @@ batifoleur·euse/,,rs  po:noun po:adj
 batik/_s  po:noun is:mas
 batillage/_s  po:noun is:mas
 bâtiment/_s  po:noun is:mas
+bâti  po:noun
 bâtir/f0p+  po:verb
 bâtissable/_s  po:adj is:epi
 bâtisse/_s  po:noun is:fem
@@ -7166,6 +7167,7 @@ belon/_s  po:noun is:mas
 beloter/a0p.  po:verb
 belote/_s  po:noun is:fem
 bélouga/_s  po:noun is:mas
+bel/  po:adj st:beau·elle
 béluga/_s  po:noun is:mas
 belvédère/_s  po:noun is:mas
 bémoliser/a0p+  po:verb
@@ -7406,6 +7408,7 @@ bhoutanais·e/,,_e  po:noun po:adj
 biacide/_s  po:noun is:mas
 biactif·ve/,,fv  po:adj
 biacuminé·e/,,_e  po:adj
+biaïeul·e/,,_e  po:noun
 biaisement/_s  po:noun is:mas
 biaiser/a0p+  po:verb
 biais/  po:noun is:mas is:inv
@@ -11440,11 +11443,13 @@ célioscopique/_s  po:adj is:epi
 cella/_s  po:noun is:fem
 cellérier·ère/,,rr  po:noun po:adj
 celle/_s  po:pron is:fem
+celleux/  po:pron
 cellier/_s  po:noun is:mas
 cellobiose/_s  po:noun is:mas
 cellophané·e/,,_e  po:adj
 cellophane/_s  po:noun is:fem
 cellophaneuse/_s  po:noun is:fem
+cellui/  po:pron
 cellulairement/  po:adv
 cellulaire/_s  po:adj is:epi
 cellular/_s  po:noun is:mas
@@ -11520,6 +11525,7 @@ centigrade/_s  po:noun po:adj is:epi
 centilage/_s  po:noun is:mas
 centile/_s  po:noun is:mas
 centime/_s  po:noun is:mas
+centimètre/_s  po:noun
 centimétrique/_s  po:adj is:epi
 centipoise/_s  po:noun is:fem
 centistokes/  po:noun is:mas is:inv
@@ -11673,6 +11679,7 @@ cervelas/  po:noun is:mas is:inv
 cervelet/_s  po:noun is:mas
 cervelle/_s  po:noun is:fem
 cervical·e/,,al  po:adj
+cervicale/_s  po:noun
 cervicalgie/_s  po:noun is:fem
 cervicarthrose/_s  po:noun is:fem
 cervicite/_s  po:noun is:fem
@@ -12473,6 +12480,7 @@ chiliasme/_s  po:noun is:mas
 chiliaste/_s  po:noun po:adj is:epi
 chilien·ne/,,ll  po:noun po:adj
 chili/_s  po:noun is:mas
+chiller/a0  po:verb
 chilo  po:adp
 chilopode/_s  po:noun is:mas
 chimer/a0p+  po:verb
@@ -15618,6 +15626,7 @@ coordonner/a0p+  po:verb
 coorganisateur·rice/,,ri  po:noun
 coorganiser/a0p+  po:verb
 copaïer/_s  po:noun is:mas
+copaine/_s  po:noun
 copain/_s  po:noun is:mas
 copal/_s  po:noun is:mas
 coparental·e/,,al  po:adj
@@ -18039,6 +18048,7 @@ décimateur/_s  po:noun is:mas
 décimation/_s  po:noun is:fem
 décimer/a0p+  po:verb
 décime/_s  po:noun is:mas
+décimètre/_s  po:noun
 décimétrique/_s  po:adj is:epi
 decimo/  po:adv
 décintrage/_s  po:noun is:mas
@@ -23316,6 +23326,7 @@ ellébore/_s  po:noun is:mas
 elle/  po:pron is:sg is:fem is:3pe
 elle/_s  po:adp
 elles/  po:pron is:pl is:fem is:3pe
+elleux/  po:pron
 ellipse/_s  po:noun is:fem
 ellipsoïdal·e/,,al  po:adj
 ellipsoïde/_s  po:adj is:epi
@@ -23324,6 +23335,7 @@ ellipticité/_s  po:noun is:fem
 elliptiquement/  po:adv
 elliptique/_s  po:adj is:epi
 elliptocytose/_s  po:noun is:fem
+ellui/  po:pron
 élocution/_s  po:noun is:fem
 élodée/_s  po:noun is:fem
 éloge/_s  po:noun is:mas
@@ -25220,6 +25232,7 @@ e/  po:noun is:mas is:inv
 épousailles/  po:noun is:pl is:fem
 épousée/_s  po:noun is:fem
 épouser/a0p+  po:verb
+épouse/_s  po:noun
 épouseur/_s  po:noun is:mas
 époussetage/_s  po:noun is:mas
 épousseter/d0p+  po:verb
@@ -25235,6 +25248,7 @@ e/  po:noun is:mas is:inv
 épouvanter/a0p+  po:verb
 épouvante/_s  po:noun is:fem
 époux·euse/,,xz  po:noun
+époux/_s  po:noun
 époxydation/_s  po:noun is:fem
 époxydé·e/,,_e  po:adj
 époxyde/_s  po:noun is:mas
@@ -28506,11 +28520,14 @@ folksong/_s  po:noun is:mas
 folk/_s  po:adj is:epi
 folk/_s  po:noun is:mas
 follement/  po:adv
+folle/_s  po:adj st:fou·olle
+folle/_s  po:noun
 follet·te/,,ll  po:noun po:adj
 folliculaire/_s  po:adj is:epi
 follicule/_s  po:noun is:mas
 folliculine/_s  po:noun is:fem
 folliculite/_s  po:noun is:fem
+fol/_s  po:adj st:fou·olle
 fomentateur·rice/,,ri  po:noun
 fomentation/_s  po:noun is:fem
 fomenter/a0p+  po:verb
@@ -28860,6 +28877,8 @@ four/_s  po:noun is:mas
 fourvoiement/_s  po:noun is:mas
 fourvoyant·e/,,_e  po:adj
 fourvoyer/a0p+  po:verb
+fou/_s  po:adj st:fou·olle
+fou/_s  po:noun
 foutage/_s  po:noun is:mas
 foutaise/_s  po:noun is:fem
 fouteur·euse/,,rs  po:noun
@@ -30577,6 +30596,7 @@ glacial·e/,,al  po:adj
 glacialement/  po:adv
 glacials/  po:adj is:pl is:mas
 glaciation/_s  po:noun is:fem
+glacier·ère/  po:pron
 glacière/_s  po:noun is:fem
 glaciérisme/_s  po:noun is:mas
 glaciériste/_s  po:noun is:epi
@@ -31231,6 +31251,7 @@ grammaticalité/_s  po:noun is:fem
 grammatiste/_s  po:noun is:epi
 grammatologie/_s  po:noun is:fem
 grammatologique/_s  po:adj is:epi
+gramme/_s  po:noun
 gramme/Um  po:noun is:mas
 gramophone/_s  po:noun is:mas
 gram/  po:noun is:sg is:mas
@@ -34314,8 +34335,10 @@ id/  po:adv
 iduronique/_s  po:adj is:epi
 idylle/_s  po:noun is:fem
 idyllique/_s  po:adj is:epi
+ielles/  po:pron
 iel/Si  po:pron is:3pe
 iel/Si  po:pron is:sg is:epi is:3pe
+iels/  po:pron
 iels/Si  po:pron is:pl is:epi is:3pe
 if/_s  po:noun is:mas
 igbo/_s  po:noun is:mas
@@ -37026,10 +37049,12 @@ iota/  po:noun is:mas is:inv
 iota/_s  po:noun is:mas
 iouler/a0p.  po:verb
 iourte/_s  po:noun is:fem
+ipad/_s  po:noun
 ipécacuana/_s  po:noun is:mas
 ipécacuanha/_s  po:noun is:mas
 ipéca/_s  po:noun is:mas
 ipé/_s  po:noun is:mas
+ipod/_s  po:noun
 ipomée/_s  po:noun is:fem
 i/  po:noun is:mas is:inv
 ippon/_s  po:noun is:mas
@@ -38169,9 +38194,11 @@ kikongo/_s  po:noun is:mas
 kilim/_s  po:noun is:mas
 kilobase/_s  po:noun is:fem
 kilobit/_s  po:noun is:mas
+kilogramme/_s  po:noun
 kilogrammètre/_s  po:noun is:mas
 kilométrage/_s  po:noun is:mas
 kilométrer/c0p+  po:verb
+kilomètre/_s  po:noun
 kilométrique/_s  po:adj is:epi
 kilooctet/_s  po:noun is:mas
 kiloparsec/_s  po:noun is:mas
@@ -41108,6 +41135,7 @@ manucure/_s  po:noun is:epi
 manuélin·e/,,_e  po:adj
 manuel·le/,,ll  po:adj
 manuellement/  po:adv
+manuel/_s  po:noun
 manufacturable/_s  po:adj is:epi
 manufacturer/a0p+  po:verb
 manufacture/_s  po:noun is:fem
@@ -42652,6 +42680,7 @@ métope/_s  po:noun is:fem
 métopique/_s  po:adj is:epi
 métrage/_s  po:noun is:mas
 métrer/c0p+  po:verb
+mètre/_s  po:noun
 mètre/Um  po:noun is:mas
 métreur·euse/,,rs  po:noun
 métricien·ne/,,ll  po:noun
@@ -42997,6 +43026,7 @@ miliaire/_s  po:noun is:fem
 milice/_s  po:noun is:fem
 milicien·ne/,,ll  po:noun
 milieu/_x  po:noun is:mas
+milimètre/_s  po:noun st:millimètre
 militairement/  po:adv
 militaire/_s  po:noun po:adj is:epi
 militance/_s  po:noun is:fem
@@ -43044,8 +43074,10 @@ millibar/_s  po:noun is:mas
 millième/_s  po:noun po:adj is:epi
 millier/_s  po:noun is:mas
 milligrade/_s  po:noun is:mas
+milligramme/_s  po:noun
 millime/_s  po:noun is:mas
 millimétré·e/,,_e  po:adj
+millimètre/_s  po:noun
 millimétrique/_s  po:adj is:epi
 millimicron/_s  po:noun is:mas
 millionième/_s  po:noun po:adj is:epi
@@ -44286,6 +44318,7 @@ mozarabe/_s  po:noun po:adj is:epi
 mozette/_s  po:noun is:fem
 mozzarella/_s  po:noun is:fem
 mozzarelle/_s  po:noun is:fem
+mp3/_s  po:noun
 m/  po:noun is:mas is:inv
 muance/_s  po:noun is:fem
 mucher/a0p+  po:verb
@@ -45633,6 +45666,7 @@ niaque/_s  po:noun is:fem
 nibard/_s  po:noun is:mas
 nib/  po:adv
 nicaraguayen·ne/,,ll  po:noun po:adj
+nice/_s  po:adj
 nichée/_s  po:noun is:fem
 nicher/a0p+  po:verb
 niche/_s  po:noun is:fem
@@ -51813,6 +51847,7 @@ plumier/_s  po:noun is:mas
 plumitif/_s  po:noun is:mas
 plumpouding/_s  po:noun is:mas
 plumule/_s  po:noun is:fem
+plupart  po:noun
 plupart/  po:pron is:pl is:epi
 plural·e/,,al  po:adj
 pluralisation/_s  po:noun is:fem
@@ -56771,6 +56806,7 @@ rééligible/_s  po:adj is:epi
 réélire/yB  po:verb
 réel·le/,,ll  po:adj
 réellement/  po:adv
+réel/_s  po:noun
 réembaucher/a0p+  po:verb
 réembauche/_s  po:noun is:fem
 réémergence/_s  po:noun is:fem
@@ -64978,6 +65014,7 @@ tangible/_s  po:adj is:epi
 tangon/_s  po:noun is:mas
 tango/  po:adj is:inv is:epi
 tango/_s  po:noun is:mas
+tangram/_s  po:noun
 tanguer/a0p.  po:verb
 tanguière/_s  po:noun is:fem
 tanh/  po:noun is:inv is:fem
@@ -67623,6 +67660,7 @@ triade/_s  po:noun is:fem
 triadique/_s  po:adj is:epi
 triage/_s  po:noun is:mas
 triaicosa  po:adp
+triaïeul·e/,,_e  po:noun
 triaire/_s  po:noun is:mas
 triakioctaèdre/_s  po:noun is:mas
 triakitétraèdre/_s  po:noun is:mas
@@ -69551,6 +69589,7 @@ vermeil·le/,,ll  po:adj
 vermet/_s  po:noun is:mas
 vermicellerie/_s  po:noun is:fem
 vermicelle/_s  po:noun is:mas
+vermicellier·ère/,,rr  po:noun
 vermicide/_s  po:adj is:epi
 vermicide/_s  po:noun is:mas
 vermiculaire/_s  po:adj is:epi

@@ -1,4 +1,4 @@
-70176
+70213
 -
 _/
 a
@@ -6847,6 +6847,7 @@ bathymétrique/_s
 bathypélagique/_s
 bathyscaphe/_s
 bathysphère/_s
+bâti
 bâtière/_s
 bâtier/_s
 batifolage/_s
@@ -7040,6 +7041,7 @@ beigne/_s
 beignet/_s
 béjaune/_s
 béké/_s
+bel/
 bélandre/_s
 bêlant·e/,,_e
 belcanto/
@@ -7315,6 +7317,7 @@ bi
 biacide/_s
 biactif·ve/,,fv
 biacuminé·e/,,_e
+biaïeul·e/,,_e
 biais/
 biaisement/_s
 biaiser/a0p+
@@ -11274,11 +11277,13 @@ célioscopique/_s
 cella/_s
 cellérier·ère/,,rr
 celle/_s
+celleux/
 cellier/_s
 cellobiose/_s
 cellophané·e/,,_e
 cellophane/_s
 cellophaneuse/_s
+cellui/
 cellulairement/
 cellulaire/_s
 cellular/_s
@@ -11355,6 +11360,7 @@ centigrade/_s
 centilage/_s
 centile/_s
 centime/_s
+centimètre/_s
 centimétrique/_s
 centipoise/_s
 centistokes/
@@ -11502,6 +11508,7 @@ cervelas/
 cervelet/_s
 cervelle/_s
 cervical·e/,,al
+cervicale/_s
 cervicalgie/_s
 cervicarthrose/_s
 cervicite/_s
@@ -12296,6 +12303,7 @@ chiliasme/_s
 chiliaste/_s
 chilien·ne/,,ll
 chili/_s
+chiller/a0
 chilo
 chilopode/_s
 chimer/a0p+
@@ -15411,6 +15419,7 @@ coordonner/a0p+
 coorganisateur·rice/,,ri
 coorganiser/a0p+
 copaïer/_s
+copaine/_s
 copain/_s
 copal/_s
 coparental·e/,,al
@@ -17803,6 +17812,7 @@ décimateur/_s
 décimation/_s
 décimer/a0p+
 décime/_s
+décimètre/_s
 décimétrique/_s
 decimo/
 décintrage/_s
@@ -23012,6 +23022,7 @@ elle/
 ellébore/_s
 elle/_s
 elles/
+elleux/
 ellipse/_s
 ellipsoïdal·e/,,al
 ellipsoïde/_s
@@ -23019,6 +23030,7 @@ ellipticité/_s
 elliptiquement/
 elliptique/_s
 elliptocytose/_s
+ellui/
 élocution/_s
 élodée/_s
 éloge/_s
@@ -24900,6 +24912,7 @@ enzymopathie/_s
 épousailles/
 épousée/_s
 épouser/a0p+
+épouse/_s
 épouseur/_s
 époussetage/_s
 épousseter/d0p+
@@ -24915,6 +24928,7 @@ enzymopathie/_s
 épouvanter/a0p+
 épouvante/_s
 époux·euse/,,xz
+époux/_s
 époxydation/_s
 époxydé·e/,,_e
 époxyde/_s
@@ -28167,11 +28181,13 @@ folklo/_s
 folk/_s
 folksong/_s
 follement/
+folle/_s
 follet·te/,,ll
 folliculaire/_s
 follicule/_s
 folliculine/_s
 folliculite/_s
+fol/_s
 fomentateur·rice/,,ri
 fomentation/_s
 fomenter/a0p+
@@ -28515,6 +28531,7 @@ four/_s
 fourvoiement/_s
 fourvoyant·e/,,_e
 fourvoyer/a0p+
+fou/_s
 foutage/_s
 foutaise/_s
 fouteur·euse/,,rs
@@ -30221,6 +30238,7 @@ glacial·e/,,al
 glacialement/
 glacials/
 glaciation/_s
+glacier·ère/
 glacière/_s
 glaciérisme/_s
 glaciériste/_s
@@ -30865,6 +30883,7 @@ grammaticalité/_s
 grammatiste/_s
 grammatologie/_s
 grammatologique/_s
+gramme/_s
 gramme/Um
 gramophone/_s
 gramscisme/_s
@@ -33894,6 +33913,8 @@ ido/_s
 iduronique/_s
 idylle/_s
 idyllique/_s
+ielles/
+iels/
 iel/Si
 iels/Si
 if/_s
@@ -36581,10 +36602,12 @@ iotacisme/_s
 iota/_s
 iouler/a0p.
 iourte/_s
+ipad/_s
 ipécacuana/_s
 ipécacuanha/_s
 ipéca/_s
 ipé/_s
+ipod/_s
 ipomée/_s
 ippon/_s
 ipséité/_s
@@ -37715,9 +37738,11 @@ kilim/_s
 kilo
 kilobase/_s
 kilobit/_s
+kilogramme/_s
 kilogrammètre/_s
 kilométrage/_s
 kilométrer/c0p+
+kilomètre/_s
 kilométrique/_s
 kilooctet/_s
 kiloparsec/_s
@@ -40598,6 +40623,7 @@ manucure/_s
 manuélin·e/,,_e
 manuel·le/,,ll
 manuellement/
+manuel/_s
 manufacturable/_s
 manufacturer/a0p+
 manufacture/_s
@@ -42117,6 +42143,7 @@ métope/_s
 métopique/_s
 métrage/_s
 métrer/c0p+
+mètre/_s
 mètre/Um
 métreur·euse/,,rs
 métricien·ne/,,ll
@@ -42458,6 +42485,7 @@ miliaire/_s
 milice/_s
 milicien·ne/,,ll
 milieu/_x
+milimètre/_s
 militairement/
 militaire/_s
 militance/_s
@@ -42505,8 +42533,10 @@ millibar/_s
 millième/_s
 millier/_s
 milligrade/_s
+milligramme/_s
 millime/_s
 millimétré·e/,,_e
+millimètre/_s
 millimétrique/_s
 millimicron/_s
 millionième/_s
@@ -43709,6 +43739,7 @@ mozarabe/_s
 mozette/_s
 mozzarella/_s
 mozzarelle/_s
+mp3/_s
 mu/
 muance/_s
 mucher/a0p+
@@ -45026,6 +45057,7 @@ niaque/_s
 nib/
 nibard/_s
 nicaraguayen·ne/,,ll
+nice/_s
 nichée/_s
 nicher/a0p+
 niche/_s
@@ -51111,6 +51143,7 @@ plumier/_s
 plumitif/_s
 plumpouding/_s
 plumule/_s
+plupart
 plupart/
 plural·e/,,al
 pluralisation/_s
@@ -55992,6 +56025,7 @@ rééligible/_s
 réélire/yB
 réel·le/,,ll
 réellement/
+réel/_s
 réembaucher/a0p+
 réembauche/_s
 réémergence/_s
@@ -64134,6 +64168,7 @@ tangible/_s
 tango/
 tangon/_s
 tango/_s
+tangram/_s
 tanguer/a0p.
 tanguière/_s
 tanh/
@@ -66737,6 +66772,7 @@ triade/_s
 triadique/_s
 triage/_s
 triaicosa
+triaïeul·e/,,_e
 triaire/_s
 triakioctaèdre/_s
 triakitétraèdre/_s
@@ -68639,6 +68675,7 @@ vermeil·le/,,ll
 vermet/_s
 vermicellerie/_s
 vermicelle/_s
+vermicellier·ère/,,rr
 vermicide/_s
 vermiculaire/_s
 vermiculé·e/,,_e

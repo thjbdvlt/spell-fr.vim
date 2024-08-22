@@ -1,11 +1,13 @@
 #!/bin/bash
 
+set -e
+
 # génère les différents fichiers:
 # - le fichier compilé `.spl` pour vim;
 # - les fichiers avec les annotations en FEATS;
 # - un fichier avec tous les mots du lexique (un par ligne).
 
-cd $(git rev-parse --show-toplevel)
+cd "$(git rev-parse --show-toplevel)"
 
 # concaténation des affixes: st.aff
 cat affixes/options.aff \
@@ -33,7 +35,7 @@ for directory in vim morph; do
 done
 
 _sortuniq() {
-    sort < $1 | uniq | sponge $1
+    sort < "$1" | uniq | sponge "$1"
 }
 
 # création des fichiers pour l'analyse morphologique
@@ -50,7 +52,10 @@ cat ../exceptions/*.dic >> st.dic
 ../scripts/enlever-commentaires.sh st.aff
 _sortuniq st.dic
 ../scripts/header-number.sh st.dic
+
+# commande vim pour compilation du fichier .spl
 vim -c "mkspell! st" -c "q"
+
 cp st.utf-8.spl ~/.config/nvim/spell/fr.utf-8.spl
 
 # retourner au toplevel
@@ -58,7 +63,7 @@ cd ..
 
 # dump un fichier avec tous les mots
 if ! [ -d dump ];then mkdir dump; fi
-unmunch st.dic st.aff \
+unmunch st.dic st.aff 2>/dev/null \
     | sed -E 's;/.*;;g' \
     | sort | uniq > dump/all_words.txt
 

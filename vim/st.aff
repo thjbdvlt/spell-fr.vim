@@ -7,11 +7,18 @@ FLAG long
 
 FULLSTRIP
 
-ICONV 2
+ICONV 1
 ICONV ' ’
-ICONV . ·
 
 NEEDAFFIX ,,
+
+MAP 6
+MAP eéëêè
+MAP uüùúû
+MAP aâàä
+MAP iîïy
+MAP cçsz
+MAP jg
 
 SFX u' Y 2
 SFX u' e 0 .
@@ -32,11 +39,11 @@ SFX _x il ux/ ail
 
 
 SFX ri Y 5
-SFX ri eur·rice rice/_s .
-SFX ri eur·rice eur/_s .
-SFX ri eur·rice eurice/_s .
-SFX ri eur·rice euricex/_s .
-SFX ri eur·rice eur·rice/_s .
+SFX ri eur·rice rice/_s .eur·rice
+SFX ri eur·rice eur/_s eur·rice
+SFX ri eur·rice eurice/_s eur·rice
+SFX ri eur·rice euricex/_s eur·rice
+SFX ri eur·rice eur·rice/_s eur·rice
 
 
 SFX rs Y 5
@@ -56,7 +63,7 @@ SFX rr er·ère er·ère/_s .
 SFX xz Y 3
 SFX xz eux·euse euse/_s .
 SFX xz eux·euse eux .
-SFX xz eux·euse eux·euse .
+SFX xz eux·euse eux·euse/_s .
 
 
 SFX fv Y 3
@@ -77,7 +84,7 @@ SFX la eau·elle eaux .
 SFX la eau·elle elle/_s .
 SFX la eau·elle elleau .
 SFX la eau·elle elleaux .
-SFX la eau·elle eau·elle .
+SFX la eau·elle eau·elle/_s .
 
 
 SFX ee Y 3

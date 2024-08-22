@@ -7,11 +7,18 @@ FLAG long
 # peut strip la totalité d'un mot: par exemple "être" -> "sont"
 FULLSTRIP
 
-ICONV 2
+ICONV 1
 ICONV ' ’
-ICONV . ·
 
 NEEDAFFIX ,,
+
+MAP 6
+MAP eéëêè
+MAP uüùúû
+MAP aâàä
+MAP iîïy
+MAP cçsz
+MAP jg
 # elision
 SFX u' Y 2
 SFX u' e 0 .  is:eli
@@ -32,11 +39,11 @@ SFX _x il ux/ ail  is:pl
 
 # aut -rice -eur -eurice
 SFX ri Y 5
-SFX ri eur·rice rice/_s .  is:fem
-SFX ri eur·rice eur/_s .   is:mas
-SFX ri eur·rice eurice/_s .  is:incl
-SFX ri eur·rice euricex/_s .  is:incl is:nonb
-SFX ri eur·rice eur·rice/_s .  is:incl
+SFX ri eur·rice rice/_s .eur·rice  is:fem
+SFX ri eur·rice eur/_s eur·rice   is:mas
+SFX ri eur·rice eurice/_s eur·rice  is:incl
+SFX ri eur·rice euricex/_s eur·rice  is:incl is:nonb
+SFX ri eur·rice eur·rice/_s eur·rice  is:incl
 
 # accordeu -r -se -eureuse -exes
 SFX rs Y 5
@@ -56,7 +63,7 @@ SFX rr er·ère er·ère/_s .  is:incl
 SFX xz Y 3
 SFX xz eux·euse euse/_s .  is:fem
 SFX xz eux·euse eux .  is:mas
-SFX xz eux·euse eux·euse .  is:incl
+SFX xz eux·euse eux·euse/_s .  is:incl
 
 # vi -ive -f
 SFX fv Y 3
@@ -73,11 +80,11 @@ SFX ue u·ue u·ue/_s .  is:incl
 # be -au, be -lle, tourtere -au -lle
 SFX la Y 6
 SFX la eau·elle eau .  is:mas
-SFX la eau·elle eaux .  is:mas
+SFX la eau·elle eaux .  is:mas is:pl
 SFX la eau·elle elle/_s .  is:fem
 SFX la eau·elle elleau .  is:incl is:nodot
 SFX la eau·elle elleaux .  is:incl is:nodot
-SFX la eau·elle eau·elle .  is:incl
+SFX la eau·elle eau·elle/_s .  is:incl
 
 # po -étesse, -ète
 SFX ee Y 3
