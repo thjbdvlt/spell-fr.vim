@@ -1,4 +1,4 @@
-70213
+70254
 -
 _/
 a
@@ -1468,6 +1468,7 @@ agenouiller/a0p+
 agenouilliste/_s
 agenouilloir/_s
 agent·e/,,_e
+agentivité/_s
 agérate/_s
 ageratum/_s
 agératum/_s
@@ -2402,6 +2403,8 @@ amas/
 amasser/a0p+
 amassette/_s
 amasseur·euse/,,rs
+amateurat/_s
+amateur/_e
 amateurisme/_s
 amateur·rice/,,ri
 amateur/_s
@@ -4759,6 +4762,7 @@ arthurien·ne/,,ll
 artichautière/_s
 artichaut/_s
 artiche/_s
+articité/_s
 article/_s
 articlier/_s
 articulaire/_s
@@ -5377,6 +5381,8 @@ aubin/_s
 aubois·e/,,_e
 auburn/
 auburn/_s
+auctorialité/_s
+auctorial/_x
 aucuba/_s
 aucun/
 aucune/
@@ -5764,6 +5770,7 @@ autorail/_s
 autoréalisateur·rice/,,ri
 autoréférence/_s
 autoréférentiel·le/,,ll
+autoréflexif·ve/fv
 autoréglage/_s
 autorégulateur·rice/,,ri
 autorégulation/_s
@@ -6932,6 +6939,7 @@ bazarder/a0p+
 bazar/_s
 bazooka/_s
 bazou/_s
+bd/_s
 beachvolley/_s
 beagle/_s
 béalière/_s
@@ -10970,6 +10978,7 @@ cassitérite/_s
 cassolette/_s
 cassonade/_s
 casson/_s
+cassos/
 cassoulet/_s
 cassure/_s
 castagner/a0p+
@@ -16654,6 +16663,7 @@ croutonner/a0p+
 croûtonner/a0p+
 crouton/_s
 croûton/_s
+crowdfounding/
 croyable/_s
 croyance/_s
 croyant·e/,,_e
@@ -18192,6 +18202,7 @@ défaitisme/_s
 défaitiste/_s
 défalcation/_s
 défalquer/a0p+
+défamiliarisation/_s
 défanage/_s
 défarder/a0p+
 défarguer/
@@ -18911,6 +18922,7 @@ démystifiant·e/,,_e
 démystificateur·rice/,,ri
 démystification/_s
 démystifier/a0p+
+démythifiant/_e
 démythification/_s
 démythifier/a0p+
 dénantir/f0p+
@@ -22994,6 +23006,7 @@ elephantus
 elfe/_s
 elfique/_s
 élicitation/_s
+élicité/_e
 éliciteur·rice/,,ri
 éliciteur/_s
 élicitine/_s
@@ -23069,6 +23082,7 @@ elzévir/_s
 émaillerie/_s
 émailleur·euse/,,rs
 émaillure/_s
+email/_s
 émail/_x
 émanation/_s
 émanche/_s
@@ -26592,6 +26606,7 @@ extraordinairement/
 extraordinaire/_s
 extraparlementaire/_s
 extrapolable/_s
+extrapolateur·rice/,,ri
 extrapolation/_s
 extrapoler/a0p+
 extraprofessionnel·le/,,ll
@@ -27510,6 +27525,7 @@ fic/_s
 fictif·ve/,,fv
 fictionalisation/_s
 fictionnalisation/_s
+fictionnalité/_s
 fictionnel·le/,,ll
 fiction/_s
 fictivement/
@@ -29512,6 +29528,7 @@ gardian·e/,,_e
 gardiennage/_s
 gardien·ne/,,ll
 gardienner/a0p+
+gardiste/_s
 gardois·e/,,_e
 gardon/_s
 garenne/_s
@@ -32460,6 +32477,7 @@ hétérosphère/_s
 hétérosporé·e/,,_e
 hétérotherme/_s
 hétérothermie/_s
+hétérotopique/_s
 hétérotrophe/_s
 hétérotrophie/_s
 hétérozygote/_s
@@ -33049,6 +33067,7 @@ houx/
 hoverboard/_s
 hovercraft/_s
 hoyau/_x
+html/
 http/_s
 huard/_s
 huart/_s
@@ -33711,6 +33730,7 @@ hypothèque/_s
 hypothermie/_s
 hypothermique/_s
 hypothèse/_s
+hypothético
 hypothéticodéductif·ve/,,fv
 hypothétiquement/
 hypothétique/_s
@@ -33996,6 +34016,7 @@ illisibilité/_s
 illisiblement/
 illisible/_s
 illite/_s
+illocutoire/_s
 illogiquement/
 illogique/_s
 illogisme/_s
@@ -36527,6 +36548,7 @@ invertine/_s
 invertir/f0p+
 investigateur·rice/,,ri
 investigation/_s
+investigatoire/_s
 investiguer/a0p.
 investir/f0p+
 investison/_s
@@ -36702,6 +36724,7 @@ irréductible/_s
 irréel·le/,,ll
 irréellement/
 irréfléchi·e/,,_e
+irréflexif·ve/,,fv
 irréflexion/_s
 irréformabilité/_s
 irréformable/_s
@@ -37382,6 +37405,7 @@ joyeusement/
 joyeuseté/_s
 joyeux·euse/,,xz
 joystick/_s
+json/
 jubarte/_s
 jubé/_s
 jubilaire/_s
@@ -43950,6 +43974,7 @@ multivarié·e/,,_e
 multivers/
 multivibrateur/_s
 multiviscéral·e/,,al
+multivocalité/_s
 multivoie/_s
 multivoque/_s
 munichois·e/,,_e
@@ -46142,6 +46167,7 @@ oisiveté/_s
 oison/_s
 okapi/_s
 okoumé/_s
+ok/_s
 oldowayen·ne/,,ll
 olé/
 oléacée/_s
@@ -48057,6 +48083,7 @@ parasynthèse/_s
 parasynthétique/_s
 parataxe/_s
 paratexte/_s
+paratextuel·le/,,ll
 parathormone/_s
 parathymie/_s
 parathyroïde/_s
@@ -51300,6 +51327,7 @@ poésie/_s
 poétereau/_x
 poètereau/_x
 poète·sse/,,ee
+poéticité/_s
 poétiquement/
 poétique/_s
 poétisation/_s
@@ -55419,6 +55447,7 @@ réarmer/a0p+
 réarrangement/_s
 réarranger/a0p+
 réa/_s
+réassemblage/_s
 réassembler/a0p+
 réassignation/_s
 réassigner/a0p+
@@ -55749,6 +55778,7 @@ reconsolider/a0p+
 reconstituable/_s
 reconstituant·e/,,_e
 reconstituer/a0p+
+reconstitutif·ve/,,fv
 reconstitution/_s
 reconstructeur·rice/,,ri
 reconstructif·ve/,,fv
@@ -55757,6 +55787,7 @@ reconstruire/yM
 recontacter/a0p+
 recontamination/_s
 recontaminer/a0p+
+recontextualisation/_s
 recontextualiser/a0p+
 recontracter/a0p+
 recontrôler/a0p+
@@ -55936,6 +55967,7 @@ redéployer/a0p+
 redéposer/a0p+
 redescendre/tA
 redescente/_s
+redescription/_s
 redessiner/a0p+
 redevabilité/_s
 redevable/_s
@@ -56000,6 +56032,7 @@ réductif·ve/,,fv
 réductionnisme/_s
 réductionniste/_s
 réduction/_s
+réductivement/
 réduire/yM
 réduit/_s
 réduplicatif·ve/,,fv
@@ -57081,6 +57114,7 @@ représailles/
 représentable/_s
 représentant·e/,,_e
 représentatif·ve/,,fv
+représentationnel·le/,,ll
 représentation/_s
 représentativité/_s
 représenter/a0p+
@@ -60358,6 +60392,7 @@ sergent·e/,,_e
 serge/_s
 sergé/_s
 sergette/_s
+sérialisable/_s
 sérialisation/_s
 sérialiser/a0p+
 sérialiseur/_s
@@ -62601,6 +62636,7 @@ stupre/_s
 stups/
 stuquer/a0p+
 styl
+stylème/_s
 styler/a0p+
 style/_s
 stylet/_s
@@ -65065,6 +65101,7 @@ testeur·euse/,,rs
 testiculaire/_s
 testicule/_s
 testimonial·e/,,al
+testivité/_s
 testologie/_s
 teston/_s
 testostérone/_s
@@ -67770,6 +67807,7 @@ uniaxe/_s
 unicaule/_s
 unicellulaire/_s
 unicité/_s
+unicode/
 unicolore/_s
 unicorne/_s
 unidimensionnalité/_s
@@ -67949,6 +67987,7 @@ urinifère/_s
 urinoir/_s
 urinothérapie/_s
 urique/_s
+url/_s
 urne/_s
 uro
 urobiline/_s
@@ -69703,6 +69742,7 @@ webmestrie/_s
 webographie/_s
 webradio/_s
 websérie/_s
+website/_s
 webtélé/_s
 webzine/_s
 weed/_s
@@ -69824,6 +69864,7 @@ xiphophore/_s
 xipho/_s
 xiphosure/_s
 xi/_s
+xml/
 x/_s
 xylème/_s
 xylène/_s

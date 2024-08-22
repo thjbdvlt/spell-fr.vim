@@ -1,61 +1,96 @@
-holà/ # po:intj
-hé/ # po:intj
-que/u' # po:pron po:adp po:det
 adieu/ # po:intj
-tout/ # po:det is:sg is:mas
-tout/ # po:pron is:sg is:mas
-tout/ # po:adv
-tout/ # po:adj
-tout/_s # po:noun is:mas
-toute/_s # po:adv po:adj po:pron po:det is:sg is:fem
-tous/ # po:det is:pl is:mas
-tous/ # is:pl is:mas po:adj
-tous/ # po:det is:pl is:mas po:pron
-toutes/ # po:adv
-toutes/ # po:det is:pl is:fem
-toutes/ # po:pron is:pl is:fem
-toutes/ # po:adj is:pl is:fem
-s'/ # st:si po:sconj
+agentivité/_s # po:noun
+amateur/_e # po:adj
+amateurat/_s # po:noun
+articité/_s # po:noun
+auctorial/_x # po:adj
+auctorialité/_s # po:noun
+aujourd/ #po:adp
+autoréflexif·ve/fv # po:adj
+bd/_s # po:noun
+bel/ # po:adj st:beau·elle
+biaïeul·e/,,_e # po:noun
+blanc/_s # st:blanc·he is:mas
+blanche/_s # st:blanc·he po:adj is:fem
+bâti # po:noun
+cassos/ # po:noun
+celleux/ # po:pron
+cellui/ # po:pron
+centimètre/_s # po:noun
+cervicale/_s # po:noun
+chiller/a0 # po:verb
+copaine/_s # po:noun
+crowdfounding/ # po:noun
+décimètre/_s # po:noun
+défamiliarisation/_s # po:noun
+démythifiant/_e # po:adj
+elleux/ # po:pron
+ellui/ # po:pron
+extrapolateur·rice/,,ri # po:adj
+fictionnalité/_s # po:noun
+fol/_s # po:adj st:fou·olle
+folle/_s # po:adj st:fou·olle
+folle/_s # po:noun
+fou/_s # po:adj st:fou·olle
+fou/_s # po:noun
 franc/_s # st:blanc·he is:mas
 franche/_s # st:blanc·he po:adj is:fem
 franche/_s # st:blanc·he po:adj is:fem
-blanc/_s # st:blanc·he is:mas
-blanche/_s # st:blanc·he po:adj is:fem
+gardiste/_s # po:adj
+glacier·ère/ # po:pron
+gramme/_s # po:noun
+holà/ # po:intj
+hui/ # po:adp
+hé/ # po:intj
+hétérotopique/_s # po:adj
+ielles/ # po:pron
+iels/ # po:pron
+illocutoire/_s # po:adj
+investigatoire/_s # po:adj
 ipad/_s # po:noun
 ipod/_s # po:noun
-mp3/_s # po:noun
-tangram/_s # po:noun
-chiller/a0 # po:verb
-nice/_s # po:adj
-folle/_s # po:adj st:fou·olle
-fou/_s # po:adj st:fou·olle
-fol/_s # po:adj st:fou·olle
-biaïeul·e/,,_e # po:noun
-copaine/_s # po:noun
-triaïeul·e/,,_e # po:noun
-époux/_s # po:noun
-épouse/_s # po:noun
-gramme/_s # po:noun
-iels/ # po:pron
-ielles/ # po:pron
-elleux/ # po:pron
-celleux/ # po:pron
-ellui/ # po:pron
-cellui/ # po:pron
-glacier·ère/ # po:pron
-bel/ # po:adj st:beau·elle
-kilomètre/_s # po:noun
-mètre/_s # po:noun
-centimètre/_s # po:noun
-milimètre/_s # po:noun st:millimètre
-millimètre/_s # po:noun
-décimètre/_s # po:noun
+irréflexif·ve/,,fv # po:adj
 kilogramme/_s # po:noun
-milligramme/_s # po:noun
-plupart # po:noun
-bâti # po:noun
-cervicale/_s # po:noun
-réel/_s # po:noun
+kilomètre/_s # po:noun
 manuel/_s # po:noun
-fou/_s # po:noun
-folle/_s # po:noun
+milimètre/_s # po:noun st:millimètre
+milligramme/_s # po:noun
+millimètre/_s # po:noun
+mp3/_s # po:noun
+multivocalité/_s # po:noun
+mètre/_s # po:noun
+nice/_s # po:adj
+ok/_s # po:intj
+paratextuel·le/,,ll # po:adj
+plupart # po:noun
+poéticité/_s # po:noun
+que/u' # po:pron po:adp po:det
+reconstitutif·ve/,,fv # po:adj
+recontextualisation/_s # po:noun
+redescription/_s # po:noun
+représentationnel·le/,,ll # po:adj
+réassemblage/_s # po:noun
+réductivement/ # po:adv
+réel/_s # po:noun
+s'/ # st:si po:sconj
+stylème/_s # po:noun
+sérialisable/_s # po:adj
+tangram/_s # po:noun
+testivité/_s # po:noun
+tous/ # is:pl is:mas po:adj
+tous/ # po:det is:pl is:mas
+tous/ # po:det is:pl is:mas po:pron
+tout/ # po:adj
+tout/ # po:adv
+tout/ # po:det is:sg is:mas
+tout/ # po:pron is:sg is:mas
+tout/_s # po:noun is:mas
+toute/_s # po:adv po:adj po:pron po:det is:sg is:fem
+toutes/ # po:adj is:pl is:fem
+toutes/ # po:adv
+toutes/ # po:det is:pl is:fem
+toutes/ # po:pron is:pl is:fem
+triaïeul·e/,,_e # po:noun
+élicité/_e # po:adj
+épouse/_s # po:noun
+époux/_s # po:noun

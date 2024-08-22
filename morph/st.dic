@@ -1,4 +1,4 @@
-71155
+71198
 abaca/_s  po:noun is:mas
 abacule/_s  po:noun is:mas
 abader/  po:verb
@@ -1487,6 +1487,7 @@ agenouiller/a0p+  po:verb
 agenouilliste/_s  po:noun po:adj is:epi
 agenouilloir/_s  po:noun is:mas
 agent·e/,,_e  po:noun
+agentivité/_s  po:noun
 agérate/_s  po:noun is:mas
 ageratum/_s  po:noun is:mas
 agératum/_s  po:noun is:mas
@@ -2405,6 +2406,8 @@ amas/  po:noun is:mas is:inv
 amasser/a0p+  po:verb
 amassette/_s  po:noun is:fem
 amasseur·euse/,,rs  po:noun
+amateurat/_s  po:noun
+amateur/_e  po:adj
 amateurisme/_s  po:noun is:mas
 amateur·rice/,,ri  po:noun
 amateur/_s  po:adj is:epi
@@ -4844,6 +4847,7 @@ arthurien·ne/,,ll  po:adj
 artichautière/_s  po:noun is:fem
 artichaut/_s  po:noun is:mas
 artiche/_s  po:noun is:mas
+articité/_s  po:noun
 article/_s  po:noun is:mas
 articlier/_s  po:noun is:mas
 articulaire/_s  po:adj is:epi
@@ -5467,6 +5471,8 @@ aubin/_s  po:noun is:mas
 aubois·e/,,_e  po:noun po:adj
 auburn/  po:adj is:inv is:epi
 auburn/_s  po:adj is:epi
+auctorialité/_s  po:noun
+auctorial/_x  po:adj
 aucuba/_s  po:noun is:mas
 aucun·e/,,_e  po:det
 aucunement/  po:adv
@@ -5548,6 +5554,7 @@ augustin·e/,,_e  po:noun po:adj
 augustinien·ne/,,ll  po:noun po:adj
 augustinisme/_s  po:noun is:mas
 aujourd'hui/  po:adv
+aujourd/  po:adp
 aujourd/  po:adv
 aulacode/_s  po:noun is:mas
 aulique/_s  po:adj is:epi
@@ -5854,6 +5861,7 @@ autorail/_s  po:noun is:mas
 autoréalisateur·rice/,,ri  po:adj
 autoréférence/_s  po:noun is:fem
 autoréférentiel·le/,,ll  po:adj
+autoréflexif·ve/fv  po:adj
 autoréglage/_s  po:noun is:mas
 autorégulateur·rice/,,ri  po:adj
 autorégulation/_s  po:noun is:fem
@@ -7021,6 +7029,7 @@ bazarder/a0p+  po:verb
 bazar/_s  po:noun is:mas
 bazooka/_s  po:noun is:mas
 bazou/_s  po:noun is:mas
+bd/_s  po:noun
 beachvolley/_s  po:noun is:mas
 beagle/_s  po:noun is:mas
 béalière/_s  po:noun is:fem
@@ -11126,6 +11135,7 @@ cassitérite/_s  po:noun is:fem
 cassolette/_s  po:noun is:fem
 cassonade/_s  po:noun is:fem
 casson/_s  po:noun is:mas
+cassos/  po:noun
 cassoulet/_s  po:noun is:mas
 cassure/_s  po:noun is:fem
 castagner/a0p+  po:verb
@@ -16876,6 +16886,7 @@ croutonner/a0p+  po:verb
 croûtonner/a0p+  po:verb
 crouton/_s  po:noun is:mas
 croûton/_s  po:noun is:mas
+crowdfounding/  po:noun
 croyable/_s  po:adj is:epi
 croyance/_s  po:noun is:fem
 croyant·e/,,_e  po:noun po:adj
@@ -18434,6 +18445,7 @@ défaitisme/_s  po:noun is:mas
 défaitiste/_s  po:noun po:adj is:epi
 défalcation/_s  po:noun is:fem
 défalquer/a0p+  po:verb
+défamiliarisation/_s  po:noun
 défanage/_s  po:noun is:mas
 défarder/a0p+  po:verb
 défarguer/  po:verb
@@ -19159,6 +19171,7 @@ démystifiant·e/,,_e  po:adj
 démystificateur·rice/,,ri  po:noun
 démystification/_s  po:noun is:fem
 démystifier/a0p+  po:verb
+démythifiant/_e  po:adj
 démythification/_s  po:noun is:fem
 démythifier/a0p+  po:verb
 dénantir/f0p+  po:verb
@@ -23298,6 +23311,7 @@ elephantus  po:adp
 elfe/_s  po:noun po:adj is:epi
 elfique/_s  po:adj is:epi
 élicitation/_s  po:noun is:fem
+élicité/_e  po:adj
 éliciteur·rice/,,ri  po:adj
 éliciteur/_s  po:noun is:mas
 élicitine/_s  po:noun is:fem
@@ -23374,6 +23388,7 @@ elzévir/_s  po:noun is:mas
 émaillerie/_s  po:noun is:fem
 émailleur·euse/,,rs  po:noun
 émaillure/_s  po:noun is:fem
+email/_s  po:noun
 émail/_x  po:noun is:mas
 émanation/_s  po:noun is:fem
 émanche/_s  po:noun is:fem
@@ -26910,6 +26925,7 @@ extraparlementaire/_s  po:adj is:epi
 extra/  po:adj is:inv is:epi
 extra  po:adp
 extrapolable/_s  po:adj is:epi
+extrapolateur·rice/,,ri  po:adj
 extrapolation/_s  po:noun is:fem
 extrapoler/a0p+  po:verb
 extra/  po:noun is:mas is:inv
@@ -27839,6 +27855,7 @@ fic/_s  po:noun is:mas
 fictif·ve/,,fv  po:adj
 fictionalisation/_s  po:noun is:fem
 fictionnalisation/_s  po:noun is:fem
+fictionnalité/_s  po:noun
 fictionnel·le/,,ll  po:adj
 fiction/_s  po:noun is:fem
 fictivement/  po:adv
@@ -29861,6 +29878,7 @@ gardian·e/,,_e  po:noun
 gardiennage/_s  po:noun is:mas
 gardien·ne/,,ll  po:noun
 gardienner/a0p+  po:verb
+gardiste/_s  po:adj
 gardois·e/,,_e  po:noun po:adj
 gardon/_s  po:noun is:mas
 garenne/_s  po:noun is:epi
@@ -32852,6 +32870,7 @@ hétérosporé·e/,,_e  po:adj
 hétérotherme/_s  po:adj is:epi
 hétérotherme/_s  po:noun is:mas
 hétérothermie/_s  po:noun is:fem
+hétérotopique/_s  po:adj
 hétérotrophe/_s  po:adj is:epi
 hétérotrophie/_s  po:noun is:fem
 hétérozygote/_s  po:adj is:epi
@@ -33459,6 +33478,7 @@ hoverboard/_s  po:noun is:mas
 hovercraft/_s  po:noun is:mas
 hoyau/_x  po:noun is:mas
 h/  po:noun is:mas is:inv
+html/  po:noun
 http/_s  po:part
 huard/_s  po:noun is:mas
 huart/_s  po:noun is:mas
@@ -33480,6 +33500,7 @@ huilerie/_s  po:noun is:fem
 huile/_s  po:noun is:fem
 huileux·euse/,,xz  po:adj
 huilier·ère/,,rr  po:noun po:adj
+hui/  po:adp
 hui/  po:adv
 huis/  po:noun is:mas is:inv
 huisserie/_s  po:noun is:fem
@@ -34134,6 +34155,7 @@ hypothermie/_s  po:noun is:fem
 hypothermique/_s  po:adj is:epi
 hypothèse/_s  po:noun is:fem
 hypothéticodéductif·ve/,,fv  po:adj
+hypothético  po:adp
 hypothétiquement/  po:adv
 hypothétique/_s  po:adj is:epi
 hypothyroïdie/_s  po:noun is:fem
@@ -34420,6 +34442,7 @@ illisibilité/_s  po:noun is:fem
 illisiblement/  po:adv
 illisible/_s  po:adj is:epi
 illite/_s  po:noun is:fem
+illocutoire/_s  po:adj
 illogiquement/  po:adv
 illogique/_s  po:adj is:epi
 illogisme/_s  po:noun is:mas
@@ -36974,6 +36997,7 @@ invertine/_s  po:noun is:fem
 invertir/f0p+  po:verb
 investigateur·rice/,,ri  po:noun po:adj
 investigation/_s  po:noun is:fem
+investigatoire/_s  po:adj
 investiguer/a0p.  po:verb
 investir/f0p+  po:verb
 investison/_s  po:noun is:mas
@@ -37139,6 +37163,7 @@ irréductible/_s  po:adj is:epi
 irréel·le/,,ll  po:noun po:adj
 irréellement/  po:adv
 irréfléchi·e/,,_e  po:noun po:adj
+irréflexif·ve/,,fv  po:adj
 irréflexion/_s  po:noun is:fem
 irréformabilité/_s  po:noun is:fem
 irréformable/_s  po:adj is:epi
@@ -37838,6 +37863,7 @@ joyeuseté/_s  po:noun is:fem
 joyeux·euse/,,xz  po:adj
 joystick/_s  po:noun is:mas
 j/  po:noun is:mas is:inv
+json/  po:noun
 jubarte/_s  po:noun is:fem
 jubé/_s  po:noun is:mas
 jubilaire/_s  po:noun po:adj is:epi
@@ -44538,6 +44564,7 @@ multivarié·e/,,_e  po:adj
 multivers/  po:noun is:mas is:inv
 multivibrateur/_s  po:noun is:mas
 multiviscéral·e/,,al  po:adj
+multivocalité/_s  po:noun
 multivoie/_s  po:adj is:epi
 multivoie/_s  po:noun is:mas
 multivoque/_s  po:adj is:epi
@@ -46778,6 +46805,7 @@ oisiveté/_s  po:noun is:fem
 oison/_s  po:noun is:mas
 okapi/_s  po:noun is:mas
 okoumé/_s  po:noun is:mas
+ok/_s  po:intj
 oldowayen·ne/,,ll  po:adj
 oléacée/_s  po:adj is:epi
 oléacée/_s  po:noun is:fem
@@ -48724,6 +48752,7 @@ parasynthèse/_s  po:noun is:fem
 parasynthétique/_s  po:adj is:epi
 parataxe/_s  po:noun is:fem
 paratexte/_s  po:noun is:mas
+paratextuel·le/,,ll  po:adj
 parathormone/_s  po:noun is:fem
 parathymie/_s  po:noun is:fem
 parathyroïde/_s  po:adj is:epi
@@ -52009,6 +52038,7 @@ poe/_s  po:noun is:mas
 poétereau/_x  po:noun is:mas
 poètereau/_x  po:noun is:mas
 poète·sse/,,ee  po:noun
+poéticité/_s  po:noun
 poétiquement/  po:adv
 poétique/_s  po:adj is:epi
 poétisation/_s  po:noun is:fem
@@ -56199,6 +56229,7 @@ réarmer/a0p+  po:verb
 réarrangement/_s  po:noun is:mas
 réarranger/a0p+  po:verb
 réa/_s  po:noun is:epi
+réassemblage/_s  po:noun
 réassembler/a0p+  po:verb
 réassignation/_s  po:noun is:fem
 réassigner/a0p+  po:verb
@@ -56529,6 +56560,7 @@ reconsolider/a0p+  po:verb
 reconstituable/_s  po:adj is:epi
 reconstituant·e/,,_e  po:adj
 reconstituer/a0p+  po:verb
+reconstitutif·ve/,,fv  po:adj
 reconstitution/_s  po:noun is:fem
 reconstructeur·rice/,,ri  po:noun po:adj
 reconstructif·ve/,,fv  po:adj
@@ -56537,6 +56569,7 @@ reconstruire/yM  po:verb
 recontacter/a0p+  po:verb
 recontamination/_s  po:noun is:fem
 recontaminer/a0p+  po:verb
+recontextualisation/_s  po:noun
 recontextualiser/a0p+  po:verb
 recontracter/a0p+  po:verb
 recontrôler/a0p+  po:verb
@@ -56717,6 +56750,7 @@ redéployer/a0p+  po:verb
 redéposer/a0p+  po:verb
 redescendre/tA  po:verb
 redescente/_s  po:noun is:fem
+redescription/_s  po:noun
 redessiner/a0p+  po:verb
 redevabilité/_s  po:noun is:fem
 redevable/_s  po:adj is:epi
@@ -56781,6 +56815,7 @@ réductif·ve/,,fv  po:adj
 réductionnisme/_s  po:noun is:mas
 réductionniste/_s  po:noun po:adj is:epi
 réduction/_s  po:noun is:fem
+réductivement/  po:adv
 réduire/yM  po:verb
 réduit/_s  po:noun is:mas
 réduplicatif·ve/,,fv  po:adj
@@ -57869,6 +57904,7 @@ représailles/  po:noun is:pl is:fem
 représentable/_s  po:adj is:epi
 représentant·e/,,_e  po:noun
 représentatif·ve/,,fv  po:adj
+représentationnel·le/,,ll  po:adj
 représentation/_s  po:noun is:fem
 représentativité/_s  po:noun is:fem
 représenter/a0p+  po:verb
@@ -61178,6 +61214,7 @@ sergent·e/,,_e  po:noun
 serge/_s  po:noun is:fem
 sergé/_s  po:noun is:mas
 sergette/_s  po:noun is:fem
+sérialisable/_s  po:adj
 sérialisation/_s  po:noun is:fem
 sérialiser/a0p+  po:verb
 sérialiseur/_s  po:noun is:mas
@@ -63439,6 +63476,7 @@ stuporeux·euse/,,xz  po:adj
 stupre/_s  po:noun is:mas
 stups/  po:noun is:pl is:epi
 stuquer/a0p+  po:verb
+stylème/_s  po:noun
 styler/a0p+  po:verb
 style/_s  po:noun is:mas
 stylet/_s  po:noun is:mas
@@ -65928,6 +65966,7 @@ testeur·euse/,,rs  po:noun
 testiculaire/_s  po:adj is:epi
 testicule/_s  po:noun is:mas
 testimonial·e/,,al  po:adj
+testivité/_s  po:noun
 testologie/_s  po:noun is:fem
 teston/_s  po:noun is:mas
 testostérone/_s  po:noun is:fem
@@ -68677,6 +68716,7 @@ uniaxe/_s  po:adj is:epi
 unicaule/_s  po:adj is:epi
 unicellulaire/_s  po:adj is:epi
 unicité/_s  po:noun is:fem
+unicode/  po:noun
 unicolore/_s  po:adj is:epi
 unicorne/_s  po:noun po:adj is:epi
 unidimensionnalité/_s  po:noun is:fem
@@ -68861,6 +68901,7 @@ urinifère/_s  po:adj is:epi
 urinoir/_s  po:noun is:mas
 urinothérapie/_s  po:noun is:fem
 urique/_s  po:adj is:epi
+url/_s  po:noun
 urne/_s  po:noun is:fem
 urobiline/_s  po:noun is:fem
 urobilinogène/_s  po:noun is:mas
@@ -70634,6 +70675,7 @@ web/  po:adj is:inv is:epi
 web/  po:noun is:sg is:mas
 webradio/_s  po:noun is:fem
 websérie/_s  po:noun is:fem
+website/_s  po:noun
 webtélé/_s  po:noun is:fem
 webzine/_s  po:noun is:mas
 weed/_s  po:noun is:fem
@@ -70757,6 +70799,7 @@ xipho/_s  po:noun is:mas
 xiphosure/_s  po:noun is:mas
 xi/  po:noun is:mas is:inv
 xi/_s  po:noun is:mas
+xml/  po:noun
 x/  po:noun is:mas is:inv
 x/_s  po:adp
 xylème/_s  po:noun is:mas
