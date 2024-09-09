@@ -21,7 +21,6 @@ fi
 
 # concaténation des mots: st.dic
 cat words/*.dic > st.dic
-cat prefixes/*.dic >> st.dic
 sort < st.dic | uniq | sponge st.dic 
 
 # placer des copies dans les dossiers vim et morph
