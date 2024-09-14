@@ -1,0 +1,48 @@
+c'/ # po:det is:sg is:mas is:eli
+c'/ # po:pron is:inv is:epi is:eli
+d'/ # po:det is:inv is:epi is:eli
+d'/ # po:adp is:eli
+j'/ # po:pron is:sg is:epi is:1pe is:eli
+jusqu'/ # po:adp is:eli
+la/ # st:le po:det is:sg is:fem is:eli
+la/ # st:le po:pron po:adp is:sg is:fem is:eli
+la/ # po:noun is:mas is:inv is:eli
+l'/ # po:det is:sg is:mas is:eli
+l'/ # po:pron po:adp is:sg is:mas is:eli
+lorsqu'/ # po:sconj is:eli
+m'/ # po:pron po:adp is:sg is:epi is:1pe is:eli
+n'/ # po:adv po:adp is:eli
+presqu'/ # po:adv is:eli
+puisqu'/ # po:sconj is:eli
+qu'/ # po:sconj po:pron is:eli
+qu/ # po:sconj:pron is:eli
+qu/ # po:pron is:eli
+ququ'/EL # po:adv is:eli
+ququ'/ELEs # po:det is:epi is:eli
+quoiqu'/ # po:sconj is:eli
+s'/ # po:pron po:adp is:inv is:epi is:3pe is:eli
+t'/ # po:pron po:adp is:sg is:epi is:2pe is:eli
+c/ # po:det is:sg is:mas is:eli
+c/ # po:pron is:inv is:epi is:eli
+d/ # po:det is:inv is:epi is:eli
+d/ # po:adp is:eli
+j/ # po:pron is:sg is:epi is:1pe is:eli
+jusqu/ # po:adp is:eli
+la/ # st:le po:det is:sg is:fem is:eli
+la/ # st:le po:pron po:adp is:sg is:fem is:eli
+la/ # po:noun is:mas is:inv is:eli
+l/ # po:det is:sg is:mas is:eli
+l/ # po:pron po:adp is:sg is:mas is:eli
+lorsqu/ # po:sconj is:eli
+m/ # po:pron po:adp is:sg is:epi is:1pe is:eli
+n/ # po:adv po:adp is:eli
+presqu/ # po:adv is:eli
+puisqu/ # po:sconj is:eli
+qu/ # po:sconj po:pron is:eli
+qu/ # po:sconj:pron is:eli
+qu/ # po:pron is:eli
+ququ/EL # po:adv is:eli
+ququ/ELEs # po:det is:epi is:eli
+quoiqu/ # po:sconj is:eli
+s/ # po:pron po:adp is:inv is:epi is:3pe is:eli
+t/ # po:pron po:adp is:sg is:epi is:2pe is:eli
