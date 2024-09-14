@@ -20,7 +20,5 @@ MAP jg
 # pour l'écriture inclusive
 MIDWORD ·.
 
-# ICONV 1
-# ICONV ' ’
-#
-
+ICONV 1
+ICONV ' ’

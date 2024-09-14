@@ -60,9 +60,5 @@ cp st.utf-8.spl ~/.config/nvim/spell/fr.utf-8.spl
 # retourner au toplevel
 cd ..
 
-# dump un fichier avec tous les mots
-if ! [ -d dump ];then mkdir dump; fi
-unmunch st.dic st.aff | sed -E 's;/.*;;g' | sort | uniq > dump/all_words.txt
-
 # suppression des fichiers intermédiaires
 rm st.dic st.aff

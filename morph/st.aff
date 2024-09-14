@@ -20,17 +20,8 @@ MAP jg
 # pour l'écriture inclusive
 MIDWORD ·.
 
-# ICONV 1
-# ICONV ' ’
-#
-
-# elision
-# SFX EL Y 3
-# SFX EL Y 1
-# SFX EL e e .  
-# SFX EL e 0 .  is:eli
-# SFX EL e ' .  is:eli
-
+ICONV 1
+ICONV ' ’
 # pluriel.en s:
 SFX Es Y 1
 SFX Es 0 s .  is:pl

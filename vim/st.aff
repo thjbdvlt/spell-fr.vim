@@ -20,17 +20,8 @@ MAP jg
 
 MIDWORD ·.
 
-
-
-
-
-
-
-
-
-
-
-
+ICONV 1
+ICONV ' ’
 
 SFX Es Y 1
 SFX Es 0 s .
