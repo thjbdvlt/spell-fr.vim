@@ -19,6 +19,9 @@ MAP aâàä
 MAP iîïy
 MAP cçsz
 MAP jg
+
+# pour l'écriture inclusive
+MIDWORD ·.
 # elision
 SFX u' Y 2
 SFX u' e 0 .  is:eli
@@ -38,133 +41,153 @@ SFX _x il ux/ ail  is:pl
 # auteur, autrice, autrices, auteurs, auteurice, auteurices. plutôt que de placer "auteur" comme base dont j'enlève "eur" pour fabriquer le reste, je pars du radical (aut). il faut alors utiliser le flag `__` (NEEDAFFIX) sur les mots concernés (pour que "aut" tout seul ne soit pas considéré comme juste). je fais de même pour différentes formes de noms et d'adjectifs ci-dessous, ex. vi -ve -f.
 
 # aut -rice -eur -eurice
-SFX ri Y 5
+SFX ri Y 6
 SFX ri eur·rice rice/_s .eur·rice  is:fem
 SFX ri eur·rice eur/_s eur·rice   is:mas
 SFX ri eur·rice eurice/_s eur·rice  is:incl
 SFX ri eur·rice euricex/_s eur·rice  is:incl is:nonb
 SFX ri eur·rice eur·rice/_s eur·rice  is:incl
+SFX ri eur·rice eur.rice/_s eur·rice  is:incl
 
 # accordeu -r -se -eureuse -exes
-SFX rs Y 5
+SFX rs Y 6
 SFX rs eur·euse euse/_s .  is:fem
 SFX rs eur·euse eur/_s .  is:mas
 SFX rs eur·euse eureuse/_s .  is:incl is:nodot
 SFX rs eur·euse eureusex/_s .  is:incl is:nonb
 SFX rs eur·euse eur·euse/_s .  is:incl
+SFX rs eur·euse eur.euse/_s .  is:incl
 
 # foresti -ère -er
-SFX rr Y 3
+SFX rr Y 4
 SFX rr er·ère er/_s .  is:mas
 SFX rr er·ère ère/_s .  is:fem
 SFX rr er·ère er·ère/_s .  is:incl
+SFX rr er·ère er.ère/_s .  is:incl
 
 # frauduleu -x -se
-SFX xz Y 3
+SFX xz Y 4
 SFX xz eux·euse euse/_s .  is:fem
 SFX xz eux·euse eux .  is:mas
 SFX xz eux·euse eux·euse/_s .  is:incl
+SFX xz eux·euse eux.euse/_s .  is:incl
 
 # vi -ive -f
-SFX fv Y 3
+SFX fv Y 4
 SFX fv f·ve f/_s .  is:mas
 SFX fv f·ve ve/_s .  is:fem
 SFX fv f·ve f·ve/_s .  is:incl
+SFX fv f·ve f.ve/_s .  is:incl
 
 # aigu, aigüe
-SFX ue Y 3
+SFX ue Y 4
 SFX ue u·ue u/_s .  is:mas
 SFX ue u·ue üe/_s .  is:fem
 SFX ue u·ue u·ue/_s .  is:incl
+SFX ue u·ue u.ue/_s .  is:incl
 
 # be -au, be -lle, tourtere -au -lle
-SFX la Y 6
+SFX la Y 7
 SFX la eau·elle eau .  is:mas
 SFX la eau·elle eaux .  is:mas is:pl
 SFX la eau·elle elle/_s .  is:fem
 SFX la eau·elle elleau .  is:incl is:nodot
 SFX la eau·elle elleaux .  is:incl is:nodot
 SFX la eau·elle eau·elle/_s .  is:incl
+SFX la eau·elle eau.elle/_s .  is:incl
 
 # po -étesse, -ète
-SFX ee Y 3
+SFX ee Y 4
 SFX ee ète·sse ète/_s .  is:mas
 SFX ee ète·sse étesse/_s .  is:fem
 SFX ee ète·sse ète·sse/_s .  is:incl
+SFX ee ète·sse ète.sse/_s .  is:incl
 
 # dou -x -ce
-SFX xc Y 3
+SFX xc Y 4
 SFX xc x·ce ce/_s .  is:fem
 SFX xc x·ce x .  is:mas
 SFX xc x·ce x·ce/_s .  is:incl
+SFX xc x·ce x.ce/_s .  is:incl
 
 # rou -sse, -x, fau -x -sse
-SFX xs Y 3
+SFX xs Y 4
 SFX xs x·sse sse/_s .  is:fem
 SFX xs x·sse x .  is:mas
 SFX xs x·sse x·sse/_s .  is:incl
+SFX xs x·sse x.sse/_s .  is:incl
 
 # vie -ux -eil - eille
-SFX xl Y 4
+SFX xl Y 5
 SFX xl eux·eille eil/s .  is:fem
 SFX xl eux·eille eille/_s .  is:incl
 SFX xl eux·eille eux .  is:mas
 SFX xl eux·eille eux·eille/_s .  is:incl
+SFX xl eux·eille eux.eille/_s .  is:incl
 
 # br -ève -ef
-SFX ev Y 3
+SFX ev Y 4
 SFX ev ef·ève ef/_s .  is:mas
 SFX ev ef·ève ève/_s .  is:fem
 SFX ev ef·ève ef·ève/_s .  is:incl
+SFX ev ef·ève ef.ève/_s .  is:incl
 
 # s -ec -èche
-SFX ec Y 3
+SFX ec Y 4
 SFX ec ec·èche ec/_s .  is:mas
 SFX ec ec·èche èche/_s .  is:fem
 SFX ec ec·èche ec·èche/_s .  is:incl
+SFX ec ec·èche ec.èche/_s .  is:incl
 
 # enseignant -e
-SFX _e Y 5
+SFX _e Y 6
 SFX _e ·e /_s .  is:mas
 SFX _e ·e e/_s .  is:fem
 SFX _e ·e ex/_s .  is:incl is:nonb
 SFX _e ·e xe/_s .  is:incl is:nonb
 SFX _e ·e ·e/_s .  is:incl
+SFX _e ·e .e/_s .  is:incl
 
 # compl -ète -et
-SFX et Y 3
+SFX et Y 5
 SFX et et·ète et/_s .  is:mas
-SFX et et·ète ète/_s .  is:fem
+SFX et et·ète et/_s .  is:mas
+SFX et et.ète ète/_s .  is:fem
 SFX et et·ète et·ète/_s .  is:incl
+SFX et et·ète et.ète/_s .  is:incl
 
-# -ène -en
-SFX en Y 4
+# -ène -eo
+SFX en Y 5
 SFX en en·ène /_s .  is:incl
 SFX en en·ène en/_s .  is:mas
 SFX en en·ène ène/_s .  is:fem
 SFX en en·ène en·ène/_s .  is:incl
+SFX en en·ène en.ène/_s .  is:incl
 
 # publi -c -que
-SFX qc Y 3
+SFX qc Y 4
 SFX qc c·que c/_s .  is:mas
 SFX qc c·que que/_s .  is:fem
 SFX qc c·que c·que/_s .  is:incl
+SFX qc c·que c.que/_s .  is:incl
 
 # long -ue 
-SFX gu Y 3
+SFX gu Y 4
 SFX gu ·ue /_s .  is:mas
 SFX gu ·ue ue/_s .  is:fem
 SFX gu ·ue ·ue/_s .  is:incl
+SFX gu ·ue .ue/_s .  is:incl
 
 # global, globale, globales, globaux (!=cheval, chevaux)
-SFX al Y 4
+SFX al Y 5
 SFX al l·e l .  is:mas
 SFX al l·e ux .  is:mas is:pl
 SFX al l·e le/_s .  is:fem
 SFX al l·e l·e/_s .  is:incl
+SFX al l·e l.e/_s .  is:incl
 
 # les féminins qui double la dernière consonne
-SFX ll Y 16
+SFX ll Y 21
 SFX ll 0 /_s .  is:mas
 SFX ll ·fe fe/_s f·fe  is:fem
 SFX ll ·le le/_s l·le  is:fem
@@ -181,17 +204,26 @@ SFX ll 0 /_s l·le  is:incl
 SFX ll 0 /_s n·ne  is:incl
 SFX ll 0 /_s s·se  is:incl
 SFX ll 0 /_s t·te  is:incl
+SFX ll 0 /_s f.fe  is:incl
+SFX ll 0 /_s l.le  is:incl
+SFX ll 0 /_s n.ne  is:incl
+SFX ll 0 /_s s.se  is:incl
+SFX ll 0 /_s t.te  is:incl
 
 # prêtre -sse
-SFX ss Y 2
+SFX ss Y 4
 SFX ss ·sse /_s .  is:mas
 SFX ss ·sse sse/_s .  is:fem
+SFX ss ·sse ·sse/_s .  is:incl
+SFX ss ·sse .sse/_s .  is:incl
 
 # fo -l -lle -u
-SFX lu Y 3
+SFX lu Y 5
 SFX lu ou·lle l/_s .  is:mas
 SFX lu ou·lle lle/_s .  is:fem
 SFX lu ou·lle u/_s .  is:mas
+SFX lu ou·lle ou·lle/_s .  is:incl
+SFX lu ou·lle ou.lle/_s .  is:incl
 
 # mots anglais: cramberry, cramberri -es, sandwich -es
 SFX GB Y 3

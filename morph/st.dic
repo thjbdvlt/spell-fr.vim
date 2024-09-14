@@ -1,4 +1,4 @@
-71198
+71199
 abaca/_s  po:noun is:mas
 abacule/_s  po:noun is:mas
 abader/  po:verb
@@ -8142,6 +8142,8 @@ blâme/_s  po:noun is:mas
 blanchaille/_s  po:noun is:fem
 blanchâtre/_s  po:adj is:epi
 blanche/_s  st:blanc·he po:adj is:fem
+blanc.he/_s  st:blanc·he po:adj is:incl
+blanc·he/_s  st:blanc·he po:adj is:incl
 blanchet/_s  po:noun is:mas
 blancheur/_s  po:noun is:fem
 blanchiment/_s  po:noun is:mas
@@ -8154,7 +8156,6 @@ blanchisseur·euse/,,rs  po:noun
 blanchité/_s  po:noun is:fem
 blanchon/_s  po:noun is:mas
 blanchoyer/a0p.  po:verb
-blanc·que/,,qc  po:noun po:adj
 blanc/_s  st:blanc·he is:mas
 blandice/_s  po:noun is:fem
 blanquette/_s  po:noun is:fem
