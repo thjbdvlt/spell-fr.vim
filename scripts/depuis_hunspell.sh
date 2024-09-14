@@ -131,8 +131,8 @@ sed -E -i -e "s;eur/(Fc|Gc|F\.Gc);eur·rice/ri;" \
     -e "s|^vieux/Wx|vieux·eille/xl|" \
     -e "s|man/A\.|man/GB|" \
     -e "s|Gs||" \
-    -e 's/S\./_s/g' \
-    -e 's/X\./_x/g' \
+    -e 's/S\./Es/g' \
+    -e 's/X\./lx/g' \
     -e 's/I\./LT/g' $dic
 
 # modifie les attributs `po` (part-of-speech) dans le fichier .dic pour les faire correspondre au standard upos.

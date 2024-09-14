@@ -1,195 +1,195 @@
 accoeurer/ # po:verb
-acoelomate/_s # po:noun is:Gender=Masc
+acoelomate/Es # po:noun is:Gender=Masc
 ae/ # po:noun is:Gender=Masc is:Inv=Yes
-aegagropile/_s # po:noun is:Gender=Epi
-aegipan/_s # po:noun is:Gender=Masc
-aegosome/_s # po:noun is:Gender=Masc
-aegyrine/_s # po:noun is:Gender=Fem
+aegagropile/Es # po:noun is:Gender=Epi
+aegipan/Es # po:noun is:Gender=Masc
+aegosome/Es # po:noun is:Gender=Masc
+aegyrine/Es # po:noun is:Gender=Fem
 aepyornis/ # po:noun is:Gender=Masc is:Inv=Yes
 aequo/ # po:adv po:adj
 aequo/ # po:adj is:Gender=Epi is:Inv=Yes
-aeschne/_s # po:noun is:Gender=Fem
-aeschnidé/_s # po:noun is:Gender=Masc
+aeschne/Es # po:noun is:Gender=Fem
+aeschnidé/Es # po:noun is:Gender=Masc
 aeternam/ # po:adv
-aethuse/_s # po:noun is:Gender=Fem
-althaea/_s # po:noun is:Gender=Epi
-angstroem/_s # po:noun is:Gender=Masc
-antioestrogène/_s # po:adj is:Gender=Epi
-antioestrogène/_s # po:noun is:Gender=Masc
-bicoeur/_s # po:adj is:Gender=Epi
-bicoeur/_s # po:noun is:Gender=Masc
-biocoenose/_s # po:noun is:Gender=Fem
-boeuf/_s # po:noun is:Gender=Masc
+aethuse/Es # po:noun is:Gender=Fem
+althaea/Es # po:noun is:Gender=Epi
+angstroem/Es # po:noun is:Gender=Masc
+antioestrogène/Es # po:adj is:Gender=Epi
+antioestrogène/Es # po:noun is:Gender=Masc
+bicoeur/Es # po:adj is:Gender=Epi
+bicoeur/Es # po:noun is:Gender=Masc
+biocoenose/Es # po:noun is:Gender=Fem
+boeuf/Es # po:noun is:Gender=Masc
 caecal·e/al # po:adj
-caecotrophie/_s # po:noun is:Gender=Fem
-caecum/_s # po:noun is:Gender=Masc
-caenogenèse/_s # po:noun is:Gender=Fem
+caecotrophie/Es # po:noun is:Gender=Fem
+caecum/Es # po:noun is:Gender=Masc
+caenogenèse/Es # po:noun is:Gender=Fem
 caesine/ # po:noun is:Gender=Fem is:Number=Sing
-caesium/_s # po:noun is:Gender=Masc
+caesium/Es # po:noun is:Gender=Masc
 caetera/ # po:adv
 chamaerops/ # po:noun is:Gender=Masc is:Inv=Yes
-choeur/_s # po:noun is:Gender=Masc
-coelacanthe/_s # po:noun is:Gender=Masc
-coelentéré/_s # po:noun is:Gender=Masc
-coeliaque/_s # po:adj is:Gender=Epi
-coeliochirurgie/_s # po:noun is:Gender=Fem
-coelioscope/_s # po:noun is:Gender=Masc
-coelioscopie/_s # po:noun is:Gender=Fem
-coelioscopique/_s # po:adj is:Gender=Epi
-coelomate/_s # po:noun is:Gender=Masc
-coelome/_s # po:noun is:Gender=Masc
-coelomique/_s # po:adj is:Gender=Epi
-coelostat/_s # po:noun is:Gender=Masc
-coenesthésie/_s # po:noun is:Gender=Fem
-coenure/_s # po:noun is:Gender=Masc
-coenurose/_s # po:noun is:Gender=Fem
+choeur/Es # po:noun is:Gender=Masc
+coelacanthe/Es # po:noun is:Gender=Masc
+coelentéré/Es # po:noun is:Gender=Masc
+coeliaque/Es # po:adj is:Gender=Epi
+coeliochirurgie/Es # po:noun is:Gender=Fem
+coelioscope/Es # po:noun is:Gender=Masc
+coelioscopie/Es # po:noun is:Gender=Fem
+coelioscopique/Es # po:adj is:Gender=Epi
+coelomate/Es # po:noun is:Gender=Masc
+coelome/Es # po:noun is:Gender=Masc
+coelomique/Es # po:adj is:Gender=Epi
+coelostat/Es # po:noun is:Gender=Masc
+coenesthésie/Es # po:noun is:Gender=Fem
+coenure/Es # po:noun is:Gender=Masc
+coenurose/Es # po:noun is:Gender=Fem
 coetera/ # po:adv
-coeur/_s # po:noun is:Gender=Masc
-coeursage/_s # po:noun is:Gender=Masc
-coeurse/_s # po:noun is:Gender=Fem
-consoeur/_s # po:noun is:Gender=Fem
-contrecoeur/_s # po:noun is:Gender=Masc
+coeur/Es # po:noun is:Gender=Masc
+coeursage/Es # po:noun is:Gender=Masc
+coeurse/Es # po:noun is:Gender=Fem
+consoeur/Es # po:noun is:Gender=Fem
+contrecoeur/Es # po:noun is:Gender=Masc
 désoeuvré·e/_e # po:noun po:adj
-désoeuvrement/_s # po:noun is:Gender=Masc
+désoeuvrement/Es # po:noun is:Gender=Masc
 désoeuvrer/ # po:verb
 écoeurant·e/_e # po:adj
-écoeurement/_s # po:noun is:Gender=Masc
+écoeurement/Es # po:noun is:Gender=Masc
 écoeurer/a0p+ # po:verb
 elaeis/ # po:noun is:Gender=Masc is:Inv=Yes
-entrenoeud/_s # po:noun is:Gender=Masc
-exaequo/_s # po:noun is:Gender=Epi
+entrenoeud/Es # po:noun is:Gender=Masc
+exaequo/Es # po:noun is:Gender=Epi
 foetal·e/al # po:adj
-foeticide/_s # po:noun is:Gender=Masc
-foetologie/_s # po:noun is:Gender=Fem
-foetopathie/_s # po:noun is:Gender=Fem
-foetoscopie/_s # po:noun is:Gender=Fem
-foetoscopique/_s # po:adj is:Gender=Epi
+foeticide/Es # po:noun is:Gender=Masc
+foetologie/Es # po:noun is:Gender=Fem
+foetopathie/Es # po:noun is:Gender=Fem
+foetoscopie/Es # po:noun is:Gender=Fem
+foetoscopique/Es # po:adj is:Gender=Epi
 foetus/ # po:noun is:Gender=Masc is:Inv=Yes
 gastrooesophagien·ne/ll # po:adj
 hypernovae/ # po:noun is:Gender=Fem is:Number=Plur
-hyperoestrogénie/_s # po:noun is:Gender=Fem
-hypooestrogénie/_s # po:noun is:Gender=Fem
+hyperoestrogénie/Es # po:noun is:Gender=Fem
+hypooestrogénie/Es # po:noun is:Gender=Fem
 iléocaecal·e/al # po:adj
-lymphoedème/_s # po:noun is:Gender=Masc
-manoeuvrabilité/_s # po:noun is:Gender=Fem
-manoeuvrable/_s # po:adj is:Gender=Epi
-manoeuvre/_s # po:noun is:Gender=Epi
+lymphoedème/Es # po:noun is:Gender=Masc
+manoeuvrabilité/Es # po:noun is:Gender=Fem
+manoeuvrable/Es # po:adj is:Gender=Epi
+manoeuvre/Es # po:noun is:Gender=Epi
 manoeuvrer/a0p+ # po:verb
 manoeuvrier·ère/rr # po:noun
-melaena/_s # po:noun is:Gender=Masc
-mélaena/_s # po:noun is:Gender=Masc
+melaena/Es # po:noun is:Gender=Masc
+mélaena/Es # po:noun is:Gender=Masc
 moeurs/ # po:noun is:Gender=Fem is:Number=Plur
-monocoeur/_s # po:adj is:Gender=Epi
-monocoeur/_s # po:noun is:Gender=Masc
-monoecie/_s # po:noun is:Gender=Fem
-multicoeur/_s # po:adj is:Gender=Epi
-multicoeur/_s # po:noun is:Gender=Masc
+monocoeur/Es # po:adj is:Gender=Epi
+monocoeur/Es # po:noun is:Gender=Masc
+monoecie/Es # po:noun is:Gender=Fem
+multicoeur/Es # po:adj is:Gender=Epi
+multicoeur/Es # po:noun is:Gender=Masc
 myxoedémateux·euse/xz # po:adj
-myxoedème/_s # po:noun is:Gender=Masc
+myxoedème/Es # po:noun is:Gender=Masc
 naevi/ # po:noun is:Gender=Masc is:Number=Plur
-naevocarcinome/_s # po:noun is:Gender=Masc
+naevocarcinome/Es # po:noun is:Gender=Masc
 naevus/ # po:noun is:Gender=Masc is:Inv=Yes
-noeud/_s # po:noun is:Gender=Masc
+noeud/Es # po:noun is:Gender=Masc
 novae/ # po:noun is:Gender=Fem is:Number=Plur
 oe/ # po:noun is:Gender=Masc is:Inv=Yes
 oeconomicus/ # po:adj is:Gender=Masc is:Inv=Yes
-oecuménicité/_s # po:noun is:Gender=Fem
-oecuménique/_s # po:adj is:Gender=Epi
-oecuménisme/_s # po:noun is:Gender=Masc
+oecuménicité/Es # po:noun is:Gender=Fem
+oecuménique/Es # po:adj is:Gender=Epi
+oecuménisme/Es # po:noun is:Gender=Masc
 oedémateux·euse/xz # po:adj
-oedème/_s # po:noun is:Gender=Masc
-oedicnème/_s # po:noun is:Gender=Masc
-oedipe/_s # po:noun is:Gender=Masc
+oedème/Es # po:noun is:Gender=Masc
+oedicnème/Es # po:noun is:Gender=Masc
+oedipe/Es # po:noun is:Gender=Masc
 oedipien·ne/ll # po:adj
-oeil/_s # po:noun is:Gender=Masc
-oeillade/_s # po:noun is:Gender=Fem
-oeillard/_s # po:noun is:Gender=Masc
+oeil/Es # po:noun is:Gender=Masc
+oeillade/Es # po:noun is:Gender=Fem
+oeillard/Es # po:noun is:Gender=Masc
 oeiller/a0p+ # po:verb
-oeillère/_s # po:noun is:Gender=Fem
-oeillet/_s # po:noun is:Gender=Masc
-oeilleton/_s # po:noun is:Gender=Masc
-oeilletonnage/_s # po:noun is:Gender=Masc
+oeillère/Es # po:noun is:Gender=Fem
+oeillet/Es # po:noun is:Gender=Masc
+oeilleton/Es # po:noun is:Gender=Masc
+oeilletonnage/Es # po:noun is:Gender=Masc
 oeilletonner/a0p+ # po:verb
-oeillette/_s # po:noun is:Gender=Fem
-oekoumène/_s # po:noun is:Gender=Masc
-oenanthe/_s # po:noun is:Gender=Fem
-oenanthique/_s # po:adj is:Gender=Epi
-oenilisme/_s # po:noun is:Gender=Masc
-oenolique/_s # po:adj is:Gender=Epi
-oenolisme/_s # po:noun is:Gender=Masc
-oenologie/_s # po:noun is:Gender=Fem
-oenologique/_s # po:adj is:Gender=Epi
-oenologue/_s # po:noun is:Gender=Epi
-oenomètre/_s # po:noun is:Gender=Masc
-oenométrie/_s # po:noun is:Gender=Fem
-oenométrique/_s # po:adj is:Gender=Epi
-oenophile/_s # po:noun po:adj is:Gender=Epi
-oenotechnie/_s # po:noun is:Gender=Fem
-oenotechnique/_s # po:adj is:Gender=Epi
-oenothèque/_s # po:noun is:Gender=Fem
-oenothera/_s # po:noun is:Gender=Masc
-oenothéra/_s # po:noun is:Gender=Masc
-oenothéracée/_s # po:noun is:Gender=Fem
-oenothère/_s # po:noun is:Gender=Masc
-oersted/_s # po:noun is:Gender=Masc
-oerstite/_s # po:noun is:Gender=Fem
-oesophage/_s # po:noun is:Gender=Masc
-oesophagectomie/_s # po:noun is:Gender=Fem
+oeillette/Es # po:noun is:Gender=Fem
+oekoumène/Es # po:noun is:Gender=Masc
+oenanthe/Es # po:noun is:Gender=Fem
+oenanthique/Es # po:adj is:Gender=Epi
+oenilisme/Es # po:noun is:Gender=Masc
+oenolique/Es # po:adj is:Gender=Epi
+oenolisme/Es # po:noun is:Gender=Masc
+oenologie/Es # po:noun is:Gender=Fem
+oenologique/Es # po:adj is:Gender=Epi
+oenologue/Es # po:noun is:Gender=Epi
+oenomètre/Es # po:noun is:Gender=Masc
+oenométrie/Es # po:noun is:Gender=Fem
+oenométrique/Es # po:adj is:Gender=Epi
+oenophile/Es # po:noun po:adj is:Gender=Epi
+oenotechnie/Es # po:noun is:Gender=Fem
+oenotechnique/Es # po:adj is:Gender=Epi
+oenothèque/Es # po:noun is:Gender=Fem
+oenothera/Es # po:noun is:Gender=Masc
+oenothéra/Es # po:noun is:Gender=Masc
+oenothéracée/Es # po:noun is:Gender=Fem
+oenothère/Es # po:noun is:Gender=Masc
+oersted/Es # po:noun is:Gender=Masc
+oerstite/Es # po:noun is:Gender=Fem
+oesophage/Es # po:noun is:Gender=Masc
+oesophagectomie/Es # po:noun is:Gender=Fem
 oesophagien·ne/ll # po:adj
-oesophagique/_s # po:adj is:Gender=Epi
-oesophagisme/_s # po:noun is:Gender=Masc
-oesophagite/_s # po:noun is:Gender=Fem
-oesophagomalacie/_s # po:noun is:Gender=Fem
-oesophagoplastie/_s # po:noun is:Gender=Fem
-oesophagoscope/_s # po:noun is:Gender=Masc
-oesophagoscopie/_s # po:noun is:Gender=Fem
-oesophagostomie/_s # po:noun is:Gender=Fem
-oesophagotomie/_s # po:noun is:Gender=Fem
-oestradiène/_s # po:noun is:Gender=Masc
-oestradiol/_s # po:noun is:Gender=Masc
+oesophagique/Es # po:adj is:Gender=Epi
+oesophagisme/Es # po:noun is:Gender=Masc
+oesophagite/Es # po:noun is:Gender=Fem
+oesophagomalacie/Es # po:noun is:Gender=Fem
+oesophagoplastie/Es # po:noun is:Gender=Fem
+oesophagoscope/Es # po:noun is:Gender=Masc
+oesophagoscopie/Es # po:noun is:Gender=Fem
+oesophagostomie/Es # po:noun is:Gender=Fem
+oesophagotomie/Es # po:noun is:Gender=Fem
+oestradiène/Es # po:noun is:Gender=Masc
+oestradiol/Es # po:noun is:Gender=Masc
 oestral·e/al # po:adj
-oestre/_s # po:noun is:Gender=Masc
-oestriol/_s # po:noun is:Gender=Masc
-oestrogène/_s # po:adj is:Gender=Epi
-oestrogène/_s # po:noun is:Gender=Masc
-oestrogénique/_s # po:adj is:Gender=Epi
-oestrogénothérapie/_s # po:noun is:Gender=Fem
-oestromane/_s # po:noun po:adj is:Gender=Epi
-oestromanie/_s # po:noun is:Gender=Fem
-oestrone/_s # po:noun is:Gender=Fem
+oestre/Es # po:noun is:Gender=Masc
+oestriol/Es # po:noun is:Gender=Masc
+oestrogène/Es # po:adj is:Gender=Epi
+oestrogène/Es # po:noun is:Gender=Masc
+oestrogénique/Es # po:adj is:Gender=Epi
+oestrogénothérapie/Es # po:noun is:Gender=Fem
+oestromane/Es # po:noun po:adj is:Gender=Epi
+oestromanie/Es # po:noun is:Gender=Fem
+oestrone/Es # po:noun is:Gender=Fem
 oestroprogestatif·ve/fv # po:adj
 oestrus/ # po:noun is:Gender=Masc is:Inv=Yes
-oeuf/_s # po:noun is:Gender=Masc
-oeufrier/_s # po:noun is:Gender=Masc
+oeuf/Es # po:noun is:Gender=Masc
+oeufrier/Es # po:noun is:Gender=Masc
 oeuvé·e/_e # po:adj
-oeuvre/_s # po:noun is:Gender=Epi
+oeuvre/Es # po:noun is:Gender=Epi
 oeuvrer/a0p. # po:verb
-oeuvrette/_s # po:noun is:Gender=Fem
+oeuvrette/Es # po:noun is:Gender=Fem
 périoesophagien·ne/ll # po:adj
 personae/ # po:adv
-phoeniciculture/_s # po:noun is:Gender=Fem
+phoeniciculture/Es # po:noun is:Gender=Fem
 phoenix/ # po:noun is:Gender=Masc is:Inv=Yes
-phytooestrogène/_s # po:noun is:Gender=Masc
-poecilandrie/_s # po:noun is:Gender=Fem
-poecile/_s # po:noun is:Gender=Masc
-poecilitique/_s # po:adj is:Gender=Epi
-poecilogynie/_s # po:noun is:Gender=Fem
-poecilotherme/_s # po:adj is:Gender=Epi
-poecilotherme/_s # po:noun is:Gender=Masc
-poecilothermie/_s # po:noun is:Gender=Fem
-pomoerium/_s # po:noun is:Gender=Masc
-praesidium/_s # po:noun is:Gender=Masc
+phytooestrogène/Es # po:noun is:Gender=Masc
+poecilandrie/Es # po:noun is:Gender=Fem
+poecile/Es # po:noun is:Gender=Masc
+poecilitique/Es # po:adj is:Gender=Epi
+poecilogynie/Es # po:noun is:Gender=Fem
+poecilotherme/Es # po:adj is:Gender=Epi
+poecilotherme/Es # po:noun is:Gender=Masc
+poecilothermie/Es # po:noun is:Gender=Fem
+pomoerium/Es # po:noun is:Gender=Masc
+praesidium/Es # po:noun is:Gender=Masc
 préoedipien·ne/ll # po:adj
-quadricoeur/_s # po:adj is:Gender=Epi
-quadricoeur/_s # po:noun is:Gender=Masc
-rancoeur/_s # po:noun is:Gender=Fem
-soeur/_s # po:noun is:Gender=Fem
-soeurette/_s # po:noun is:Gender=Fem
-stoechiométrie/_s # po:noun is:Gender=Fem
-stoechiométrique/_s # po:adj is:Gender=Epi
+quadricoeur/Es # po:adj is:Gender=Epi
+quadricoeur/Es # po:noun is:Gender=Masc
+rancoeur/Es # po:noun is:Gender=Fem
+soeur/Es # po:noun is:Gender=Fem
+soeurette/Es # po:noun is:Gender=Fem
+stoechiométrie/Es # po:noun is:Gender=Fem
+stoechiométrique/Es # po:adj is:Gender=Epi
 supernovae/ # po:noun is:Gender=Fem is:Number=Plur
-synoecisme/_s # po:noun is:Gender=Masc
-taenia/_s # po:noun is:Gender=Masc
+synoecisme/Es # po:noun is:Gender=Masc
+taenia/Es # po:noun is:Gender=Masc
 uraeus/ # po:noun is:Gender=Masc is:Inv=Yes
 vitae/ # po:adj is:Gender=Masc is:Inv=Yes
-voeu/_x # po:noun is:Gender=Masc
+voeu/lx # po:noun is:Gender=Masc

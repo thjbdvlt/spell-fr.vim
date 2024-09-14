@@ -7,9 +7,6 @@ FLAG long
 
 FULLSTRIP
 
-ICONV 1
-ICONV ' ’
-
 NEEDAFFIX ,,
 
 MAP 6
@@ -23,207 +20,214 @@ MAP jg
 
 MIDWORD ·.
 
-SFX u' Y 2
-SFX u' e 0 .
-SFX u' e ' .
-
-
-SFX _s Y 1
-SFX _s 0 s .
 
 
 
-SFX _x Y 3
-SFX _x 0 x/ [^l]
-SFX _x l ux/ al
-SFX _x il ux/ ail
+
+
+
+
+
+
+
+
+
+SFX Es Y 1
+SFX Es 0 s .
+
+
+
+SFX lx Y 3
+SFX lx 0 x/ [^l]
+SFX lx l ux/ al
+SFX lx il ux/ ail
 
 
 
 
 SFX ri Y 6
-SFX ri eur·rice rice/_s .eur·rice
-SFX ri eur·rice eur/_s eur·rice
-SFX ri eur·rice eurice/_s eur·rice
-SFX ri eur·rice euricex/_s eur·rice
-SFX ri eur·rice eur·rice/_s eur·rice
-SFX ri eur·rice eur.rice/_s eur·rice
+SFX ri eur·rice rice/Es .eur·rice
+SFX ri eur·rice eur/Es eur·rice
+SFX ri eur·rice eurice/Es eur·rice
+SFX ri eur·rice euricex/Es eur·rice
+SFX ri eur·rice eur·rice/Es eur·rice
+SFX ri eur·rice eur.rice/Es eur·rice
 
 
 SFX rs Y 6
-SFX rs eur·euse euse/_s .
-SFX rs eur·euse eur/_s .
-SFX rs eur·euse eureuse/_s .
-SFX rs eur·euse eureusex/_s .
-SFX rs eur·euse eur·euse/_s .
-SFX rs eur·euse eur.euse/_s .
+SFX rs eur·euse euse/Es .
+SFX rs eur·euse eur/Es .
+SFX rs eur·euse eureuse/Es .
+SFX rs eur·euse eureusex/Es .
+SFX rs eur·euse eur·euse/Es .
+SFX rs eur·euse eur.euse/Es .
 
 
 SFX rr Y 4
-SFX rr er·ère er/_s .
-SFX rr er·ère ère/_s .
-SFX rr er·ère er·ère/_s .
-SFX rr er·ère er.ère/_s .
+SFX rr er·ère er/Es .
+SFX rr er·ère ère/Es .
+SFX rr er·ère er·ère/Es .
+SFX rr er·ère er.ère/Es .
 
 
 SFX xz Y 4
-SFX xz eux·euse euse/_s .
+SFX xz eux·euse euse/Es .
 SFX xz eux·euse eux .
-SFX xz eux·euse eux·euse/_s .
-SFX xz eux·euse eux.euse/_s .
+SFX xz eux·euse eux·euse/Es .
+SFX xz eux·euse eux.euse/Es .
 
 
 SFX fv Y 4
-SFX fv f·ve f/_s .
-SFX fv f·ve ve/_s .
-SFX fv f·ve f·ve/_s .
-SFX fv f·ve f.ve/_s .
+SFX fv f·ve f/Es .
+SFX fv f·ve ve/Es .
+SFX fv f·ve f·ve/Es .
+SFX fv f·ve f.ve/Es .
 
 
 SFX ue Y 4
-SFX ue u·ue u/_s .
-SFX ue u·ue üe/_s .
-SFX ue u·ue u·ue/_s .
-SFX ue u·ue u.ue/_s .
+SFX ue u·ue u/Es .
+SFX ue u·ue üe/Es .
+SFX ue u·ue u·ue/Es .
+SFX ue u·ue u.ue/Es .
 
 
 SFX la Y 7
 SFX la eau·elle eau .
 SFX la eau·elle eaux .
-SFX la eau·elle elle/_s .
+SFX la eau·elle elle/Es .
 SFX la eau·elle elleau .
 SFX la eau·elle elleaux .
-SFX la eau·elle eau·elle/_s .
-SFX la eau·elle eau.elle/_s .
+SFX la eau·elle eau·elle/Es .
+SFX la eau·elle eau.elle/Es .
 
 
 SFX ee Y 4
-SFX ee ète·sse ète/_s .
-SFX ee ète·sse étesse/_s .
-SFX ee ète·sse ète·sse/_s .
-SFX ee ète·sse ète.sse/_s .
+SFX ee ète·sse ète/Es .
+SFX ee ète·sse étesse/Es .
+SFX ee ète·sse ète·sse/Es .
+SFX ee ète·sse ète.sse/Es .
 
 
 SFX xc Y 4
-SFX xc x·ce ce/_s .
+SFX xc x·ce ce/Es .
 SFX xc x·ce x .
-SFX xc x·ce x·ce/_s .
-SFX xc x·ce x.ce/_s .
+SFX xc x·ce x·ce/Es .
+SFX xc x·ce x.ce/Es .
 
 
 SFX xs Y 4
-SFX xs x·sse sse/_s .
+SFX xs x·sse sse/Es .
 SFX xs x·sse x .
-SFX xs x·sse x·sse/_s .
-SFX xs x·sse x.sse/_s .
+SFX xs x·sse x·sse/Es .
+SFX xs x·sse x.sse/Es .
 
 
 SFX xl Y 5
 SFX xl eux·eille eil/s .
-SFX xl eux·eille eille/_s .
+SFX xl eux·eille eille/Es .
 SFX xl eux·eille eux .
-SFX xl eux·eille eux·eille/_s .
-SFX xl eux·eille eux.eille/_s .
+SFX xl eux·eille eux·eille/Es .
+SFX xl eux·eille eux.eille/Es .
 
 
 SFX ev Y 4
-SFX ev ef·ève ef/_s .
-SFX ev ef·ève ève/_s .
-SFX ev ef·ève ef·ève/_s .
-SFX ev ef·ève ef.ève/_s .
+SFX ev ef·ève ef/Es .
+SFX ev ef·ève ève/Es .
+SFX ev ef·ève ef·ève/Es .
+SFX ev ef·ève ef.ève/Es .
 
 
 SFX ec Y 4
-SFX ec ec·èche ec/_s .
-SFX ec ec·èche èche/_s .
-SFX ec ec·èche ec·èche/_s .
-SFX ec ec·èche ec.èche/_s .
+SFX ec ec·èche ec/Es .
+SFX ec ec·èche èche/Es .
+SFX ec ec·èche ec·èche/Es .
+SFX ec ec·èche ec.èche/Es .
 
 
 SFX _e Y 6
-SFX _e ·e /_s .
-SFX _e ·e e/_s .
-SFX _e ·e ex/_s .
-SFX _e ·e xe/_s .
-SFX _e ·e ·e/_s .
-SFX _e ·e .e/_s .
+SFX _e ·e /Es ·e
+SFX _e ·e e/Es ·e
+SFX _e ·e ex/Es ·e
+SFX _e ·e xe/Es ·e
+SFX _e ·e ·e/Es ·e
+SFX _e ·e .e/Es ·e
 
 
 SFX et Y 5
-SFX et et·ète et/_s .
-SFX et et·ète et/_s .
-SFX et et.ète ète/_s .
-SFX et et·ète et·ète/_s .
-SFX et et·ète et.ète/_s .
+SFX et et·ète et/Es .
+SFX et et·ète et/Es .
+SFX et et.ète ète/Es .
+SFX et et·ète et·ète/Es .
+SFX et et·ète et.ète/Es .
 
 
 SFX en Y 5
-SFX en en·ène /_s .
-SFX en en·ène en/_s .
-SFX en en·ène ène/_s .
-SFX en en·ène en·ène/_s .
-SFX en en·ène en.ène/_s .
+SFX en en·ène /Es .
+SFX en en·ène en/Es .
+SFX en en·ène ène/Es .
+SFX en en·ène en·ène/Es .
+SFX en en·ène en.ène/Es .
 
 
 SFX qc Y 4
-SFX qc c·que c/_s .
-SFX qc c·que que/_s .
-SFX qc c·que c·que/_s .
-SFX qc c·que c.que/_s .
+SFX qc c·que c/Es .
+SFX qc c·que que/Es .
+SFX qc c·que c·que/Es .
+SFX qc c·que c.que/Es .
 
 
 SFX gu Y 4
-SFX gu ·ue /_s .
-SFX gu ·ue ue/_s .
-SFX gu ·ue ·ue/_s .
-SFX gu ·ue .ue/_s .
+SFX gu ·ue /Es .
+SFX gu ·ue ue/Es .
+SFX gu ·ue ·ue/Es .
+SFX gu ·ue .ue/Es .
 
 
 SFX al Y 5
 SFX al l·e l .
 SFX al l·e ux .
-SFX al l·e le/_s .
-SFX al l·e l·e/_s .
-SFX al l·e l.e/_s .
+SFX al l·e le/Es .
+SFX al l·e l·e/Es .
+SFX al l·e l.e/Es .
 
 
 SFX ll Y 21
-SFX ll 0 /_s .
-SFX ll ·fe fe/_s f·fe
-SFX ll ·le le/_s l·le
-SFX ll ·ne ne/_s n·ne
-SFX ll ·se se/_s s·se
-SFX ll ·te te/_s t·te
-SFX ll ·fe /_s f·fe
-SFX ll ·le /_s l·le
-SFX ll ·ne /_s n·ne
-SFX ll ·se /_s s·se
-SFX ll ·te /_s t·te
-SFX ll 0 /_s f·fe
-SFX ll 0 /_s l·le
-SFX ll 0 /_s n·ne
-SFX ll 0 /_s s·se
-SFX ll 0 /_s t·te
-SFX ll 0 /_s f.fe
-SFX ll 0 /_s l.le
-SFX ll 0 /_s n.ne
-SFX ll 0 /_s s.se
-SFX ll 0 /_s t.te
+SFX ll 0 /Es .
+SFX ll ·fe fe/Es f·fe
+SFX ll ·le le/Es l·le
+SFX ll ·ne ne/Es n·ne
+SFX ll ·se se/Es s·se
+SFX ll ·te te/Es t·te
+SFX ll ·fe /Es f·fe
+SFX ll ·le /Es l·le
+SFX ll ·ne /Es n·ne
+SFX ll ·se /Es s·se
+SFX ll ·te /Es t·te
+SFX ll 0 /Es f·fe
+SFX ll 0 /Es l·le
+SFX ll 0 /Es n·ne
+SFX ll 0 /Es s·se
+SFX ll 0 /Es t·te
+SFX ll 0 /Es f.fe
+SFX ll 0 /Es l.le
+SFX ll 0 /Es n.ne
+SFX ll 0 /Es s.se
+SFX ll 0 /Es t.te
 
 
 SFX ss Y 4
-SFX ss ·sse /_s .
-SFX ss ·sse sse/_s .
-SFX ss ·sse ·sse/_s .
-SFX ss ·sse .sse/_s .
+SFX ss ·sse /Es .
+SFX ss ·sse sse/Es .
+SFX ss ·sse ·sse/Es .
+SFX ss ·sse .sse/Es .
 
 
 SFX lu Y 5
-SFX lu ou·lle l/_s .
-SFX lu ou·lle lle/_s .
-SFX lu ou·lle u/_s .
-SFX lu ou·lle ou·lle/_s .
-SFX lu ou·lle ou.lle/_s .
+SFX lu ou·lle l/Es .
+SFX lu ou·lle lle/Es .
+SFX lu ou·lle u/Es .
+SFX lu ou·lle ou·lle/Es .
+SFX lu ou·lle ou.lle/Es .
 
 
 SFX GB Y 3

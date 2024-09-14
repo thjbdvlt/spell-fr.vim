@@ -1,7 +1,7 @@
-email/_s # po:noun
+email/Es # po:noun
 html/ # po:noun
 json/ # po:noun
 unicode/ # po:noun
-url/_s # po:noun
-website/_s # po:noun
+url/Es # po:noun
+website/Es # po:noun
 xml/ # po:noun
