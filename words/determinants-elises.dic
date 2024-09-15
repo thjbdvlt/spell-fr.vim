@@ -1,27 +1,26 @@
-c'/ # po:det is:sg is:mas is:eli
-c'/ # po:pron is:inv is:epi is:eli
-d'/ # po:det is:inv is:epi is:eli
-d'/ # po:adp is:eli
-j'/ # po:pron is:sg is:epi is:1pe is:eli
-jusqu'/ # po:adp is:eli
+c'/ # po:det is:sg is:mas is:eli st:ce
+c'/ # po:pron is:inv is:epi is:eli st:ce
+d'/ # po:det is:inv is:epi is:eli st:de st:de
+d'/ # po:adp is:eli st:de
+j'/ # po:pron is:sg is:epi is:1pe is:eli st:je
+jusqu'/ # po:adp is:eli st:jusque
 la/ # st:le po:det is:sg is:fem is:eli
 la/ # st:le po:pron po:adp is:sg is:fem is:eli
 la/ # po:noun is:mas is:inv is:eli
-l'/ # po:det is:sg is:mas is:eli
-l'/ # po:pron po:adp is:sg is:mas is:eli
-lorsqu'/ # po:sconj is:eli
-m'/ # po:pron po:adp is:sg is:epi is:1pe is:eli
-n'/ # po:adv po:adp is:eli
-presqu'/ # po:adv is:eli
-puisqu'/ # po:sconj is:eli
-qu'/ # po:sconj po:pron is:eli
-qu/ # po:sconj:pron is:eli
-qu/ # po:pron is:eli
-ququ'/EL # po:adv is:eli
-ququ'/ELEs # po:det is:epi is:eli
-quoiqu'/ # po:sconj is:eli
-s'/ # po:pron po:adp is:inv is:epi is:3pe is:eli
-t'/ # po:pron po:adp is:sg is:epi is:2pe is:eli
+l'/ # po:det is:sg is:mas is:eli st:le·la
+l'/ # po:pron po:adp is:sg is:mas is:eli st:le·la
+lorsqu'/ # po:sconj is:eli st:lorsque
+m'/ # po:pron po:adp is:sg is:epi is:1pe is:eli st:me
+n'/ # po:adv po:adp is:eli st:ne
+presqu'/ # po:adv is:eli st:presque
+puisqu'/ # po:sconj is:eli st:puisque
+qu'/ # po:sconj po:pron is:eli st:que
+qu/ # po:sconj:pron is:eli st:que
+qu/ # po:pron is:eli st:que
+quoiqu'/ # po:sconj is:eli st:quoique
+s'/ # po:pron po:adp is:inv is:epi is:3pe is:eli st:se
+t'/ # po:pron po:adp is:sg is:epi is:2pe is:eli st:te
+
 c/ # po:det is:sg is:mas is:eli
 c/ # po:pron is:inv is:epi is:eli
 d/ # po:det is:inv is:epi is:eli
@@ -41,8 +40,6 @@ puisqu/ # po:sconj is:eli
 qu/ # po:sconj po:pron is:eli
 qu/ # po:sconj:pron is:eli
 qu/ # po:pron is:eli
-ququ/EL # po:adv is:eli
-ququ/ELEs # po:det is:epi is:eli
 quoiqu/ # po:sconj is:eli
 s/ # po:pron po:adp is:inv is:epi is:3pe is:eli
 t/ # po:pron po:adp is:sg is:epi is:2pe is:eli
