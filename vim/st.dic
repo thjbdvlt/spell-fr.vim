@@ -1,4 +1,5 @@
-70280
+70275
+
 -
 _/
 a
@@ -11221,6 +11222,7 @@ cavité/Es
 caviter/a0p.
 cavurne/Es
 cDNA/
+ce/
 céans/
 cébette/Es
 cébiste/Es
@@ -11247,7 +11249,6 @@ cédrèle/Es
 cédrière/Es
 cédulaire/Es
 cédule/Es
-ce/EL
 cégep/Es
 cégésimal·e/,,al
 cégétiste/Es
@@ -17394,6 +17395,7 @@ daurade/Es
 davantage/
 davier/Es
 dazibao/Es
+de/
 dé
 déactiver/a0p+
 dealer/a0p+
@@ -18190,7 +18192,6 @@ déduction/Es
 déductivement/
 déduire/yM
 déduplication/Es
-de/EL
 dé/Es
 déesse/Es
 défaçage/Es
@@ -37224,12 +37225,12 @@ jazz/
 jazzman/GB
 jazzy/
 jazzy/Es
+je/
 jean/Es
 jeanfoutre/Es
 jeannette/Es
 jeans/
 jectisse/Es
-je/EL
 jeep/Es
 jéjunal·e/,,al
 jéjunum/Es
@@ -37523,7 +37524,7 @@ jusnaturalisme/Es
 jusnaturaliste/Es
 jusqu'/
 jusqu/
-jusque/EL
+jusque/
 jusques/
 jusquiame/Es
 jussiée/Es
@@ -38051,7 +38052,6 @@ ladite/
 ladre/Es
 ladrerie/Es
 lady/GB
-la/EL
 laetare/Es
 lagen/Es
 lagomorphe/Es
@@ -38468,6 +38468,7 @@ lazurite/Es
 lazzarone/LT
 lazzi/
 lazzi/Es
+le/
 leader/Es
 leadership/Es
 leadeur·euse/,,rs
@@ -38493,7 +38494,6 @@ lectotype/Es
 lecture/Es
 lécythe/Es
 ledit/
-le/EL
 lé/Es
 légal·e/,,al
 légalement/
@@ -39504,7 +39504,7 @@ lorry/GB
 lors/
 lorsqu'/
 lorsqu/
-lorsque/EL
+lorsque/
 losangé·e/,,_e
 losange/Es
 losangique/Es
@@ -41284,6 +41284,7 @@ mazout/Es
 mazurka/Es
 mbalax/
 mCE/
+me/
 méaculpa/Es
 méandre/Es
 méandreux·euse/,,xz
@@ -41451,7 +41452,6 @@ médullosurrénal·e/,,al
 médusant·e/,,_e
 méduse/Es
 méduser/a0p+
-me/EL
 meeting/Es
 méfaire/wD
 méfait/Es
@@ -44612,6 +44612,7 @@ naziréat/Es
 naziréen·ne/,,ll
 nazir/Es
 nazisme/Es
+ne/
 néandertalien/Es
 néandertalien·ne/,,ll
 néanmoins/
@@ -44667,7 +44668,6 @@ nectarifère/Es
 nectarine/Es
 nectarivore/Es
 necton/Es
-ne/EL
 néerlandais·e/,,_e
 néerlandophone/Es
 néfaste/Es
@@ -52762,7 +52762,7 @@ présonorisation/Es
 présonoriser/a0p+
 presqu'/
 presqu/
-presque/EL
+presque/
 pressabilité/Es
 pressage/Es
 pressant·e/,,_e
@@ -53917,7 +53917,7 @@ puiser/a0p+
 puisette/Es
 puisqu'/
 puisqu/
-puisque/EL
+puisque/
 puissamment/
 puissance/Es
 puissant·e/,,_e
@@ -54365,6 +54365,7 @@ quattrocentiste/Es
 quattrocento/
 quatuor/Es
 qubit/Es
+que/
 qué/
 québéciser/a0p+
 québécisme/Es
@@ -54376,14 +54377,12 @@ quebracho/Es
 québracho/Es
 quechua/Es
 quéchua/Es
-que/EL
 queen/Es
 queer/Es
-qu/EL
 quelconque/Es
 quel·le/,,ll
-quelque/EL
-quelque/ELEs
+quelque/
+quelque/Es
 quelquefois/
 quémande/Es
 quémander/a0p+
@@ -54530,7 +54529,7 @@ quocngu/Es
 quoi/
 quoiqu'/
 quoiqu/
-quoique/EL
+quoique/
 quolibet/Es
 quorum/Es
 quota/Es
@@ -54541,10 +54540,6 @@ quotidienneté/Es
 quotient/Es
 quotité/Es
 quotter/a0p.
-ququ'/EL
-ququ/EL
-ququ'/ELEs
-ququ/ELEs
 qwerty/
 r
 r/
@@ -59901,6 +59896,7 @@ scytale/Es
 scythe/Es
 scythique/Es
 sdcard/Es
+se/
 seaborgium/Es
 séance/Es
 séant·e/,,_e
@@ -60031,7 +60027,6 @@ séduire/yL
 séduisant·e/,,_e
 sedum/Es
 sédum/Es
-se/EL
 séfarade/Es
 séga/Es
 ségala/Es
@@ -64543,6 +64538,7 @@ tchétchène/Es
 tchintchin/
 tchiper/a0p+
 tchitola/Es
+te/
 teaser/Es
 teaseur/Es
 teasing/Es
@@ -64604,7 +64600,6 @@ tectonique/Es
 tectoniquement/
 tectrice/Es
 tee/Es
-te/EL
 teenageur·euse/,,rs
 té/Es
 teeshirt/Es

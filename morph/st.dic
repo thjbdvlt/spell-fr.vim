@@ -1,4 +1,5 @@
-71242
+71241
+
 abaca/Es  po:noun is:mas
 abacule/Es  po:noun is:mas
 abader/  po:verb
@@ -11413,8 +11414,6 @@ cédrèle/Es  po:noun is:mas
 cédrière/Es  po:noun is:fem
 cédulaire/Es  po:adj is:epi
 cédule/Es  po:noun is:fem
-ce/EL  po:det is:sg is:mas
-ce/EL  po:pron is:inv is:epi
 cégep/Es  po:noun is:mas
 cégésimal·e/,,al  po:adj
 cégétiste/Es  po:noun po:adj is:epi
@@ -11603,6 +11602,8 @@ céphalorachidien·ne/,,ll  po:adj
 céphalosporine/Es  po:noun is:fem
 céphalothorax/  po:noun is:mas is:inv
 céphéide/Es  po:noun is:fem
+ce/  po:det is:sg is:mas
+ce/  po:pron is:inv is:epi
 cérambycidé/Es  po:noun is:mas
 cérambyx/  po:noun is:mas is:inv
 cérame/Es  po:adj is:epi
@@ -16381,11 +16382,11 @@ coxofémoral·e/,,al  po:adj
 coyau/lx  po:noun is:mas
 coyer/Es  po:noun is:mas
 coyote/Es  po:noun is:mas
-c'/  po:det is:sg is:mas is:eli
 c/  po:det is:sg is:mas is:eli
+c'/  po:det is:sg is:mas is:eli st:ce
 c/  po:noun is:mas is:inv
-c'/  po:pron is:inv is:epi is:eli
 c/  po:pron is:inv is:epi is:eli
+c'/  po:pron is:inv is:epi is:eli st:ce
 crabe/Es  po:noun is:mas
 crabier/Es  po:noun is:mas
 crabotage/Es  po:noun is:mas
@@ -18435,8 +18436,6 @@ déduction/Es  po:noun is:fem
 déductivement/  po:adv
 déduire/yM  po:verb
 déduplication/Es  po:noun is:fem
-de/EL  po:adp
-de/EL  po:det is:inv is:epi
 dé/Es  po:noun is:mas
 déesse/Es  po:noun is:fem
 défaçage/Es  po:noun is:mas
@@ -19478,8 +19477,10 @@ déplorer/a0p+  po:verb
 déployable/Es  po:adj is:epi
 déployer/a0p+  po:verb
 déplumer/a0p+  po:verb
+de/  po:adp
 dé  po:adp
 dépocher/a0p+  po:verb
+de/  po:det is:inv is:epi
 dépoétiser/a0p+  po:verb
 dépoiler/  po:verb
 dépointage/Es  po:noun is:mas
@@ -21899,10 +21900,10 @@ doyenné/Es  po:noun is:mas
 doyen·ne/,,ll  po:noun
 doyenneté/Es  po:noun is:fem
 dpi/  po:noun is:mas is:inv
-d'/  po:adp is:eli
 d/  po:adp is:eli
-d'/  po:det is:inv is:epi is:eli
+d'/  po:adp is:eli st:de
 d/  po:det is:inv is:epi is:eli
+d'/  po:det is:inv is:epi is:eli st:de st:de
 d/  po:noun is:mas is:inv
 dracéna/Es  po:noun is:mas
 drache/Es  po:noun is:fem
@@ -37687,12 +37688,12 @@ jeanfoutre/Es  po:noun is:mas
 jeannette/Es  po:noun is:fem
 jeans/  po:noun is:mas is:inv
 jectisse/Es  po:adj is:fem
-je/EL  po:pron is:sg is:epi is:1pe
 jeep/Es  po:noun is:fem
 jéjunal·e/,,al  po:adj
 jéjunum/Es  po:noun is:mas
 jennérien·ne/,,ll  po:adj
 jenny/Es  po:noun is:fem
+je/  po:pron is:sg is:epi is:1pe
 jérémiade/Es  po:noun is:fem
 jerez/  po:noun is:mas is:inv
 jerk/Es  po:noun is:mas
@@ -37872,8 +37873,8 @@ joyeuseté/Es  po:noun is:fem
 joyeux·euse/,,xz  po:adj
 joystick/Es  po:noun is:mas
 j/  po:noun is:mas is:inv
-j'/  po:pron is:sg is:epi is:1pe is:eli
 j/  po:pron is:sg is:epi is:1pe is:eli
+j'/  po:pron is:sg is:epi is:1pe is:eli st:je
 json/  po:noun
 jubarte/Es  po:noun is:fem
 jubé/Es  po:noun is:mas
@@ -37987,11 +37988,11 @@ jusée/Es  po:noun is:fem
 jusnaturalisme/Es  po:noun is:mas
 jusnaturaliste/Es  po:noun po:adj is:epi
 jus/  po:noun is:mas is:inv
-jusque/EL  po:adp
+jusque/  po:adp
 jusques/  po:adp
 jusquiame/Es  po:noun is:fem
-jusqu'/  po:adp is:eli
 jusqu/  po:adp is:eli
+jusqu'/  po:adp is:eli st:jusque
 jussiée/Es  po:noun is:fem
 jussion/Es  po:noun is:fem
 justaucorps/  po:noun is:mas is:inv
@@ -38523,9 +38524,6 @@ ladite/  st:ledit po:det is:sg is:fem
 ladre/Es  po:noun po:adj is:epi
 ladrerie/Es  po:noun is:fem
 lady/GB  po:noun is:fem
-la/EL  po:noun is:mas is:inv
-la/EL  st:le po:det is:sg is:fem
-la/EL  st:le po:pron po:adp is:sg is:fem
 laetare/Es  po:noun is:mas
 lagen/Es  po:noun is:mas
 lagomorphe/Es  po:noun is:mas
@@ -38771,6 +38769,7 @@ laplacien·ne/,,ll  po:adj
 là/  po:adv
 lapon·e/,,_e  po:noun po:adj
 lapon·ne/,,ll  po:noun po:adj
+la/  po:noun is:mas is:inv
 la/  po:noun is:mas is:inv is:eli
 laps/  po:noun is:mas is:inv
 lapsus/  po:noun is:mas is:inv
@@ -38854,7 +38853,9 @@ lassitude/Es  po:noun is:fem
 lasso/Es  po:noun is:mas
 lastex/  po:noun is:mas is:inv
 lasting/Es  po:noun is:mas
+la/  st:le po:det is:sg is:fem
 la/  st:le po:det is:sg is:fem is:eli
+la/  st:le po:pron po:adp is:sg is:fem
 la/  st:le po:pron po:adp is:sg is:fem is:eli
 lasure/Es  po:noun is:fem
 lasurer/a0p+  po:verb
@@ -38981,8 +38982,6 @@ lectotype/Es  po:noun is:mas
 lecture/Es  po:noun is:fem
 lécythe/Es  po:noun is:mas
 ledit/  po:det is:sg is:mas
-le/EL  po:det is:sg is:mas
-le/EL  po:pron po:adp is:sg is:mas
 lé/Es  po:noun is:mas
 légal·e/,,al  po:adj
 légalement/  po:adv
@@ -39104,6 +39103,8 @@ lépidostée/Es  po:noun is:mas
 lépiote/Es  po:noun is:fem
 lépisme/Es  po:noun is:mas
 lépisostée/Es  po:noun is:mas
+le/  po:det is:sg is:mas
+le/  po:pron po:adp is:sg is:mas
 léporidé/Es  po:noun is:mas
 leprechaun/Es  po:noun is:epi
 lèpre/Es  po:noun is:fem
@@ -40010,9 +40011,9 @@ lorrain·e/,,_e  po:noun po:adj
 lorry/GB  po:noun is:mas
 lors/  po:adp
 lors/  po:adv
-lorsque/EL  po:sconj
-lorsqu'/  po:sconj is:eli
+lorsque/  po:sconj
 lorsqu/  po:sconj is:eli
+lorsqu'/  po:sconj is:eli st:lorsque
 losangé·e/,,_e  po:adj
 losange/Es  po:noun is:mas
 losangique/Es  po:adj is:epi
@@ -40109,11 +40110,11 @@ loyaliste/Es  po:noun is:epi
 loyauté/Es  po:noun is:fem
 loyer/Es  po:noun is:mas
 lozérien·ne/,,ll  po:noun po:adj
-l'/  po:det is:sg is:mas is:eli
 l/  po:det is:sg is:mas is:eli
+l'/  po:det is:sg is:mas is:eli st:le·la
 l/  po:noun is:mas is:inv
-l'/  po:pron po:adp is:sg is:mas is:eli
 l/  po:pron po:adp is:sg is:mas is:eli
+l'/  po:pron po:adp is:sg is:mas is:eli st:le·la
 lubie/Es  po:noun is:fem
 lubricité/Es  po:noun is:fem
 lubrifiant·e/,,_e  po:adj
@@ -41987,7 +41988,6 @@ médullosurrénal·e/,,al  po:adj
 médusant·e/,,_e  po:adj
 méduse/Es  po:noun is:fem
 méduser/a0p+  po:verb
-me/EL  po:pron po:adp is:sg is:epi is:1pe
 meeting/Es  po:noun is:mas
 méfaire/wD  po:verb
 méfait/Es  po:noun is:mas
@@ -42295,6 +42295,7 @@ méphitique/Es  po:adj is:epi
 méphitisme/Es  po:noun is:mas
 méplat·e/,,_e  po:adj
 méplat/Es  po:noun is:mas
+me/  po:pron po:adp is:sg is:epi is:1pe
 méprendre/tG  po:verb
 méprisable/Es  po:adj is:epi
 méprisant·e/,,_e  po:adj
@@ -44368,8 +44369,8 @@ mozzarella/Es  po:noun is:fem
 mozzarelle/Es  po:noun is:fem
 mp3/Es  po:noun
 m/  po:noun is:mas is:inv
-m'/  po:pron po:adp is:sg is:epi is:1pe is:eli
 m/  po:pron po:adp is:sg is:epi is:1pe is:eli
+m'/  po:pron po:adp is:sg is:epi is:1pe is:eli st:me
 muance/Es  po:noun is:fem
 mucher/a0p+  po:verb
 mucilage/Es  po:noun is:mas
@@ -45279,7 +45280,6 @@ nectarifère/Es  po:adj is:epi
 nectarine/Es  po:noun is:fem
 nectarivore/Es  po:adj is:epi
 necton/Es  po:noun is:mas
-ne/EL  po:adv po:adp
 néerlandais·e/,,_e  po:noun po:adj
 néerlandophone/Es  po:noun po:adj is:epi
 néfaste/Es  po:adj is:epi
@@ -45494,6 +45494,7 @@ néphro  po:adp
 néphrose/Es  po:noun is:fem
 néphrotique/Es  po:adj is:epi
 néphrotoxique/Es  po:adj is:epi
+ne/  po:adv po:adp
 népotique/Es  po:adj is:epi
 népotisme/Es  po:noun is:mas
 neptunium/Es  po:noun is:mas
@@ -46143,8 +46144,8 @@ noyauter/a0p+  po:verb
 noyauteur·euse/,,rs  po:noun
 noyer/a0p+  po:verb
 noyer/Es  po:noun is:mas
-n'/  po:adv po:adp is:eli
 n/  po:adv po:adp is:eli
+n'/  po:adv po:adp is:eli st:ne
 n/  po:noun is:mas is:inv
 nuage/Es  po:noun is:mas
 nuageux·euse/,,xz  po:adj
@@ -53515,9 +53516,9 @@ présomptueux·euse/,,xz  po:noun po:adj
 présonorisation/Es  po:noun is:fem
 présonoriser/a0p+  po:verb
 près/  po:adv
-presque/EL  po:adv
-presqu'/  po:adv is:eli
+presque/  po:adv
 presqu/  po:adv is:eli
+presqu'/  po:adv is:eli st:presque
 pressabilité/Es  po:noun is:fem
 pressage/Es  po:noun is:mas
 pressant·e/,,_e  po:adj
@@ -54690,9 +54691,9 @@ puisement/Es  po:noun is:mas
 puiser/a0p+  po:verb
 puisette/Es  po:noun is:fem
 puis/  po:sconj po:adv
-puisque/EL  po:sconj
-puisqu'/  po:sconj is:eli
+puisque/  po:sconj
 puisqu/  po:sconj is:eli
+puisqu'/  po:sconj is:eli st:puisque
 puissamment/  po:adv
 puissance/Es  po:noun is:fem
 puissant·e/,,_e  po:adj
@@ -55168,16 +55169,13 @@ quebracho/Es  po:noun is:mas
 québracho/Es  po:noun is:mas
 quechua/Es  po:noun is:mas
 quéchua/Es  po:noun is:mas
-que/EL  po:sconj po:pron
 queen/Es  po:noun is:fem
 queer/Es  po:noun po:adj is:epi
 quelconque/Es  po:adj is:epi
 quel·le/,,ll  po:det
-qu/EL  po:pron
-qu/EL  po:sconj:pron
-quelque/ELEs  po:det is:epi
-quelque/EL  po:adv
+quelque/Es  po:det is:epi
 quelquefois/  po:adv
+quelque/  po:adv
 quémande/Es  po:noun is:fem
 quémander/a0p+  po:verb
 quémandeur·euse/,,rs  po:noun
@@ -55187,6 +55185,7 @@ quenouillée/Es  po:noun is:fem
 quenouille/Es  po:noun is:fem
 quenouillette/Es  po:noun is:fem
 qué/  po:pron
+que/  po:sconj po:pron
 quéquette/Es  po:noun is:fem
 quérable/Es  po:adj is:epi
 quercitrin·e/,,_e  po:noun
@@ -55324,9 +55323,9 @@ quiz/  po:noun is:mas is:inv
 quoailler/  po:verb
 quocngu/Es  po:noun is:mas
 quoi/  po:pron
-quoique/EL  po:sconj
-quoiqu'/  po:sconj is:eli
+quoique/  po:sconj
 quoiqu/  po:sconj is:eli
+quoiqu'/  po:sconj is:eli st:quoique
 quolibet/Es  po:noun is:mas
 quo/  po:noun is:mas is:inv
 quorum/Es  po:noun is:mas
@@ -55338,14 +55337,14 @@ quotidienneté/Es  po:noun is:fem
 quotient/Es  po:noun is:mas
 quotité/Es  po:noun is:fem
 quotter/a0p.  po:verb
+qu/  po:pron
 qu/  po:pron is:eli
-qu'/  po:sconj po:pron is:eli
+qu/  po:pron is:eli st:que
 qu/  po:sconj po:pron is:eli
+qu'/  po:sconj po:pron is:eli st:que
+qu/  po:sconj:pron
 qu/  po:sconj:pron is:eli
-ququ'/ELEs  po:det is:epi is:eli
-ququ/ELEs  po:det is:epi is:eli
-ququ'/EL  po:adv is:eli
-ququ/EL  po:adv is:eli
+qu/  po:sconj:pron is:eli st:que
 qwerty/  po:noun is:mas is:inv
 rabâchage/Es  po:noun is:mas
 rabâchement/Es  po:noun is:mas
@@ -60863,7 +60862,6 @@ séduire/yL  po:verb
 séduisant·e/,,_e  po:adj
 sedum/Es  po:noun is:mas
 sédum/Es  po:noun is:mas
-se/EL  po:pron po:adp is:inv is:epi is:3pe
 séfarade/Es  po:noun is:epi
 séga/Es  po:noun is:mas
 ségala/Es  po:noun is:mas
@@ -61160,6 +61158,7 @@ sépia/Es  po:noun is:fem
 sépia/  po:adj is:inv is:epi
 sépiole/Es  po:noun is:fem
 sépiolite/Es  po:noun is:fem
+se/  po:pron po:adp is:inv is:epi is:3pe
 seppuku/Es  po:noun is:mas
 sepsis/  po:noun is:mas is:inv
 septain/Es  po:noun is:mas
@@ -62927,8 +62926,8 @@ spontanéiste/Es  po:noun po:adj is:epi
 spontanéité/Es  po:noun is:fem
 spontanément/  po:adv
 spontanisme/Es  po:noun is:mas
-s'/  po:pron po:adp is:inv is:epi is:3pe is:eli
 s/  po:pron po:adp is:inv is:epi is:3pe is:eli
+s'/  po:pron po:adp is:inv is:epi is:3pe is:eli st:se
 sporadicité/Es  po:noun is:fem
 sporadique/Es  po:adj is:epi
 sporadiquement/  po:adv
@@ -65477,7 +65476,6 @@ tectoniquement/  po:adv
 tectrice/Es  po:adj is:epi
 tectrice/Es  po:noun is:fem
 tee/Es  po:noun is:mas
-te/EL  po:pron po:adp is:sg is:epi is:2pe
 teenageur·euse/,,rs  po:noun
 teeshirt/Es  po:noun is:mas
 té/Es  po:noun is:mas
@@ -65863,6 +65861,7 @@ tepidarium/Es  po:noun is:mas
 tépidarium/Es  po:noun is:mas
 tepidarium/  po:noun is:mas is:inv
 tépographie/Es  po:noun is:fem
+te/  po:pron po:adp is:sg is:epi is:2pe
 teppanyaki/Es  po:noun is:mas
 tequila/Es  po:noun is:fem
 téquila/Es  po:noun is:fem
@@ -67138,8 +67137,8 @@ toxoplasme/Es  po:noun is:mas
 toxoplasmose/Es  po:noun is:fem
 toyotisme/Es  po:noun is:mas
 t/  po:noun is:mas is:inv
-t'/  po:pron po:adp is:sg is:epi is:2pe is:eli
 t/  po:pron po:adp is:sg is:epi is:2pe is:eli
+t'/  po:pron po:adp is:sg is:epi is:2pe is:eli st:te
 trabéculum/Es  po:noun is:mas
 trabée/Es  po:noun is:fem
 trabe/Es  po:noun is:fem
