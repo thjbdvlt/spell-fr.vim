@@ -11255,8 +11255,8 @@ cavitation/Es # po:noun is:fem
 cavité/Es # po:noun is:fem
 caviter/a0p. # po:verb
 cavurne/Es # po:noun is:fem
-ce/EL # po:det is:sg is:mas
-ce/EL # po:pron is:inv is:epi
+ce/ # po:det is:sg is:mas
+ce/ # po:pron is:inv is:epi
 céans/ # po:adv
 cébette/Es # po:noun is:fem
 cébiste/Es # po:noun is:epi
@@ -17425,8 +17425,8 @@ daurade/Es # po:noun is:fem
 davantage/ # po:adv
 davier/Es # po:noun is:mas
 dazibao/Es # po:noun is:mas
-de/EL # po:det is:inv is:epi
-de/EL # po:adp
+de/ # po:det is:inv is:epi
+de/ # po:adp
 dé/Es # po:noun is:mas
 déactiver/a0p+ # po:verb
 deal/Es # po:noun is:mas
@@ -37240,7 +37240,7 @@ jazz/ # po:noun is:mas is:inv
 jazzman/GB # po:noun is:mas
 jazzy/ # po:adj is:inv is:epi
 jazzy/Es # po:adj is:epi
-je/EL # po:pron is:sg is:epi is:1pe
+je/ # po:pron is:sg is:epi is:1pe
 jean/Es # po:noun is:mas
 jeanfoutre/Es # po:noun is:mas
 jeannette/Es # po:noun is:fem
@@ -37540,7 +37540,7 @@ jusant/Es # po:noun is:mas
 jusée/Es # po:noun is:fem
 jusnaturalisme/Es # po:noun is:mas
 jusnaturaliste/Es # po:noun po:adj is:epi
-jusque/EL # po:adp
+jusque/ # po:adp
 jusques/ # po:adp
 jusquiame/Es # po:noun is:fem
 jussiée/Es # po:noun is:fem
@@ -37950,10 +37950,10 @@ kystique/Es # po:adj is:epi
 kyu/Es # po:noun is:mas
 kyudo/Es # po:noun is:mas
 l/ # po:noun is:mas is:inv
-la/EL # st:le po:det is:sg is:fem
-la/EL # st:le po:pron po:adp is:sg is:fem
+la/ # st:le po:det is:sg is:fem
+la/ # st:le po:pron po:adp is:sg is:fem
 là/ # po:adv
-la/EL # po:noun is:mas is:inv
+la/ # po:noun is:mas is:inv
 labadens/ # po:noun is:mas is:inv
 labarum/Es # po:noun is:mas
 labbe/Es # po:noun is:mas
@@ -38494,8 +38494,8 @@ lazurite/Es # po:noun is:fem
 lazzarone/LT # po:noun is:mas
 lazzi/ # po:noun is:mas is:inv
 lazzi/Es # po:noun is:mas
-le/EL # po:det is:sg is:mas
-le/EL # po:pron po:adp is:sg is:mas
+le/ # po:det is:sg is:mas
+le/ # po:pron po:adp is:sg is:mas
 lé/Es # po:noun is:mas
 leader/Es # po:noun is:epi
 leadership/Es # po:noun is:mas
@@ -39538,7 +39538,7 @@ lorrain·e/,,_e # po:noun po:adj
 lorry/GB # po:noun is:mas
 lors/ # po:adv
 lors/ # po:adp
-lorsque/EL # po:sconj
+lorsque/ # po:sconj
 losangé·e/,,_e # po:adj
 losange/Es # po:noun is:mas
 losangique/Es # po:adj is:epi
@@ -41321,7 +41321,7 @@ mazoutage/Es # po:noun is:mas
 mazouter/a0p+ # po:verb
 mazurka/Es # po:noun is:fem
 mbalax/ # po:noun is:mas is:inv
-me/EL # po:pron po:adp is:sg is:epi is:1pe
+me/ # po:pron po:adp is:sg is:epi is:1pe
 méaculpa/Es # po:noun is:mas
 méandre/Es # po:noun is:mas
 méandreux·euse/,,xz # po:adj
@@ -44681,7 +44681,7 @@ nazir/Es # po:noun is:mas
 naziréat/Es # po:noun is:mas
 naziréen·ne/,,ll # po:noun po:adj
 nazisme/Es # po:noun is:mas
-ne/EL # po:adv po:adp
+ne/ # po:adv po:adp
 néandertalien·ne/,,ll # po:adj
 néandertalien/Es # po:noun is:mas
 néanmoins/ # po:adv
@@ -52754,7 +52754,7 @@ présomptueusement/ # po:adv
 présomptueux·euse/,,xz # po:noun po:adj
 présonorisation/Es # po:noun is:fem
 présonoriser/a0p+ # po:verb
-presque/EL # po:adv
+presque/ # po:adv
 pressabilité/Es # po:noun is:fem
 pressage/Es # po:noun is:mas
 pressant·e/,,_e # po:adj
@@ -53917,7 +53917,7 @@ puisatier/Es # po:noun is:mas
 puisement/Es # po:noun is:mas
 puiser/a0p+ # po:verb
 puisette/Es # po:noun is:fem
-puisque/EL # po:sconj
+puisque/ # po:sconj
 puissamment/ # po:adv
 puissance/Es # po:noun is:fem
 puissant·e/,,_e # po:adj
@@ -54375,9 +54375,9 @@ quattrocentiste/Es # po:noun po:adj is:epi
 quattrocento/ # po:noun is:sg is:mas
 quatuor/Es # po:noun is:mas
 qubit/Es # po:noun is:mas
-que/EL # po:sconj po:pron
-qu/EL # po:sconj:pron
-qu/EL # po:pron
+que/ # po:sconj po:pron
+qu/ # po:sconj:pron
+qu/ # po:pron
 qué/ # po:pron
 québéciser/a0p+ # po:verb
 québécisme/Es # po:noun is:mas
@@ -54393,8 +54393,8 @@ queen/Es # po:noun is:fem
 queer/Es # po:noun po:adj is:epi
 quel·le/,,ll # po:det
 quelconque/Es # po:adj is:epi
-quelque/EL # po:adv
-quelque/ELEs # po:det is:epi
+quelque/ # po:adv
+quelque/Es # po:det is:epi
 quelquefois/ # po:adv
 quémande/Es # po:noun is:fem
 quémander/a0p+ # po:verb
@@ -54538,7 +54538,7 @@ quo/ # po:noun is:mas is:inv
 quoailler/ # po:verb
 quocngu/Es # po:noun is:mas
 quoi/ # po:pron
-quoique/EL # po:sconj
+quoique/ # po:sconj
 quolibet/Es # po:noun is:mas
 quorum/Es # po:noun is:mas
 quota/Es # po:noun is:mas
@@ -59907,7 +59907,7 @@ scytale/Es # po:noun is:fem
 scythe/Es # po:noun po:adj is:epi
 scythique/Es # po:adj is:epi
 sdcard/Es # po:noun is:fem
-se/EL # po:pron po:adp is:inv is:epi is:3pe
+se/ # po:pron po:adp is:inv is:epi is:3pe
 seaborgium/Es # po:noun is:mas
 séance/Es # po:noun is:fem
 séant·e/,,_e # po:adj
@@ -64519,7 +64519,7 @@ tchétchène/Es # po:noun po:adj is:epi
 tchintchin/ # po:intj
 tchiper/a0p+ # po:verb
 tchitola/Es # po:noun is:mas
-te/EL # po:pron po:adp is:sg is:epi is:2pe
+te/ # po:pron po:adp is:sg is:epi is:2pe
 té/Es # po:noun is:mas
 teaser/Es # po:noun is:mas
 teaseur/Es # po:noun is:mas
