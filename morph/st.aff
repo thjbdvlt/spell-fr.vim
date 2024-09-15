@@ -21,7 +21,7 @@ MAP jg
 MIDWORD ·.
 
 ICONV 1
-ICONV ' ’
+ICONV ’ '
 # pluriel.en s:
 SFX Es Y 1
 SFX Es 0 s .  is:pl
