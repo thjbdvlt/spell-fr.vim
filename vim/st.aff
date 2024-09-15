@@ -234,13 +234,17 @@ SFX LT en ina/ en
 SFX LT o i/ o
 SFX LT um a/ um
 SFX LT us i/ us
-SFX zA Y 50
+SFX zA Y 54
 SFX zA voir voir/ avoir
 SFX zA voir yant/ avoir
 SFX zA avoir eu/ avoir
 SFX zA avoir eus/ avoir
 SFX zA avoir eue/ avoir
+SFX zA avoir eu·e/ avoir
+SFX zA avoir eu.e/ avoir
 SFX zA avoir eues/ avoir
+SFX zA avoir eu·es/ avoir
+SFX zA avoir eu.es/ avoir
 SFX zA voir i/ avoir
 SFX zA voir s/ avoir
 SFX zA voir 0/ avoir
@@ -1268,13 +1272,17 @@ SFX d0 eler èle/ épeler
 SFX d0 er ons/ er
 SFX d0 er ez/ er
 
-SFX aA Y 54
+SFX aA Y 58
 SFX aA ller ller/ aller
 SFX aA ller llant/ aller
 SFX aA ller llé/ aller
 SFX aA ller llés/ aller
 SFX aA ller llée/ aller
+SFX aA ller llé·e/ aller
+SFX aA ller llé.e/ aller
 SFX aA ller llées/ aller
+SFX aA ller llé·es/ aller
+SFX aA ller llé.es/ aller
 SFX aA aller vais/ aller
 SFX aA aller vas/ aller
 SFX aA aller va/ aller
@@ -1324,13 +1332,17 @@ SFX aA ller llez/ aller
 SFX aA ller llez-y/ aller
 SFX aA ller llez-vous-en/ aller
 
-SFX aD Y 44
+SFX aD Y 48
 SFX aD voyer voyer/ envoyer
 SFX aD voyer voyant/ envoyer
 SFX aD voyer voyé/ envoyer
 SFX aD voyer voyés/ envoyer
 SFX aD voyer voyée/ envoyer
+SFX aD voyer voyé·e/ envoyer
+SFX aD voyer voyé.e/ envoyer
 SFX aD voyer voyées/ envoyer
+SFX aD voyer voyé·es/ envoyer
+SFX aD voyer voyé.es/ envoyer
 SFX aD voyer voie/ envoyer
 SFX aD voyer voies/ envoyer
 SFX aD voyer voyons/ envoyer
@@ -1370,21 +1382,29 @@ SFX aD voyer voie/ envoyer
 SFX aD voyer voyons/ envoyer
 SFX aD voyer voyez/ envoyer
 
-SFX aE Y 6
+SFX aE Y 10
 SFX aE direr direr/ direr
 SFX aE direr dirant/ direr
 SFX aE direr diré/ direr
 SFX aE direr dirés/ direr
 SFX aE direr dirée/ direr
+SFX aE direr diré·e/ direr
+SFX aE direr diré.e/ direr
 SFX aE direr dirées/ direr
+SFX aE direr diré·es/ direr
+SFX aE direr diré.es/ direr
 
-SFX aF Y 18
+SFX aF Y 22
 SFX aF cerner cerner/ er
 SFX aF cerner cernant/ er
 SFX aF cerner cerné/ er
 SFX aF cerner cernés/ er
 SFX aF cerner cernée/ er
+SFX aF cerner cerné·e/ er
+SFX aF cerner cerné.e/ er
 SFX aF cerner cernées/ er
+SFX aF cerner cerné·es/ er
+SFX aF cerner cerné.es/ er
 SFX aF cerner cerne/ er
 SFX aF cerner cernent/ er
 SFX aF cerner cernait/ er
@@ -1398,14 +1418,18 @@ SFX aF cerner cerneraient/ er
 SFX aF cerner cernât/ er
 SFX aF cerner cernassent/ er
 
-SFX aG Y 19
+SFX aG Y 23
 SFX aG er er/ er
 SFX aG er ant/ er
 SFX aG mber mbé/ mber
 SFX aG lter lté/ lter
 SFX aG lter ltés/ lter
 SFX aG lter ltée/ lter
+SFX aG lter lté·e/ lter
+SFX aG lter lté.e/ lter
 SFX aG lter ltées/ lter
+SFX aG lter lté·es/ lter
+SFX aG lter lté.es/ lter
 SFX aG er e/ er
 SFX aG er ent/ er
 SFX aG er ait/ er
@@ -1460,13 +1484,17 @@ SFX aH er e/ gger
 SFX aH er ons/ gger
 SFX aH er ez/ gger
 
-SFX aY Y 57
+SFX aY Y 61
 SFX aY neler neler/ neler
 SFX aY neler nelant/ neler
 SFX aY neler nelé/ neler
 SFX aY neler nelés/ neler
 SFX aY neler nelée/ neler
+SFX aY neler nelé·e/ neler
+SFX aY neler nelé.e/ neler
 SFX aY neler nelées/ neler
+SFX aY neler nelé·es/ neler
+SFX aY neler nelé.es/ neler
 SFX aY éneler énelle/ éneler
 SFX aY èneler énèle/ èneler
 SFX aY éneler énelles/ éneler
@@ -1519,13 +1547,17 @@ SFX aY èneler énèle/ èneler
 SFX aY neler nelons/ neler
 SFX aY neler nelez/ neler
 
-SFX aZ Y 57
+SFX aZ Y 61
 SFX aZ teler teler/ teler
 SFX aZ teler telant/ teler
 SFX aZ teler telé/ teler
 SFX aZ teler telés/ teler
 SFX aZ teler telée/ teler
+SFX aZ teler telé·e/ teler
+SFX aZ teler telé.e/ teler
 SFX aZ teler telées/ teler
+SFX aZ teler telé·es/ teler
+SFX aZ teler telé.es/ teler
 SFX aZ ételer ételle/ ételer
 SFX aZ èteler étèle/ èteler
 SFX aZ ételer ételles/ ételer
@@ -1578,13 +1610,17 @@ SFX aZ èteler étèle/ èteler
 SFX aZ teler telons/ teler
 SFX aZ teler telez/ teler
 
-SFX dA Y 42
+SFX dA Y 46
 SFX dA peler peler/ peler
 SFX dA peler pelant/ peler
 SFX dA peler pelé/ peler
 SFX dA peler pelés/ peler
 SFX dA peler pelée/ peler
+SFX dA peler pelé·e/ peler
+SFX dA peler pelé.e/ peler
 SFX dA peler pelées/ peler
+SFX dA peler pelé·es/ peler
+SFX dA peler pelé.es/ peler
 SFX dA peler pelle/ peler
 SFX dA peler pelles/ peler
 SFX dA peler pelons/ peler
@@ -1657,13 +1693,17 @@ SFX f0 ir is/ ir
 SFX f0 ir issons/ ir
 SFX f0 ir issez/ ir
 
-SFX fA Y 38
+SFX fA Y 42
 SFX fA aïr aïr/ aïr
 SFX fA aïr aïssant/ aïr
 SFX fA aïr aï/ aïr
 SFX fA aïr aïs/ aïr
 SFX fA aïr aïe/ aïr
+SFX fA aïr aï·e/ aïr
+SFX fA aïr aï.e/ aïr
 SFX fA aïr aïes/ aïr
+SFX fA aïr aï·es/ aïr
+SFX fA aïr aï.es/ aïr
 SFX fA aïr ais/ aïr
 SFX fA aïr ait/ aïr
 SFX fA aïr aïssons/ aïr
@@ -1697,13 +1737,17 @@ SFX fA aïr ais/ aïr
 SFX fA aïr aïssons/ aïr
 SFX fA aïr aïssez/ aïr
 
-SFX fB Y 29
+SFX fB Y 33
 SFX fB haïr haïr/ aïr
 SFX fB haïr haïssant/ aïr
 SFX fB haïr haï/ aïr
 SFX fB haïr haïs/ aïr
 SFX fB haïr haïe/ aïr
+SFX fB haïr haï·e/ aïr
+SFX fB haïr haï.e/ aïr
 SFX fB haïr haïes/ aïr
+SFX fB haïr haï·es/ aïr
+SFX fB haïr haï.es/ aïr
 SFX fB haïr hait/ aïr
 SFX fB haïr haïssons/ aïr
 SFX fB haïr haïssez/ aïr
@@ -1728,13 +1772,17 @@ SFX fB haïr haïsse/ aïr
 SFX fB haïr haïssons/ aïr
 SFX fB haïr haïssez/ aïr
 
-SFX fC Y 11
+SFX fC Y 15
 SFX fC partir partir/ impartir
 SFX fC partir partissant/ impartir
 SFX fC partir parti/ impartir
 SFX fC partir partis/ impartir
 SFX fC partir partie/ impartir
+SFX fC partir parti·e/ impartir
+SFX fC partir parti.e/ impartir
 SFX fC partir parties/ impartir
+SFX fC partir parti·es/ impartir
+SFX fC partir parti.es/ impartir
 SFX fC partir partis/ impartir
 SFX fC partir partit/ impartir
 SFX fC partir partissons/ impartir
@@ -1755,13 +1803,17 @@ SFX fD ortir ortiraient/ sortir
 SFX fD ortir ortisse/ sortir
 SFX fD ortir ortît/ sortir
 
-SFX fY Y 37
+SFX fY Y 41
 SFX fY uïr uïr/ uïr
 SFX fY uïr uïssant/ uïr
 SFX fY uïr uï/ uïr
 SFX fY uïr uïs/ uïr
 SFX fY uïr uïe/ uïr
+SFX fY uïr uï·e/ uïr
+SFX fY uïr uï.e/ uïr
 SFX fY uïr uïes/ uïr
+SFX fY uïr uï·es/ uïr
+SFX fY uïr uï.es/ uïr
 SFX fY uïr uïs/ uïr
 SFX fY uïr uït/ uïr
 SFX fY uïr uïssons/ uïr
@@ -1794,15 +1846,23 @@ SFX fY uïr uïs/ uïr
 SFX fY uïr uïssons/ uïr
 SFX fY uïr uïssez/ uïr
 
-SFX p+ Y 8
+SFX p+ Y 16
 SFX p+ er é/ er
 SFX p+ er és/ er
 SFX p+ er ée/ er
+SFX p+ er é·e/ er
+SFX p+ er é.e/ er
 SFX p+ er ées/ er
+SFX p+ er é·es/ er
+SFX p+ er é.es/ er
 SFX p+ ir i/ ir
 SFX p+ ir is/ ir
 SFX p+ ir ie/ ir
+SFX p+ ir i·e/ ir
+SFX p+ ir i.e/ ir
 SFX p+ ir ies/ ir
+SFX p+ ir i·es/ ir
+SFX p+ ir i.es/ ir
 
 SFX p. Y 2
 SFX p. er é/ er
@@ -1890,13 +1950,17 @@ SFX i5 tir s/ tir
 SFX i5 tir tons/ tir
 SFX i5 tir tez/ tir
 
-SFX iA Y 19
+SFX iA Y 23
 SFX iA dvenir dvenir/ venir
 SFX iA dvenir dvenant/ venir
 SFX iA dvenir dvenu/ venir
 SFX iA dvenir dvenus/ venir
 SFX iA dvenir dvenue/ venir
+SFX iA dvenir dvenu·e/ venir
+SFX iA dvenir dvenu.e/ venir
 SFX iA dvenir dvenues/ venir
+SFX iA dvenir dvenu·es/ venir
+SFX iA dvenir dvenu.es/ venir
 SFX iA dvenir dvient/ venir
 SFX iA dvenir dviennent/ venir
 SFX iA dvenir dvenait/ venir
@@ -1953,13 +2017,17 @@ SFX iB partenir partiens/ tenir
 SFX iB partenir partenons/ tenir
 SFX iB partenir partenez/ tenir
 
-SFX iC Y 41
+SFX iC Y 45
 SFX iC rir rir/ [vf]rir
 SFX iC rir rant/ [vf]rir
 SFX iC rir ert/ [vf]rir
 SFX iC rir erts/ [vf]rir
 SFX iC rir erte/ [vf]rir
+SFX iC rir ert·e/ [vf]rir
+SFX iC rir ert.e/ [vf]rir
 SFX iC rir ertes/ [vf]rir
+SFX iC rir ert·es/ [vf]rir
+SFX iC rir ert.es/ [vf]rir
 SFX iC rir re/ [vf]rir
 SFX iC rir res/ [vf]rir
 SFX iC rir rons/ [vf]rir
@@ -1996,13 +2064,17 @@ SFX iC rir re/ [vf]rir
 SFX iC rir rons/ [vf]rir
 SFX iC rir rez/ [vf]rir
 
-SFX iD Y 43
+SFX iD Y 47
 SFX iD courir courir/ courir
 SFX iD courir courant/ courir
 SFX iD courir couru/ courir
 SFX iD courir courus/ courir
 SFX iD courir courue/ courir
+SFX iD courir couru·e/ courir
+SFX iD courir couru.e/ courir
 SFX iD courir courues/ courir
+SFX iD courir couru·es/ courir
+SFX iD courir couru.es/ courir
 SFX iD courir cours/ courir
 SFX iD courir court/ courir
 SFX iD courir courons/ courir
@@ -2041,13 +2113,17 @@ SFX iD courir cours/ courir
 SFX iD courir courons/ courir
 SFX iD courir courez/ courir
 
-SFX iE Y 43
+SFX iE Y 47
 SFX iE ourir ourir/ courir
 SFX iE ourir ourant/ courir
 SFX iE ourir ouru/ courir
 SFX iE ourir ourus/ courir
 SFX iE ourir ourue/ courir
+SFX iE ourir ouru·e/ courir
+SFX iE ourir ouru.e/ courir
 SFX iE ourir ourues/ courir
+SFX iE ourir ouru·es/ courir
+SFX iE ourir ouru.es/ courir
 SFX iE ourir ours/ courir
 SFX iE ourir ourt/ courir
 SFX iE ourir ourons/ courir
@@ -2086,13 +2162,17 @@ SFX iE ourir ours/ courir
 SFX iE ourir ourons/ courir
 SFX iE ourir ourez/ courir
 
-SFX iF Y 43
+SFX iF Y 47
 SFX iF ervir ervir/ servir
 SFX iF ervir ervant/ servir
 SFX iF ervir ervi/ servir
 SFX iF ervir ervis/ servir
 SFX iF ervir ervie/ servir
+SFX iF ervir ervi·e/ servir
+SFX iF ervir ervi.e/ servir
 SFX iF ervir ervies/ servir
+SFX iF ervir ervi·es/ servir
+SFX iF ervir ervi.es/ servir
 SFX iF ervir ers/ servir
 SFX iF ervir ert/ servir
 SFX iF ervir ervons/ servir
@@ -2131,13 +2211,17 @@ SFX iF ervir ers/ servir
 SFX iF ervir ervons/ servir
 SFX iF ervir ervez/ servir
 
-SFX iG Y 43
+SFX iG Y 47
 SFX iG êtir êtir/ vêtir
 SFX iG êtir êtant/ vêtir
 SFX iG êtir êtu/ vêtir
 SFX iG êtir êtus/ vêtir
 SFX iG êtir êtue/ vêtir
+SFX iG êtir êtu·e/ vêtir
+SFX iG êtir êtu.e/ vêtir
 SFX iG êtir êtues/ vêtir
+SFX iG êtir êtu·es/ vêtir
+SFX iG êtir êtu.es/ vêtir
 SFX iG êtir êts/ vêtir
 SFX iG êtir êt/ vêtir
 SFX iG êtir êtons/ vêtir
@@ -2218,13 +2302,17 @@ SFX iI ormir ors/ dormir
 SFX iI ormir ormons/ dormir
 SFX iI ormir ormez/ dormir
 
-SFX iJ Y 43
+SFX iJ Y 47
 SFX iJ dormir dormir/ dormir
 SFX iJ dormir dormant/ dormir
 SFX iJ dormir dormi/ dormir
 SFX iJ dormir dormis/ dormir
 SFX iJ dormir dormie/ dormir
+SFX iJ dormir dormi·e/ dormir
+SFX iJ dormir dormi.e/ dormir
 SFX iJ dormir dormies/ dormir
+SFX iJ dormir dormi·es/ dormir
+SFX iJ dormir dormi.es/ dormir
 SFX iJ dormir dors/ dormir
 SFX iJ dormir dort/ dormir
 SFX iJ dormir dormons/ dormir
@@ -2263,12 +2351,16 @@ SFX iJ dormir dors/ dormir
 SFX iJ dormir dormons/ dormir
 SFX iJ dormir dormez/ dormir
 
-SFX iK Y 42
+SFX iK Y 46
 SFX iK quérir quérir/ quérir
 SFX iK quérir quérant/ quérir
 SFX iK quérir quis/ quérir
 SFX iK quérir quise/ quérir
+SFX iK quérir quis·e/ quérir
+SFX iK quérir quis.e/ quérir
 SFX iK quérir quises/ quérir
+SFX iK quérir quis·es/ quérir
+SFX iK quérir quis.es/ quérir
 SFX iK quérir quiers/ quérir
 SFX iK quérir quiert/ quérir
 SFX iK quérir quérons/ quérir
@@ -2307,12 +2399,16 @@ SFX iK quérir quiers/ quérir
 SFX iK quérir quérons/ quérir
 SFX iK quérir quérez/ quérir
 
-SFX iM Y 42
+SFX iM Y 46
 SFX iM quérir quérir/ quérir
 SFX iM quérir quérant/ quérir
 SFX iM quérir quis/ quérir
 SFX iM quérir quise/ quérir
+SFX iM quérir quis·e/ quérir
+SFX iM quérir quis.e/ quérir
 SFX iM quérir quises/ quérir
+SFX iM quérir quis·es/ quérir
+SFX iM quérir quis.es/ quérir
 SFX iM quérir quiers/ quérir
 SFX iM quérir quiert/ quérir
 SFX iM quérir quérons/ quérir
@@ -2351,13 +2447,17 @@ SFX iM quérir quiers/ quérir
 SFX iM quérir quérons/ quérir
 SFX iM quérir quérez/ quérir
 
-SFX iN Y 41
+SFX iN Y 45
 SFX iN uir uir/ fuir
 SFX iN uir uyant/ fuir
 SFX iN uir ui/ fuir
 SFX iN uir uis/ fuir
 SFX iN uir uie/ fuir
+SFX iN uir ui·e/ fuir
+SFX iN uir ui.e/ fuir
 SFX iN uir uies/ fuir
+SFX iN uir ui·es/ fuir
+SFX iN uir ui.es/ fuir
 SFX iN uir uis/ fuir
 SFX iN uir uit/ fuir
 SFX iN uir uyons/ fuir
@@ -2394,13 +2494,17 @@ SFX iN uir uis/ fuir
 SFX iN uir uyons/ fuir
 SFX iN uir uyez/ fuir
 
-SFX iO Y 41
+SFX iO Y 45
 SFX iO fuir fuir/ enfuir
 SFX iO fuir fuyant/ enfuir
 SFX iO fuir fui/ enfuir
 SFX iO fuir fuis/ enfuir
 SFX iO fuir fuie/ enfuir
+SFX iO fuir fui·e/ enfuir
+SFX iO fuir fui.e/ enfuir
 SFX iO fuir fuies/ enfuir
+SFX iO fuir fui·es/ enfuir
+SFX iO fuir fui.es/ enfuir
 SFX iO fuir fuis/ enfuir
 SFX iO fuir fuit/ enfuir
 SFX iO fuir fuyons/ enfuir
@@ -2437,13 +2541,17 @@ SFX iO fuir fuis/ enfuir
 SFX iO fuir fuyons/ enfuir
 SFX iO fuir fuyez/ enfuir
 
-SFX iP Y 43
+SFX iP Y 47
 SFX iP ourir ourir/ mourir
 SFX iP ourir ourant/ mourir
 SFX iP ourir ort/ mourir
 SFX iP ourir orts/ mourir
 SFX iP ourir orte/ mourir
+SFX iP ourir ort·e/ mourir
+SFX iP ourir ort.e/ mourir
 SFX iP ourir ortes/ mourir
+SFX iP ourir ort·es/ mourir
+SFX iP ourir ort.es/ mourir
 SFX iP ourir eurs/ mourir
 SFX iP ourir eurt/ mourir
 SFX iP ourir ourons/ mourir
@@ -2482,13 +2590,17 @@ SFX iP ourir eurs/ mourir
 SFX iP ourir ourons/ mourir
 SFX iP ourir ourez/ mourir
 
-SFX iQ Y 43
+SFX iQ Y 47
 SFX iQ ouillir ouillir/ bouillir
 SFX iQ ouillir ouillant/ bouillir
 SFX iQ ouillir ouilli/ bouillir
 SFX iQ ouillir ouillis/ bouillir
 SFX iQ ouillir ouillie/ bouillir
+SFX iQ ouillir ouilli·e/ bouillir
+SFX iQ ouillir ouilli.e/ bouillir
 SFX iQ ouillir ouillies/ bouillir
+SFX iQ ouillir ouilli·es/ bouillir
+SFX iQ ouillir ouilli.es/ bouillir
 SFX iQ ouillir ous/ bouillir
 SFX iQ ouillir out/ bouillir
 SFX iQ ouillir ouillons/ bouillir
@@ -2527,13 +2639,17 @@ SFX iQ ouillir ous/ bouillir
 SFX iQ ouillir ouillons/ bouillir
 SFX iQ ouillir ouillez/ bouillir
 
-SFX iR Y 41
+SFX iR Y 45
 SFX iR ueillir ueillir/ cueillir
 SFX iR ueillir ueillant/ cueillir
 SFX iR ueillir ueilli/ cueillir
 SFX iR ueillir ueillis/ cueillir
 SFX iR ueillir ueillie/ cueillir
+SFX iR ueillir ueilli·e/ cueillir
+SFX iR ueillir ueilli.e/ cueillir
 SFX iR ueillir ueillies/ cueillir
+SFX iR ueillir ueilli·es/ cueillir
+SFX iR ueillir ueilli.es/ cueillir
 SFX iR ueillir ueille/ cueillir
 SFX iR ueillir ueilles/ cueillir
 SFX iR ueillir ueillons/ cueillir
@@ -2610,13 +2726,17 @@ SFX iS aillir aille/ aillir
 SFX iS aillir aillons/ aillir
 SFX iS aillir aillez/ aillir
 
-SFX iT Y 41
+SFX iT Y 45
 SFX iT saillir saillir/ aillir
 SFX iT saillir saillant/ aillir
 SFX iT saillir sailli/ aillir
 SFX iT saillir saillis/ aillir
 SFX iT saillir saillie/ aillir
+SFX iT saillir sailli·e/ aillir
+SFX iT saillir sailli.e/ aillir
 SFX iT saillir saillies/ aillir
+SFX iT saillir sailli·es/ aillir
+SFX iT saillir sailli.es/ aillir
 SFX iT saillir saille/ aillir
 SFX iT saillir sailles/ aillir
 SFX iT saillir saillons/ aillir
@@ -2707,13 +2827,17 @@ SFX iV ésir isions/ gésir
 SFX iV ésir isiez/ gésir
 SFX iV ésir isaient/ gésir
 
-SFX iW Y 54
+SFX iW Y 58
 SFX iW uïr uïr/ ouïr
 SFX iW uïr yant/ ouïr
 SFX iW uïr uï/ ouïr
 SFX iW uïr uïs/ ouïr
 SFX iW uïr uïe/ ouïr
+SFX iW uïr uï·e/ ouïr
+SFX iW uïr uï.e/ ouïr
 SFX iW uïr uïes/ ouïr
+SFX iW uïr uï·es/ ouïr
+SFX iW uïr uï.es/ ouïr
 SFX iW uïr is/ ouïr
 SFX iW uïr it/ ouïr
 SFX iW uïr yons/ ouïr
@@ -2763,19 +2887,27 @@ SFX iW uïr is/ ouïr
 SFX iW uïr yons/ ouïr
 SFX iW uïr yez/ ouïr
 
-SFX iX Y 5
+SFX iX Y 9
 SFX iX érir érir/ férir
 SFX iX érir éru/ férir
 SFX iX érir érus/ férir
 SFX iX érir érue/ férir
+SFX iX érir éru·e/ férir
+SFX iX érir éru.e/ férir
 SFX iX érir érues/ férir
+SFX iX érir éru·es/ férir
+SFX iX érir éru.es/ férir
 
-SFX iY Y 5
+SFX iY Y 9
 SFX iY ssir ssir/ issir
 SFX iY ssir ssu/ issir
 SFX iY ssir ssus/ issir
 SFX iY ssir ssue/ issir
+SFX iY ssir ssu·e/ issir
+SFX iY ssir ssu.e/ issir
 SFX iY ssir ssues/ issir
+SFX iY ssir ssu·es/ issir
+SFX iY ssir ssu.es/ issir
 
 SFX pA Y 45
 SFX pA ouvoir ouvoir/ pouvoir
@@ -2824,13 +2956,17 @@ SFX pA ouvoir ussions/ pouvoir
 SFX pA ouvoir ussiez/ pouvoir
 SFX pA ouvoir ussent/ pouvoir
 
-SFX pB Y 49
+SFX pB Y 53
 SFX pB ouloir ouloir/ vouloir
 SFX pB ouloir oulant/ vouloir
 SFX pB ouloir oulu/ vouloir
 SFX pB ouloir oulus/ vouloir
 SFX pB ouloir oulue/ vouloir
+SFX pB ouloir oulu·e/ vouloir
+SFX pB ouloir oulu.e/ vouloir
 SFX pB ouloir oulues/ vouloir
+SFX pB ouloir oulu·es/ vouloir
+SFX pB ouloir oulu.es/ vouloir
 SFX pB ouloir eux/ vouloir
 SFX pB ouloir eut/ vouloir
 SFX pB ouloir oulons/ vouloir
@@ -2875,14 +3011,18 @@ SFX pB ouloir oulons/ vouloir
 SFX pB ouloir euillez/ vouloir
 SFX pB ouloir oulez/ vouloir
 
-SFX pC Y 46
+SFX pC Y 50
 SFX pC evoir evoir/ devoir
 SFX pC evoir evant/ devoir
 SFX pC evoir û/ redevoir
 SFX pC evoir u/ redevoir
 SFX pC evoir us/ devoir
 SFX pC evoir ue/ devoir
+SFX pC evoir u·e/ devoir
+SFX pC evoir u.e/ devoir
 SFX pC evoir ues/ devoir
+SFX pC evoir u·es/ devoir
+SFX pC evoir u.es/ devoir
 SFX pC evoir ois/ devoir
 SFX pC evoir oit/ devoir
 SFX pC evoir evons/ devoir
@@ -2926,13 +3066,17 @@ SFX pC evoir evez/ devoir
 SFX pD Y 1
 SFX pD evoir û devoir
 
-SFX pE Y 46
+SFX pE Y 50
 SFX pE avoir avoir/ savoir
 SFX pE avoir achant/ savoir
 SFX pE avoir u/ savoir
 SFX pE avoir us/ savoir
 SFX pE avoir ue/ savoir
+SFX pE avoir u·e/ savoir
+SFX pE avoir u.e/ savoir
 SFX pE avoir ues/ savoir
+SFX pE avoir u·es/ savoir
+SFX pE avoir u.es/ savoir
 SFX pE avoir ais/ savoir
 SFX pE avoir ait/ savoir
 SFX pE avoir avons/ savoir
@@ -2974,13 +3118,17 @@ SFX pE avoir ache/ savoir
 SFX pE avoir achons/ savoir
 SFX pE avoir achez/ savoir
 
-SFX pF Y 54
+SFX pF Y 58
 SFX pF oir oir/ voir
 SFX pF oir oyant/ voir
 SFX pF oir u/ voir
 SFX pF oir us/ voir
 SFX pF oir ue/ voir
+SFX pF oir u·e/ voir
+SFX pF oir u.e/ voir
 SFX pF oir ues/ voir
+SFX pF oir u·es/ voir
+SFX pF oir u.es/ voir
 SFX pF oir ois/ voir
 SFX pF oir oit/ voir
 SFX pF oir oyons/ voir
@@ -3043,13 +3191,17 @@ SFX pG oir errions/ voir
 SFX pG oir erriez/ voir
 SFX pG oir erraient/ voir
 
-SFX pH Y 43
+SFX pH Y 47
 SFX pH ouvoir ouvoir/ mouvoir
 SFX pH ouvoir ouvant/ mouvoir
 SFX pH ouvoir u/ .mouvoir
 SFX pH ouvoir us/ mouvoir
 SFX pH ouvoir ue/ mouvoir
+SFX pH ouvoir u·e/ mouvoir
+SFX pH ouvoir u.e/ mouvoir
 SFX pH ouvoir ues/ mouvoir
+SFX pH ouvoir u·es/ mouvoir
+SFX pH ouvoir u.es/ mouvoir
 SFX pH ouvoir eus/ mouvoir
 SFX pH ouvoir eut/ mouvoir
 SFX pH ouvoir ouvons/ mouvoir
@@ -3092,13 +3244,17 @@ SFX pI Y 2
 SFX pI ouvoir û/ mouvoir
 SFX pI ouvoir u/ mouvoir
 
-SFX pJ Y 43
+SFX pJ Y 47
 SFX pJ ourvoir ourvoir/ pourvoir
 SFX pJ ourvoir ourvoyant/ pourvoir
 SFX pJ ourvoir ourvu/ pourvoir
 SFX pJ ourvoir ourvus/ pourvoir
 SFX pJ ourvoir ourvue/ pourvoir
+SFX pJ ourvoir ourvu·e/ pourvoir
+SFX pJ ourvoir ourvu.e/ pourvoir
 SFX pJ ourvoir ourvues/ pourvoir
+SFX pJ ourvoir ourvu·es/ pourvoir
+SFX pJ ourvoir ourvu.es/ pourvoir
 SFX pJ ourvoir ourvois/ pourvoir
 SFX pJ ourvoir ourvoit/ pourvoir
 SFX pJ ourvoir ourvoyons/ pourvoir
@@ -3137,13 +3293,17 @@ SFX pJ ourvoir ourvois/ pourvoir
 SFX pJ ourvoir ourvoyons/ pourvoir
 SFX pJ ourvoir ourvoyez/ pourvoir
 
-SFX pK Y 43
+SFX pK Y 47
 SFX pK cevoir cevoir/ cevoir
 SFX pK cevoir cevant/ cevoir
 SFX pK cevoir çu/ cevoir
 SFX pK cevoir çus/ cevoir
 SFX pK cevoir çue/ cevoir
+SFX pK cevoir çu·e/ cevoir
+SFX pK cevoir çu.e/ cevoir
 SFX pK cevoir çues/ cevoir
+SFX pK cevoir çu·es/ cevoir
+SFX pK cevoir çu.es/ cevoir
 SFX pK cevoir çois/ cevoir
 SFX pK cevoir çoit/ cevoir
 SFX pK cevoir cevons/ cevoir
@@ -3182,13 +3342,17 @@ SFX pK cevoir çois/ cevoir
 SFX pK cevoir cevons/ cevoir
 SFX pK cevoir cevez/ cevoir
 
-SFX pM Y 44
+SFX pM Y 48
 SFX pM aloir aloir/ valoir
 SFX pM aloir alant/ valoir
 SFX pM aloir alu/ valoir
 SFX pM aloir alus/ valoir
 SFX pM aloir alue/ valoir
+SFX pM aloir alu·e/ valoir
+SFX pM aloir alu.e/ valoir
 SFX pM aloir alues/ valoir
+SFX pM aloir alu·es/ valoir
+SFX pM aloir alu.es/ valoir
 SFX pM aloir aux/ valoir
 SFX pM aloir aut/ valoir
 SFX pM aloir alons/ valoir
@@ -3273,13 +3437,17 @@ SFX pN valoir vaux/ valoir
 SFX pN valoir valons/ valoir
 SFX pN valoir valez/ valoir
 
-SFX pO Y 17
+SFX pO Y 21
 SFX pO valoir valoir/ revaloir
 SFX pO valoir valant/ revaloir
 SFX pO valoir valu/ revaloir
 SFX pO valoir valus/ revaloir
 SFX pO valoir value/ revaloir
+SFX pO valoir valu·e/ revaloir
+SFX pO valoir valu.e/ revaloir
 SFX pO valoir values/ revaloir
+SFX pO valoir valu·es/ revaloir
+SFX pO valoir valu.es/ revaloir
 SFX pO valoir vaudrai/ revaloir
 SFX pO valoir vaudras/ revaloir
 SFX pO valoir vaudra/ revaloir
@@ -3304,7 +3472,7 @@ SFX pR Y 2
 SFX pR pparoir pparoir/ apparoir
 SFX pR pparoir ppert/ apparoir
 
-SFX pS Y 137
+SFX pS Y 145
 SFX pS oir oir/ oir
 SFX pS sseoir sseyant/ seoir
 SFX pS ssoir sseyant/ soir
@@ -3312,10 +3480,18 @@ SFX pS sseoir ssoyant/ seoir
 SFX pS ssoir ssoyant/ soir
 SFX pS sseoir ssis/ seoir
 SFX pS sseoir ssise/ seoir
+SFX pS sseoir ssis·e/ seoir
+SFX pS sseoir ssis.e/ seoir
 SFX pS sseoir ssises/ seoir
+SFX pS sseoir ssis·es/ seoir
+SFX pS sseoir ssis.es/ seoir
 SFX pS ssoir ssis/ soir
 SFX pS ssoir ssise/ soir
+SFX pS ssoir ssis·e/ soir
+SFX pS ssoir ssis.e/ soir
 SFX pS ssoir ssises/ soir
+SFX pS ssoir ssis·es/ soir
+SFX pS ssoir ssis.es/ soir
 SFX pS sseoir ssieds/ seoir
 SFX pS sseoir ssied/ seoir
 SFX pS sseoir sseyons/ seoir
@@ -3443,16 +3619,24 @@ SFX pS ssoir ssois/ soir
 SFX pS ssoir ssoyons/ soir
 SFX pS ssoir ssoyez/ soir
 
-SFX pT Y 83
+SFX pT Y 91
 SFX pT oir oir/ oir
 SFX pT urseoir ursoyant/ seoir
 SFX pT ursoir ursoyant/ soir
 SFX pT urseoir ursis/ seoir
 SFX pT urseoir ursise/ seoir
+SFX pT urseoir ursis·e/ seoir
+SFX pT urseoir ursis.e/ seoir
 SFX pT urseoir ursises/ seoir
+SFX pT urseoir ursis·es/ seoir
+SFX pT urseoir ursis.es/ seoir
 SFX pT ursoir ursis/ soir
 SFX pT ursoir ursise/ soir
+SFX pT ursoir ursis·e/ soir
+SFX pT ursoir ursis.e/ soir
 SFX pT ursoir ursises/ soir
+SFX pT ursoir ursis·es/ soir
+SFX pT ursoir ursis.es/ soir
 SFX pT urseoir ursois/ seoir
 SFX pT urseoir ursoit/ seoir
 SFX pT urseoir ursoyons/ seoir
@@ -3528,12 +3712,16 @@ SFX pT ursoir ursois/ soir
 SFX pT ursoir ursoyons/ soir
 SFX pT ursoir ursoyez/ soir
 
-SFX pU Y 5
+SFX pU Y 9
 SFX pU eoir eoir/ seoir
 SFX pU eoir éant/ seoir
 SFX pU eoir is/ seoir
 SFX pU eoir ise/ seoir
+SFX pU eoir is·e/ seoir
+SFX pU eoir is.e/ seoir
 SFX pU eoir ises/ seoir
+SFX pU eoir is·es/ seoir
+SFX pU eoir is.es/ seoir
 
 SFX pV Y 14
 SFX pV eoir eoir/ seoir
@@ -3576,12 +3764,16 @@ SFX pW sseoir ssiéent/ seoir
 SFX pW ssoir ssiée/ soir
 SFX pW ssoir ssiéent/ soir
 
-SFX pX Y 53
+SFX pX Y 57
 SFX pX hoir hoir/ choir
 SFX pX hoir hu/ choir
 SFX pX hoir hus/ choir
 SFX pX hoir hue/ choir
+SFX pX hoir hu·e/ choir
+SFX pX hoir hu.e/ choir
 SFX pX hoir hues/ choir
+SFX pX hoir hu·es/ choir
+SFX pX hoir hu.es/ choir
 SFX pX hoir hois/ choir
 SFX pX hoir hoit/ choir
 SFX pX hoir hoyons/ choir
@@ -3631,13 +3823,17 @@ SFX pX hoir hois/ déchoir
 SFX pX hoir hoyons/ déchoir
 SFX pX hoir hoyez/ déchoir
 
-SFX pY Y 26
+SFX pY Y 30
 SFX pY choir choir/ échoir
 SFX pY choir chéant/ échoir
 SFX pY choir chu/ échoir
 SFX pY choir chus/ échoir
 SFX pY choir chue/ échoir
+SFX pY choir chu·e/ échoir
+SFX pY choir chu.e/ échoir
 SFX pY choir chues/ échoir
+SFX pY choir chu·es/ échoir
+SFX pY choir chu.es/ échoir
 SFX pY choir choit/ échoir
 SFX pY choir chet/ échoir
 SFX pY choir choient/ échoir
@@ -3691,12 +3887,16 @@ SFX qA alloir audrait/ falloir
 SFX qA alloir aille/ falloir
 SFX qA alloir allût/ falloir
 
-SFX rA Y 28
+SFX rA Y 32
 SFX rA lore lore/ clore
 SFX rA lore losant/ clore
 SFX rA lore los/ clore
 SFX rA lore lose/ clore
+SFX rA lore los·e/ clore
+SFX rA lore los.e/ clore
 SFX rA lore loses/ clore
+SFX rA lore los·es/ clore
+SFX rA lore los.es/ clore
 SFX rA lore los/ clore
 SFX rA lore lot/ .clore
 SFX rA lore losons/ clore
@@ -3724,12 +3924,16 @@ SFX rA lore losez/ clore
 SFX rB Y 1
 SFX rB lore lôt/ clore
 
-SFX rC Y 28
+SFX rC Y 32
 SFX rC clore clore/ clore
 SFX rC clore closant/ clore
 SFX rC clore clos/ clore
 SFX rC clore close/ clore
+SFX rC clore clos·e/ clore
+SFX rC clore clos.e/ clore
 SFX rC clore closes/ clore
+SFX rC clore clos·es/ clore
+SFX rC clore clos.es/ clore
 SFX rC clore clos/ clore
 SFX rC clore clot/ clore
 SFX rC clore closons/ clore
@@ -3754,19 +3958,27 @@ SFX rC clore clos/ clore
 SFX rC clore closons/ clore
 SFX rC clore closez/ clore
 
-SFX rD Y 4
+SFX rD Y 8
 SFX rD clore clore/ clore
 SFX rD clore clos/ clore
 SFX rD clore close/ clore
+SFX rD clore clos·e/ clore
+SFX rD clore clos.e/ clore
 SFX rD clore closes/ clore
+SFX rD clore clos·es/ clore
+SFX rD clore clos.es/ clore
 
-SFX tA Y 44
+SFX tA Y 48
 SFX tA re re/ [dp]re
 SFX tA re ant/ [dp]re
 SFX tA re u/ [dp]re
 SFX tA re us/ [dp]re
 SFX tA re ue/ [dp]re
+SFX tA re u·e/ [dp]re
+SFX tA re u.e/ [dp]re
 SFX tA re ues/ [dp]re
+SFX tA re u·es/ [dp]re
+SFX tA re u.es/ [dp]re
 SFX tA re s/ [dp]re
 SFX tA dre d/ dre
 SFX tA pre pt/ pre
@@ -3806,13 +4018,17 @@ SFX tA re s/ [dp]re
 SFX tA re ons/ [dp]re
 SFX tA re ez/ [dp]re
 
-SFX tD Y 43
+SFX tD Y 47
 SFX tD perdre perdre/ perdre
 SFX tD perdre perdant/ perdre
 SFX tD perdre perdu/ perdre
 SFX tD perdre perdus/ perdre
 SFX tD perdre perdue/ perdre
+SFX tD perdre perdu·e/ perdre
+SFX tD perdre perdu.e/ perdre
 SFX tD perdre perdues/ perdre
+SFX tD perdre perdu·es/ perdre
+SFX tD perdre perdu.es/ perdre
 SFX tD perdre perds/ perdre
 SFX tD perdre perd/ perdre
 SFX tD perdre perdons/ perdre
@@ -3892,12 +4108,16 @@ SFX tE dre ds/ dre
 SFX tE dre dons/ dre
 SFX tE dre dez/ dre
 
-SFX tF Y 42
+SFX tF Y 46
 SFX tF rendre rendre/ prendre
 SFX tF rendre renant/ prendre
 SFX tF rendre ris/ prendre
 SFX tF rendre rise/ prendre
+SFX tF rendre ris·e/ prendre
+SFX tF rendre ris.e/ prendre
 SFX tF rendre rises/ prendre
+SFX tF rendre ris·es/ prendre
+SFX tF rendre ris.es/ prendre
 SFX tF rendre rends/ prendre
 SFX tF rendre rend/ prendre
 SFX tF rendre renons/ prendre
@@ -3936,12 +4156,16 @@ SFX tF rendre rends/ prendre
 SFX tF rendre renons/ prendre
 SFX tF rendre renez/ prendre
 
-SFX tG Y 42
+SFX tG Y 46
 SFX tG prendre prendre/ prendre
 SFX tG prendre prenant/ prendre
 SFX tG prendre pris/ prendre
 SFX tG prendre prise/ prendre
+SFX tG prendre pris·e/ prendre
+SFX tG prendre pris.e/ prendre
 SFX tG prendre prises/ prendre
+SFX tG prendre pris·es/ prendre
+SFX tG prendre pris.es/ prendre
 SFX tG prendre prends/ prendre
 SFX tG prendre prend/ prendre
 SFX tG prendre prenons/ prendre
@@ -3980,13 +4204,17 @@ SFX tG prendre prends/ prendre
 SFX tG prendre prenons/ prendre
 SFX tG prendre prenez/ prendre
 
-SFX tM Y 32
+SFX tM Y 36
 SFX tM outre outre/ foutre
 SFX tM outre outant/ foutre
 SFX tM outre outu/ foutre
 SFX tM outre outus/ foutre
 SFX tM outre outue/ foutre
+SFX tM outre outu·e/ foutre
+SFX tM outre outu.e/ foutre
 SFX tM outre outues/ foutre
+SFX tM outre outu·es/ foutre
+SFX tM outre outu.es/ foutre
 SFX tM outre ous/ foutre
 SFX tM outre out/ foutre
 SFX tM outre outons/ foutre
@@ -4014,20 +4242,28 @@ SFX tM outre ous/ foutre
 SFX tM outre outons/ foutre
 SFX tM outre outez/ foutre
 
-SFX tU Y 5
+SFX tU Y 9
 SFX tU istre istre/ tistre
 SFX tU istre issu/ tistre
 SFX tU istre issus/ tistre
 SFX tU istre issue/ tistre
+SFX tU istre issu·e/ tistre
+SFX tU istre issu.e/ tistre
 SFX tU istre issues/ tistre
+SFX tU istre issu·es/ tistre
+SFX tU istre issu.es/ tistre
 
-SFX uA Y 46
+SFX uA Y 50
 SFX uA tre tre/ tre
 SFX uA tre tant/ tre
 SFX uA tre tu/ tre
 SFX uA tre tus/ tre
 SFX uA tre tue/ tre
+SFX uA tre tu·e/ tre
+SFX uA tre tu.e/ tre
 SFX uA tre tues/ tre
+SFX uA tre tu·es/ tre
+SFX uA tre tu.es/ tre
 SFX uA ttre ts/ ttre
 SFX uA ttre t/ ttre
 SFX uA tre ts/ embatre
@@ -4069,13 +4305,17 @@ SFX uA tre ts/ embatre
 SFX uA tre tons/ tre
 SFX uA tre tez/ tre
 
-SFX uC Y 43
+SFX uC Y 47
 SFX uC battre battre/ battre
 SFX uC battre battant/ battre
 SFX uC battre battu/ battre
 SFX uC battre battus/ battre
 SFX uC battre battue/ battre
+SFX uC battre battu·e/ battre
+SFX uC battre battu.e/ battre
 SFX uC battre battues/ battre
+SFX uC battre battu·es/ battre
+SFX uC battre battu.es/ battre
 SFX uC battre bats/ battre
 SFX uC battre bat/ battre
 SFX uC battre battons/ battre
@@ -4114,13 +4354,17 @@ SFX uC battre bats/ battre
 SFX uC battre battons/ battre
 SFX uC battre battez/ battre
 
-SFX uD Y 33
+SFX uD Y 37
 SFX uD battre battre/ battre
 SFX uD battre battant/ battre
 SFX uD battre battu/ battre
 SFX uD battre battus/ battre
 SFX uD battre battue/ battre
+SFX uD battre battu·e/ battre
+SFX uD battre battu.e/ battre
 SFX uD battre battues/ battre
+SFX uD battre battu·es/ battre
+SFX uD battre battu.es/ battre
 SFX uD battre bat/ battre
 SFX uD battre battons/ battre
 SFX uD battre battez/ battre
@@ -4149,12 +4393,16 @@ SFX uD battre battissent/ battre
 SFX uD battre battons-nous/ battre
 SFX uD battre battez-vous/ battre
 
-SFX vA Y 42
+SFX vA Y 46
 SFX vA ettre ettre/ mettre
 SFX vA ettre ettant/ mettre
 SFX vA ettre is/ mettre
 SFX vA ettre ise/ mettre
+SFX vA ettre is·e/ mettre
+SFX vA ettre is.e/ mettre
 SFX vA ettre ises/ mettre
+SFX vA ettre is·es/ mettre
+SFX vA ettre is.es/ mettre
 SFX vA ettre ets/ mettre
 SFX vA ettre et/ mettre
 SFX vA ettre ettons/ mettre
@@ -4193,12 +4441,16 @@ SFX vA ettre ets/ mettre
 SFX vA ettre ettons/ mettre
 SFX vA ettre ettez/ mettre
 
-SFX vC Y 42
+SFX vC Y 46
 SFX vC mettre mettre/ mettre
 SFX vC mettre mettant/ mettre
 SFX vC mettre mis/ mettre
 SFX vC mettre mise/ mettre
+SFX vC mettre mis·e/ mettre
+SFX vC mettre mis.e/ mettre
 SFX vC mettre mises/ mettre
+SFX vC mettre mis·es/ mettre
+SFX vC mettre mis.es/ mettre
 SFX vC mettre mets/ mettre
 SFX vC mettre met/ mettre
 SFX vC mettre mettons/ mettre
@@ -4237,13 +4489,17 @@ SFX vC mettre mets/ mettre
 SFX vC mettre mettons/ mettre
 SFX vC mettre mettez/ mettre
 
-SFX wA Y 43
+SFX wA Y 47
 SFX wA eindre eindre/ eindre
 SFX wA eindre eignant/ eindre
 SFX wA eindre eint/ eindre
 SFX wA eindre eints/ eindre
 SFX wA eindre einte/ eindre
+SFX wA eindre eint·e/ eindre
+SFX wA eindre eint.e/ eindre
 SFX wA eindre eintes/ eindre
+SFX wA eindre eint·es/ eindre
+SFX wA eindre eint.es/ eindre
 SFX wA eindre eins/ eindre
 SFX wA eindre eint/ eindre
 SFX wA eindre eignons/ eindre
@@ -4282,13 +4538,17 @@ SFX wA eindre eins/ eindre
 SFX wA eindre eignons/ eindre
 SFX wA eindre eignez/ eindre
 
-SFX wB Y 43
+SFX wB Y 47
 SFX wB indre indre/ indre
 SFX wB indre ignant/ indre
 SFX wB indre int/ indre
 SFX wB indre ints/ indre
 SFX wB indre inte/ indre
+SFX wB indre int·e/ indre
+SFX wB indre int.e/ indre
 SFX wB indre intes/ indre
+SFX wB indre int·es/ indre
+SFX wB indre int.es/ indre
 SFX wB indre ins/ indre
 SFX wB indre int/ indre
 SFX wB indre ignons/ indre
@@ -4327,13 +4587,17 @@ SFX wB indre ins/ indre
 SFX wB indre ignons/ indre
 SFX wB indre ignez/ indre
 
-SFX wD Y 46
+SFX wD Y 50
 SFX wD aire aire/ faire
 SFX wD aire aisant/ faire
 SFX wD aire ait/ faire
 SFX wD aire aits/ faire
 SFX wD aire aite/ faire
+SFX wD aire ait·e/ faire
+SFX wD aire ait.e/ faire
 SFX wD aire aites/ faire
+SFX wD aire ait·es/ faire
+SFX wD aire ait.es/ faire
 SFX wD aire ais/ faire
 SFX wD aire ait/ faire
 SFX wD aire aisons/ faire
@@ -4375,13 +4639,17 @@ SFX wD aire ais/ faire
 SFX wD aire aisons/ faire
 SFX wD aire aites/ faire
 
-SFX wF Y 14
+SFX wF Y 18
 SFX wF faire faire/ faire
 SFX wF faire faisant/ faire
 SFX wF faire fait/ faire
 SFX wF faire faits/ faire
 SFX wF faire faite/ faire
+SFX wF faire fait·e/ faire
+SFX wF faire fait.e/ faire
 SFX wF faire faites/ faire
+SFX wF faire fait·es/ faire
+SFX wF faire fait.es/ faire
 SFX wF faire fais/ faire
 SFX wF faire fait/ faire
 SFX wF faire faisons/ faire
@@ -4391,21 +4659,29 @@ SFX wF faire fais/ faire
 SFX wF faire faisons/ faire
 SFX wF faire faites/ faire
 
-SFX wG Y 6
+SFX wG Y 10
 SFX wG aire aire/ faire
 SFX wG aire aisant/ faire
 SFX wG aire ait/ faire
 SFX wG aire aits/ faire
 SFX wG aire aite/ faire
+SFX wG aire ait·e/ faire
+SFX wG aire ait.e/ faire
 SFX wG aire aites/ faire
+SFX wG aire ait·es/ faire
+SFX wG aire ait.es/ faire
 
-SFX wL Y 32
+SFX wL Y 36
 SFX wL raire raire/ traire
 SFX wL raire rayant/ traire
 SFX wL raire rait/ traire
 SFX wL raire raits/ traire
 SFX wL raire raite/ traire
+SFX wL raire rait·e/ traire
+SFX wL raire rait.e/ traire
 SFX wL raire raites/ traire
+SFX wL raire rait·es/ traire
+SFX wL raire rait.es/ traire
 SFX wL raire rais/ traire
 SFX wL raire rait/ traire
 SFX wL raire rayons/ traire
@@ -4507,13 +4783,17 @@ SFX wN aire ais/ aire
 SFX wN aire aisons/ aire
 SFX wN aire aisez/ aire
 
-SFX wO Y 43
+SFX wO Y 47
 SFX wO aindre aindre/ aindre
 SFX wO aindre aignant/ aindre
 SFX wO aindre aint/ aindre
 SFX wO aindre aints/ aindre
 SFX wO aindre ainte/ aindre
+SFX wO aindre aint·e/ aindre
+SFX wO aindre aint.e/ aindre
 SFX wO aindre aintes/ aindre
+SFX wO aindre aint·es/ aindre
+SFX wO aindre aint.es/ aindre
 SFX wO aindre ains/ aindre
 SFX wO aindre aint/ aindre
 SFX wO aindre aignons/ aindre
@@ -4552,13 +4832,17 @@ SFX wO aindre ains/ aindre
 SFX wO aindre aignons/ aindre
 SFX wO aindre aignez/ aindre
 
-SFX wP Y 43
+SFX wP Y 47
 SFX wP aincre aincre/ vaincre
 SFX wP aincre ainquant/ vaincre
 SFX wP aincre aincu/ vaincre
 SFX wP aincre aincus/ vaincre
 SFX wP aincre aincue/ vaincre
+SFX wP aincre aincu·e/ vaincre
+SFX wP aincre aincu.e/ vaincre
 SFX wP aincre aincues/ vaincre
+SFX wP aincre aincu·es/ vaincre
+SFX wP aincre aincu.es/ vaincre
 SFX wP aincre aincs/ vaincre
 SFX wP aincre ainc/ vaincre
 SFX wP aincre ainquons/ vaincre
@@ -4671,18 +4955,26 @@ SFX wQ aitre aissons/ connaitre
 SFX wQ aitre aissez/ paraitre
 SFX wQ aitre aissez/ connaitre
 
-SFX wR Y 74
+SFX wR Y 82
 SFX wR tre tre/ tre
 SFX wR aître aissant/ naître
 SFX wR aitre aissant/ naitre
 SFX wR aître é/ naître
 SFX wR aître és/ naître
 SFX wR aître ée/ naître
+SFX wR aître é·e/ naître
+SFX wR aître é.e/ naître
 SFX wR aître ées/ naître
+SFX wR aître é·es/ naître
+SFX wR aître é.es/ naître
 SFX wR aitre é/ naitre
 SFX wR aitre és/ naitre
 SFX wR aitre ée/ naitre
+SFX wR aitre é·e/ naitre
+SFX wR aitre é.e/ naitre
 SFX wR aitre ées/ naitre
+SFX wR aitre é·es/ naitre
+SFX wR aitre é.es/ naitre
 SFX wR aître ais/ naître
 SFX wR aître aît/ naître
 SFX wR aître aissons/ naître
@@ -4747,18 +5039,26 @@ SFX wR aitre ais/ naitre
 SFX wR aitre aissons/ naitre
 SFX wR aitre aissez/ naitre
 
-SFX wS Y 74
+SFX wS Y 82
 SFX wS tre tre/ tre
 SFX wS aître aissant/ paître
 SFX wS aitre aissant/ paitre
 SFX wS aître u/ repaître
 SFX wS aître us/ repaître
 SFX wS aître ue/ repaître
+SFX wS aître u·e/ repaître
+SFX wS aître u.e/ repaître
 SFX wS aître ues/ repaître
+SFX wS aître u·es/ repaître
+SFX wS aître u.es/ repaître
 SFX wS aitre u/ repaitre
 SFX wS aitre us/ repaitre
 SFX wS aitre ue/ repaitre
+SFX wS aitre u·e/ repaitre
+SFX wS aitre u.e/ repaitre
 SFX wS aitre ues/ repaitre
+SFX wS aitre u·es/ repaitre
+SFX wS aitre u.es/ repaitre
 SFX wS aître ais/ paître
 SFX wS aître aît/ paître
 SFX wS aître aissons/ paître
@@ -4823,22 +5123,34 @@ SFX wS aitre ais/ paitre
 SFX wS aitre aissons/ paitre
 SFX wS aitre aissez/ paitre
 
-SFX wT Y 78
+SFX wT Y 90
 SFX wT tre tre/ tre
 SFX wT roître roissant/ croître
 SFX wT roitre roissant/ croitre
 SFX wT roître rû/ recroître
 SFX wT roître rûs/ recroître
 SFX wT roître rûe/ recroître
+SFX wT roître rû·e/ recroître
+SFX wT roître rû.e/ recroître
 SFX wT roître rûes/ recroître
+SFX wT roître rû·es/ recroître
+SFX wT roître rû.es/ recroître
 SFX wT roître ru/ décroître
 SFX wT roître rus/ décroître
 SFX wT roître rue/ décroître
+SFX wT roître ru·e/ décroître
+SFX wT roître ru.e/ décroître
 SFX wT roître rues/ décroître
+SFX wT roître ru·es/ décroître
+SFX wT roître ru.es/ décroître
 SFX wT roitre ru/ .croitre
 SFX wT roitre rus/ .croitre
 SFX wT roitre rue/ .croitre
+SFX wT roitre ru·e/ .croitre
+SFX wT roitre ru.e/ .croitre
 SFX wT roitre rues/ .croitre
+SFX wT roitre ru·es/ .croitre
+SFX wT roitre ru.es/ .croitre
 SFX wT roître rois/ .croître
 SFX wT roître roît/ .croître
 SFX wT roître roissons/ croître
@@ -4903,15 +5215,23 @@ SFX wT roitre rois/ .croitre
 SFX wT roitre roissons/ croitre
 SFX wT roitre roissez/ croitre
 
-SFX wU Y 30
+SFX wU Y 38
 SFX wU roître rû/ croître
 SFX wU roître rûs/ croître
 SFX wU roître rûe/ croître
+SFX wU roître rû·e/ croître
+SFX wU roître rû.e/ croître
 SFX wU roître rûes/ croître
+SFX wU roître rû·es/ croître
+SFX wU roître rû.es/ croître
 SFX wU roitre rû/ croitre
 SFX wU roitre rûs/ croitre
 SFX wU roitre rûe/ croitre
+SFX wU roitre rû·e/ croitre
+SFX wU roitre rû.e/ croitre
 SFX wU roitre rûes/ croitre
+SFX wU roitre rû·es/ croitre
+SFX wU roitre rû.es/ croitre
 SFX wU roître roîs/ croître
 SFX wU roître roît/ croître
 SFX wU roitre roîs/ croitre
@@ -4935,18 +5255,26 @@ SFX wU roitre rûssent/ croitre
 SFX wU roître roîs/ croître
 SFX wU roitre roîs/ croitre
 
-SFX wV Y 74
+SFX wV Y 82
 SFX wV tre tre/ tre
 SFX wV croître croissant/ croître
 SFX wV croitre croissant/ croitre
 SFX wV croître cru/ croître
 SFX wV croître crus/ croître
 SFX wV croître crue/ croître
+SFX wV croître cru·e/ croître
+SFX wV croître cru.e/ croître
 SFX wV croître crues/ croître
+SFX wV croître cru·es/ croître
+SFX wV croître cru.es/ croître
 SFX wV croitre cru/ croitre
 SFX wV croitre crus/ croitre
 SFX wV croitre crue/ croitre
+SFX wV croitre cru·e/ croitre
+SFX wV croitre cru.e/ croitre
 SFX wV croitre crues/ croitre
+SFX wV croitre cru·es/ croitre
+SFX wV croitre cru.es/ croitre
 SFX wV croître crois/ croître
 SFX wV croître croît/ croître
 SFX wV croître croissons/ croître
@@ -5011,13 +5339,17 @@ SFX wV croitre crois/ croitre
 SFX wV croitre croissons/ croitre
 SFX wV croitre croissez/ croitre
 
-SFX xA Y 43
+SFX xA Y 47
 SFX xA roire roire/ croire
 SFX xA roire royant/ croire
 SFX xA roire ru/ croire
 SFX xA roire rus/ croire
 SFX xA roire rue/ croire
+SFX xA roire ru·e/ croire
+SFX xA roire ru.e/ croire
 SFX xA roire rues/ croire
+SFX xA roire ru·es/ croire
+SFX xA roire ru.es/ croire
 SFX xA roire rois/ croire
 SFX xA roire roit/ croire
 SFX xA roire royons/ croire
@@ -5056,13 +5388,17 @@ SFX xA roire rois/ croire
 SFX xA roire royons/ croire
 SFX xA roire royez/ croire
 
-SFX xC Y 43
+SFX xC Y 47
 SFX xC oire oire/ boire
 SFX xC oire uvant/ boire
 SFX xC oire u/ boire
 SFX xC oire us/ boire
 SFX xC oire ue/ boire
+SFX xC oire u·e/ boire
+SFX xC oire u.e/ boire
 SFX xC oire ues/ boire
+SFX xC oire u·es/ boire
+SFX xC oire u.es/ boire
 SFX xC oire ois/ boire
 SFX xC oire oit/ boire
 SFX xC oire uvons/ boire
@@ -5101,18 +5437,26 @@ SFX xC oire ois/ boire
 SFX xC oire uvons/ boire
 SFX xC oire uvez/ boire
 
-SFX xJ Y 4
+SFX xJ Y 8
 SFX xJ clure clure/ clure
 SFX xJ clure clus/ clure
 SFX xJ clure cluse/ clure
+SFX xJ clure clus·e/ clure
+SFX xJ clure clus.e/ clure
 SFX xJ clure cluses/ clure
+SFX xJ clure clus·es/ clure
+SFX xJ clure clus.es/ clure
 
-SFX xK Y 40
+SFX xK Y 44
 SFX xK clure clure/ clure
 SFX xK clure cluant/ clure
 SFX xK clure clus/ clure
 SFX xK clure cluse/ clure
+SFX xK clure clus·e/ clure
+SFX xK clure clus.e/ clure
 SFX xK clure cluses/ clure
+SFX xK clure clus·es/ clure
+SFX xK clure clus.es/ clure
 SFX xK clure clus/ clure
 SFX xK clure clut/ clure
 SFX xK clure cluons/ clure
@@ -5149,16 +5493,24 @@ SFX xK clure clus/ clure
 SFX xK clure cluons/ clure
 SFX xK clure cluez/ clure
 
-SFX xL Y 44
+SFX xL Y 52
 SFX xL clure clure/ clure
 SFX xL clure cluant/ clure
 SFX xL clure clus/ inclure
 SFX xL clure cluse/ inclure
+SFX xL clure clus·e/ inclure
+SFX xL clure clus.e/ inclure
 SFX xL clure cluses/ inclure
+SFX xL clure clus·es/ inclure
+SFX xL clure clus.es/ inclure
 SFX xL clure clu/ [eo].clure
 SFX xL clure clus/ [eo].clure
 SFX xL clure clue/ [eo].clure
+SFX xL clure clu·e/ [eo].clure
+SFX xL clure clu.e/ [eo].clure
 SFX xL clure clues/ [eo].clure
+SFX xL clure clu·es/ [eo].clure
+SFX xL clure clu.es/ [eo].clure
 SFX xL clure clus/ clure
 SFX xL clure clut/ clure
 SFX xL clure cluons/ clure
@@ -5212,18 +5564,26 @@ SFX xM ourdre ourde/ sourdre
 SFX xM ourdre ourdît/ sourdre
 SFX xM ourdre ourdissent/ sourdre
 
-SFX xN Y 48
+SFX xN Y 56
 SFX xN soudre soudre/ soudre
 SFX xN soudre solvant/ soudre
 SFX xN soudre solu/ résoudre
 SFX xN soudre solus/ résoudre
 SFX xN soudre solue/ résoudre
+SFX xN soudre solu·e/ résoudre
+SFX xN soudre solu.e/ résoudre
 SFX xN soudre solues/ résoudre
+SFX xN soudre solu·es/ résoudre
+SFX xN soudre solu.es/ résoudre
 SFX xN soudre sous/ soudre
 SFX xN soudre sout/ soudre
 SFX xN soudre souts/ soudre
 SFX xN soudre soute/ soudre
+SFX xN soudre sout·e/ soudre
+SFX xN soudre sout.e/ soudre
 SFX xN soudre soutes/ soudre
+SFX xN soudre sout·es/ soudre
+SFX xN soudre sout.es/ soudre
 SFX xN soudre sous/ soudre
 SFX xN soudre sout/ soudre
 SFX xN soudre solvons/ soudre
@@ -5262,13 +5622,17 @@ SFX xN soudre sous/ soudre
 SFX xN soudre solvons/ soudre
 SFX xN soudre solvez/ soudre
 
-SFX xO Y 43
+SFX xO Y 47
 SFX xO oudre oudre/ coudre
 SFX xO oudre ousant/ coudre
 SFX xO oudre ousu/ coudre
 SFX xO oudre ousus/ coudre
 SFX xO oudre ousue/ coudre
+SFX xO oudre ousu·e/ coudre
+SFX xO oudre ousu.e/ coudre
 SFX xO oudre ousues/ coudre
+SFX xO oudre ousu·es/ coudre
+SFX xO oudre ousu.es/ coudre
 SFX xO oudre ouds/ coudre
 SFX xO oudre oud/ coudre
 SFX xO oudre ousons/ coudre
@@ -5307,13 +5671,17 @@ SFX xO oudre ouds/ coudre
 SFX xO oudre ousons/ coudre
 SFX xO oudre ousez/ coudre
 
-SFX xP Y 43
+SFX xP Y 47
 SFX xP oudre oudre/ moudre
 SFX xP oudre oulant/ moudre
 SFX xP oudre oulu/ moudre
 SFX xP oudre oulus/ moudre
 SFX xP oudre oulue/ moudre
+SFX xP oudre oulu·e/ moudre
+SFX xP oudre oulu.e/ moudre
 SFX xP oudre oulues/ moudre
+SFX xP oudre oulu·es/ moudre
+SFX xP oudre oulu.es/ moudre
 SFX xP oudre ouds/ moudre
 SFX xP oudre oud/ moudre
 SFX xP oudre oulons/ moudre
@@ -5352,13 +5720,17 @@ SFX xP oudre ouds/ moudre
 SFX xP oudre oulons/ moudre
 SFX xP oudre oulez/ moudre
 
-SFX xQ Y 43
+SFX xQ Y 47
 SFX xQ uivre uivre/ suivre
 SFX xQ uivre uivant/ suivre
 SFX xQ uivre uivi/ suivre
 SFX xQ uivre uivis/ suivre
 SFX xQ uivre uivie/ suivre
+SFX xQ uivre uivi·e/ suivre
+SFX xQ uivre uivi.e/ suivre
 SFX xQ uivre uivies/ suivre
+SFX xQ uivre uivi·es/ suivre
+SFX xQ uivre uivi.es/ suivre
 SFX xQ uivre uis/ suivre
 SFX xQ uivre uit/ suivre
 SFX xQ uivre uivons/ suivre
@@ -5456,13 +5828,17 @@ SFX xS ivre is/ vivre
 SFX xS ivre ivons/ vivre
 SFX xS ivre ivez/ vivre
 
-SFX y1 Y 43
+SFX y1 Y 47
 SFX y1 crire crire/ crire
 SFX y1 crire crivant/ crire
 SFX y1 crire crit/ crire
 SFX y1 crire crits/ crire
 SFX y1 crire crite/ crire
+SFX y1 crire crit·e/ crire
+SFX y1 crire crit.e/ crire
 SFX y1 crire crites/ crire
+SFX y1 crire crit·es/ crire
+SFX y1 crire crit.es/ crire
 SFX y1 crire cris/ crire
 SFX y1 crire crit/ crire
 SFX y1 crire crivons/ crire
@@ -5501,13 +5877,17 @@ SFX y1 crire cris/ crire
 SFX y1 crire crivons/ crire
 SFX y1 crire crivez/ crire
 
-SFX yA Y 43
+SFX yA Y 47
 SFX yA ire ire/ lire
 SFX yA ire isant/ lire
 SFX yA ire u/ lire
 SFX yA ire us/ lire
 SFX yA ire ue/ lire
+SFX yA ire u·e/ lire
+SFX yA ire u.e/ lire
 SFX yA ire ues/ lire
+SFX yA ire u·es/ lire
+SFX yA ire u.es/ lire
 SFX yA ire is/ lire
 SFX yA ire it/ lire
 SFX yA ire isons/ lire
@@ -5546,13 +5926,17 @@ SFX yA ire is/ lire
 SFX yA ire isons/ lire
 SFX yA ire isez/ lire
 
-SFX yB Y 43
+SFX yB Y 47
 SFX yB lire lire/ lire
 SFX yB lire lisant/ lire
 SFX yB lire lu/ lire
 SFX yB lire lus/ lire
 SFX yB lire lue/ lire
+SFX yB lire lu·e/ lire
+SFX yB lire lu.e/ lire
 SFX yB lire lues/ lire
+SFX yB lire lu·es/ lire
+SFX yB lire lu.es/ lire
 SFX yB lire lis/ lire
 SFX yB lire lit/ lire
 SFX yB lire lisons/ lire
@@ -5591,13 +5975,17 @@ SFX yB lire lis/ lire
 SFX yB lire lisons/ lire
 SFX yB lire lisez/ lire
 
-SFX yC Y 41
+SFX yC Y 45
 SFX yC ire ire/ dire
 SFX yC ire isant/ dire
 SFX yC ire it/ dire
 SFX yC ire its/ dire
 SFX yC ire ite/ dire
+SFX yC ire it·e/ dire
+SFX yC ire it.e/ dire
 SFX yC ire ites/ dire
+SFX yC ire it·es/ dire
+SFX yC ire it.es/ dire
 SFX yC ire is/ dire
 SFX yC ire it/ dire
 SFX yC ire isons/ dire
@@ -5634,13 +6022,17 @@ SFX yC ire is/ dire
 SFX yC ire isons/ dire
 SFX yC ire ites/ dire
 
-SFX yD Y 41
+SFX yD Y 45
 SFX yD dire dire/ dire
 SFX yD dire disant/ dire
 SFX yD dire dit/ dire
 SFX yD dire dits/ dire
 SFX yD dire dite/ dire
+SFX yD dire dit·e/ dire
+SFX yD dire dit.e/ dire
 SFX yD dire dites/ dire
+SFX yD dire dit·es/ dire
+SFX yD dire dit.es/ dire
 SFX yD dire dis/ dire
 SFX yD dire dit/ dire
 SFX yD dire disons/ dire
@@ -5717,13 +6109,17 @@ SFX yE édire édis/ édire
 SFX yE édire édisons/ édire
 SFX yE édire édisez/ édire
 
-SFX yF Y 37
+SFX yF Y 41
 SFX yF audire audire/ udire
 SFX yF audire audissant/ udire
 SFX yF audire audit/ udire
 SFX yF audire audits/ udire
 SFX yF audire audite/ udire
+SFX yF audire audit·e/ udire
+SFX yF audire audit.e/ udire
 SFX yF audire audites/ udire
+SFX yF audire audit·es/ udire
+SFX yF audire audit.es/ udire
 SFX yF audire audis/ udire
 SFX yF audire audit/ udire
 SFX yF audire audissons/ udire
@@ -5806,20 +6202,28 @@ SFX yJ ruire ruissait/ uire
 SFX yJ ruire ruissaient/ uire
 SFX yJ ruire ruisse/ uire
 
-SFX yK Y 5
+SFX yK Y 9
 SFX yK bduire bduire/ uire
 SFX yK bduire bduit/ uire
 SFX yK bduire bduits/ uire
 SFX yK bduire bduite/ uire
+SFX yK bduire bduit·e/ uire
+SFX yK bduire bduit.e/ uire
 SFX yK bduire bduites/ uire
+SFX yK bduire bduit·es/ uire
+SFX yK bduire bduit.es/ uire
 
-SFX yL Y 43
+SFX yL Y 47
 SFX yL uire uire/ uire
 SFX yL uire uisant/ uire
 SFX yL uire uit/ uire
 SFX yL uire uits/ uire
 SFX yL uire uite/ uire
+SFX yL uire uit·e/ uire
+SFX yL uire uit.e/ uire
 SFX yL uire uites/ uire
+SFX yL uire uit·es/ uire
+SFX yL uire uit.es/ uire
 SFX yL uire uis/ uire
 SFX yL uire uit/ uire
 SFX yL uire uisons/ uire
@@ -5858,13 +6262,17 @@ SFX yL uire uis/ uire
 SFX yL uire uisons/ uire
 SFX yL uire uisez/ uire
 
-SFX yM Y 43
+SFX yM Y 47
 SFX yM uire uire/ uire
 SFX yM uire uisant/ uire
 SFX yM uire uit/ uire
 SFX yM uire uits/ uire
 SFX yM uire uite/ uire
+SFX yM uire uit·e/ uire
+SFX yM uire uit.e/ uire
 SFX yM uire uites/ uire
+SFX yM uire uit·es/ uire
+SFX yM uire uit.es/ uire
 SFX yM uire uis/ uire
 SFX yM uire uit/ uire
 SFX yM uire uisons/ uire
@@ -5903,13 +6311,17 @@ SFX yM uire uis/ uire
 SFX yM uire uisons/ uire
 SFX yM uire uisez/ uire
 
-SFX yN Y 33
+SFX yN Y 37
 SFX yN truire truire/ uire
 SFX yN truire truisant/ uire
 SFX yN truire truit/ uire
 SFX yN truire truits/ uire
 SFX yN truire truite/ uire
+SFX yN truire truit·e/ uire
+SFX yN truire truit.e/ uire
 SFX yN truire truites/ uire
+SFX yN truire truit·es/ uire
+SFX yN truire truit.es/ uire
 SFX yN truire truit/ uire
 SFX yN truire truisons/ uire
 SFX yN truire truisez/ uire
@@ -5938,13 +6350,17 @@ SFX yN truire truisissent/ uire
 SFX yN truire truisons-nous/ uire
 SFX yN truire truisez-vous/ uire
 
-SFX yO Y 43
+SFX yO Y 47
 SFX yO détruire détruire/ détruire
 SFX yO détruire détruisant/ détruire
 SFX yO détruire détruit/ détruire
 SFX yO détruire détruits/ détruire
 SFX yO détruire détruite/ détruire
+SFX yO détruire détruit·e/ détruire
+SFX yO détruire détruit.e/ détruire
 SFX yO détruire détruites/ détruire
+SFX yO détruire détruit·es/ détruire
+SFX yO détruire détruit.es/ détruire
 SFX yO détruire détruis/ détruire
 SFX yO détruire détruit/ détruire
 SFX yO détruire détruisons/ détruire
@@ -6025,16 +6441,24 @@ SFX yU uire uis/ uire
 SFX yU uire uisons/ uire
 SFX yU uire uisez/ uire
 
-SFX yV Y 45
+SFX yV Y 53
 SFX yV ire ire/ ire
 SFX yV ire isant/ ire
 SFX yV ire it/ nfire
 SFX yV ire its/ nfire
 SFX yV ire ite/ nfire
+SFX yV ire it·e/ nfire
+SFX yV ire it.e/ nfire
 SFX yV ire ites/ nfire
+SFX yV ire it·es/ nfire
+SFX yV ire it.es/ nfire
 SFX yV ire is/ cire
 SFX yV ire ise/ cire
+SFX yV ire is·e/ cire
+SFX yV ire is.e/ cire
 SFX yV ire ises/ cire
+SFX yV ire is·es/ cire
+SFX yV ire is.es/ cire
 SFX yV ire i/ ffire
 SFX yV ire is/ ire
 SFX yV ire it/ ire
@@ -6144,19 +6568,27 @@ SFX yX nuire nuisissent/ nuire
 SFX yX nuire nuisons-nous/ nuire
 SFX yX nuire nuisez-vous/ nuire
 
-SFX yY Y 4
+SFX yY Y 8
 SFX yY ccire ccire/ occire
 SFX yY ccire ccis/ occire
 SFX yY ccire ccise/ occire
+SFX yY ccire ccis·e/ occire
+SFX yY ccire ccis.e/ occire
 SFX yY ccire ccises/ occire
+SFX yY ccire ccis·es/ occire
+SFX yY ccire ccis.es/ occire
 
-SFX yZ Y 14
+SFX yZ Y 18
 SFX yZ rire rire/ rire
 SFX yZ rire risant/ rire
 SFX yZ rire rit/ rire
 SFX yZ rire rits/ rire
 SFX yZ rire rite/ rire
+SFX yZ rire rit·e/ rire
+SFX yZ rire rit.e/ rire
 SFX yZ rire rites/ rire
+SFX yZ rire rit·es/ rire
+SFX yZ rire rit.es/ rire
 SFX yZ rire ris/ rire
 SFX yZ rire rit/ rire
 SFX yZ rire rirai/ rire
@@ -6166,43 +6598,79 @@ SFX yZ rire rirais/ rire
 SFX yZ rire rirait/ rire
 SFX yZ rire ris/ rire
 
-SFX q+ Y 36
+SFX q+ Y 72
 SFX q+ enir enu/ enir
 SFX q+ enir enus/ enir
 SFX q+ enir enue/ enir
+SFX q+ enir enu·e/ enir
+SFX q+ enir enu.e/ enir
 SFX q+ enir enues/ enir
+SFX q+ enir enu·es/ enir
+SFX q+ enir enu.es/ enir
 SFX q+ tir ti/ tir
 SFX q+ tir tis/ tir
 SFX q+ tir tie/ tir
+SFX q+ tir ti·e/ tir
+SFX q+ tir ti.e/ tir
 SFX q+ tir ties/ tir
+SFX q+ tir ti·es/ tir
+SFX q+ tir ti.es/ tir
 SFX q+ courir couru/ courir
 SFX q+ courir courus/ courir
 SFX q+ courir courue/ courir
+SFX q+ courir couru·e/ courir
+SFX q+ courir couru.e/ courir
 SFX q+ courir courues/ courir
+SFX q+ courir couru·es/ courir
+SFX q+ courir couru.es/ courir
 SFX q+ ivre écu/ vivre
 SFX q+ ivre écus/ vivre
 SFX q+ ivre écue/ vivre
+SFX q+ ivre écu·e/ vivre
+SFX q+ ivre écu.e/ vivre
 SFX q+ ivre écues/ vivre
+SFX q+ ivre écu·es/ vivre
+SFX q+ ivre écu.es/ vivre
 SFX q+ aire u/ aire
 SFX q+ aire us/ aire
 SFX q+ aire ue/ aire
+SFX q+ aire u·e/ aire
+SFX q+ aire u.e/ aire
 SFX q+ aire ues/ aire
+SFX q+ aire u·es/ aire
+SFX q+ aire u.es/ aire
 SFX q+ dre du/ dre
 SFX q+ dre dus/ dre
 SFX q+ dre due/ dre
+SFX q+ dre du·e/ dre
+SFX q+ dre du.e/ dre
 SFX q+ dre dues/ dre
+SFX q+ dre du·es/ dre
+SFX q+ dre du.es/ dre
 SFX q+ valoir valu/ .valoir
 SFX q+ valoir valus/ .valoir
 SFX q+ valoir value/ .valoir
+SFX q+ valoir valu·e/ .valoir
+SFX q+ valoir valu.e/ .valoir
 SFX q+ valoir values/ .valoir
+SFX q+ valoir valu·es/ .valoir
+SFX q+ valoir valu.es/ .valoir
 SFX q+ aître u/ aître
 SFX q+ aître us/ aître
 SFX q+ aître ue/ aître
+SFX q+ aître u·e/ aître
+SFX q+ aître u.e/ aître
 SFX q+ aître ues/ aître
+SFX q+ aître u·es/ aître
+SFX q+ aître u.es/ aître
 SFX q+ aitre u/ aitre
 SFX q+ aitre us/ aitre
 SFX q+ aitre ue/ aitre
+SFX q+ aitre u·e/ aitre
+SFX q+ aitre u.e/ aitre
 SFX q+ aitre ues/ aitre
+SFX q+ aitre u·es/ aitre
+SFX q+ aitre u.es/ aitre
 
 SFX q. Y 9
 SFX q. enir enu/ enir

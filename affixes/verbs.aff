@@ -2720,7 +2720,7 @@ SFX pA ouvoir ussions/ pouvoir # is:simp is:1pl
 SFX pA ouvoir ussiez/ pouvoir # is:simp is:2pl
 SFX pA ouvoir ussent/ pouvoir # is:simp is:3pl
 
-SFX pB Y 43
+SFX pB Y 53
 SFX pB ouloir ouloir/ vouloir # is:infi
 SFX pB ouloir oulant/ vouloir # is:ppre
 SFX pB ouloir oulu/ vouloir # is:ppas po:adj is:mas is:sg
