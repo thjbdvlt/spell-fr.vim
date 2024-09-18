@@ -62,3 +62,5 @@ cd ..
 
 # suppression des fichiers intermédiaires
 rm st.dic st.aff
+
+nvim -c 'set spell' -c 'spelldump!' -c 'write dump.txt' -c 'qa'
