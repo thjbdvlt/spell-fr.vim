@@ -18,6 +18,7 @@ qu'/ # po:sconj po:pron is:eli st:que
 qu/ # po:sconj:pron is:eli st:que
 qu/ # po:pron is:eli st:que
 quoiqu'/ # po:sconj is:eli st:quoique
+quelqu'/ # po:sconj is:eli st:quoique
 s'/ # po:pron po:adp is:inv is:epi is:3pe is:eli st:se
 t'/ # po:pron po:adp is:sg is:epi is:2pe is:eli st:te
 
@@ -41,5 +42,6 @@ qu/ # po:sconj po:pron is:eli
 qu/ # po:sconj:pron is:eli
 qu/ # po:pron is:eli
 quoiqu/ # po:sconj is:eli
+quelqu/ # po:sconj is:eli st:quoique
 s/ # po:pron po:adp is:inv is:epi is:3pe is:eli
 t/ # po:pron po:adp is:sg is:epi is:2pe is:eli

@@ -1,4 +1,4 @@
-71241
+71243
 
 A4
 abaca/Es  po:noun is:mas
@@ -55176,6 +55176,8 @@ quel·le/,,ll  po:det
 quelque/Es  po:det is:epi
 quelquefois/  po:adv
 quelque/  po:adv
+quelqu'/  po:sconj is:eli st:quoique
+quelqu/  po:sconj is:eli st:quoique
 quémande/Es  po:noun is:fem
 quémander/a0p+  po:verb
 quémandeur·euse/,,rs  po:noun
