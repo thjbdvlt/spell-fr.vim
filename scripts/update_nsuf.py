@@ -8,12 +8,13 @@ def update_n_suff(block: str) -> str:
     nnon = 0
     nfirst = None
     for n, i in enumerate(lines):
-        if not i.startswith('#'):
-            if nnon == 0:
-                nfirst = n
-            else:
-                nsuf += 1
-            nnon += 1
+        if not i.startswith('SFX'):
+            return block
+        if nnon == 0:
+            nfirst = n
+        else:
+            nsuf += 1
+        nnon += 1
     if nfirst is None:
         return block
     lines[nfirst] = re.sub(r"\d+ *$", str(nsuf), lines[nfirst])

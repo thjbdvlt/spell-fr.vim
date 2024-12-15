@@ -1,10 +1,11 @@
-COMPOUNDRULE 6
+COMPOUNDRULE 7
 COMPOUNDRULE &p&n
 COMPOUNDRULE &p&a
 COMPOUNDRULE &p&-&n
 COMPOUNDRULE &p&-&a
 COMPOUNDRULE &a&-&n
 COMPOUNDRULE &a&-&n
+COMPOUNDRULE (&i)*(&i)
 
 # réveille-matin, mais pas "réveillons-matin"
 COMPOUNDBEGIN &v

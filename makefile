@@ -1,7 +1,8 @@
 VIMDIR = ~/.config/nvim/spell
-AFF = aff/options.aff aff/non-verbs.aff aff/verbs.aff aff/rep.aff
+AFF = aff/options.aff aff/non-verbs.aff aff/rep.aff aff/verbs.aff
 DIC = dic/main.dic dic/deligatures.dic dic/prefixes.dic
-COMPOUND = ./aff/compound.aff
+COMP = ./aff/compound.aff
+CAT = sed -e '$$s/$$/\n/' -s 
 
 
 .PHONY: clean install all ud test
@@ -22,8 +23,8 @@ install: fr.utf-8.spl
 # https://universaldependencies.org/u/pos/index.html
 #
 # this only uncomment (to make morph. features readable).
-fr_ud.aff: $(AFF) $(COMPOUND)
-	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $(AFF) $(COMPOUND) > fr_ud.aff
+fr_ud.aff: $(AFF) $(COMP)
+	$(CAT) $(AFF) $(COMP) | sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' > fr_ud.aff
 
 # dictionary file for the UD version of the spell files
 #
@@ -40,7 +41,7 @@ fr_ud.dic: $(DIC)
 # add exceptions, remove all comments and add the number 
 # of words.
 fr.dic: $(DIC)
-	cat $(DIC) vim/*.dic | sort | uniq \
+	$(CAT) $(DIC) vim/*.dic | sort | uniq \
 		| sed -E 's|\s*#.*||' \
 		| grep -v '^\s*$$' > fr.dic
 	sed -i "1s/^/$$(wc -l fr.dic | cut -d ' ' -f 1)\n/" fr.dic

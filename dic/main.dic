@@ -1,4 +1,9 @@
 A4/
+x/&i # po:num
+i/&i # po:num
+v/&i # po:num
+m/&i # po:num
+c/&i # po:num
 -/&- # po:punct
 _/ # po:punct
 burlu/&d # po:adp st:-
