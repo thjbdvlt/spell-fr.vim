@@ -46,7 +46,7 @@ avec trait d'union:
 - adjectif + nom (*grand-route*)
 - nom + nom (*auteurice-compositeurice*)
 - préfixe adverbial + nom (*contre-proposition*)
-- verbe + nom (*casse-tête*)
+- verbe (`is:3sg`, `is:ipres`)+ nom (*casse-tête*)
 
 sources
 -------
