@@ -4,6 +4,9 @@ i/&i # po:num
 v/&i # po:num
 m/&i # po:num
 c/&i # po:num
+e/&e # po:ord
+ème/&e # po:ord
+er/&e # po:ord
 -/&- # po:punct
 _/ # po:punct
 burlu/&d # po:adp st:-
