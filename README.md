@@ -32,7 +32,7 @@ Pour l'analyse morphologique avec Hunspell, les formes avec le tirets sont corre
 mots composés
 -------------
 
-Il n'y a pas de vérification des mots composés dans Vim.
+Il n'y a pas de vérification des mots composés dans Vim (pour éviter des faux positifs).
 Mais l'analyse morphologique avec Hunspell les prends en compte, de façons assez sommaire, selon les formes suivantes
 
 sans trait d'union:
