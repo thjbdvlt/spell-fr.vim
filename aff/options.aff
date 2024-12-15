@@ -35,15 +35,3 @@ MAP aâàä
 MAP iîïy
 MAP cçsz
 MAP jg
-
-# compound for paralittéraire
-# and, maybe? for para-littéraire
-COMPOUNDRULE 1
-COMPOUNDRULE p1n1
-# COMPOUNDRULE p1a1
-# COMPOUNDRULE p1a2
-
-# CHECKCOMPOUNDPATTERN 1
-# CHECKCOMPOUNDPATTERN [aeoiu] [aeoiu]
-
-NOCOMPOUNDSUGS

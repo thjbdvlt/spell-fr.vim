@@ -3,6 +3,7 @@ AFF = aff/options.aff aff/non-verbs.aff aff/verbs.aff aff/rep.aff
 DIC = dic/main.dic dic/deligatures.dic dic/prefixes.dic
 COMPOUND = ./aff/compound.aff
 
+
 .PHONY: clean install all ud test
 
 all:
@@ -11,9 +12,9 @@ all:
 ud:
 	make fr_ud.aff fr_ud.dic
 
-# install the spell file to the (neo)vim spell directory 
 install: fr.utf-8.spl
 	cp fr.utf-8.spl $(VIMDIR)/fr.utf-8.spl
+
 
 # options and affixes definitions
 #
@@ -22,7 +23,7 @@ install: fr.utf-8.spl
 #
 # this only uncomment (to make morph. features readable).
 fr_ud.aff: $(AFF) $(COMPOUND)
-	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $(AFF) > fr_ud.aff
+	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $(AFF) $(COMPOUND) > fr_ud.aff
 
 # dictionary file for the UD version of the spell files
 #
@@ -33,15 +34,6 @@ fr_ud.dic: $(DIC)
 		| grep -v '^ *$$' | sort | uniq > fr_ud.dic
 	sed -i "1s/^/$$(wc -l fr_ud.dic | cut -d ' ' -f 1)\n/" fr_ud.dic
 
-# the spell file for (neo)vim
-#
-# compile with the vim `:mkspell` command, then exit.
-fr.utf-8.spl: fr.dic fr.aff
-	vim -c "mkspell! fr" -c 'q'
-
-# dump the spell file, to get a list of all possible words.
-fr.txt: fr.utf-8.spl
-	nvim -c 'set spell spellang fr' -c 'spelldump!' -c 'write fr.txt' -c 'qa'
 
 # dictionary file for vim
 #
@@ -59,8 +51,20 @@ fr.aff: $(AFF)
 		| grep -E -v 'ICONV|IGNORE|FULLSTRIP' > fr.aff
 	python3 ./scripts/add_incl.py . fr.aff
 
+# the spell file for (neo)vim
+#
+# compile with the vim `:mkspell` command, then exit.
+fr.utf-8.spl: fr.dic fr.aff
+	vim -c "mkspell! fr" -c 'q'
+
+# dump the spell file, to get a list of all possible words.
+fr.txt: fr.utf-8.spl
+	nvim -c 'set spell spellang fr' -c 'spelldump!' -c 'write fr.txt' -c 'qa'
+
+
 clean:
 	rm -f fr.utf-8.spl fr_ud.aff fr_ud.dic fr.dic fr.aff fr.txt
 
 test: fr_ud.aff fr_ud.dic
 	hunspell -m -d fr_ud < tests/auteurice.txt
+	hunspell -m -d fr_ud < tests/compound.txt

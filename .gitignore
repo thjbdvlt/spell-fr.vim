@@ -1,0 +1,14 @@
+fr.dic
+fr.aff
+fr_ud.dic
+fr_ud.aff
+tmp.dic
+tmp.aff
+fr.txt
+*.spl
+test.*
+.tags
+*.gz
+venv
+__pycache__
+scripts/_*
