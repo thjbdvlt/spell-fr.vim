@@ -49,7 +49,8 @@ fr.dic: $(DIC)
 # affix file for vim
 fr.aff: $(AFF)
 	$(CAT) $(AFF) | sed -E 's|\s*#.*||' \
-		| grep -E -v 'ICONV|IGNORE|FULLSTRIP' > fr.aff
+		| grep -E -v \
+		'^(ICONV|IGNORE|FULLSTRIP|BREAK|WORDCHARS)\b' > fr.aff
 	python3 ./scripts/add_incl.py . fr.aff
 
 # the spell file for (neo)vim
@@ -65,6 +66,7 @@ fr.txt: fr.utf-8.spl
 
 clean:
 	rm -f fr.utf-8.spl fr_ud.aff fr_ud.dic fr.dic fr.aff fr.txt
+
 
 test: fr_ud.aff fr_ud.dic
 	hunspell -m -d fr_ud < tests/auteurice.txt
