@@ -25,14 +25,15 @@ différences avec le dictionnaire orthographique français par défaut de Vim
 formats d'écriture inclusive
 -----
 
-L'écriture inclusive n'est supportée, dans Vim, qu'avec le point médian.
+L'écriture inclusive n'est supportée, dans Vim, qu'avec le point médian et le point standard.
 Les formes réalisées avec un tiret ne sont pas soulignées comme fausses, mais sont analysées comme des mots composés, et ne sont par conséquent pas vérifiées (_auteur-euse-s-euse_ sera par exemple considéré comme orthographique).
-Le point n'est pas supporté car le *spell engine* de Vim ne supporte par `ICONV`, et que l'usage des points dans les définitions d'affixes produit des erreurs ailleurs dans le dictionnaire (je ne suis pas parvenu à déterminer pourquoi).
+Pour l'analyse morphologique avec Hunspell, les formes avec le tirets sont correctement analysées (Vim ne supporte pas `ICONV`, utilisée pour les points standards).
 
 mots composés
 -------------
 
-Il n'y a pas de vérification des mots composés à l'aide de tiret.
+Il n'y a pas de vérification des mots composés à l'aide de tiret dans Vim.
+Mais l'analyse morphologique avec Hunspell les prends en compte, de façons assez sommaire.
 
 sources
 -------
