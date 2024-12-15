@@ -1,43 +1,42 @@
-abstractivement/ # po:adv
-annihilable/Es # po:adj
-anticipatoire/Es # po:adj
-apparaissant·e/_e,, # po:adj
-appréhendable/Es # po:adj
-bovinité/Es # po:noun
-chevalité/Es # po:noun
-cire/Es # po:noun
-créable/Es # po:adj st:créer
-créant·e/Es # po:adj st:créer
-désignable/Es # po:adj
-dictatif·ve/fv # po:adj
-domanité/Es # po:noun
-empêchable/Es # po:adj
-équivocité/Es # po:noun
-heccéité/Es # po:noun
-hétérologique/Es # po:adj
-hylémorphique/Es # po:adj
-indéfinité/ # po:noun
-judicatif/Es # po:noun
-lapidité/ # po:noun
-modalement/ # po:adv
-noèsis/ # po:noun
-originarité/Es # po:noun
-ostensif·ve/fv # po:adj
-perspectivistes/Es
-phénoménalisation/Es # po:noun
-prédicament/Es # po:noun
-principialité/Es # po:noun
-roséité/ES # po:adj
-signifiable/Es # po:adj
-singularisant·e/_e,, # po:adj
-spécialissime/Es # po:adj
-syncatégorématique/Es # po:adj
-syncatégorème/Es # po:noun
-participable/Es # po:adj
-indexical/lx # po:adj
-
-ontologiser/ # po:verb
-secondariser/ # po:verb
-syllogiser/ # po:verb
-modaliser/ # po:verb
-intuitionner/ # po:verb
+abstractivement
+annihilables
+anticipatoires
+apparaissant·es
+appréhendables
+bovinités
+chevalités
+cires
+créables
+créant·e·s
+désignable
+dictatif·ve
+domanité
+empêchable
+équivocité
+heccéité
+hétérologique
+hylémorphique
+indéfinité
+judicatif
+lapidité
+modalement
+noèsis
+originarité
+ostensif·ve
+perspectivistes
+phénoménalisation
+prédicament
+principialité
+roséité
+signifiable
+singularisant·e
+spécialissime
+syncatégorématique
+syncatégorème
+participable
+indexical
+ontologiser
+secondariser
+syllogiser
+modaliser
+intuitionner

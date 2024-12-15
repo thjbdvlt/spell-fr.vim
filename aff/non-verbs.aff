@@ -10,8 +10,8 @@ SFX Es Y 1
 SFX Es 0 s . # is:pl
 
 SFX Is Y 2
-SFX Is 0 -s . # is:pl
-SFX Is 0 ·s . # is:pl
+SFX Is 0 ·s/ . # is:pl
+SFX Is 0 -s/ . # is:pl
 
 # pluriels en x:
 # cheval, chevaux, feu, feux
@@ -140,13 +140,12 @@ SFX ec ·èche 0/Es . # is:mas
 SFX ec ·èche -èche/EsIs . # is:incl
 
 # enseignant -e
-SFX _e Y 6
-SFX _e 0 0/EsIS ·e # is:incl
-SFX _e ·e e/Es ·e # is:fem
-SFX _e ·e -e/EsIs ·e # is:incl
-SFX _e ·e /Es ·e # is:mas
-SFX _e ·e ex/Es ·e # is:incl is:nonb
-SFX _e ·e xe/Es ·e # is:incl is:nonb
+SFX _e Y 5
+SFX _e ·e ·e/EsIS . # is:incl
+SFX _e ·e ·e·s/EsIS . # is:incl is:pl
+SFX _e ·e 0/Es . # is:mas
+SFX _e ·e e/EsIs . # is:fem
+SFX _e ·e -e/EsIs . # is:incl
 
 # compl -ète -et
 SFX et Y 4

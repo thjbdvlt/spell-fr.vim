@@ -1,4 +1,46 @@
 A4/
+abstractivement/ # po:adv
+annihilable/Es # po:adj
+anticipatoire/Es # po:adj
+apparaissant·e/_e,, # po:adj
+appréhendable/Es # po:adj
+bovinité/Es # po:noun
+chevalité/Es # po:noun
+cire/Es # po:noun
+créable/Es # po:adj st:créer
+créant·e/_e,, # po:adj st:créer
+désignable/Es # po:adj
+dictatif·ve/fv # po:adj
+domanité/Es # po:noun
+empêchable/Es # po:adj
+équivocité/Es # po:noun
+heccéité/Es # po:noun
+hétérologique/Es # po:adj
+hylémorphique/Es # po:adj
+indéfinité/ # po:noun
+judicatif/Es # po:noun
+lapidité/ # po:noun
+modalement/ # po:adv
+noèsis/ # po:noun
+originarité/Es # po:noun
+ostensif·ve/fv # po:adj
+perspectivistes/Es
+phénoménalisation/Es # po:noun
+prédicament/Es # po:noun
+principialité/Es # po:noun
+roséité/ES # po:adj
+signifiable/Es # po:adj
+singularisant·e/_e,, # po:adj
+spécialissime/Es # po:adj
+syncatégorématique/Es # po:adj
+syncatégorème/Es # po:noun
+participable/Es # po:adj
+indexical/lx # po:adj
+ontologiser/a0p+&v # po:verb
+secondariser/a0p+&v # po:verb
+syllogiser/a0p+&v # po:verb
+modaliser/a0p+&v # po:verb
+intuitionner/a0p+&v # po:verb
 abaca/Es&n # po:noun is:mas
 abacule/Es&n # po:noun is:mas
 abader/&v # po:verb
@@ -6963,7 +7005,7 @@ beagle/Es&n # po:noun is:mas
 béal/Es&n # po:noun is:mas
 béalière/Es&n # po:noun is:fem
 béance/Es&n # po:noun is:fem
-béant·e/,,_e&a # po:adj
+béant·e/_e,,&a # po:adj
 béarnais·e/,,_e&a # po:noun po:adj
 béat·e/,,_e&a # po:adj
 béatement/ # po:adv
@@ -24335,12 +24377,12 @@ ensauvagement/Es&n # po:noun is:mas
 ensauvager/a0p+&v # po:verb
 ensauver/a0p+&v # po:verb
 enseignable/Es&a # po:adj is:epi
-enseignant·e/,,_e&a # po:adj
+enseignant·e/_e,, # po:adj
 enseigne/Es&n # po:noun is:epi
 enseignement/Es&n # po:noun is:mas
 enseigner/a0p+&v # po:verb
 enseigniste/Es&n # po:noun is:epi
-ensellé·e/,,_e&a # po:adj
+ensellé·e/,,_e&aIs # po:adj
 ensellement/Es&n # po:noun is:mas
 ensellure/Es&n # po:noun is:fem
 ensemble/Es&n # po:noun is:mas
@@ -60068,7 +60110,7 @@ secourisme/Es&n # po:noun is:mas
 secouriste/Es&n # po:noun is:epi
 secours/&n # po:noun is:mas is:inv
 secousse/Es&n # po:noun is:fem
-sec·que/,,qc&a # po:noun po:adj
+sec·èche/,,ec&a # po:noun po:adj
 secrétage/Es&n # po:noun is:mas
 secrétaire/Es&n # po:noun is:epi
 secrétairerie/Es&n # po:noun is:fem
