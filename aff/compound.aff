@@ -1,12 +1,13 @@
 ONLYINCOMPOUND &e
 
-COMPOUNDRULE 7
+COMPOUNDRULE 8
 COMPOUNDRULE &p&n
 COMPOUNDRULE &p&a
 COMPOUNDRULE &p&-&n
 COMPOUNDRULE &p&-&a
 COMPOUNDRULE &a&-&n
 COMPOUNDRULE &a&-&n
+COMPOUNDRULE &n&-&n
 COMPOUNDRULE (&i)*(&i)(&e)?
 
 # réveille-matin, mais pas "réveillons-matin"

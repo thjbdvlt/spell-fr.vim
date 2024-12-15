@@ -12,3 +12,4 @@ test.*
 venv
 __pycache__
 scripts/_*
+_texts
