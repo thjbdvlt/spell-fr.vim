@@ -48,7 +48,7 @@ fr.dic: $(DIC)
 
 # affix file for vim
 fr.aff: $(AFF)
-	sed -E 's|\s*#.*||' $(AFF) \
+	$(CAT) $(AFF) | sed -E 's|\s*#.*||' \
 		| grep -E -v 'ICONV|IGNORE|FULLSTRIP' > fr.aff
 	python3 ./scripts/add_incl.py . fr.aff
 

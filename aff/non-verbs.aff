@@ -73,17 +73,20 @@ SFX fv f·ve f·ve/EsIs . # is:incl
 SFX fv f·ve f-ve/EsIs . # is:incl
 
 # aigu, aigüe
-SFX ue Y 6
-SFX ue u·ue u/Es . # is:mas
+SFX ue Y 9
+SFX ue ·ue 0/Es . # is:mas
 SFX ue u·ue üe/Es . # is:fem
-SFX ue u·ue u·ue/EsIs . # is:incl
-SFX ue u·ue u·üe/EsIs . # is:incl
-SFX ue u·ue u-ue/EsIs . # is:incl
-SFX ue u·ue u-üe/EsIs . # is:incl
+SFX ue u·ue uë/ES . # is:fem
+SFX ue 0 0/EsIs . # is:incl
+SFX ue u·ue üe/EsIs . # is:incl
+SFX ue e ë/ESIs . # is:fem
+SFX ue ·ue -ue/EsIs . # is:incl
+SFX ue ·ue -üe/EsIs . # is:incl
+SFX ue ·ue -uë/ESIs . # is:fem
 
 # be -au, be -lle, tourtere -au -lle
 SFX la Y 7
-SFX la eau·elle eau . # is:mas
+SFX la ·elle 0 . # is:mas
 SFX la eau·elle eaux . # is:mas is:pl
 SFX la eau·elle elle/Es . # is:fem
 SFX la eau·elle elleau . # is:incl is:nodot
@@ -93,7 +96,7 @@ SFX la eau·elle eau-elle/EsIs . # is:incl
 
 # po -étesse, -ète
 SFX ee Y 6
-SFX ee ète·sse ète/Es . # is:mas
+SFX ee ·sse 0/Es . # is:mas
 SFX ee ète·sse étesse/Es . # is:fem
 SFX ee ète·sse ète·sse/EsIs . # is:incl
 SFX ee ète·sse ète·étesse/EsIs . # is:incl
@@ -103,38 +106,38 @@ SFX ee ète·sse ète-étesse/EsIs . # is:incl
 # dou -x -ce
 SFX xc Y 4
 SFX xc x·ce ce/Es . # is:fem
-SFX xc x·ce x . # is:mas
+SFX xc ·ce 0 . # is:mas
 SFX xc x·ce x·ce/EsIs . # is:incl
 SFX xc x·ce x-ce/EsIS . # is:incl
 
 # rou -sse, -x, fau -x -sse
 SFX xs Y 4
 SFX xs x·sse sse/Es . # is:fem
-SFX xs x·sse x . # is:mas
-SFX xs x·sse x·sse/EsIS . # is:incl
-SFX xs x·sse x-sse/EsIs . # is:incl
+SFX xs ·sse 0 . # is:mas
+SFX xs 0 0/EsIS . # is:incl
+SFX xs ·sse -sse/EsIs . # is:incl
 
 # vie -ux -eil - eille
 SFX xl Y 5
 SFX xl eux·eille eil/s . # is:fem
 SFX xl eux·eille eille/Es . # is:incl
-SFX xl eux·eille eux . # is:mas
-SFX xl eux·eille eux·eille/EsIs . # is:incl
-SFX xl eux·eille eux-eille/EsIs . # is:incl
+SFX xl ·eille 0 . # is:mas
+SFX xl 0 0/EsIs . # is:incl
+SFX xl ·eille -eille/EsIs . # is:incl
 
 # br -ève -ef
 SFX ev Y 4
-SFX ev ef·ève ef/Es . # is:mas
+SFX ev ·ève 0/Es . # is:mas
 SFX ev ef·ève ève/Es . # is:fem
 SFX ev ef·ève ef·ève/EsIs . # is:incl
 SFX ev ef·ève ef-ève/EsIs . # is:incl
 
 # s -ec -èche
 SFX ec Y 4
-SFX ec ec·èche ec/Es . # is:mas
+SFX ec ·èche 0/Es . # is:mas
 SFX ec ec·èche èche/Es . # is:fem
-SFX ec ec·èche ec·èche/EsIs . # is:incl
-SFX ec ec·èche ec-èche/EsIs . # is:incl
+SFX ec 0 0/EsIs . # is:incl
+SFX ec ·èche -èche/EsIs . # is:incl
 
 # enseignant -e
 SFX _e Y 6
@@ -147,10 +150,10 @@ SFX _e ·e -e/EsIs ·e # is:incl
 
 # compl -ète -et
 SFX et Y 4
-SFX et et·ète et/Es . # is:mas
+SFX et ·ète 0/Es . # is:mas
 SFX et et·ète ète/Es . # is:fem
-SFX et et·ète et·ète/EsIs . # is:incl
-SFX et et·ète et-ète/EsIs . # is:incl
+SFX et 0 0/EsIs . # is:incl
+SFX et ·ète -ète/EsIs . # is:incl
 
 # -ène -eo
 SFX en Y 5

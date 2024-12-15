@@ -1,5 +1,4 @@
 abdomino/&p # po:adp
-hors/&p # po:adp
 ab/&p # po:adp
 acétyl/&p # po:adp
 acromio/&p # po:adp
@@ -513,7 +512,6 @@ heptatriaconta/&p # po:adp
 herméo/&p # po:adp
 herpéto/&p # po:adp
 hétéro/&p # po:adp
-hétéro/&p # po:adp
 hexaconta/&p # po:adp
 hexacosa/&p # po:adp
 hexadéca/&p # po:adp
@@ -536,6 +534,7 @@ honduro/&p # po:adp
 hongro/&p # po:adp
 hormono/&p # po:adp
 horo/&p # po:adp
+hors/&p # po:adp
 horti/&p # po:adp
 huméro/&p # po:adp
 hungaro/&p # po:adp
@@ -547,7 +546,6 @@ hygro/&p # po:adp
 hylaeo/&p # po:adp
 hylo/&p # po:adp
 hyméno/&p # po:adp
-hyper/&p # po:adp
 hyper/&p # po:adp
 hypno/&p # po:adp
 hypn/&p # po:adp
@@ -572,7 +570,6 @@ im/&p # po:adp
 inda/&p # po:adp
 indonéso/&p # po:adp
 indo/&p # po:adp
-infra/&p # po:adp
 infra/&p # po:adp
 in/&p # po:adp
 inter/&p # po:adp
@@ -713,7 +710,6 @@ moldavo/&p # po:adp
 monégasco/&p # po:adp
 mongolo/&p # po:adp
 mono/&p # po:adp
-mono/&p # po:adp
 mon/&p # po:adp
 monténégrino/&p # po:adp
 morpho/&p # po:adp
@@ -849,7 +845,6 @@ papyro/&p # po:adp
 paradoxo/&p # po:adp
 paraguayo/&p # po:adp
 para/&p # po:adp
-para/&p # po:adp
 parasito/&p # po:adp
 pare/&p # po:adp
 parisiano/&p # po:adp
@@ -880,7 +875,6 @@ pentaicosa/&p # po:adp
 penta/&p # po:adp
 pentatriaconta/&p # po:adp
 pent/&p # po:adp
-péri/&p # po:adp
 péri/&p # po:adp
 perma/&p # po:adp
 per/&p # po:adp
@@ -918,7 +912,6 @@ plo/&p # po:adp
 plouto/&p # po:adp
 plumba/&p # po:adp
 pluri/&p # po:adp
-pluri/&p # po:adp
 pluvio/&p # po:adp
 pneumo/&p # po:adp
 podo/&p # po:adp
@@ -929,7 +922,6 @@ pomo/&p # po:adp
 porno/&p # po:adp
 postéro/&p # po:adp
 post/&p # po:adp
-post/&p # po:adp
 potamo/&p # po:adp
 pré/&p # po:adp
 prio/&p # po:adp
@@ -939,7 +931,6 @@ protéi/&p # po:adp
 proto/&p # po:adp
 pseudo/&p # po:adp
 psittac/&p # po:adp
-psycho/&p # po:adp
 psycho/&p # po:adp
 psychro/&p # po:adp
 ptéro/&p # po:adp
@@ -957,7 +948,6 @@ rect/&p # po:adp
 regio/&p # po:adp
 re/&p # po:adp
 ré/&p # po:adp
-rétro/&p # po:adp
 rétro/&p # po:adp
 rhino/&p # po:adp
 rhizo/&p # po:adp
@@ -1012,8 +1002,6 @@ sub/&p # po:adp
 sucho/&p # po:adp
 suf/&p # po:adp
 super/&p # po:adp
-super/&p # po:adp
-supra/&p # po:adp
 supra/&p # po:adp
 sur/&p # po:adp
 sus/&p # po:adp
@@ -1061,7 +1049,6 @@ tri/&p # po:adp
 tritriaconta/&p # po:adp
 troglo/&p # po:adp
 typo/&p # po:adp
-typo/&p # po:adp
 tyranno/&p # po:adp
 tyro/&p # po:adp
 ulo/&p # po:adp
@@ -1072,6 +1059,7 @@ uro/&p # po:adp
 utéro/&p # po:adp
 velox/&p # po:adp
 vexillo/&p # po:adp
+visio/&p # po:adp
 vita/&p # po:adp
 vivi/&p # po:adp
 vulcano/&p # po:adp
