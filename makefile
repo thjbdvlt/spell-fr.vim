@@ -17,49 +17,36 @@ install: fr.utf-8.spl
 	cp fr.utf-8.spl $(VIMDIR)/fr.utf-8.spl
 
 
-# options and affixes definitions
+# UD version
 #
 # inspired by Universal Dependancies POS tags
 # https://universaldependencies.org/u/pos/index.html
-#
-# this only uncomment (to make morph. features readable).
 fr_ud.aff: $(AFF) $(COMP)
 	$(CAT) $(AFF) $(COMP) | sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' > fr_ud.aff
-
-# dictionary file for the UD version of the spell files
-#
-# uncomment and add the correct number of words at the top 
-# of the file.
 fr_ud.dic: $(DIC)
 	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $(DIC) \
 		| grep -v '^ *$$' | sort | uniq > fr_ud.dic
 	sed -i "1s/^/$$(wc -l fr_ud.dic | cut -d ' ' -f 1)\n/" fr_ud.dic
 
 
-# dictionary file for vim
-#
-# add exceptions, remove all comments and add the number 
-# of words.
+# VIM
 fr.dic: $(DIC)
 	$(CAT) $(DIC) vim/*.dic | sort | uniq \
 		| sed -E 's|\s*#.*||' \
 		| grep -v '^\s*$$' > fr.dic
 	sed -i "1s/^/$$(wc -l fr.dic | cut -d ' ' -f 1)\n/" fr.dic
 
-# affix file for vim
 fr.aff: $(AFF)
 	$(CAT) $(AFF) | sed -E 's|\s*#.*||' \
 		| grep -E -v \
 		'^(ICONV|IGNORE|FULLSTRIP|BREAK|WORDCHARS)\b' > fr.aff
 	python3 ./scripts/add_incl.py . fr.aff
 
-# the spell file for (neo)vim
-#
-# compile with the vim `:mkspell` command, then exit.
 fr.utf-8.spl: fr.dic fr.aff
 	vim -c "mkspell! fr" -c 'q'
 
-# dump the spell file, to get a list of all possible words.
+
+# dump all words
 fr.txt: fr.utf-8.spl
 	nvim -c 'set spell spellang fr' -c 'spelldump!' -c 'write fr.txt' -c 'qa'
 

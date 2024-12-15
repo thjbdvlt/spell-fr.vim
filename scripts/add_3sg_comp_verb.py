@@ -28,4 +28,5 @@ def add_sep_in_file(file):
         f.write("\n\n".join(blocks))
 
 
-add_sep_in_file("../aff/verbs.aff")
+if __name__ == '__main__':
+    add_sep_in_file("../aff/verbs.aff")
