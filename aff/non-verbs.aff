@@ -1,0 +1,229 @@
+# élision des déterminants
+SFX El Y 4
+SFX El e ' e # is:eli
+SFX El a ' a # is:eli
+SFX El e 0 e # is:eli
+SFX El a 0 a # is:eli
+
+# pluriel en s:
+SFX Es Y 1
+SFX Es 0 s . # is:pl
+
+# pluriels en x:
+# cheval, chevaux, feu, feux
+SFX lx Y 3
+SFX lx 0 x/ [^l] # is:pl
+SFX lx l ux/ al # is:pl
+SFX lx il ux/ ail # is:pl
+
+# auteur, autrice, autrices, auteurs, auteurice, auteurices. plutôt que de placer "auteur" comme base dont j'enlève "eur" pour fabriquer le reste, je pars du radical (aut). il faut alors utiliser le flag `__` (NEEDAFFIX) sur les mots concernés (pour que "aut" tout seul ne soit pas considéré comme juste). je fais de même pour différentes formes de noms et d'adjectifs ci-dessous, ex. vi -ve -f.
+
+# aut -rice -eur -eurice
+SFX ri Y 9
+SFX ri eur·rice rice/Es . # is:fem
+SFX ri eur·rice ricex/Es . # is:fem is:nonb
+SFX ri eur·rice eur/Es .  # is:mas
+SFX ri eur·rice eurice/Es . # is:incl
+SFX ri eur·rice euricex/Es . # is:incl is:nonb
+SFX ri eur·rice eur·rice/Es . # is:incl
+SFX ri eur·rice eur·trice/Es . # is:incl
+SFX ri eur·rice eur-rice/Es . # is:incl
+SFX ri eur·rice eur-trice/Es . # is:incl
+
+# aut -eur -eure (alternative à autrice, aussi pour amateur·e)
+SFX re Y 5
+SFX re eur·rice rice/Es eur·rice # is:fem
+SFX re eur·rice eur/Es eur·rice # is:mas
+SFX re eur·rice eure/Es eur·rice # is:fem
+SFX re eur·rice eur·e/Es eur·rice # is:incl
+SFX re eur·rice eur-e/Es eur·rice # is:incl
+
+# accordeu -r -se -eureuse -exes
+SFX rs Y 6
+SFX rs eur·euse euse/Es . # is:fem
+SFX rs eur·euse eur/Es . # is:mas
+SFX rs eur·euse eureuse/Es . # is:incl is:nodot
+SFX rs eur·euse eureusex/Es . # is:incl is:nonb
+SFX rs eur·euse eur·euse/Es . # is:incl
+SFX rs eur·euse eur-euse/Es . # is:incl
+
+# foresti -ère -er
+SFX rr Y 4
+SFX rr er·ère er/Es . # is:mas
+SFX rr er·ère ère/Es . # is:fem
+SFX rr er·ère er·ère/Es . # is:incl
+SFX rr er·ère er-ère/Es . # is:incl
+
+# frauduleu -x -se
+SFX xz Y 4
+SFX xz eux·euse euse/Es . # is:fem
+SFX xz eux·euse eux . # is:mas
+SFX xz eux·euse eux·euse/Es . # is:incl
+SFX xz eux·euse eux-euse/Es . # is:incl
+
+# vi -ive -f
+SFX fv Y 4
+SFX fv f·ve f/Es . # is:mas
+SFX fv f·ve ve/Es . # is:fem
+SFX fv f·ve f·ve/Es . # is:incl
+SFX fv f·ve f-ve/Es . # is:incl
+
+# aigu, aigüe
+SFX ue Y 6
+SFX ue u·ue u/Es . # is:mas
+SFX ue u·ue üe/Es . # is:fem
+SFX ue u·ue u·ue/Es . # is:incl
+SFX ue u·ue u·üe/Es . # is:incl
+SFX ue u·ue u-ue/Es . # is:incl
+SFX ue u·ue u-üe/Es . # is:incl
+
+# be -au, be -lle, tourtere -au -lle
+SFX la Y 7
+SFX la eau·elle eau . # is:mas
+SFX la eau·elle eaux . # is:mas is:pl
+SFX la eau·elle elle/Es . # is:fem
+SFX la eau·elle elleau . # is:incl is:nodot
+SFX la eau·elle elleaux . # is:incl is:nodot
+SFX la eau·elle eau·elle/Es . # is:incl
+SFX la eau·elle eau-elle/Es . # is:incl
+
+# po -étesse, -ète
+SFX ee Y 6
+SFX ee ète·sse ète/Es . # is:mas
+SFX ee ète·sse étesse/Es . # is:fem
+SFX ee ète·sse ète·sse/Es . # is:incl
+SFX ee ète·sse ète·étesse/Es . # is:incl
+SFX ee ète·sse ète-sse/Es . # is:incl
+SFX ee ète·sse ète-étesse/Es . # is:incl
+
+# dou -x -ce
+SFX xc Y 4
+SFX xc x·ce ce/Es . # is:fem
+SFX xc x·ce x . # is:mas
+SFX xc x·ce x·ce/Es . # is:incl
+SFX xc x·ce x-ce/Es . # is:incl
+
+# rou -sse, -x, fau -x -sse
+SFX xs Y 4
+SFX xs x·sse sse/Es . # is:fem
+SFX xs x·sse x . # is:mas
+SFX xs x·sse x·sse/Es . # is:incl
+SFX xs x·sse x-sse/Es . # is:incl
+
+# vie -ux -eil - eille
+SFX xl Y 5
+SFX xl eux·eille eil/s . # is:fem
+SFX xl eux·eille eille/Es . # is:incl
+SFX xl eux·eille eux . # is:mas
+SFX xl eux·eille eux·eille/Es . # is:incl
+SFX xl eux·eille eux-eille/Es . # is:incl
+
+# br -ève -ef
+SFX ev Y 4
+SFX ev ef·ève ef/Es . # is:mas
+SFX ev ef·ève ève/Es . # is:fem
+SFX ev ef·ève ef·ève/Es . # is:incl
+SFX ev ef·ève ef-ève/Es . # is:incl
+
+# s -ec -èche
+SFX ec Y 4
+SFX ec ec·èche ec/Es . # is:mas
+SFX ec ec·èche èche/Es . # is:fem
+SFX ec ec·èche ec·èche/Es . # is:incl
+SFX ec ec·èche ec-èche/Es . # is:incl
+
+# enseignant -e
+SFX _e Y 6
+SFX _e ·e /Es ·e # is:mas
+SFX _e ·e e/Es ·e # is:fem
+SFX _e ·e ex/Es ·e # is:incl is:nonb
+SFX _e ·e xe/Es ·e # is:incl is:nonb
+SFX _e ·e ·e/Es ·e # is:incl
+SFX _e ·e -e/Es ·e # is:incl
+
+# compl -ète -et
+SFX et Y 4
+SFX et et·ète et/Es . # is:mas
+SFX et et·ète ète/Es . # is:fem
+SFX et et·ète et·ète/Es . # is:incl
+SFX et et·ète et-ète/Es . # is:incl
+
+# -ène -eo
+SFX en Y 5
+SFX en en·ène /Es . # is:incl
+SFX en en·ène en/Es . # is:mas
+SFX en en·ène ène/Es . # is:fem
+SFX en en·ène en·ène/Es . # is:incl
+SFX en en·ène en-ène/Es . # is:incl
+
+# publi -c -que
+SFX qc Y 4
+SFX qc c·que c/Es . # is:mas
+SFX qc c·que que/Es . # is:fem
+SFX qc c·que c·que/Es . # is:incl
+SFX qc c·que c-que/Es . # is:incl
+
+# long -ue
+SFX gu Y 4
+SFX gu ·ue /Es . # is:mas
+SFX gu ·ue ue/Es . # is:fem
+SFX gu ·ue ·ue/Es . # is:incl
+SFX gu ·ue -ue/Es . # is:incl
+
+# global, globale, globales, globaux (!=cheval, chevaux)
+SFX al Y 5
+SFX al l·e l . # is:mas
+SFX al l·e ux . # is:mas is:pl
+SFX al l·e le/Es . # is:fem
+SFX al l·e l·e/Es . # is:incl
+SFX al l·e l-e/Es . # is:incl
+
+# les féminins qui double la dernière consonne
+SFX ll Y 16
+SFX ll 0 /Es . # is:mas
+SFX ll ·fe fe/Es f·fe # is:fem
+SFX ll ·le le/Es l·le # is:fem
+SFX ll ·ne ne/Es n·ne # is:fem
+SFX ll ·se se/Es s·se # is:fem
+SFX ll ·te te/Es t·te # is:fem
+SFX ll ·fe /Es f·fe # is:fem
+SFX ll ·le /Es l·le # is:fem
+SFX ll ·ne /Es n·ne # is:fem
+SFX ll ·se /Es s·se # is:fem
+SFX ll ·te /Es t·te # is:fem
+SFX ll 0 /Es f·fe # is:incl
+SFX ll 0 /Es l·le # is:incl
+SFX ll 0 /Es n·ne # is:incl
+SFX ll 0 /Es s·se # is:incl
+SFX ll 0 /Es t·te # is:incl
+
+# prêtre -sse
+SFX ss Y 4
+SFX ss ·sse /Es . # is:mas
+SFX ss ·sse sse/Es . # is:fem
+SFX ss ·sse ·sse/Es . # is:incl
+SFX ss ·sse -sse/Es . # is:incl
+
+# fo -l -lle -u
+SFX lu Y 5
+SFX lu ou·lle l/Es . # is:mas
+SFX lu ou·lle lle/Es . # is:fem
+SFX lu ou·lle u/Es . # is:mas
+SFX lu ou·lle ou·lle/Es . # is:incl
+SFX lu ou·lle ou-lle/Es . # is:incl
+
+# mots anglais: cramberry, cramberri -es, sandwich -es
+SFX GB Y 3
+SFX GB y ies y # is:pl
+SFX GB 0 es [xh] # is:sg
+SFX GB man men man # is:pl
+
+# mots latins (et italiens)
+SFX LT Y 6
+SFX LT a e/ a
+SFX LT e i/ e
+SFX LT en ina/ en
+SFX LT o i/ o
+SFX LT um a/ um
+SFX LT us i/ us
+
