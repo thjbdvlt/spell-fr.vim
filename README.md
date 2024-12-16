@@ -33,20 +33,10 @@ mots composés
 -------------
 
 Il n'y a pas de vérification des mots composés dans Vim (pour éviter des faux positifs).
-Mais l'analyse morphologique avec Hunspell les prends en compte, de façons assez sommaire, selon les formes suivantes
-
-sans trait d'union:
+Mais l'analyse morphologique avec Hunspell les prends en compte, de façons assez sommaire, selon les formes suivantes (sans trait d'union):
 
 - préfixe adverbial + nom (*paralittérature*)
 - préfixe adverbial + adjectif (*épigénétique*)
-
-avec trait d'union:
-
-- nom + adjectif (*coffre-fort*)
-- adjectif + nom (*grand-route*)
-- nom + nom (*auteurice-compositeurice*)
-- préfixe adverbial + nom (*contre-proposition*)
-- verbe (`is:3sg`, `is:ipres`)+ nom (*casse-tête*)
 
 sources
 -------
