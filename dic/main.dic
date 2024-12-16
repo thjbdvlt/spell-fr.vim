@@ -1,4 +1,15 @@
 A4/
+c/&i # po:num
+i/&i # po:num
+m/&i # po:num
+v/&i # po:num
+x/&i # po:num
+C/&i # po:num st:c
+I/&i # po:num st:i
+M/&i # po:num st:m
+V/&i # po:num st:v
+X/&i # po:num st:x
+zéro/ # po:num is:sg is:epi
 abstractivement/ # po:adv
 annihilable/Es # po:adj
 anticipatoire/Es # po:adj

@@ -55,6 +55,6 @@ clean:
 	rm -f fr.utf-8.spl fr_ud.aff fr_ud.dic fr.dic fr.aff fr.txt
 
 
-test: fr_ud.aff fr_ud.dic
+test: clean fr_ud.aff fr_ud.dic
 	hunspell -m -d fr_ud < tests/auteurice.txt
 	hunspell -m -d fr_ud < tests/compound.txt
