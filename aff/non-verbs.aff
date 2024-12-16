@@ -73,6 +73,7 @@ SFX fv ·ve /Es . # is:mas
 SFX fv ·ve -ve/EsIs . # is:incl
 
 # aigu, aigüe
+# FIXME
 SFX ue Y 9
 SFX ue 0 /EsIs . # is:incl
 SFX ue e ë/ESIs . # is:fem
@@ -82,7 +83,7 @@ SFX ue ·ue -uë/ESIs . # is:fem
 SFX ue ·ue -ue/EsIs . # is:incl
 SFX ue ·ue -üe/EsIs . # is:incl
 SFX ue u·ue üe/Es . # is:fem
-SFX ue u·ue üe/EsIs . # is:incl
+SFX ue u·ue uë/EsIs . # is:fem
 
 # be -au, be -lle, tourtere -au -lle
 SFX la Y 7

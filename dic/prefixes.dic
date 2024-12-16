@@ -129,6 +129,8 @@ bénino/&p # po:adp
 bén/&p # po:adp
 benzo/&p # po:adp
 bermudo/&p # po:adp
+beta/&p # po:adp
+bêta/&p # po:adp st:beta
 bhoutano/&p # po:adp
 biblio/&p # po:adp
 biélorusso/&p # po:adp
@@ -957,8 +959,10 @@ saccharo/&p # po:adp
 sarco/&p # po:adp
 scato/&p # po:adp
 schizo/&p # po:adp
+scientifico/&p # po:adp
 sci/&p # po:adp
 scléro/&p # po:adp
+scolastico/&p # po:adp
 selena/&p # po:adp
 séléno/&p # po:adp
 sémio/&p # po:adp
@@ -1026,6 +1030,7 @@ tétra/&p # po:adp
 tétratriaconta/&p # po:adp
 thalasso/&p # po:adp
 théo/&p # po:adp
+théorico/&p # po:adp
 therizino/&p # po:adp
 thermo/&p # po:adp
 thia/&p # po:adp
@@ -1036,6 +1041,7 @@ tomo/&p # po:adp
 topo/&p # po:adp
 toxico/&p # po:adp
 trachéo/&p # po:adp
+tragi/&p # po:adp
 trans/&p # po:adp
 traumato/&p # po:adp
 triaconta/&p # po:adp
