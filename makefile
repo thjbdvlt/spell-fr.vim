@@ -40,7 +40,7 @@ fr.aff: $(AFF)
 	$(CAT) $(AFF) | sed -E 's|\s*#.*||' \
 		| grep -E -v \
 		'^(ICONV|IGNORE|FULLSTRIP|BREAK|WORDCHARS)\b' > fr.aff
-	python3 ./scripts/add_incl.py . fr.aff
+	python3 ./scripts/add_incl.py '.' fr.aff
 
 fr.utf-8.spl: fr.dic fr.aff
 	vim -c "mkspell! fr" -c 'q'
