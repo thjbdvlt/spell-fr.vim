@@ -27,7 +27,7 @@ SFX ri Y 9
 SFX ri 0 /EsIs . # is:incl
 SFX ri eur·rice rice/Es . # is:fem
 SFX ri eur·rice ricex/Es . # is:fem is:nonb
-SFX ri ·rice /_eEs .  # is:mas
+SFX ri ·rice /EeEs .  # is:mas
 SFX ri ·rice icex/Es . # is:incl is:nonb
 SFX ri ·rice ice/Es . # is:incl
 SFX ri ·rice -rice/EsIs . # is:incl
@@ -140,12 +140,12 @@ SFX ec ·èche /Es . # is:mas
 SFX ec ·èche -èche/EsIs . # is:incl
 
 # enseignant -e
-SFX _e Y 5
-SFX _e ·e ·e/EsIS . # is:incl
-SFX _e ·e ·e·s/EsIS . # is:incl is:pl
-SFX _e ·e /Es . # is:mas
-SFX _e ·e e/EsIs . # is:fem
-SFX _e ·e -e/EsIs . # is:incl
+SFX Ee Y 5
+SFX Ee ·e ·e/EsIS . # is:incl
+SFX Ee ·e ·e·s/EsIS . # is:incl is:pl
+SFX Ee ·e /Es . # is:mas
+SFX Ee ·e e/EsIs . # is:fem
+SFX Ee ·e -e/EsIs . # is:incl
 
 # compl -ète -et
 SFX et Y 4

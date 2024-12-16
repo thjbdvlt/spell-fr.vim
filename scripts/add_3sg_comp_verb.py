@@ -4,14 +4,16 @@ import update_nsuf
 
 def _add_compflag(block: str) -> str:
     lines = block.split("\n")
-    for n, l in enumerate(lines):
+    nlines = len(lines)
+    for n in range(nlines):
+        l = lines[n]
         l = l.strip()
         if l.startswith("SFX") and "is:ipre" in l and "is:3sg" in l:
             l = re.split(" +", l)
             new = [i for i in l]
-            new[3] = new[3] + '/&v'
-            new[3] = new[3].replace('//', '/')
-            lines[n] = ' '.join(new)
+            new[3] = new[3].replace('/', '-/&v')
+            new = ' '.join(new)
+            lines.append(new)
     block = "\n".join(lines)
     return block
 

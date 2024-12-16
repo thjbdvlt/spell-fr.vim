@@ -1,195 +1,195 @@
 accoeurer/ # po:verb
-acoelomate/Es&n # po:noun is:mas
-aegagropile/Es&n # po:noun is:epi
-aegipan/Es&n # po:noun is:mas
-aegosome/Es&n # po:noun is:mas
-aegyrine/Es&n # po:noun is:fem
-ae/&n # po:noun is:mas is:inv
-aepyornis/&n # po:noun is:mas is:inv
-aequo/&a # po:adj is:inv is:epi
-aequo/&a # po:adv po:adj
-aeschne/Es&n # po:noun is:fem
-aeschnidé/Es&n # po:noun is:mas
+acoelomate/Es&& # po:noun is:mas
+aegagropile/Es&& # po:noun is:epi
+aegipan/Es&& # po:noun is:mas
+aegosome/Es&& # po:noun is:mas
+aegyrine/Es&& # po:noun is:fem
+ae/&& # po:noun is:mas is:inv
+aepyornis/&& # po:noun is:mas is:inv
+aequo/&& # po:adj is:inv is:epi
+aequo/&& # po:adv po:adj
+aeschne/Es&& # po:noun is:fem
+aeschnidé/Es&& # po:noun is:mas
 aeternam/ # po:adv
-aethuse/Es&n # po:noun is:fem
-althaea/Es&n # po:noun is:epi
-angstroem/Es&n # po:noun is:mas
-antioestrogène/Es&a # po:adj is:epi
-antioestrogène/Es&n # po:noun is:mas
-bicoeur/Es&a # po:adj is:epi
-bicoeur/Es&n # po:noun is:mas
-biocoenose/Es&n # po:noun is:fem
-boeuf/Es&n # po:noun is:mas
-caecal·e/,,al&a # po:adj
-caecotrophie/Es&n # po:noun is:fem
-caecum/Es&n # po:noun is:mas
-caenogenèse/Es&n # po:noun is:fem
-caesine/&n # po:noun is:sg is:fem
-caesium/Es&n # po:noun is:mas
+aethuse/Es&& # po:noun is:fem
+althaea/Es&& # po:noun is:epi
+angstroem/Es&& # po:noun is:mas
+antioestrogène/Es&& # po:adj is:epi
+antioestrogène/Es&& # po:noun is:mas
+bicoeur/Es&& # po:adj is:epi
+bicoeur/Es&& # po:noun is:mas
+biocoenose/Es&& # po:noun is:fem
+boeuf/Es&& # po:noun is:mas
+caecal·e/,,al&& # po:adj
+caecotrophie/Es&& # po:noun is:fem
+caecum/Es&& # po:noun is:mas
+caenogenèse/Es&& # po:noun is:fem
+caesine/&& # po:noun is:sg is:fem
+caesium/Es&& # po:noun is:mas
 caetera/ # po:adv
-chamaerops/&n # po:noun is:mas is:inv
-choeur/Es&n # po:noun is:mas
-coelacanthe/Es&n # po:noun is:mas
-coelentéré/Es&n # po:noun is:mas
-coeliaque/Es&a # po:adj is:epi
-coeliochirurgie/Es&n # po:noun is:fem
-coelioscope/Es&n # po:noun is:mas
-coelioscopie/Es&n # po:noun is:fem
-coelioscopique/Es&a # po:adj is:epi
-coelomate/Es&n # po:noun is:mas
-coelome/Es&n # po:noun is:mas
-coelomique/Es&a # po:adj is:epi
-coelostat/Es&n # po:noun is:mas
-coenesthésie/Es&n # po:noun is:fem
-coenure/Es&n # po:noun is:mas
-coenurose/Es&n # po:noun is:fem
+chamaerops/&& # po:noun is:mas is:inv
+choeur/Es&& # po:noun is:mas
+coelacanthe/Es&& # po:noun is:mas
+coelentéré/Es&& # po:noun is:mas
+coeliaque/Es&& # po:adj is:epi
+coeliochirurgie/Es&& # po:noun is:fem
+coelioscope/Es&& # po:noun is:mas
+coelioscopie/Es&& # po:noun is:fem
+coelioscopique/Es&& # po:adj is:epi
+coelomate/Es&& # po:noun is:mas
+coelome/Es&& # po:noun is:mas
+coelomique/Es&& # po:adj is:epi
+coelostat/Es&& # po:noun is:mas
+coenesthésie/Es&& # po:noun is:fem
+coenure/Es&& # po:noun is:mas
+coenurose/Es&& # po:noun is:fem
 coetera/ # po:adv
-coeur/Es&n # po:noun is:mas
-coeursage/Es&n # po:noun is:mas
-coeurse/Es&n # po:noun is:fem
-consoeur/Es&n # po:noun is:fem
-contrecoeur/Es&n # po:noun is:mas
-désoeuvré·e/,,_e&a # po:noun po:adj
-désoeuvrement/Es&n # po:noun is:mas
+coeur/Es&& # po:noun is:mas
+coeursage/Es&& # po:noun is:mas
+coeurse/Es&& # po:noun is:fem
+consoeur/Es&& # po:noun is:fem
+contrecoeur/Es&& # po:noun is:mas
+désoeuvré·e/,,Ee&& # po:noun po:adj
+désoeuvrement/Es&& # po:noun is:mas
 désoeuvrer/ # po:verb
-écoeurant·e/,,_e&a # po:adj
-écoeurement/Es&n # po:noun is:mas
+écoeurant·e/,,Ee&& # po:adj
+écoeurement/Es&& # po:noun is:mas
 écoeurer/a0p+ # po:verb
-elaeis/&n # po:noun is:mas is:inv
-entrenoeud/Es&n # po:noun is:mas
-exaequo/Es&n # po:noun is:epi
-foetal·e/,,al&a # po:adj
-foeticide/Es&n # po:noun is:mas
-foetologie/Es&n # po:noun is:fem
-foetopathie/Es&n # po:noun is:fem
-foetoscopie/Es&n # po:noun is:fem
-foetoscopique/Es&a # po:adj is:epi
-foetus/&n # po:noun is:mas is:inv
-gastrooesophagien·ne/,,ll&a # po:adj
-hypernovae/&n # po:noun is:pl is:fem
-hyperoestrogénie/Es&n # po:noun is:fem
-hypooestrogénie/Es&n # po:noun is:fem
-iléocaecal·e/,,al&a # po:adj
-lymphoedème/Es&n # po:noun is:mas
-manoeuvrabilité/Es&n # po:noun is:fem
-manoeuvrable/Es&a # po:adj is:epi
-manoeuvre/Es&n # po:noun is:epi
+elaeis/&& # po:noun is:mas is:inv
+entrenoeud/Es&& # po:noun is:mas
+exaequo/Es&& # po:noun is:epi
+foetal·e/,,al&& # po:adj
+foeticide/Es&& # po:noun is:mas
+foetologie/Es&& # po:noun is:fem
+foetopathie/Es&& # po:noun is:fem
+foetoscopie/Es&& # po:noun is:fem
+foetoscopique/Es&& # po:adj is:epi
+foetus/&& # po:noun is:mas is:inv
+gastrooesophagien·ne/,,ll&& # po:adj
+hypernovae/&& # po:noun is:pl is:fem
+hyperoestrogénie/Es&& # po:noun is:fem
+hypooestrogénie/Es&& # po:noun is:fem
+iléocaecal·e/,,al&& # po:adj
+lymphoedème/Es&& # po:noun is:mas
+manoeuvrabilité/Es&& # po:noun is:fem
+manoeuvrable/Es&& # po:adj is:epi
+manoeuvre/Es&& # po:noun is:epi
 manoeuvrer/a0p+ # po:verb
-manoeuvrier·ère/,,rr&n # po:noun
-melaena/Es&n # po:noun is:mas
-mélaena/Es&n # po:noun is:mas
-moeurs/&n # po:noun is:pl is:fem
-monocoeur/Es&a # po:adj is:epi
-monocoeur/Es&n # po:noun is:mas
-monoecie/Es&n # po:noun is:fem
-multicoeur/Es&a # po:adj is:epi
-multicoeur/Es&n # po:noun is:mas
-myxoedémateux·euse/,,xz&a # po:adj
-myxoedème/Es&n # po:noun is:mas
-naevi/&n # po:noun is:pl is:mas
-naevocarcinome/Es&n # po:noun is:mas
-naevus/&n # po:noun is:mas is:inv
-noeud/Es&n # po:noun is:mas
-novae/&n # po:noun is:pl is:fem
-oeconomicus/&a # po:adj is:mas is:inv
-oecuménicité/Es&n # po:noun is:fem
-oecuménique/Es&a # po:adj is:epi
-oecuménisme/Es&n # po:noun is:mas
-oedémateux·euse/,,xz&a # po:adj
-oedème/Es&n # po:noun is:mas
-oedicnème/Es&n # po:noun is:mas
-oedipe/Es&n # po:noun is:mas
-oedipien·ne/,,ll&a # po:adj
-oeil/Es&n # po:noun is:mas
-oeillade/Es&n # po:noun is:fem
-oeillard/Es&n # po:noun is:mas
+manoeuvrier·ère/,,rr&& # po:noun
+melaena/Es&& # po:noun is:mas
+mélaena/Es&& # po:noun is:mas
+moeurs/&& # po:noun is:pl is:fem
+monocoeur/Es&& # po:adj is:epi
+monocoeur/Es&& # po:noun is:mas
+monoecie/Es&& # po:noun is:fem
+multicoeur/Es&& # po:adj is:epi
+multicoeur/Es&& # po:noun is:mas
+myxoedémateux·euse/,,xz&& # po:adj
+myxoedème/Es&& # po:noun is:mas
+naevi/&& # po:noun is:pl is:mas
+naevocarcinome/Es&& # po:noun is:mas
+naevus/&& # po:noun is:mas is:inv
+noeud/Es&& # po:noun is:mas
+novae/&& # po:noun is:pl is:fem
+oeconomicus/&& # po:adj is:mas is:inv
+oecuménicité/Es&& # po:noun is:fem
+oecuménique/Es&& # po:adj is:epi
+oecuménisme/Es&& # po:noun is:mas
+oedémateux·euse/,,xz&& # po:adj
+oedème/Es&& # po:noun is:mas
+oedicnème/Es&& # po:noun is:mas
+oedipe/Es&& # po:noun is:mas
+oedipien·ne/,,ll&& # po:adj
+oeil/Es&& # po:noun is:mas
+oeillade/Es&& # po:noun is:fem
+oeillard/Es&& # po:noun is:mas
 oeiller/a0p+ # po:verb
-oeillère/Es&n # po:noun is:fem
-oeillet/Es&n # po:noun is:mas
-oeilleton/Es&n # po:noun is:mas
-oeilletonnage/Es&n # po:noun is:mas
+oeillère/Es&& # po:noun is:fem
+oeillet/Es&& # po:noun is:mas
+oeilleton/Es&& # po:noun is:mas
+oeilletonnage/Es&& # po:noun is:mas
 oeilletonner/a0p+ # po:verb
-oeillette/Es&n # po:noun is:fem
-oekoumène/Es&n # po:noun is:mas
-oenanthe/Es&n # po:noun is:fem
-oenanthique/Es&a # po:adj is:epi
-oenilisme/Es&n # po:noun is:mas
-oenolique/Es&a # po:adj is:epi
-oenolisme/Es&n # po:noun is:mas
-oenologie/Es&n # po:noun is:fem
-oenologique/Es&a # po:adj is:epi
-oenologue/Es&n # po:noun is:epi
-oenomètre/Es&n # po:noun is:mas
-oenométrie/Es&n # po:noun is:fem
-oenométrique/Es&a # po:adj is:epi
-oenophile/Es&a # po:noun po:adj is:epi
-oenotechnie/Es&n # po:noun is:fem
-oenotechnique/Es&a # po:adj is:epi
-oenothèque/Es&n # po:noun is:fem
-oenothéracée/Es&n # po:noun is:fem
-oenothera/Es&n # po:noun is:mas
-oenothéra/Es&n # po:noun is:mas
-oenothère/Es&n # po:noun is:mas
-oe/&n # po:noun is:mas is:inv
-oersted/Es&n # po:noun is:mas
-oerstite/Es&n # po:noun is:fem
-oesophagectomie/Es&n # po:noun is:fem
-oesophage/Es&n # po:noun is:mas
-oesophagien·ne/,,ll&a # po:adj
-oesophagique/Es&a # po:adj is:epi
-oesophagisme/Es&n # po:noun is:mas
-oesophagite/Es&n # po:noun is:fem
-oesophagomalacie/Es&n # po:noun is:fem
-oesophagoplastie/Es&n # po:noun is:fem
-oesophagoscope/Es&n # po:noun is:mas
-oesophagoscopie/Es&n # po:noun is:fem
-oesophagostomie/Es&n # po:noun is:fem
-oesophagotomie/Es&n # po:noun is:fem
-oestradiène/Es&n # po:noun is:mas
-oestradiol/Es&n # po:noun is:mas
-oestral·e/,,al&a # po:adj
-oestre/Es&n # po:noun is:mas
-oestriol/Es&n # po:noun is:mas
-oestrogène/Es&a # po:adj is:epi
-oestrogène/Es&n # po:noun is:mas
-oestrogénique/Es&a # po:adj is:epi
-oestrogénothérapie/Es&n # po:noun is:fem
-oestromane/Es&a # po:noun po:adj is:epi
-oestromanie/Es&n # po:noun is:fem
-oestrone/Es&n # po:noun is:fem
-oestroprogestatif·ve/,,fv&a # po:adj
-oestrus/&n # po:noun is:mas is:inv
-oeuf/Es&n # po:noun is:mas
-oeufrier/Es&n # po:noun is:mas
-oeuvé·e/,,_e&a # po:adj
-oeuvre/Es&n # po:noun is:epi
+oeillette/Es&& # po:noun is:fem
+oekoumène/Es&& # po:noun is:mas
+oenanthe/Es&& # po:noun is:fem
+oenanthique/Es&& # po:adj is:epi
+oenilisme/Es&& # po:noun is:mas
+oenolique/Es&& # po:adj is:epi
+oenolisme/Es&& # po:noun is:mas
+oenologie/Es&& # po:noun is:fem
+oenologique/Es&& # po:adj is:epi
+oenologue/Es&& # po:noun is:epi
+oenomètre/Es&& # po:noun is:mas
+oenométrie/Es&& # po:noun is:fem
+oenométrique/Es&& # po:adj is:epi
+oenophile/Es&& # po:noun po:adj is:epi
+oenotechnie/Es&& # po:noun is:fem
+oenotechnique/Es&& # po:adj is:epi
+oenothèque/Es&& # po:noun is:fem
+oenothéracée/Es&& # po:noun is:fem
+oenothera/Es&& # po:noun is:mas
+oenothéra/Es&& # po:noun is:mas
+oenothère/Es&& # po:noun is:mas
+oe/&& # po:noun is:mas is:inv
+oersted/Es&& # po:noun is:mas
+oerstite/Es&& # po:noun is:fem
+oesophagectomie/Es&& # po:noun is:fem
+oesophage/Es&& # po:noun is:mas
+oesophagien·ne/,,ll&& # po:adj
+oesophagique/Es&& # po:adj is:epi
+oesophagisme/Es&& # po:noun is:mas
+oesophagite/Es&& # po:noun is:fem
+oesophagomalacie/Es&& # po:noun is:fem
+oesophagoplastie/Es&& # po:noun is:fem
+oesophagoscope/Es&& # po:noun is:mas
+oesophagoscopie/Es&& # po:noun is:fem
+oesophagostomie/Es&& # po:noun is:fem
+oesophagotomie/Es&& # po:noun is:fem
+oestradiène/Es&& # po:noun is:mas
+oestradiol/Es&& # po:noun is:mas
+oestral·e/,,al&& # po:adj
+oestre/Es&& # po:noun is:mas
+oestriol/Es&& # po:noun is:mas
+oestrogène/Es&& # po:adj is:epi
+oestrogène/Es&& # po:noun is:mas
+oestrogénique/Es&& # po:adj is:epi
+oestrogénothérapie/Es&& # po:noun is:fem
+oestromane/Es&& # po:noun po:adj is:epi
+oestromanie/Es&& # po:noun is:fem
+oestrone/Es&& # po:noun is:fem
+oestroprogestatif·ve/,,fv&& # po:adj
+oestrus/&& # po:noun is:mas is:inv
+oeuf/Es&& # po:noun is:mas
+oeufrier/Es&& # po:noun is:mas
+oeuvé·e/,,Ee&& # po:adj
+oeuvre/Es&& # po:noun is:epi
 oeuvrer/a0p. # po:verb
-oeuvrette/Es&n # po:noun is:fem
-périoesophagien·ne/,,ll&a # po:adj
+oeuvrette/Es&& # po:noun is:fem
+périoesophagien·ne/,,ll&& # po:adj
 personae/ # po:adv
-phoeniciculture/Es&n # po:noun is:fem
-phoenix/&n # po:noun is:mas is:inv
-phytooestrogène/Es&n # po:noun is:mas
-poecilandrie/Es&n # po:noun is:fem
-poecile/Es&n # po:noun is:mas
-poecilitique/Es&a # po:adj is:epi
-poecilogynie/Es&n # po:noun is:fem
-poecilotherme/Es&a # po:adj is:epi
-poecilotherme/Es&n # po:noun is:mas
-poecilothermie/Es&n # po:noun is:fem
-pomoerium/Es&n # po:noun is:mas
-praesidium/Es&n # po:noun is:mas
-préoedipien·ne/,,ll&a # po:adj
-quadricoeur/Es&a # po:adj is:epi
-quadricoeur/Es&n # po:noun is:mas
-rancoeur/Es&n # po:noun is:fem
-soeur/Es&n # po:noun is:fem
-soeurette/Es&n # po:noun is:fem
-stoechiométrie/Es&n # po:noun is:fem
-stoechiométrique/Es&a # po:adj is:epi
-supernovae/&n # po:noun is:pl is:fem
-synoecisme/Es&n # po:noun is:mas
-taenia/Es&n # po:noun is:mas
-uraeus/&n # po:noun is:mas is:inv
-vitae/&a # po:adj is:mas is:inv
-voeu/lx&n # po:noun is:mas
+phoeniciculture/Es&& # po:noun is:fem
+phoenix/&& # po:noun is:mas is:inv
+phytooestrogène/Es&& # po:noun is:mas
+poecilandrie/Es&& # po:noun is:fem
+poecile/Es&& # po:noun is:mas
+poecilitique/Es&& # po:adj is:epi
+poecilogynie/Es&& # po:noun is:fem
+poecilotherme/Es&& # po:adj is:epi
+poecilotherme/Es&& # po:noun is:mas
+poecilothermie/Es&& # po:noun is:fem
+pomoerium/Es&& # po:noun is:mas
+praesidium/Es&& # po:noun is:mas
+préoedipien·ne/,,ll&& # po:adj
+quadricoeur/Es&& # po:adj is:epi
+quadricoeur/Es&& # po:noun is:mas
+rancoeur/Es&& # po:noun is:fem
+soeur/Es&& # po:noun is:fem
+soeurette/Es&& # po:noun is:fem
+stoechiométrie/Es&& # po:noun is:fem
+stoechiométrique/Es&& # po:adj is:epi
+supernovae/&& # po:noun is:pl is:fem
+synoecisme/Es&& # po:noun is:mas
+taenia/Es&& # po:noun is:mas
+uraeus/&& # po:noun is:mas is:inv
+vitae/&& # po:adj is:mas is:inv
+voeu/lx&& # po:noun is:mas
