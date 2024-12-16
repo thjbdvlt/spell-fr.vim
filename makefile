@@ -48,7 +48,7 @@ fr.utf-8.spl: fr.dic fr.aff
 
 # dump all words
 fr.txt: fr.utf-8.spl
-	nvim -c 'set spell spellang fr' -c 'spelldump!' -c 'write fr.txt' -c 'qa'
+	nvim -c 'set spell spelllang=fr' -c 'spelldump!' -c 'write fr.txt' -c 'qa'
 
 
 clean:

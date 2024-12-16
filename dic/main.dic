@@ -38185,10 +38185,10 @@ ladite/ # st:ledit po:det is:sg is:fem
 ladre/Es&& # po:noun po:adj is:epi
 ladrerie/Es&& # po:noun is:fem
 lady/GB&& # po:noun is:fem
-la/El&& # po:noun is:mas is:inv is:eli
-la/El # po:det is:sg is:fem is:eli
-la/El # po:det is:sg is:mas is:eli
-la/El # po:pron po:adp is:sg is:fem is:eli
+la/El&& # po:noun is:mas is:inv is:eli st:le·là
+la/El # po:det is:sg is:fem is:eli st:le·là
+la/El # po:det is:sg is:mas is:eli st:le·là
+la/El # po:pron po:adp is:sg is:fem is:eli st:le·là
 laetare/Es&& # po:noun is:mas
 lagen/Es&& # po:noun is:mas
 lagomorphe/Es&& # po:noun is:mas
@@ -38643,8 +38643,8 @@ lectotype/Es&& # po:noun is:mas
 lecture/Es&& # po:noun is:fem
 lécythe/Es&& # po:noun is:mas
 ledit/ # po:det is:sg is:mas
-le/El # po:det is:sg is:mas is:eli
-le/El # po:pron po:adp is:sg is:mas is:eli
+le/El # po:det is:sg is:mas is:eli st:le·la
+le/El # po:pron po:adp is:sg is:mas is:eli st·le·là
 lé/Es&& # po:noun is:mas
 légal·e/,,al&& # po:adj
 légalement/ # po:adv
@@ -38765,8 +38765,8 @@ lépidostée/Es&& # po:noun is:mas
 lépiote/Es&& # po:noun is:fem
 lépisme/Es&& # po:noun is:mas
 lépisostée/Es&& # po:noun is:mas
-le/ # po:det is:sg is:mas
-le/ # po:pron po:adp is:sg is:mas
+le/ # po:det is:sg is:mas st:le·la
+le/ # po:pron po:adp is:sg is:mas st:le·la
 léporidé/Es&& # po:noun is:mas
 leprechaun/Es&& # po:noun is:epi
 lèpre/Es&& # po:noun is:fem
@@ -38818,7 +38818,7 @@ lessiver/a0p+ # po:verb
 lessiveur·euse/,,rs&& # po:noun
 lessiviel·le/,,ll&& # po:adj
 lessivier·ère/,,rr&& # po:noun
-les/ # st:le po:det is:pl is:epi
+les/ # st:le·la po:det is:pl is:epi
 lestage/Es&& # po:noun is:mas
 leste/Es&& # po:adj is:epi
 lestement/ # po:adv
