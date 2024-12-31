@@ -3286,8 +3286,8 @@ antennate/Es&& # po:noun is:mas
 antenne/Es&& # po:noun is:fem
 antenniste/Es&& # po:noun is:epi
 antennule/Es&& # po:noun is:fem
-antépénultième/Es&& # po:adj is:epi is:ord
-antépénultième/Es&& # po:noun is:fem is:ord
+antépénultième/Es&&&n # po:adj is:epi is:ord
+antépénultième/Es&&&n # po:noun is:fem is:ord
 antépisode/Es&& # po:noun is:mas
 antéposer/a0p+ # po:verb
 antéposition/Es&& # po:noun is:fem
@@ -11431,10 +11431,10 @@ centennal·e/,,al&& # po:adj
 center/a0p+ # po:verb
 centésimal·e/,,al&& # po:adj
 cent/Es&& # po:noun is:mas
-cent/Es # po:num is:pl is:epi
+cent/Es&n # po:num is:pl is:epi
 centiare/Es&& # po:noun is:mas
 centibar/Es&& # po:noun is:mas
-centième/Es&& # po:noun po:adj is:epi is:ord
+centième/Es&&&n # po:noun po:adj is:epi is:ord
 centigrade/Es&& # po:noun po:adj is:epi
 centilage/Es&& # po:noun is:mas
 centile/Es&& # po:noun is:mas
@@ -12920,12 +12920,12 @@ cinnamique/Es&& # po:adj is:epi
 cinnamome/Es&& # po:noun is:mas
 cinoche/Es&& # po:noun is:mas
 cinoque/Es&& # po:noun po:adj is:epi
-cinq/ # po:num is:pl is:epi
+cinq/&n # po:num is:pl is:epi
 cinquantaine/Es&& # po:noun is:fem
 cinquantenaire/Es&& # po:noun po:adj is:epi
-cinquante/ # po:num is:pl is:epi
-cinquantième/Es&& # po:noun po:adj is:epi is:ord
-cinquième/Es&& # po:noun po:adj is:epi is:ord
+cinquante/&n # po:num is:pl is:epi
+cinquantième/Es&&&n # po:noun po:adj is:epi is:ord
+cinquième/Es&&&n # po:noun po:adj is:epi is:ord
 cinquièmement/ # po:adv
 cintrage/Es&& # po:noun is:mas
 cintre/Es&& # po:noun is:mas
@@ -12935,9 +12935,9 @@ cintrier·ère/,,rr&& # po:noun
 cipaye/Es&& # po:noun is:mas
 ci/ # po:adv
 cipolin/Es&& # po:noun is:mas
-c/&i # po:num
-c/&i # po:num
-C/&i # po:num st:c
+c/&i&n # po:num
+c/&i&n # po:num
+C/&i&n # po:num st:c
 ci/ # po:pron
 cippe/Es&& # po:noun is:mas
 cirage/Es&& # po:noun is:mas
@@ -14002,7 +14002,7 @@ combattre/uA # po:verb
 combava/Es&& # po:noun is:mas
 combe/Es&& # po:noun is:fem
 combien/ # po:adv
-combientième/Es&& # po:noun is:epi is:ord
+combientième/Es&&&n # po:noun is:epi is:ord
 combi/Es&& # po:noun is:epi
 combinable/Es&& # po:adj is:epi
 combinaison/Es&& # po:noun is:fem
@@ -20314,9 +20314,9 @@ deutéron/Es&& # po:noun is:mas
 deutéronomique/Es&& # po:adj is:epi
 deuton/Es&& # po:noun is:mas
 deutschemark/Es&& # po:noun is:mas
-deuxième/Es&& # po:noun po:adj is:epi is:ord
+deuxième/Es&&&n # po:noun po:adj is:epi is:ord
 deuxièmement/ # po:adv
-deux/ # po:num is:pl is:epi
+deux/&n # po:num is:pl is:epi
 deuzio/ # po:adv
 dévalaison/Es&& # po:noun is:fem
 dévalement/Es&& # po:noun is:mas
@@ -21393,10 +21393,10 @@ divulgation/Es&& # po:noun is:fem
 divulguable/Es&& # po:adj is:epi
 divulguer/a0p+ # po:verb
 divulsion/Es&& # po:noun is:fem
-dixième/Es&& # po:noun po:adj is:epi is:ord
+dixième/Es&&&n # po:noun po:adj is:epi is:ord
 dixièmement/ # po:adv
 dixit/ # po:adp
-dix/ # po:num is:pl is:epi
+dix/&n # po:num is:pl is:epi
 dizaine/Es&& # po:noun is:fem
 dizain/Es&& # po:noun is:mas
 dizygote/Es&& # po:adj is:epi
@@ -21715,8 +21715,8 @@ doux·ce/,,xc&& # po:noun po:adj
 doux/ # po:adv
 douzaine/Es&& # po:noun is:fem
 douzain/Es&& # po:noun is:mas
-douze/ # po:num is:pl is:epi
-douzième/Es&& # po:noun po:adj is:epi is:ord
+douze/&n # po:num is:pl is:epi
+douzième/Es&&&n # po:noun po:adj is:epi is:ord
 douzièmement/ # po:adv
 doxa/Es&& # po:noun is:fem
 doxal·e/al,, # po:adj
@@ -24215,7 +24215,7 @@ enharnacher/a0p+ # po:verb
 enherbement/Es&& # po:noun is:mas
 enherber/a0p+ # po:verb
 énieller/a0p+ # po:verb
-énième/Es&& # po:noun po:adj is:epi is:ord
+énième/Es&&&n # po:noun po:adj is:epi is:ord
 énigmatique/Es&& # po:adj is:epi
 énigmatiquement/ # po:adv
 énigme/Es&& # po:noun is:fem
@@ -33234,11 +33234,11 @@ huisserie/Es&& # po:noun is:fem
 huissier·ère/,,rr&& # po:noun
 huitaine/Es&& # po:noun is:fem
 huitain/Es&& # po:noun is:mas
-huitante/ # po:num is:pl is:epi
-huitantième/Es&& # po:noun po:adj is:epi is:ord
-huitième/Es&& # po:noun po:adj is:epi is:ord
+huitante/&n # po:num is:pl is:epi
+huitantième/Es&&&n # po:noun po:adj is:epi is:ord
+huitième/Es&&&n # po:noun po:adj is:epi is:ord
 huitièmement/ # po:adv
-huit/ # po:num is:pl is:epi
+huit/&n # po:num is:pl is:epi
 huitre/Es&& # po:noun is:fem
 huître/Es&& # po:noun is:fem
 huitrier·ère/,,rr&& # po:noun po:adj
@@ -34102,9 +34102,9 @@ ignorer/a0p+ # po:verb
 iguane/Es&& # po:noun is:mas
 iguanodon/Es&& # po:noun is:mas
 igue/Es&& # po:noun is:fem
-i/&i # po:num
-i/&i # po:num
-I/&i # po:num st:i
+i/&i&n # po:num
+i/&i&n # po:num
+I/&i&n # po:num st:i
 ijtihad/Es&& # po:noun is:mas
 ikebana/Es&& # po:noun is:mas
 iléal·e/,,al&& # po:adj
@@ -37178,7 +37178,7 @@ ivrognerie/Es&& # po:noun is:fem
 ivrogne·sse/,,ss&& # po:noun
 iwan/Es&& # po:noun is:mas
 ixia/Es&& # po:noun is:fem
-ixième/Es&& # po:noun po:adj is:epi is:ord
+ixième/Es&&&n # po:noun po:adj is:epi is:ord
 ixode/Es&& # po:noun is:mas
 jabiru/Es&& # po:noun is:mas
 jable/Es&& # po:noun is:mas
@@ -42763,7 +42763,7 @@ millénariste/Es&& # po:noun po:adj is:epi
 millénium/Es&& # po:noun is:mas
 millepatte/Es&& # po:noun is:mas
 millepertuis/&& # po:noun is:mas is:inv
-mille/ # po:num is:pl is:epi
+mille/&n # po:num is:pl is:epi
 millépore/Es&& # po:noun is:mas
 milleraie/Es&& # po:noun is:mas
 milleraies/&& # po:noun is:mas is:inv
@@ -42778,10 +42778,10 @@ milliaire/Es&& # po:noun is:mas
 milliampèremètre/Es&& # po:noun is:mas
 milliardaire/Es&& # po:noun is:epi
 milliard/Es&& # po:noun is:mas
-milliardième/Es&& # po:noun po:adj is:epi is:ord
+milliardième/Es&&&n # po:noun po:adj is:epi is:ord
 milliasse/Es&& # po:noun is:fem
 millibar/Es&& # po:noun is:mas
-millième/Es&& # po:noun po:adj is:epi is:ord
+millième/Es&&&n # po:noun po:adj is:epi is:ord
 millier/Es&& # po:noun is:mas
 milligrade/Es&& # po:noun is:mas
 milligramme/Es&& # po:noun
@@ -42791,13 +42791,13 @@ millimètre/Es&& # po:noun
 millimétrique/Es&& # po:adj is:epi
 millimicron/Es&& # po:noun is:mas
 million/Es&& # po:noun is:mas
-millionième/Es&& # po:noun po:adj is:epi is:ord
+millionième/Es&&&n # po:noun po:adj is:epi is:ord
 millionnaire/Es&& # po:noun po:adj is:epi
 milliröntgen/Es&& # po:noun is:mas
 millithermie/Es&& # po:noun is:fem
 milord/Es&& # po:noun is:mas
 milouin/Es&& # po:noun is:mas
-mil/ # po:num is:pl is:epi
+mil/&n # po:num is:pl is:epi
 mime/Es&& # po:noun is:epi
 mimer/a0p+ # po:verb
 mimesis/&& # po:noun is:inv is:fem
@@ -42947,9 +42947,9 @@ miocène/Es&& # po:adj is:epi
 miocène/Es&& # po:noun is:mas
 mioche/Es&& # po:noun is:epi
 mi/&& # po:noun is:mas is:inv
-m/&i # po:num
-m/&i # po:num
-M/&i # po:num st:m
+m/&i&n # po:num
+m/&i&n # po:num
+M/&i&n # po:num st:m
 miquelet/Es&& # po:noun is:mas
 mirabelle/Es&& # po:noun is:fem
 mirabellier/Es&& # po:noun is:mas
@@ -45170,7 +45170,7 @@ nettoyer/a0p+ # po:verb
 nettoyeur·euse/,,rs&& # po:noun
 neuchâtelois·e/,,Ee&& # po:noun po:adj
 neufchâtel/Es&& # po:noun is:mas
-neuf/ # po:num is:pl is:epi
+neuf/&n # po:num is:pl is:epi
 neuf·ve/,,fv&& # po:noun po:adj
 neumatique/Es&& # po:noun po:adj is:epi
 neume/Es&& # po:noun is:epi
@@ -45301,7 +45301,7 @@ neutrophage/Es&& # po:adj is:epi
 neutrophile/Es&& # po:adj is:epi
 neutrophile/Es&& # po:noun is:mas
 neuvaine/Es&& # po:noun is:fem
-neuvième/Es&& # po:noun po:adj is:epi is:ord
+neuvième/Es&&&n # po:noun po:adj is:epi is:ord
 neuvièmement/ # po:adv
 neuviémiste/Es # po:adj
 névé/Es&& # po:noun is:mas
@@ -45608,8 +45608,8 @@ nomothétique/Es&& # po:noun is:fem
 nonagénaire/Es&& # po:noun po:adj is:epi
 nonaire/Es&& # po:adj is:epi
 nonantaine/Es&& # po:noun is:fem
-nonante/ # po:num is:pl is:epi
-nonantième/Es&& # po:noun po:adj is:epi is:ord
+nonante/&n # po:num is:pl is:epi
+nonantième/Es&&&n # po:noun po:adj is:epi is:ord
 nonce/Es&& # po:noun is:mas
 noncer/a0p. # po:verb
 nonchalamment/ # po:adv
@@ -46143,9 +46143,9 @@ octal·e/,,al&& # po:adj
 octalogie/Es&& # po:noun is:fem
 octane/Es&& # po:noun is:mas
 octanoïque/Es&& # po:adj is:epi
-octante/ # po:num is:pl is:epi
+octante/&n # po:num is:pl is:epi
 octant/Es&& # po:noun is:mas
-octantième/Es&& # po:noun po:adj is:epi is:ord
+octantième/Es&&&n # po:noun po:adj is:epi is:ord
 octave/Es&& # po:noun is:fem
 octavier/a0p+ # po:verb
 octavin/Es&& # po:noun is:mas
@@ -46612,8 +46612,8 @@ onychophore/Es&& # po:noun is:mas
 onyxis/&& # po:noun is:mas is:inv
 onyx/&& # po:noun is:mas is:inv
 onzain/Es&& # po:noun is:mas
-onze/ # po:num is:pl is:epi
-onzième/Es&& # po:noun po:adj is:epi is:ord
+onze/&n # po:num is:pl is:epi
+onzième/Es&&&n # po:noun po:adj is:epi is:ord
 onzièmement/ # po:adv
 oocyte/Es&& # po:noun is:mas
 oogamie/Es&& # po:noun is:fem
@@ -49308,7 +49308,7 @@ pentoxyde/Es&& # po:noun is:mas
 pentu·e/,,Ee&& # po:adj
 penture/Es&& # po:noun is:fem
 penty/Es&& # po:noun is:mas
-pénultième/Es&& # po:adj is:epi is:ord
+pénultième/Es&&&n # po:adj is:epi is:ord
 pénurie/Es&& # po:noun is:fem
 pénurique/Es&& # po:adj is:epi
 péon/Es&& # po:noun is:mas
@@ -54530,8 +54530,8 @@ quantum/LT&& # po:noun is:mas
 qua/ # po:adv
 quarantaine/Es&& # po:noun is:fem
 quarantenaire/Es&& # po:noun po:adj is:epi
-quarante/ # po:num is:pl is:epi
-quarantième/Es&& # po:noun po:adj is:epi is:ord
+quarante/&n # po:num is:pl is:epi
+quarantième/Es&&&n # po:noun po:adj is:epi is:ord
 quarderonner/a0p+ # po:verb
 quark/Es&& # po:noun is:mas
 quarrer/a0p+ # po:verb
@@ -54573,12 +54573,12 @@ quaterne/Es&& # po:noun is:mas
 quaternion/Es&& # po:noun is:mas
 quater/ # po:adv
 quatorzaine/Es&& # po:noun is:fem
-quatorze/ # po:num is:pl is:epi
-quatorzième/Es&& # po:noun po:adj is:epi is:ord
+quatorze/&n # po:num is:pl is:epi
+quatorzième/Es&&&n # po:noun po:adj is:epi is:ord
 quatorzièmement/ # po:adv
 quatrain/Es&& # po:noun is:mas
-quatre/ # po:num is:pl is:epi
-quatrième/Es&& # po:noun po:adj is:epi is:ord
+quatre/&n # po:num is:pl is:epi
+quatrième/Es&&&n # po:noun po:adj is:epi is:ord
 quatrièmement/ # po:adv
 quatrillion/Es&& # po:noun is:mas
 quattrocentiste/Es&& # po:noun po:adj is:epi
@@ -54727,8 +54727,8 @@ quintupler/a0p+ # po:verb
 quintuplés/&& # po:noun is:pl is:mas
 quintuplet/Es&& # po:noun is:mas
 quinzaine/Es&& # po:noun is:fem
-quinze/ # po:num is:pl is:epi
-quinzième/Es&& # po:noun po:adj is:epi is:ord
+quinze/&n # po:num is:pl is:epi
+quinzième/Es&&&n # po:noun po:adj is:epi is:ord
 quinzièmement/ # po:adv
 quinziste/Es&& # po:noun is:mas
 quinzomadaire/Es&& # po:noun is:mas
@@ -60316,8 +60316,8 @@ séismographe/Es&& # po:noun is:mas
 séismologie/Es&& # po:noun is:fem
 seitan/Es&& # po:noun is:mas
 seizain/Es&& # po:noun is:mas
-seize/ # po:num is:pl is:epi
-seizième/Es&& # po:noun po:adj is:epi is:ord
+seize/&n # po:num is:pl is:epi
+seizième/Es&&&n # po:noun po:adj is:epi is:ord
 seizièmement/ # po:adv
 seiziémisme/Es&& # po:noun is:mas
 séjour/Es&& # po:noun is:mas
@@ -60566,8 +60566,8 @@ sepsis/&& # po:noun is:mas is:inv
 septain/Es&& # po:noun is:mas
 septal·e/,,al&& # po:adj
 septantaine/Es&& # po:noun is:fem
-septante/ # po:num is:pl is:epi
-septantième/Es&& # po:noun po:adj is:epi is:ord
+septante/&n # po:num is:pl is:epi
+septantième/Es&&&n # po:noun po:adj is:epi is:ord
 septembral·e/,,al&& # po:adj
 septembre/Es&& # po:noun is:mas
 septembrisades/&& # po:noun is:pl is:fem
@@ -60584,7 +60584,7 @@ septicémie/Es&& # po:noun is:fem
 septicémique/Es&& # po:adj is:epi
 septicité/Es&& # po:noun is:fem
 septidi/Es&& # po:noun is:mas
-septième/Es&& # po:noun po:adj is:epi is:ord
+septième/Es&&&n # po:noun po:adj is:epi is:ord
 septièmement/ # po:adv
 septillion/Es&& # po:noun is:mas
 septime/Es&& # po:noun is:fem
@@ -60595,7 +60595,7 @@ septolet/Es&& # po:noun is:mas
 septomycète/Es&& # po:noun is:mas
 septoriose/Es&& # po:noun is:fem
 sept/&& # po:noun is:mas is:inv
-sept/ # po:num is:pl is:epi
+sept/&n # po:num is:pl is:epi
 septuagénaire/Es&& # po:noun is:epi
 septuagésime/Es&& # po:noun is:fem
 septum/&& # po:noun is:sg is:mas
@@ -61271,9 +61271,9 @@ sivaïsme/Es&& # po:noun is:mas
 sivaïte/Es&& # po:noun po:adj is:epi
 sivapithèque/Es&& # po:noun is:mas
 sixain/Es&& # po:noun is:mas
-sixième/Es&& # po:noun po:adj is:epi is:ord
+sixième/Es&&&n # po:noun po:adj is:epi is:ord
 sixièmement/ # po:adv
-six/ # po:num is:pl is:epi
+six/&n # po:num is:pl is:epi
 sixte/Es&& # po:noun is:fem
 sixties/&& # po:noun is:pl is:fem
 sizain/Es&& # po:noun is:mas
@@ -61509,8 +61509,8 @@ soir/Es&& # po:noun is:mas
 soit/ # po:sconj po:adv
 soixantaine/Es&& # po:noun is:fem
 soixantenaire/Es&& # po:noun po:adj is:epi
-soixante/ # po:num is:pl is:epi
-soixantième/Es&& # po:noun po:adj is:epi is:ord
+soixante/&n # po:num is:pl is:epi
+soixantième/Es&&&n # po:noun po:adj is:epi is:ord
 soja/Es&& # po:noun is:mas
 solage/Es&& # po:noun is:mas
 solaire/Es&& # po:adj is:epi
@@ -66966,8 +66966,8 @@ treillagiste/Es&& # po:noun is:epi
 treille/Es&& # po:noun is:fem
 treillis/&& # po:noun is:mas is:inv
 treillisser/a0p+ # po:verb
-treize/ # po:num is:pl is:epi
-treizième/Es&& # po:noun po:adj is:epi is:ord
+treize/&n # po:num is:pl is:epi
+treizième/Es&&&n # po:noun po:adj is:epi is:ord
 treizièmement/ # po:adv
 treiziste/Es&& # po:noun is:epi
 trek/Es&& # po:noun is:mas
@@ -67018,8 +67018,8 @@ trench/Es&& # po:noun is:mas
 trentaine/Es&& # po:noun is:fem
 trentain/Es&& # po:noun is:mas
 trentenaire/Es&& # po:noun po:adj is:epi
-trente/ # po:num is:pl is:epi
-trentième/Es&& # po:noun po:adj is:epi is:ord
+trente/&n # po:num is:pl is:epi
+trentième/Es&&&n # po:noun po:adj is:epi is:ord
 trépanation/Es&& # po:noun is:fem
 trépaner/a0p+ # po:verb
 trépan/Es&& # po:noun is:mas
@@ -67453,9 +67453,9 @@ trognon/Es&& # po:noun is:mas
 trogocytose/Es&& # po:noun is:fem
 trogonidé/Es&& # po:noun is:mas
 troïka/Es&& # po:noun is:fem
-troisième/Es&& # po:noun po:adj is:epi is:ord
+troisième/Es&&&n # po:noun po:adj is:epi is:ord
 troisièmement/ # po:adv
-trois/ # po:num is:pl is:epi
+trois/&n # po:num is:pl is:epi
 trole/Es&& # po:noun is:fem
 trôler/a0p. # po:verb
 trolle/Es&& # po:noun is:fem
@@ -68081,7 +68081,7 @@ unidimensionnel·le/,,ll&& # po:adj
 unidirectionnalité/Es&& # po:noun is:fem
 unidirectionnel·le/,,ll&& # po:adj
 unidose/Es&& # po:noun is:fem
-unième/Es&& # po:noun po:adj is:epi is:ord
+unième/Es&&&n # po:noun po:adj is:epi is:ord
 unièmement/ # po:adv
 unifamilial·e/,,al&& # po:adj
 unifamiliale/Es&& # po:noun is:fem
@@ -69391,8 +69391,8 @@ vinette/Es&& # po:noun is:fem
 vineux·euse/,,xz&& # po:adj
 vingtaine/Es&& # po:noun is:fem
 vingtenaire/Es&& # po:noun po:adj is:epi
-vingt/Es # po:num is:pl is:epi
-vingtième/Es&& # po:noun po:adj is:epi is:ord
+vingt/Es&n # po:num is:pl is:epi
+vingtième/Es&&&n # po:noun po:adj is:epi is:ord
 vingtièmement/ # po:adv
 vinicole/Es&& # po:adj is:epi
 viniculture/Es&& # po:noun is:fem
@@ -69444,9 +69444,9 @@ vipère/Es&& # po:noun is:fem
 vipéridé/Es&& # po:noun is:mas
 vipérin·e/,,Ee&& # po:adj
 vipérine/Es&& # po:noun is:fem
-v/&i # po:num
-v/&i # po:num
-V/&i # po:num st:v
+v/&i&n # po:num
+v/&i&n # po:num
+V/&i&n # po:num st:v
 virage/Es&& # po:noun is:mas
 virago/Es&& # po:noun is:fem
 viral·e/,,al&& # po:adj
@@ -70150,9 +70150,9 @@ xiphoïdien·ne/,,ll&& # po:adj
 xiphophore/Es&& # po:noun is:mas
 xiphosure/Es&& # po:noun is:mas
 xi/&& # po:noun is:mas is:inv
-x/&i # po:num
-x/&i # po:num
-X/&i # po:num st:x
+x/&i&n # po:num
+x/&i&n # po:num
+X/&i&n # po:num st:x
 xml/&& # po:noun
 x/&& # po:noun is:mas is:inv
 xylème/Es&& # po:noun is:mas
@@ -70333,9 +70333,9 @@ zéphyrien·ne/,,ll&& # po:adj
 zéphyrine/Es&& # po:noun is:fem
 zeppelin/Es&& # po:noun is:mas
 zéro/Es&& # po:noun is:mas
-zéroième/Es&& # po:noun po:adj is:epi is:ord
-zéro/ # po:num is:sg is:epi
-zéro/ # po:num is:sg is:epi
+zéroième/Es&&&n # po:noun po:adj is:epi is:ord
+zéro/&n # po:num is:sg is:epi
+zéro/&n # po:num is:sg is:epi
 zérotage/Es&& # po:noun is:mas
 zérumbet/Es&& # po:noun is:mas
 zerver/a0p+ # po:verb
