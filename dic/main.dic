@@ -2112,7 +2112,7 @@ allélopathie/Es&& # po:noun is:fem
 alléluia/Es&& # po:noun is:mas
 allemand·e/,,Ee&& # po:noun po:adj
 allène/Es&& # po:noun is:mas
-aller/aA # po:verb
+aller/aA # po:verb po:saux
 aller/Es&& # po:noun is:mas
 allergène/Es&& # po:adj is:epi
 allergène/Es&& # po:noun is:mas
@@ -6009,9 +6009,8 @@ avocette/Es&& # po:noun is:fem
 avodiré/Es&& # po:noun is:mas
 avoine/Es&& # po:noun is:fem
 avoiner/a0p+ # po:verb
-avoirdupois/&& # po:noun is:mas is:inv
 avoir/Es&& # po:noun is:mas
-avoir/zA # po:verb
+avoir/zA # po:verb po:aux
 avoisinant·e/,,Ee&& # po:adj
 avoisiner/a0p+ # po:verb
 avonculaire/Es&& # po:adj is:epi
@@ -20418,7 +20417,7 @@ dévoiement/Es&& # po:noun is:mas
 dévoilement/Es&& # po:noun is:mas
 dévoiler/a0p+ # po:verb
 devoir/Es&& # po:noun is:mas
-devoir/pCpD # po:verb
+devoir/pCpD # po:verb po:saux
 dévoisement/Es&& # po:noun is:mas
 dévoiser/a0p+ # po:verb
 dévoltage/Es&& # po:noun is:mas
@@ -25909,7 +25908,7 @@ et/ # po:cconj
 étrésillon/Es&& # po:noun is:mas
 étrésillonnement/Es&& # po:noun is:mas
 étrésillonner/a0p+ # po:verb
-être/zE # po:verb
+être/zE # po:verb po:aux
 étrier/Es&& # po:noun is:mas
 étrille/Es&& # po:noun is:fem
 étriller/a0p+ # po:verb
@@ -26924,7 +26923,7 @@ fainéantiser/a0p. # po:verb
 faine/Es&& # po:noun is:fem
 faîne/Es&& # po:noun is:fem
 fairepart/Es&& # po:noun is:mas
-faire/wD # po:verb
+faire/wD # po:verb po:saux
 fairplay/Es&& # po:adj is:epi
 fairplay/Es&& # po:noun is:mas
 fairway/Es&& # po:noun is:mas
@@ -52452,7 +52451,7 @@ poutrelle/Es&& # po:noun is:fem
 poutser/a0p+ # po:verb
 pouture/Es&& # po:noun is:fem
 pouvoir/Es&& # po:noun is:mas
-pouvoir/pA # po:verb
+pouvoir/pA # po:verb po:saux
 pouzzolane/Es&& # po:noun is:fem
 powellite/Es&& # po:noun is:fem
 poya/Es&& # po:noun is:fem
@@ -59748,7 +59747,7 @@ saveter/ # po:verb
 savetier/Es&& # po:noun is:mas
 saveur/Es&& # po:noun is:fem
 savoir/Es&& # po:noun is:mas
-savoir/pE # po:verb
+savoir/pE # po:verb po:saux
 savoisien·ne/,,ll&& # po:noun po:adj
 savon/Es&& # po:noun is:mas
 savonnage/Es&& # po:noun is:mas
@@ -68852,7 +68851,7 @@ venimeusement/ # po:adv
 venimeux·euse/,,xz&& # po:adj
 venimosité/Es&& # po:noun is:fem
 venin/Es&& # po:noun is:mas
-venir/i0q+ # po:verb
+venir/i0q+ # po:verb po:saux
 vénitien·ne/,,ll&& # po:noun po:adj
 ventage/Es&& # po:noun is:mas
 ventail/lx&& # po:noun is:mas
@@ -69869,7 +69868,7 @@ vouer/a0p+ # po:verb
 vouge/Es&& # po:noun is:epi
 vouivre/Es&& # po:noun is:fem
 vouloir/Es&& # po:noun is:mas
-vouloir/pB # po:verb
+vouloir/pB # po:verb po:saux
 vous-même/ # po:pron is:2pl is:epi
 vousoiement/Es&& # po:noun is:mas
 vousoyer/a0p+ # po:verb
