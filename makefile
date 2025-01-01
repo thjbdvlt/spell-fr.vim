@@ -1,6 +1,6 @@
 VIMDIR = ~/.config/nvim/spell
 AFF = aff/options.aff aff/non-verbs.aff aff/rep.aff aff/verbs.aff
-DIC = dic/main.dic dic/deligatures.dic dic/prefixes.dic
+DIC = dic/main.dic dic/deligatures.dic dic/prefixes.dic dic/compounds.dic
 COMP = ./aff/compound.aff
 CAT = sed -e '$$s/$$/\n/' -s 
 

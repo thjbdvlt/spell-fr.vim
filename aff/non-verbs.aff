@@ -59,11 +59,12 @@ SFX rr ·ère -ère/EsIs . # is:incl
 SFX rr er·ère ère/Es . # is:fem
 
 # frauduleu -x -se
-SFX xz Y 4
+SFX xz Y 5
 SFX xz 0 /EsIs . # is:incl
 SFX xz ·euse / . # is:mas
 SFX xz ·euse -euse/EsIs . # is:incl
 SFX xz eux·euse euse/Es . # is:fem
+SFX xz eux·euse eux·se/Es . # is:fem
 
 # vi -ive -f
 SFX fv Y 4
@@ -73,7 +74,6 @@ SFX fv ·ve /Es . # is:mas
 SFX fv ·ve -ve/EsIs . # is:incl
 
 # aigu, aigüe
-# FIXME
 SFX ue Y 9
 SFX ue 0 /EsIs . # is:incl
 SFX ue e ë/ESIs . # is:fem

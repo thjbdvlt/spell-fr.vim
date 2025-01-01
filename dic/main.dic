@@ -52799,7 +52799,7 @@ prémenstruel·le/,,ll&& # po:adj
 prémessager/Es&& # po:noun po:adj is:mas
 prémices/&& # po:noun is:pl is:fem
 premièrement/ # po:adv
-premier·ère/,,rr&& # po:noun po:adj
+premier·ère/,,rr&& # po:noun po:adj is:ord
 prémilitaire/Es&& # po:adj is:epi
 prémisse/Es&& # po:noun is:fem
 prémium/Es&& # po:adj is:epi
@@ -57163,6 +57163,7 @@ rentrayer/a0p+ # po:verb
 rentrée/Es&& # po:noun is:fem
 rentrer/a0p+ # po:verb
 rentrouvrir/iC # po:verb
+entr'ouvrir/iC # po:verb
 renumérotation/Es&& # po:noun is:fem
 renuméroter/a0p+ # po:verb
 renvelopper/a0p+ # po:verb
@@ -66426,7 +66427,8 @@ tousseur·euse/,,rs&& # po:noun po:adj
 toussotement/Es&& # po:noun is:mas
 toussoter/a0p. # po:verb
 toussoteux·euse/,,xz&& # po:adj
-touste/ # st:touste
+touste/Es # st:touste po:pron
+touxte/Es # st:touste po:pron st:touste
 toute/Es&& # po:adv po:adj po:pron po:det is:sg is:fem st:tous·te
 toutefois/ # po:adv
 toutes/&& # po:adj is:pl is:fem st:tous·te
@@ -68062,7 +68064,7 @@ underground/Es&& # po:adj is:epi
 underground/Es&& # po:noun is:mas
 underground/&& # po:adj is:inv is:epi
 underscore/Es&& # po:noun is:mas
-un·e/,,Ee&& # po:noun
+un·e/,,Ee&& # po:noun po:det po:pron
 une/ # po:det is:sg is:fem
 unetelle/Es&& # po:noun is:fem
 unguéal·e/,,al&& # po:adj
