@@ -19527,7 +19527,7 @@ dermoponcture/Es&& # po:noun is:fem
 dermopuncture/Es&& # po:noun is:fem
 dermotrope/Es&& # po:adj is:epi
 dernièrement/ # po:adv
-dernier·ère/,,rr&& # po:noun po:adj
+dernier·ère/,,rr&& # po:noun po:adj po:ord
 derny/Es&& # po:noun is:mas
 dérobade/Es&& # po:noun is:fem
 dérobement/Es&& # po:noun is:mas
@@ -26963,7 +26963,7 @@ faldistoire/Es&& # po:noun is:mas
 falerne/Es&& # po:noun is:mas
 fallacieusement/ # po:adv
 fallacieux·euse/,,xz&& # po:adj
-falloir/qA # po:verb
+falloir/qA # po:verb po:saux
 falot·e/,,Ee&& # po:adj
 faloter/ # po:verb
 falot/Es&& # po:noun is:mas
@@ -38256,7 +38256,7 @@ lainier·ère/,,rr&& # po:noun po:adj
 laïque/Es&& # po:noun po:adj is:epi
 laird/Es&& # po:noun is:mas
 laisse/Es&& # po:noun is:fem
-laisser/a0p+ # po:verb
+laisser/a0p+ # po:verb po:seaux
 laitage/Es&& # po:noun is:mas
 laitance/Es&& # po:noun is:fem
 laité·e/,,Ee&& # po:adj
