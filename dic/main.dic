@@ -5418,7 +5418,7 @@ auctorialité/Es&& # po:noun
 auctorial/lx&& # po:adj
 aucuba/Es&& # po:noun is:mas
 aucun·e/,,Ee # po:det
-aucun·e/,,Ee&P # po:pron is:sg
+aucun·e/,,Ee # po:pron is:sg
 aucunement/ # po:adv
 audace/Es&& # po:noun is:fem
 audacieusement/ # po:adv
@@ -5516,7 +5516,7 @@ auner/a0p+ # po:verb
 auparavant/ # po:adv
 au/ # po:det po:adp is:sg is:mas
 auprès/ # po:adp
-auquel/&P # po:pron is:sg is:mas
+auquel/ # po:pron is:sg is:mas
 aura/Es&& # po:noun is:fem
 aurantiacée/Es&& # po:noun is:fem
 aurélie/Es&& # po:noun is:fem
@@ -5866,7 +5866,7 @@ autrement/ # po:adv
 autrichien·ne/,,ll&& # po:noun po:adj
 autruche/Es&& # po:noun is:fem
 autruchon/Es&& # po:noun is:mas
-autrui/&P # po:pron
+autrui/ # po:pron
 autunite/Es&& # po:noun is:fem
 auvent/Es&& # po:noun is:mas
 auvergnat·e/,,Ee&& # po:noun po:adj
@@ -5878,8 +5878,8 @@ auxiliariat/Es&& # po:noun is:mas
 auxiliateur·rice/,,ri&& # po:adj
 auxine/Es&& # po:noun is:fem
 auxotrophe/Es&& # po:adj is:epi
-auxquelles/&P # po:pron is:pl is:fem
-auxquels/&P # po:pron is:pl is:mas
+auxquelles/ # po:pron is:pl is:fem
+auxquels/ # po:pron is:pl is:mas
 aux/ # st:au po:det po:adp is:pl is:epi
 avachir/f0p+ # po:verb
 avachissement/Es&& # po:noun is:mas
@@ -10519,7 +10519,7 @@ capoeira/Es&& # po:noun is:fem
 capon·ne/,,ll&& # po:noun
 caponner/a0p. # po:verb
 caponnière/Es&& # po:noun is:fem
-ça/&P # po:pron is:sg is:mas
+ça/PP # po:pron is:sg is:mas
 caporal·e/,,al&& # po:noun
 caporaliser/a0p+ # po:verb
 caporalisme/Es&& # po:noun is:mas
@@ -11296,7 +11296,7 @@ cebuano/Es&& # po:noun is:mas
 cécidie/Es&& # po:noun is:fem
 cécidomyie/Es&& # po:noun is:fem
 cécilie/Es&& # po:noun is:fem
-ceci/&P # po:pron is:sg is:mas
+ceci/ # po:pron is:sg is:mas
 cécité/Es&& # po:noun is:fem
 cédant·e/,,Ee&& # po:noun po:adj
 cédérom/Es&& # po:noun is:mas
@@ -11316,7 +11316,7 @@ cédrière/Es&& # po:noun is:fem
 cédulaire/Es&& # po:adj is:epi
 cédule/Es&& # po:noun is:fem
 ce/El # po:det is:3sg
-ce/El&P # po:pron is:inv is:epi is:3sg
+ce/ElPP # po:pron is:inv is:epi is:3sg
 cégep/Es&& # po:noun is:mas
 cégésimal·e/,,al&& # po:adj
 cégétiste/Es&& # po:noun po:adj is:epi
@@ -11329,7 +11329,7 @@ ceinturier·ère/,,rr&& # po:noun
 ceinturon/Es&& # po:noun is:mas
 céladon/Es&& # po:noun is:mas
 céladon/&& # po:adj is:inv is:epi
-cela/&P # po:pron is:sg is:mas
+cela/PP # po:pron is:sg is:mas
 célébrant·e/,,Ee&& # po:noun po:adj
 célébrant/Es&& # po:noun is:mas
 célébration/Es&& # po:noun is:fem
@@ -11356,15 +11356,15 @@ célioscope/Es&& # po:noun is:mas
 célioscopie/Es&& # po:noun is:fem
 célioscopique/Es&& # po:adj is:epi
 cella/Es&& # po:noun is:fem
-celle/Es&P # po:pron is:fem
+celle/Es # po:pron is:fem
 cellérier·ère/,,rr&& # po:noun po:adj
-celleux/&P # po:pron
+celleux/ # po:pron
 cellier/Es&& # po:noun is:mas
 cellobiose/Es&& # po:noun is:mas
 cellophané·e/,,Ee&& # po:adj
 cellophane/Es&& # po:noun is:fem
 cellophaneuse/Es&& # po:noun is:fem
-cellui/&P # po:pron
+cellui/ # po:pron
 cellulaire/Es&& # po:adj is:epi
 cellulairement/ # po:adv
 cellular/Es&& # po:noun is:mas
@@ -11385,7 +11385,7 @@ celtitude/Es&& # po:noun is:fem
 celtium/Es&& # po:noun is:mas
 celtomane/Es&& # po:noun po:adj is:epi
 celtomanie/Es&& # po:noun is:fem
-celui/&P # po:pron is:sg is:mas
+celui/ # po:pron is:sg is:mas
 cémentation/Es&& # po:noun is:fem
 cémenter/a0p+ # po:verb
 cément/Es&& # po:noun is:mas
@@ -11570,7 +11570,7 @@ céroplastique/Es&& # po:noun is:fem
 cerque/Es&& # po:noun is:mas
 certain·e/,,Ee&& # po:adj
 certain·e/,,Ee # po:det
-certain·e/,,Ee&P # po:pron
+certain·e/,,Ee # po:pron
 certainement/ # po:adv
 certes/ # po:adv
 certifiant·e/,,Ee&& # po:adj
@@ -11647,12 +11647,12 @@ cet/ # po:det is:3sg is:mas
 cette/ # po:det is:3sg is:fem
 cétylique/Es&& # po:adj is:epi
 ceusses/&& # po:noun is:pl is:mas
-ceux/&P # po:pron is:3pl is:mas
+ceux/ # po:pron is:3pl is:mas
 cévenol·e/,,Ee&& # po:noun po:adj
 ceviche/Es&& # po:noun is:mas
 ceylanais·e/,,Ee&& # po:noun po:adj
 cézannien·ne/,,ll&& # po:adj
-cézigue/&P # po:pron is:3sg is:epi
+cézigue/ # po:pron is:3sg is:epi
 cf/ # po:verb
 chaabi/Es&& # po:noun is:mas
 chaâbi/Es&& # po:noun is:mas
@@ -11668,9 +11668,9 @@ chachacha/Es&& # po:noun is:mas
 chachlik/Es&& # po:noun is:mas
 chacone/Es&& # po:noun is:fem
 chaconne/Es&& # po:noun is:fem
-chacun·e/,,Ee&P # po:pron is:sg
-chacune/&P # po:pron is:sg is:fem
-chacun/&P # po:pron is:sg is:mas
+chacun·e/,,Ee # po:pron is:sg
+chacune/ # po:pron is:sg is:fem
+chacun/ # po:pron is:sg is:mas
 chadburn/Es&& # po:noun is:mas
 chadouf/Es&& # po:noun is:mas
 chaféisme/Es&& # po:noun is:mas
@@ -12941,7 +12941,7 @@ cipolin/Es&& # po:noun is:mas
 c/&i&n # po:num
 c/&i&n # po:num
 C/&i&n # po:num st:c
-ci/&P # po:pron
+ci/PP # po:pron
 cippe/Es&& # po:noun is:mas
 cirage/Es&& # po:noun is:mas
 circadien·ne/,,ll&& # po:adj
@@ -16894,7 +16894,7 @@ cuesta/Es&& # po:noun is:fem
 cuicui/Es&& # po:noun is:mas
 cuicui/ # po:intj
 cuider/Es&& # po:noun is:mas
-çuilà/&P # po:pron is:sg is:mas
+çuilà/PP # po:pron is:sg is:mas
 cuillerée/Es&& # po:noun is:fem
 cuillère/Es&& # po:noun is:fem
 cuiller/Es&& # po:noun is:fem
@@ -18616,7 +18616,7 @@ dégueu/lx&& # po:adj is:epi
 déguisement/Es&& # po:noun is:mas
 déguiser/a0p+ # po:verb
 dégun/Es&& # po:noun is:mas
-dégun/&P # po:pron is:sg is:mas
+dégun/ # po:pron is:sg is:mas
 dégurgitation/Es&& # po:noun is:fem
 dégurgiter/a0p+ # po:verb
 dégustateur·rice/,,ri&& # po:noun po:adj
@@ -20071,8 +20071,9 @@ despotisme/Es&& # po:noun is:mas
 desquamatif·ve/,,fv&& # po:adj
 desquamation/Es&& # po:noun is:fem
 desquamer/a0p+ # po:verb
-desquelles/&P # po:pron is:pl is:fem
-desquels/&P # po:pron is:pl is:mas
+desquels/,,ll # po:pron is:pl is:mas
+desquelles/,,ll # po:pron is:pl is:fem
+desquel·les/,,ll # po:pron is:pl is:incl
 dessablage/Es&& # po:noun is:mas
 dessablement/Es&& # po:noun is:mas
 dessabler/a0p+ # po:verb
@@ -21431,7 +21432,7 @@ docker/Es&& # po:noun is:epi
 dock/Es&& # po:noun is:mas
 docte/Es&& # po:adj is:epi
 doctement/ # po:adv
-docteur·e/,,EeGo&&&P # po:pron po:noun
+docteur·e/,,EeGo&& # po:pron po:noun
 doctissime/Es&& # po:adj is:epi
 doctoral·e/,,al&& # po:adj
 doctoralement/ # po:adv
@@ -21562,7 +21563,7 @@ domptage/Es&& # po:noun is:mas
 dompter/a0p+ # po:verb
 dompteur·euse/,,rs&& # po:noun po:adj
 donacie/Es&& # po:noun is:fem
-doña/Es&&&P # po:pron po:noun is:fem
+doña/Es&& # po:pron po:noun is:fem
 donataire/Es&& # po:noun is:epi
 donateur·rice/,,ri&& # po:noun
 donation/Es&& # po:noun is:fem
@@ -21587,7 +21588,7 @@ donneur·euse/,,rs&& # po:noun
 donquichotte/Es&& # po:noun is:mas
 donquichottesque/Es&& # po:adj is:epi
 donquichottisme/Es&& # po:noun is:mas
-dont/&P # po:pron
+dont/ # po:pron
 donut/Es&& # po:noun is:mas
 donzelle/Es&& # po:noun is:fem
 dopage/Es&& # po:noun is:mas
@@ -21981,7 +21982,7 @@ duplicité/Es&& # po:noun is:fem
 dupliquer/a0p+ # po:verb
 du/ # po:det is:sg is:mas po:adp
 dû/&& # po:noun is:sg is:mas
-duquel/&P # po:pron is:sg is:mas
+duquel/ # po:pron is:sg is:mas
 durabilité/Es&& # po:noun is:fem
 durable/Es&& # po:adj is:epi
 durablement/ # po:adv
@@ -23162,12 +23163,12 @@ elfique/Es&& # po:adj is:epi
 élitiste/Es&& # po:adj is:epi
 élixir/Es&& # po:noun is:mas
 ellébore/Es&& # po:noun is:mas
-elle-même/&P # po:pron is:3sg is:epi is:fem
-elle/&P # po:pron is:3sg is:fem
-elles-mêmes/&P # po:pron is:3pl is:epi is:fem
-elles/&P # po:pron is:3pl is:fem
-elleux-mêmes/&P # po:pron is:3pl is:epi is:incl
-elleux/&P # po:pron is:3pl is:incl
+elle-même/ # po:pron is:3sg is:epi is:fem
+elle/PP # po:pron is:3sg is:fem
+elles-mêmes/ # po:pron is:3pl is:epi is:fem
+elles/PP # po:pron is:3pl is:fem
+elleux-mêmes/ # po:pron is:3pl is:epi is:incl
+elleux/PP # po:pron is:3pl is:incl
 ellipse/Es&& # po:noun is:fem
 ellipsoïdal·e/,,al&& # po:adj
 ellipsoïde/Es&& # po:adj is:epi
@@ -23176,7 +23177,7 @@ ellipticité/Es&& # po:noun is:fem
 elliptique/Es&& # po:adj is:epi
 elliptiquement/ # po:adv
 elliptocytose/Es&& # po:noun is:fem
-ellui/&P # po:pron is:sg is:incl
+ellui/PP # po:pron is:sg is:incl
 élocution/Es&& # po:noun is:fem
 élocutoire/Es # po:adj
 élodée/Es&& # po:noun is:fem
@@ -24302,7 +24303,7 @@ enorgueillir/f0p+ # po:verb
 énostose/Es&& # po:noun is:fem
 énouer/a0p+ # po:verb
 en/ # po:adp
-en/&P # po:pron po:adp
+en/PP # po:pron po:adp
 enquérir/iM # po:verb
 enquerre/ # po:verb is:infi
 enquêté·e/,,Ee&& # po:adj
@@ -26079,8 +26080,8 @@ euthymie/Es&& # po:noun is:fem
 eutocie/Es&& # po:noun is:fem
 eutrophe/Es&& # po:adj is:epi
 eutrophisation/Es&& # po:noun is:fem
-eux-mêmes/&P # po:pron is:3pl is:epi is:mas
-eux/&P # po:pron is:3pl is:mas
+eux-mêmes/ # po:pron is:3pl is:epi is:mas
+eux/PP # po:pron is:3pl is:mas
 évacuant·e/,,Ee&& # po:adj
 évacuateur·rice/,,ri&& # po:noun po:adj
 évacuation/Es&& # po:noun is:fem
@@ -33938,11 +33939,11 @@ icarien·ne/,,ll&& # po:adj
 icaunais·e/,,Ee&& # po:noun po:adj
 iceberg/Es&& # po:noun is:mas
 icefield/Es&& # po:noun is:mas
-icelle/&P # po:pron po:det is:sg is:fem
-icelles/&P # po:pron po:det is:pl is:fem
-icelui/&P # po:pron po:det is:sg is:mas
+icelle/ # po:pron po:det is:sg is:fem
+icelles/ # po:pron po:det is:pl is:fem
+icelui/ # po:pron po:det is:sg is:mas
 iceshelf/Es&& # po:noun is:mas
-iceux/&P # po:pron po:det is:pl is:mas
+iceux/ # po:pron po:det is:pl is:mas
 ichneumon/Es&& # po:noun is:mas
 ichnologie/Es&& # po:noun is:fem
 ichor/Es&& # po:noun is:mas
@@ -34069,10 +34070,10 @@ id/ # po:adv
 iduronique/Es&& # po:adj is:epi
 idylle/Es&& # po:noun is:fem
 idyllique/Es&& # po:adj is:epi
-ielles/&P # po:pron
-iel/Si&P # po:pron is:3sg is:epi
-iels/&P # po:pron
-iels/Si&P # po:pron is:3pl is:epi
+ielles/PP # po:pron
+iel/SiPP # po:pron is:3sg is:epi
+iels/PP # po:pron
+iels/SiPP # po:pron is:3pl is:epi
 if/Es&& # po:noun is:mas
 igbo/Es&& # po:noun is:mas
 igloo/Es&& # po:noun is:mas
@@ -34194,8 +34195,8 @@ ilot/Es&& # po:noun is:mas
 ilotier·ère/,,rr&& # po:noun
 îlotier·ère/,,rr&& # po:noun
 ilotisme/Es&& # po:noun is:mas
-il/Si&P # po:pron is:3sg is:mas
-ils/Si&P # po:pron is:3pl is:mas
+il/SiPP # po:pron is:3sg is:mas
+ils/SiPP # po:pron is:3pl is:mas
 image/Es&& # po:noun is:fem
 imager/a0p+ # po:verb
 imagerie/Es&& # po:noun is:fem
@@ -37388,13 +37389,13 @@ jeanfoutre/Es&& # po:noun is:mas
 jeannette/Es&& # po:noun is:fem
 jeans/&& # po:noun is:mas is:inv
 jectisse/Es&& # po:adj is:fem
-je/El&P # po:pron is:1sg is:epi
+je/ElPP # po:pron is:1sg is:epi
 jeep/Es&& # po:noun is:fem
 jéjunal·e/,,al&& # po:adj
 jéjunum/Es&& # po:noun is:mas
 jennérien·ne/,,ll&& # po:adj
 jenny/Es&& # po:noun is:fem
-je/&P # po:pron is:1sg is:epi
+je/PP # po:pron is:1sg is:epi
 jérémiade/Es&& # po:noun is:fem
 jerez/&& # po:noun is:mas is:inv
 jerk/Es&& # po:noun is:mas
@@ -38220,7 +38221,7 @@ lady/GB&& # po:noun is:fem
 la/El # po:det is:sg is:fem is:eli st:le·là
 la/El # po:det is:sg is:mas is:eli st:le·là
 la/El&& # po:noun is:mas is:inv is:eli st:le·là
-la/El&P # po:pron po:adp is:sg is:fem is:eli st:le·là
+la/ElPP # po:pron po:adp is:sg is:fem is:eli st:le·là
 laetare/Es&& # po:noun is:mas
 lagen/Es&& # po:noun is:mas
 lagomorphe/Es&& # po:noun is:mas
@@ -38474,7 +38475,7 @@ laptot/Es&& # po:noun is:mas
 laquage/Es&& # po:noun is:mas
 laquais/&& # po:noun is:mas is:inv
 laque/Es&& # po:noun is:epi
-laquelle/&P # po:pron is:sg is:fem
+laquelle/ # po:pron is:sg is:fem
 laquer/a0p+ # po:verb
 laqueur·euse/,,rs&& # po:noun po:adj
 laqueux·euse/,,xz&& # po:adj
@@ -38550,7 +38551,7 @@ lasso/Es&& # po:noun is:mas
 lastex/&& # po:noun is:mas is:inv
 lasting/Es&& # po:noun is:mas
 la/ # st:le po:det is:sg is:fem
-la/&P # st:le po:pron po:adp is:sg is:fem
+la/PP # st:le po:pron po:adp is:sg is:fem
 lasure/Es&& # po:noun is:fem
 lasurer/a0p+ # po:verb
 latanier/Es&& # po:noun is:mas
@@ -38678,7 +38679,7 @@ lecture/Es&& # po:noun is:fem
 lécythe/Es&& # po:noun is:mas
 ledit/ # po:det is:sg is:mas
 le/El # po:det is:sg is:mas is:eli st:le·la
-le/El&P # po:pron po:adp is:sg is:mas is:eli st·le·là
+le/ElPP # po:pron po:adp is:sg is:mas is:eli st·le·là
 lé/Es&& # po:noun is:mas
 légal·e/,,al&& # po:adj
 légalement/ # po:adv
@@ -38801,7 +38802,7 @@ lépiote/Es&& # po:noun is:fem
 lépisme/Es&& # po:noun is:mas
 lépisostée/Es&& # po:noun is:mas
 le/ # po:det is:sg is:mas st:le·la
-le/&P # po:pron po:adp is:sg is:mas st:le·la
+le/PP # po:pron po:adp is:sg is:mas st:le·la
 léporidé/Es&& # po:noun is:mas
 leprechaun/Es&& # po:noun is:epi
 lèpre/Es&& # po:noun is:fem
@@ -38823,7 +38824,7 @@ leptonique/Es&& # po:adj is:epi
 leptospire/Es&& # po:noun is:mas
 leptospirose/Es&& # po:noun is:fem
 lepture/Es&& # po:noun is:mas
-lequel/&P # po:pron is:sg is:mas
+lequel/ # po:pron is:sg is:mas
 lerche/ # po:adv
 lérot/Es&& # po:noun is:mas
 lesbianisme/Es&& # po:noun is:mas
@@ -38842,9 +38843,9 @@ lésion/Es&& # po:noun is:fem
 lésionnaire/Es&& # po:adj is:epi
 lésionnel·le/,,ll&& # po:adj
 lès/ # po:adp
-les/&P # po:pron po:adp is:3pl is:epi
-lesquelles/&P # po:pron is:pl is:fem
-lesquels/&P # po:pron is:pl is:mas
+les/PP # po:pron po:adp is:3pl is:epi
+lesquelles/ # po:pron is:pl is:fem
+lesquels/ # po:pron is:pl is:mas
 lesquerellique/Es&& # po:adj is:epi
 lessivable/Es&& # po:adj is:epi
 lessivage/Es&& # po:noun is:mas
@@ -38904,10 +38905,10 @@ leude/Es&& # po:noun is:mas
 leu/&& # po:noun is:sg is:mas
 leur/Es # po:det is:epi
 leur/Es&& # po:noun is:epi
-leur/&P # po:pron po:adp is:3pl is:epi
+leur/PP # po:pron po:adp is:3pl is:epi
 leurre/Es&& # po:noun is:mas
 leurrer/a0p+ # po:verb
-leurszigues/&P # po:pron is:3pl is:epi
+leurszigues/ # po:pron is:3pl is:epi
 levage/Es&& # po:noun is:mas
 levageur·euse/,,rs&& # po:noun
 levain/Es&& # po:noun is:mas
@@ -39853,9 +39854,9 @@ luger/a0p. # po:verb
 lugeur·euse/,,rs&& # po:noun
 lugubre/Es&& # po:adj is:epi
 lugubrement/ # po:adv
-lui-même/&P # po:pron is:3sg is:epi is:mas
-lui/&P # po:pron is:3sg is:mas
-lui/&P # po:pron po:adp is:3sg is:epi
+lui-même/ # po:pron is:3sg is:epi is:mas
+lui/PP # po:pron is:3sg is:mas
+lui/PP # po:pron po:adp is:3sg is:epi
 luire/yU # po:verb
 luisance/Es&& # po:noun is:fem
 luisant·e/,,Ee&& # po:adj
@@ -40190,13 +40191,13 @@ maculature/Es&& # po:noun is:fem
 macule/Es&& # po:noun is:fem
 maculer/a0p+ # po:verb
 macumba/Es&& # po:noun is:fem
-madame/Es&&&P # po:pron po:noun is:fem
+madame/Es&& # po:pron po:noun is:fem
 madapolam/Es&& # po:noun is:mas
 madécasse/Es&& # po:noun is:fem
 madéfier/a0p+ # po:verb
 madeleine/Es&& # po:noun is:fem
 madelonnette/Es&& # po:noun is:fem
-mademoiselle/&&&P # po:pron po:noun is:sg is:fem
+mademoiselle/&& # po:pron po:noun is:sg is:fem
 made/&& # po:adj is:inv is:epi
 madère/Es&& # po:noun is:mas
 madériser/a0p+ # po:verb
@@ -40422,8 +40423,8 @@ mais/ # po:cconj
 maïs/&& # po:noun is:mas is:inv
 maistrance/Es&& # po:noun is:fem
 maïthili/Es&& # po:noun is:mas
-maitre·sse/,,ss&&&P # po:pron po:noun po:adj
-maître·sse/,,ss&&&P # po:pron po:noun po:adj
+maitre·sse/,,ss&& # po:pron po:noun po:adj
+maître·sse/,,ss&& # po:pron po:noun po:adj
 maitrisable/Es&& # po:adj is:epi
 maîtrisable/Es&& # po:adj is:epi
 maitrise/Es&& # po:noun is:fem
@@ -40638,7 +40639,7 @@ malvoyant·e/,,Ee&& # po:noun po:adj
 malware/Es&& # po:noun is:mas
 mama/Es&& # po:noun is:fem
 mamamouchi/Es&& # po:noun is:mas
-maman/Es&&&P # po:pron po:noun is:fem
+maman/Es&& # po:pron po:noun is:fem
 mamba/Es&& # po:noun is:mas
 mambo/Es&& # po:noun is:mas
 mamelle/Es&& # po:noun is:fem
@@ -41659,7 +41660,7 @@ médullosurrénal·e/,,al&& # po:adj
 médusant·e/,,Ee&& # po:adj
 méduse/Es&& # po:noun is:fem
 méduser/a0p+ # po:verb
-me/El&P # po:pron po:adp is:1sg is:epi is:eli
+me/El # po:pron po:adp is:1sg is:epi is:eli
 meeting/Es&& # po:noun is:mas
 méfaire/wD # po:verb
 méfait/Es&& # po:noun is:mas
@@ -41964,7 +41965,7 @@ méphitique/Es&& # po:adj is:epi
 méphitisme/Es&& # po:noun is:mas
 méplat·e/,,Ee&& # po:adj
 méplat/Es&& # po:noun is:mas
-me/&P # po:pron po:adp is:1sg is:epi
+me/ # po:pron po:adp is:1sg is:epi
 méprendre/tG # po:verb
 méprisable/Es&& # po:adj is:epi
 méprisant·e/,,Ee&& # po:adj
@@ -42083,9 +42084,9 @@ mescal/Es&& # po:noun is:mas
 mescaline/Es&& # po:noun is:fem
 mesclun/Es&& # po:noun is:mas
 mesdames/&& # po:noun is:pl is:fem
-mesdames/&P # po:pron is:pl is:fem
+mesdames/ # po:pron is:pl is:fem
 mesdemoiselles/&& # po:noun is:pl is:fem
-mesdemoiselles/&P # po:pron is:pl is:fem
+mesdemoiselles/ # po:pron is:pl is:fem
 mésemploi/Es&& # po:noun is:mas
 mésencéphale/Es&& # po:noun is:mas
 mésencéphalique/Es&& # po:adj is:epi
@@ -42158,7 +42159,7 @@ messager·ère/,,rr&& # po:noun
 messagerie/Es&& # po:noun is:fem
 messe/Es&& # po:noun is:fem
 messeigneurs/&& # po:noun is:pl is:mas
-messeigneurs/&P # po:pron is:pl is:mas
+messeigneurs/ # po:pron is:pl is:mas
 messeoir/pW # po:verb
 messer/Es&& # po:noun is:mas
 messianique/Es&& # po:adj is:epi
@@ -42170,9 +42171,9 @@ messidor/Es&& # po:noun is:mas
 messie/Es&& # po:noun is:epi
 messier/Es&& # po:noun is:mas
 messieurs/&& # po:noun is:pl is:mas
-messieurs/&P # po:pron is:pl is:mas
+messieurs/ # po:pron is:pl is:mas
 messin·e/,,Ee&& # po:noun po:adj
-messire/Es&&&P # po:pron po:noun is:mas
+messire/Es&& # po:pron po:noun is:mas
 messoir/pW # po:verb
 mess/&& # po:noun is:mas is:inv
 mestrance/Es&& # po:noun is:fem
@@ -42458,7 +42459,7 @@ mévente/Es&& # po:noun is:fem
 mexicain·e/,,Ee&& # po:noun po:adj
 mexicanisation/Es&& # po:noun is:fem
 mézail/Es&& # po:noun is:mas
-mézigue/&P # po:pron is:1sg is:epi
+mézigue/ # po:pron is:1sg is:epi
 mezzanine/Es&& # po:noun is:epi
 mezzo/Es&& # po:noun is:epi
 mezzo/&& # po:noun is:inv is:epi
@@ -42727,7 +42728,7 @@ mijoter/a0p+ # po:verb
 mijoteur/Es&& # po:noun is:mas
 mijoteuse/Es&& # po:noun is:fem
 mikado/Es&& # po:noun is:mas
-milady/GB&&&P # po:pron po:noun is:fem
+milady/GB&& # po:pron po:noun is:fem
 milanais·e/,,Ee&& # po:noun po:adj
 milan/Es&& # po:noun is:mas
 mildiou/Es&& # po:noun is:mas
@@ -43217,7 +43218,7 @@ mohair/Es&& # po:noun is:mas
 mohawk/Es&& # po:noun po:adj is:epi
 moie/Es&& # po:noun is:fem
 moignon/Es&& # po:noun is:mas
-moi-même/&P # po:pron is:1sg is:epi
+moi-même/ # po:pron is:1sg is:epi
 moindre/Es&& # po:adj is:epi
 moindrement/ # po:adv
 moineau/lx&& # po:noun is:mas
@@ -43227,7 +43228,7 @@ moinillon/Es&& # po:noun is:mas
 moins/ # po:adv po:adp
 moins/&& # po:noun is:mas is:inv
 moinssoyer/a0p+ # po:verb
-moi/&P # po:pron is:epi is:1sg
+moi/PP # po:pron is:epi is:1sg
 moirage/Es&& # po:noun is:mas
 moire/Es&& # po:noun is:fem
 moiré/Es&& # po:noun is:mas
@@ -43597,8 +43598,8 @@ monoxyle/Es&& # po:adj is:epi
 monozygote/Es&& # po:noun po:adj is:epi
 mon/ # po:det is:sg is:epi
 monseigneur/&& # po:noun is:sg is:mas
-monseigneur/&P # po:pron is:sg is:mas
-monsieur/&&&P # po:pron po:noun is:sg is:mas
+monseigneur/ # po:pron is:sg is:mas
+monsieur/&& # po:pron po:noun is:sg is:mas
 monsignore/LT&& # po:noun is:mas
 monsignor/Es&& # po:noun is:mas
 monstrance/Es&& # po:noun is:fem
@@ -43815,7 +43816,7 @@ mosellan·e/,,Ee&& # po:noun po:adj
 mosette/Es&& # po:noun is:fem
 mosquée/Es&& # po:noun is:fem
 mossi/Es&& # po:noun po:adj is:epi
-môssieur/&&&P # po:pron po:noun is:sg is:mas
+môssieur/&& # po:pron po:noun is:sg is:mas
 mostelle/Es&& # po:noun is:fem
 motacillidé/Es&& # po:noun is:mas
 motamoter/a0p. # po:verb
@@ -45686,7 +45687,7 @@ nostalgie/Es&& # po:noun is:fem
 nostalgique/Es&& # po:noun po:adj is:epi
 nostalgiquement/ # po:adv
 nostoc/Es&& # po:noun is:mas
-noszigues/&P # po:pron is:3pl is:epi
+noszigues/ # po:pron is:3pl is:epi
 notabilité/Es&& # po:noun is:fem
 notable/Es&& # po:adj is:epi
 notable/Es&& # po:noun is:mas
@@ -45741,10 +45742,9 @@ nourrissement/Es&& # po:noun is:mas
 nourrisseur/Es&& # po:noun is:mas
 nourrisson/Es&& # po:noun is:mas
 nourriture/Es&& # po:noun is:fem
-nous-même/Es&P # po:pron is:1pl is:epi
-nous-même/&P # po:pron is:1pl is:epi
-nous/&P # po:pron is:3pl is:epi
-nous/&P # po:pron po:adp is:3pl is:epi
+nous-même/Es # po:pron is:1pl is:epi
+nous-même/ # po:pron is:1pl is:epi
+nous/PP # po:pron is:3pl is:epi
 nouure/Es&& # po:noun is:fem
 nouveau·elle/,,la&& # po:noun po:adj
 nouveauté/Es&& # po:noun is:fem
@@ -45840,7 +45840,7 @@ nuitard·e/,,Ee&& # po:noun
 nuitée/Es&& # po:noun is:fem
 nuit/Es&& # po:noun is:fem
 nullard·e/,,Ee&& # po:noun po:adj
-nul·le/,,ll&P # po:det po:pron
+nul·le/,,ll # po:det po:pron
 nul·le/,,ll&& # po:noun po:adj
 nullement/ # po:adv
 nullipare/Es&& # po:adj is:epi
@@ -46595,7 +46595,7 @@ onomastique/Es&& # po:adj is:epi
 onomastique/Es&& # po:noun is:fem
 onomatopée/Es&& # po:noun is:fem
 onomatopéique/Es&& # po:adj is:epi
-on/&P # po:pron is:3sg is:epi
+on/PP # po:pron is:3sg is:epi
 onques/ # po:adv
 ontarien·ne/,,ll&& # po:noun po:adj
 ontogenèse/Es&& # po:noun is:fem
@@ -47331,7 +47331,7 @@ ouléma/Es&& # po:noun is:mas
 oulipien·ne/,,ll&& # po:noun po:adj
 oumma/Es&& # po:noun is:fem
 ou/ # po:cconj
-où/&P # po:pron po:adv
+où/PP # po:pron po:adv
 oups/ # po:intj
 ouragan/Es&& # po:noun is:mas
 ouralien·ne/,,ll&& # po:noun po:adj
@@ -48023,7 +48023,7 @@ paonneau/lx&& # po:noun is:mas
 paon·ne/,,ll&& # po:noun
 papabile/Es&& # po:noun po:adj is:mas
 papable/Es&& # po:adj is:epi
-papa/Es&&&P # po:pron po:noun is:mas
+papa/Es&& # po:pron po:noun is:mas
 papaïne/Es&& # po:noun is:fem
 papal·e/,,al&& # po:adj
 papamobile/Es&& # po:noun is:fem
@@ -49732,7 +49732,7 @@ personne/Es&& # po:noun is:fem
 personnel/Es&& # po:noun is:mas
 personnel·le/,,ll&& # po:adj
 personnellement/ # po:adv
-personne/&P # po:pron is:sg is:mas
+personne/ # po:pron is:sg is:mas
 personnification/Es&& # po:noun is:fem
 personnifier/a0p+ # po:verb
 perso/&& # po:adj is:inv is:epi
@@ -51371,7 +51371,7 @@ plumitif/Es&& # po:noun is:mas
 plumpouding/Es&& # po:noun is:mas
 plumule/Es&& # po:noun is:fem
 plupart&& # po:noun
-plupart/&P # po:pron is:pl is:epi
+plupart/ # po:pron is:pl is:epi
 plural·e/,,al&& # po:adj
 pluralisation/Es&& # po:noun is:fem
 pluraliser/a0p+ # po:verb
@@ -51409,7 +51409,7 @@ plurivalent·e/,,Ee&& # po:adj
 plurivocité/Es&& # po:noun is:fem
 plurivoque/Es&& # po:adj is:epi
 plusieurs/ # po:det is:pl is:epi
-plusieurs/&P # po:pron is:pl is:epi
+plusieurs/ # po:pron is:pl is:epi
 plus/ # po:adv
 plus/&& # po:noun is:mas is:inv
 plussoyer/a0p+ # po:verb
@@ -53319,7 +53319,7 @@ prof/Es&& # po:noun is:epi
 professant·e/,,Ee&& # po:noun po:adj
 professer/a0p+ # po:verb
 profe·sse/,,ss&& # po:noun po:adj
-professeur·e/,,Ee&&&P # po:pron po:noun
+professeur·e/,,Ee&& # po:pron po:noun
 profession/Es&& # po:noun is:fem
 professionnalisant·e/,,Ee&& # po:adj
 professionnalisation/Es&& # po:noun is:fem
@@ -54596,8 +54596,8 @@ quebracho/Es&& # po:noun is:mas
 québracho/Es&& # po:noun is:mas
 quechua/Es&& # po:noun is:mas
 quéchua/Es&& # po:noun is:mas
-que/El&P # po:pron is:eli
-que/El&P # po:sconj po:pron is:eli
+que/El # po:pron is:eli
+que/El # po:sconj po:pron is:eli
 que/El # po:sconj:pron is:eli
 queen/Es&& # po:noun is:fem
 queer/Es&& # po:noun po:adj is:epi
@@ -54615,8 +54615,8 @@ quenotte/Es&& # po:noun is:fem
 quenouillée/Es&& # po:noun is:fem
 quenouille/Es&& # po:noun is:fem
 quenouillette/Es&& # po:noun is:fem
-qué/&P # po:pron
-que/&P # po:sconj po:pron
+qué/ # po:pron
+que/ # po:sconj po:pron
 quéquette/Es&& # po:noun is:fem
 quérable/Es&& # po:adj is:epi
 quercitrin·e/,,Ee&& # po:noun
@@ -54649,7 +54649,7 @@ quetzal/Es&& # po:noun is:mas
 quetzales/&& # po:noun is:pl is:mas
 queue/Es&& # po:noun is:fem
 queuillère/Es&& # po:noun is:fem
-que/u'&P # po:pron po:adp po:det
+que/u' # po:pron po:adp po:det
 queursage/Es&& # po:noun is:mas
 queusot/Es&& # po:noun is:mas
 queutard·e/,,Ee&& # po:noun
@@ -54659,10 +54659,10 @@ quia/ # po:adv
 quiche/Es&& # po:noun is:fem
 quichenotte/Es&& # po:noun is:fem
 quichua/Es&& # po:noun is:mas
-quiconque/&P # po:pron
+quiconque/ # po:pron
 quidam/Es&& # po:noun is:mas
 quiddité/Es&& # po:noun is:fem
-quid/&P # po:pron
+quid/ # po:pron
 quiescence/Es&& # po:noun is:fem
 quiescent·e/,,Ee&& # po:adj
 quiètement/ # po:adv
@@ -54735,7 +54735,7 @@ quinzièmement/ # po:adv
 quinziste/Es&& # po:noun is:mas
 quinzomadaire/Es&& # po:noun is:mas
 quipo/Es&& # po:noun is:mas
-qui/&P # po:pron
+qui/ # po:pron
 quipou/Es&& # po:noun is:mas
 quiproquo/Es&& # po:noun is:mas
 quipu/Es&& # po:noun is:mas
@@ -54750,7 +54750,7 @@ quizalofop/Es&& # po:noun is:mas
 quiz/&& # po:noun is:mas is:inv
 quoailler/ # po:verb
 quocngu/Es&& # po:noun is:mas
-quoi/&P # po:pron
+quoi/ # po:pron
 quoique/El # po:sconj is:eli
 quoique/ # po:sconj
 quolibet/Es&& # po:noun is:mas
@@ -54764,7 +54764,7 @@ quotidienneté/Es&& # po:noun is:fem
 quotient/Es&& # po:noun is:mas
 quotité/Es&& # po:noun is:fem
 quotter/a0p. # po:verb
-qu/&P # po:pron
+qu/ # po:pron
 qu/ # po:sconj:pron
 qwerty/&& # po:noun is:mas is:inv
 rabâchage/Es&& # po:noun is:mas
@@ -58250,7 +58250,7 @@ rie/Es&& # po:noun is:fem
 riel/Es&& # po:noun is:mas
 riemannien·ne/,,ll&& # po:noun po:adj
 rien/Es&& # po:noun is:mas
-rien/&P # po:pron is:sg is:mas
+rien/ # po:pron is:sg is:mas
 riesling/Es&& # po:noun is:mas
 rieur·euse/,,rs&& # po:noun po:adj
 rifain·e/,,Ee&& # po:noun po:adj
@@ -60271,7 +60271,7 @@ séduire/yL # po:verb
 séduisant·e/,,Ee&& # po:adj
 sedum/Es&& # po:noun is:mas
 sédum/Es&& # po:noun is:mas
-se/El&P # po:pron po:adp is:inv is:epi is:3sg is:3pl is:eli
+se/El # po:pron po:adp is:inv is:epi is:3sg is:3pl is:eli
 séfarade/Es&& # po:noun is:epi
 séga/Es&& # po:noun is:mas
 ségala/Es&& # po:noun is:mas
@@ -60299,7 +60299,7 @@ séguidilla/Es&& # po:noun is:fem
 seiche/Es&& # po:noun is:fem
 séide/Es&& # po:noun is:epi
 seigle/Es&& # po:noun is:mas
-seigneur/Es&&&P # po:pron po:noun is:mas
+seigneur/Es&& # po:pron po:noun is:mas
 seigneuresse/Es&& # po:noun is:fem
 seigneuriage/Es&& # po:noun is:mas
 seigneurial·e/,,al&& # po:adj
@@ -60477,13 +60477,13 @@ sénior·e/,,Ee&& # po:noun po:adj
 senior/Es&& # po:noun po:adj is:epi
 séniorie/Es&& # po:noun is:fem
 séniorisation/Es&& # po:noun is:fem
-séniorita/Es&&&P # po:pron po:noun is:fem
+séniorita/Es&& # po:pron po:noun is:fem
 séniorité/Es&& # po:noun is:fem
 senne/Es&& # po:noun is:fem
 sénologie/Es&& # po:noun is:fem
-señora/Es&&&P # po:pron po:noun is:fem
-señor/Es&&&P # po:pron po:noun is:mas
-señorita/Es&&&P # po:pron po:noun is:fem
+señora/Es&& # po:pron po:noun is:fem
+señor/Es&& # po:pron po:noun is:mas
+señorita/Es&& # po:pron po:noun is:fem
 sensass/&& # po:adj is:inv is:epi
 sensation/Es&& # po:noun is:fem
 sensationnalisme/Es&& # po:noun is:mas
@@ -60563,7 +60563,7 @@ sépia/Es&& # po:noun is:fem
 sépia/&& # po:adj is:inv is:epi
 sépiole/Es&& # po:noun is:fem
 sépiolite/Es&& # po:noun is:fem
-se/&P # po:pron po:adp is:inv is:epi is:3sg is:3pl 
+se/ # po:pron po:adp is:inv is:epi is:3sg is:3pl 
 seppuku/Es&& # po:noun is:mas
 sepsis/&& # po:noun is:mas is:inv
 septain/Es&& # po:noun is:mas
@@ -60860,7 +60860,7 @@ sexy/Es&& # po:adj is:epi
 sexy/&& # po:adj is:inv is:epi
 seyant·e/,,Ee&& # po:adj
 seychellois·e/,,Ee&& # po:noun po:adj
-sézigue/&P # po:pron is:3sg is:epi
+sézigue/ # po:pron is:3sg is:epi
 sforzando/ # po:adv
 sfumato/Es&& # po:noun is:mas
 sgraffite/Es&& # po:noun is:epi
@@ -61503,9 +61503,9 @@ soigner/a0p+ # po:verb
 soigneur·euse/,,rs&& # po:noun
 soigneusement/ # po:adv
 soigneux·euse/,,xz&& # po:adj
-soi-même/&P # po:pron is:3sg is:epi
+soi-même/ # po:pron is:3sg is:epi
 soin/Es&& # po:noun is:mas
-soi/&P # po:pron is:3sg is:epi
+soi/PP # po:pron is:3sg is:epi
 soirée/Es&& # po:noun is:fem
 soirer/a0p. # po:verb
 soir/Es&& # po:noun is:mas
@@ -64831,7 +64831,7 @@ tectoniquement/ # po:adv
 tectrice/Es&& # po:adj is:epi
 tectrice/Es&& # po:noun is:fem
 tee/Es&& # po:noun is:mas
-te/El&P # po:pron po:adp is:2sg is:epi
+te/El # po:pron po:adp is:2sg is:epi
 teenageur·euse/,,rs&& # po:noun
 teeshirt/Es&& # po:noun is:mas
 té/Es&& # po:noun is:mas
@@ -65051,7 +65051,7 @@ télexiste/Es&& # po:noun is:epi
 télex/&& # po:noun is:mas is:inv
 télicité/Es&& # po:noun is:fem
 tel·le/,,ll&& # po:adj
-tel·le/,,ll&P # po:pron
+tel·le/,,ll # po:pron
 tellement/ # po:adv
 tell/Es&& # po:noun is:mas
 tellière/Es&& # po:adj is:epi
@@ -65213,7 +65213,7 @@ tepidarium/Es&& # po:noun is:mas
 tépidarium/Es&& # po:noun is:mas
 tepidarium/&& # po:noun is:mas is:inv
 tépographie/Es&& # po:noun is:fem
-te/&P # po:pron po:adp is:2sg is:epi
+te/ # po:pron po:adp is:2sg is:epi
 teppanyaki/Es&& # po:noun is:mas
 tequila/Es&& # po:noun is:fem
 téquila/Es&& # po:noun is:fem
@@ -65472,7 +65472,7 @@ texture/Es&& # po:noun is:fem
 texturer/a0p+ # po:verb
 texturisation/Es&& # po:noun is:fem
 texturiser/a0p+ # po:verb
-tézigue/&P # po:pron is:2sg is:epi
+tézigue/ # po:pron is:2sg is:epi
 thaï·e/,,Ee&& # po:noun po:adj
 thaïlandais·e/,,Ee&& # po:noun po:adj
 thaï/&& # po:adj is:inv is:epi
@@ -66031,8 +66031,8 @@ toilette/Es&& # po:noun is:fem
 toiletter/a0p+ # po:verb
 toiletteur·euse/,,rs&& # po:noun
 toilier·ère/,,rr&& # po:noun po:adj
-toi-même/&P # po:pron is:2sg is:epi
-toi/&P # po:pron is:2sg is:epi
+toi-même/ # po:pron is:2sg is:epi
+toi/PP # po:pron is:2sg is:epi
 toise/Es&& # po:noun is:fem
 toisement/Es&& # po:noun is:mas
 toiser/a0p+ # po:verb
@@ -66420,7 +66420,7 @@ tourtereau·elle/,,la&& # po:noun
 tourtière/Es&& # po:noun is:fem
 touselle/Es&& # po:noun is:fem
 tous/&& # is:pl is:mas po:adj st:tous·te
-tous/&P # po:det is:pl is:mas po:pron st:tous·te
+tous/ # po:det is:pl is:mas po:pron st:tous·te
 tous/ # po:det is:pl is:mas st:tous·te
 toussailler/a0p. # po:verb
 tousser/a0p. # po:verb
@@ -66429,23 +66429,23 @@ tousseur·euse/,,rs&& # po:noun po:adj
 toussotement/Es&& # po:noun is:mas
 toussoter/a0p. # po:verb
 toussoteux·euse/,,xz&& # po:adj
-touste/Es&P # st:touste po:pron
-touxte/Es&P # st:touste po:pron st:touste
-toute/Es&&&P # po:adv po:adj po:pron po:det is:sg is:fem st:tous·te
+touste/Es # st:touste po:pron
+touxte/Es # st:touste po:pron st:touste
+toute/Es&& # po:adv po:adj po:pron po:det is:sg is:fem st:touste
 toutefois/ # po:adv
-toutes/&& # po:adj is:pl is:fem st:tous·te
+toutes/&& # po:adj is:pl is:fem st:touste
 toutes/ # po:adv st:tous·te
-toutes/ # po:det is:pl is:fem st:tous·te
-tout/Es&& # po:noun is:mas st:tous·te
-toutes/&P # po:pron is:pl is:fem st:tous·te
+toutes/ # po:det is:pl is:fem st:touste
+tout/Es&& # po:noun is:mas st:touste
+toutes/ # po:pron is:pl is:fem st:touste
 tou·tes/ # st:touste
 toutime/&& # po:noun is:sg is:mas
 toutim/&& # po:noun is:sg is:mas
 toutou/Es&& # po:noun is:mas
 tout/&& # po:adj st:tous·te
 tout/ # po:adv st:tous·te
-tout/ # po:det is:sg is:mas st:tous·te
-tout/&P # po:pron is:sg is:mas st:tous·te
+tout/ # po:det is:sg is:mas st:touste
+tout/ # po:pron is:sg is:mas st:touste
 touvain·e/,,Ee&& # po:noun po:adj
 toux/&& # po:noun is:inv is:fem
 township/Es&& # po:noun is:epi
@@ -67742,7 +67742,7 @@ tupaïa/Es&& # po:noun is:mas
 tupi·e/,,Ee&& # po:noun po:adj
 tupinambis/&& # po:noun is:mas is:inv
 tuple/Es&& # po:noun is:mas
-tu/&P # po:pron is:2sg is:epi
+tu/PP # po:pron is:2sg is:epi
 tupperware/Es&& # po:noun is:mas
 tuque/Es&& # po:noun is:fem
 turban/Es&& # po:noun is:mas
@@ -68066,7 +68066,7 @@ underground/Es&& # po:adj is:epi
 underground/Es&& # po:noun is:mas
 underground/&& # po:adj is:inv is:epi
 underscore/Es&& # po:noun is:mas
-un·e/,,Ee&&&P # po:noun po:det po:pron
+un·e/,,Ee&&PP # po:noun po:det po:pron
 une/ # po:det is:sg is:fem
 unetelle/Es&& # po:noun is:fem
 unguéal·e/,,al&& # po:adj
@@ -69858,7 +69858,7 @@ vortex/&& # po:noun is:mas is:inv
 vorticelle/Es&& # po:noun is:fem
 vosgien·ne/,,ll&& # po:noun po:adj
 vos/ # po:det is:pl is:epi
-voszigues/&P # po:pron is:2pl is:epi
+voszigues/ # po:pron is:2pl is:epi
 votant·e/,,Ee&& # po:noun
 votation/Es&& # po:noun is:fem
 vote/Es&& # po:noun is:mas
@@ -69872,11 +69872,11 @@ vouge/Es&& # po:noun is:epi
 vouivre/Es&& # po:noun is:fem
 vouloir/Es&& # po:noun is:mas
 vouloir/pB # po:verb po:saux
-vous-même/&P # po:pron is:2pl is:epi
+vous-même/ # po:pron is:2pl is:epi
 vousoiement/Es&& # po:noun is:mas
 vousoyer/a0p+ # po:verb
-vous/&P # po:pron is:2pl is:epi
-vous/&P # po:pron po:adp is:2pl is:epi
+vous/PP # po:pron is:2pl is:epi
+vous/PP # po:pron po:adp is:2pl is:epi
 vousseau/lx&& # po:noun is:mas
 voussoiement/Es&& # po:noun is:mas
 voussoir/Es&& # po:noun is:mas
@@ -70256,7 +70256,7 @@ yoyotter/a0p. # po:verb
 ypérite/Es&& # po:noun is:fem
 yponomeute/Es&& # po:noun is:mas
 y/&& # po:noun is:mas is:inv
-y/&P # po:pron po:adp
+y/PP # po:pron po:adp
 ypréau/lx&& # po:noun is:mas
 ysopet/Es&& # po:noun is:mas
 ytterbine/Es&& # po:noun is:fem

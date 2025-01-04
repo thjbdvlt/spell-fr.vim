@@ -1,3 +1,6 @@
+PFX PP Y 1
+PFX PP 0 - . # is:rev
+
 # élision des déterminants
 SFX El Y 4
 SFX El a 0 a # is:eli
