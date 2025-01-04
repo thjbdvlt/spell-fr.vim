@@ -1,4 +1,5 @@
 A4/
+½/ # po:num
 méga/ # po:adv
 hyper/ # po:adv
 super/ # po:adv
@@ -34071,7 +34072,7 @@ iduronique/Es&& # po:adj is:epi
 idylle/Es&& # po:noun is:fem
 idyllique/Es&& # po:adj is:epi
 ielles/PP # po:pron
-iel/SiPP # po:pron is:3sg is:epi
+iel·le/,,llSiPP # po:pron is:3sg is:epi
 iels/PP # po:pron
 iels/SiPP # po:pron is:3pl is:epi
 if/Es&& # po:noun is:mas
