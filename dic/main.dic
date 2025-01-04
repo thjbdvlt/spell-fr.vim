@@ -1,4 +1,8 @@
 A4/
+méga/ # po:adv
+hyper/ # po:adv
+super/ # po:adv
+giga/ # po:adv
 abaca/Es&& # po:noun is:mas
 abacule/Es&& # po:noun is:mas
 abader/ # po:verb
@@ -16217,8 +16221,8 @@ covellite/Es&& # po:noun is:fem
 covenant/Es&& # po:noun is:mas
 covendeur·euse/,,rs&& # po:noun
 covergirl/Es&& # po:noun is:fem
-covid-19/ # po:noun
-covid/ # po:noun
+covid-19/ # po:propn
+covid/ # po:propn
 covin/Es&& # po:noun is:mas
 covoiturage/Es&& # po:noun is:mas
 covoiturer/a0p+ # po:verb
@@ -30382,7 +30386,7 @@ glacialement/ # po:adv
 glacials/&& # po:adj is:pl is:mas
 glaciation/Es&& # po:noun is:fem
 glacière/Es&& # po:noun is:fem
-glacier·ère/ # po:pron
+glacier·ère/ # po:noun po:adj
 glacier/Es&& # po:noun is:mas
 glaciérisme/Es&& # po:noun is:mas
 glaciériste/Es&& # po:noun is:epi
@@ -45836,14 +45840,13 @@ nuitard·e/,,Ee&& # po:noun
 nuitée/Es&& # po:noun is:fem
 nuit/Es&& # po:noun is:fem
 nullard·e/,,Ee&& # po:noun po:adj
-nul·le/,,ll # po:det
+nul·le/,,ll # po:det po:pron
 nul·le/,,ll&& # po:noun po:adj
 nullement/ # po:adv
 nullipare/Es&& # po:adj is:epi
 nullipare/Es&& # po:noun is:fem
 nullissime/Es&& # po:adj is:epi
 nullité/Es&& # po:noun is:fem
-nul/ # po:pron is:sg is:mas
 numbat/Es&& # po:noun is:mas
 nument/ # po:adv
 nûment/ # po:adv
