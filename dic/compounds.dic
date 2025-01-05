@@ -7,31 +7,31 @@ au-dessus # po:adv
 au-devant # po:adv
 avant-hier # po:adv
 avant-propos # po:nonu
-celle-ci&P P # po:pron is:sg
-celle-la&P P # po:pron is:fem
-celle-là&P P # po:pron is:fem
-celles-ci&P P # po:pron is:fem is:pl st:celle-ci
-celles-la&P P # po:pron is:fem is:pl st:celle-là
-celles-là&P P # po:pron is:fem is:pl st:celle-là
-celleux-ci&P P # po:pron is:fem is:incl st:cellui-ci
-celleux-la&P P # po:pron is:fem is:incl st:cellui-là
-celleux-là&P P # po:pron is:fem is:incl st:cellui-là
-cellui-ci&P P # po:pron is:mas
-cellui-la&P P # po:pron is:mas st:cellui-là
-cellui-là&P P # po:pron is:mas
-celui-ci&P P # po:pron is:mas
-celui-la&P P # po:pron is:mas
-celui-là&P P # po:pron is:mas
-ceux-ci&P P # po:pron is:pl
-ceux-là&P P # po:pron is:pl
+celle-ci/PP # po:pron is:sg
+celle-la/PP # po:pron is:fem
+celle-là/PP # po:pron is:fem
+celles-ci/PP # po:pron is:fem is:pl st:celle-ci
+celles-la/PP # po:pron is:fem is:pl st:celle-là
+celles-là/PP # po:pron is:fem is:pl st:celle-là
+celleux-ci/PP # po:pron is:fem is:incl st:cellui-ci
+celleux-la/PP # po:pron is:fem is:incl st:cellui-là
+celleux-là/PP # po:pron is:fem is:incl st:cellui-là
+cellui-ci/PP # po:pron is:mas
+cellui-la/PP # po:pron is:mas st:cellui-là
+cellui-là/PP # po:pron is:mas
+celui-ci/PP # po:pron is:mas
+celui-la/PP # po:pron is:mas
+celui-là/PP # po:pron is:mas
+ceux-ci/PP # po:pron is:pl
+ceux-là/PP # po:pron is:pl
 ci-après # po:adv
 ci-dessus # po:adv
 ci-git # po:adv
-elle-même&P P # po:pron is:3sg is:fem
-elles-même/Es&P P # po:pron is:3pl is:fem
-elleux-même/Es&P P # po:pron is:3pl is:incl
-eux-même&P P # po:pron is:3pl is:mas
-eux-même/Es&P P # po:pron is:3pl is:mas
+elle-même/PP # po:pron is:3sg is:fem
+elles-même/EsPP # po:pron is:3pl is:fem
+elleux-même/EsPP # po:pron is:3pl is:incl
+eux-même/PP # po:pron is:3pl is:mas
+eux-même/EsPP # po:pron is:3pl is:mas
 ici-bas # po:adv
 la-bas # po:adv
 là-bas # po:adv
@@ -42,20 +42,22 @@ là-dessous # po:adv
 là-dessus # po:adv
 là-haut # po:adv
 lieu-dit # po:noun
-lui-même&P P # po:pron is:3sg is:mas
-moi-même&P P # po:pron is:1sg
-nous-même/Es&P P # po:pron is:1pl
+lui-même/PP # po:pron is:3sg is:mas
+ellui-même/PP # po:pron is:3sg is:incl
+moi-même/PP # po:pron is:1sg
+nous-même/EsPP # po:pron is:1pl
 oui-da # po:adv 
 par-dessous # po:adv
 par-dessus # po:adv
 peut-être # po:adv
-quelques-un&P P # po:pron
-quelques-unes&P P # po:pron
-quelques-uns&P P # po:pron
+quelques-un/PP # po:pron
+quelques-unes/PP # po:pron
+quelques-uns/PP # po:pron
 qui-vive # po:noun
 rendez-vous # po:noun
 soi-disant # po:adj po:adv
-soi-même&P P # po:pron is:3sg
-toi-même&P P # po:pron is:2sg
-vous-même&P P # po:pron is:2pl
-vous-mêmes&P P # po:pron is:2pl
+soi-même/PP # po:pron is:3sg
+toi-même/PP # po:pron is:2sg
+vous-même/PP # po:pron is:2pl
+vous-mêmes/PP # po:pron is:2pl
+iele/PP # po:pron

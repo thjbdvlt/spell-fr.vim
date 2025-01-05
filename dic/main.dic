@@ -173,7 +173,6 @@ abordage/Es&& # po:noun is:mas
 aborder/a0p+ # po:verb
 abord/Es&& # po:noun is:mas
 abordeur/Es&& # po:noun is:mas
-abord/ # po:adv
 aborigène/Es&& # po:noun po:adj is:epi
 aborné·e/,,Ee&& # po:adj
 abornement/Es&& # po:noun is:mas
@@ -34073,6 +34072,7 @@ idylle/Es&& # po:noun is:fem
 idyllique/Es&& # po:adj is:epi
 ielles/PP # po:pron
 iel·le/,,llSiPP # po:pron is:3sg is:epi
+iele/,,llSiPP # po:pron is:3sg is:epi st:iel·le
 iels/PP # po:pron
 iels/SiPP # po:pron is:3pl is:epi
 if/Es&& # po:noun is:mas
@@ -38219,10 +38219,10 @@ ladite/ # st:ledit po:det is:sg is:fem
 ladre/Es&& # po:noun po:adj is:epi
 ladrerie/Es&& # po:noun is:fem
 lady/GB&& # po:noun is:fem
-la/El # po:det is:sg is:fem is:eli st:le·là
-la/El # po:det is:sg is:mas is:eli st:le·là
-la/El&& # po:noun is:mas is:inv is:eli st:le·là
-la/ElPP # po:pron po:adp is:sg is:fem is:eli st:le·là
+la/El # po:det is:sg is:fem is:eli st:le·a
+la/El # po:det is:sg is:mas is:eli st:le·a
+la/El&& # po:noun is:mas is:inv is:eli st:le·a
+la/ElPP # po:pron po:adp is:sg is:fem is:eli st:le·a
 laetare/Es&& # po:noun is:mas
 lagen/Es&& # po:noun is:mas
 lagomorphe/Es&& # po:noun is:mas
@@ -38679,8 +38679,9 @@ lectotype/Es&& # po:noun is:mas
 lecture/Es&& # po:noun is:fem
 lécythe/Es&& # po:noun is:mas
 ledit/ # po:det is:sg is:mas
-le/El # po:det is:sg is:mas is:eli st:le·la
-le/ElPP # po:pron po:adp is:sg is:mas is:eli st·le·là
+le/El # po:det is:sg is:mas is:eli st:le·a
+le·a/ # po:det po:pron is:incl st:le·a
+le/ElPP # po:pron po:adp is:sg is:mas is:eli st·le·a
 lé/Es&& # po:noun is:mas
 légal·e/,,al&& # po:adj
 légalement/ # po:adv
@@ -70548,3 +70549,4 @@ zythologie/Es&& # po:noun is:fem
 zython/Es&& # po:noun is:mas
 zythum/Es&& # po:noun is:mas
 zzzz/ # po:intj
+photoshopé·e/,,Ee&& # po:adj

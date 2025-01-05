@@ -1,7 +1,7 @@
 VIMDIR = ~/.config/nvim/spell
 AFF = aff/options.aff aff/non-verbs.aff aff/rep.aff aff/verbs.aff
 DIC = dic/main.dic dic/deligatures.dic dic/prefixes.dic dic/compounds.dic
-DIC_SUPP = dic/propn.dic dic/propn_narrafeats.dic ./dic/intj.dic
+DIC_SUPP = dic/propn.dic dic/propn_narrafeats.dic dic/intj.dic dic/softwares.dic dic/common_mistakes.dic
 COMP = ./aff/compound.aff
 CAT = sed -e '$$s/$$/\n/' -s 
 
@@ -24,7 +24,7 @@ install: fr.utf-8.spl
 # https://universaldependencies.org/u/pos/index.html
 fr_ud.aff: $(AFF) $(COMP)
 	$(CAT) $(AFF) $(COMP) | sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' > fr_ud.aff
-fr_ud.dic: $(DIC)
+fr_ud.dic: $(DIC) $(DIC_SUPP)
 	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $(DIC) $(DIC_SUPP) \
 		| grep -v '^ *$$' | sort | uniq > fr_ud.dic
 	sed -i "1s/^/$$(wc -l fr_ud.dic | cut -d ' ' -f 1)\n/" fr_ud.dic
