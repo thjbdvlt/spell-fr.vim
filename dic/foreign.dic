@@ -1,3 +1,7 @@
-deus
-ex
-machina
+deus/ # po:x is:foreign
+ex/ # po:x is:foreign
+machina/ # po:x is:foreign
+copywright/ # po:noun is:foreign
+copywrite/ # po:noun is:foreign
+copywriter/ # po:noun is:foreign
+copywriters/ # po:noun is:foreign

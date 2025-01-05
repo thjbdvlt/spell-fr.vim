@@ -4,6 +4,7 @@ méga/ # po:adv
 hyper/ # po:adv
 super/ # po:adv
 giga/ # po:adv
+centré·e/,,Ee&& # po:adj
 abaca/Es&& # po:noun is:mas
 abacule/Es&& # po:noun is:mas
 abader/ # po:verb
@@ -5909,6 +5910,7 @@ avantageusement/ # po:adv
 avantageux·euse/,,xz&& # po:adj
 avant/Es&& # po:noun is:mas
 avant-gardisme/Es # po:noun
+t-shirt/Es # po:noun
 avant-gardiste/Es # po:adj
 avant/ # po:adp
 avar·e/,,Ee&& # po:noun po:adj
@@ -58834,7 +58836,8 @@ rouvieux/&& # po:noun is:mas is:inv
 rouvraie/Es&& # po:noun is:fem
 rouvre/Es&& # po:noun is:mas
 rouvrir/iC # po:verb
-roux/Wx&& # po:noun po:adj
+roux/&& # po:noun po:adj st:roux·sse
+rousse/&& # po:noun po:adj st:roux·sse
 rowing/Es&& # po:noun is:mas
 royal·e/,,al&& # po:noun po:adj
 royalement/ # po:adv
@@ -68095,6 +68098,10 @@ unidimensionnalité/Es&& # po:noun is:fem
 unidimensionnel·le/,,ll&& # po:adj
 unidirectionnalité/Es&& # po:noun is:fem
 unidirectionnel·le/,,ll&& # po:adj
+unidirectionnellement/ # po:adv
+multidirectionnellement/ # po:adv
+unidimensionnellement/ # po:adv
+unidirectionnellement/ # po:adv
 unidose/Es&& # po:noun is:fem
 unième/Es&&&n # po:noun po:adj is:epi is:ord
 unièmement/ # po:adv
