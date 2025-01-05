@@ -11643,6 +11643,8 @@ cétonémie/Es&& # po:noun is:fem
 cétonique/Es&& # po:adj is:epi
 cétonurie/Es&& # po:noun is:fem
 cétose/Es&& # po:noun is:epi
+cet·te/Es # po:det po:pron
+ce·tte/Es # po:det po:pron
 cet/ # po:det is:3sg is:mas
 cette/ # po:det is:3sg is:fem
 cétylique/Es&& # po:adj is:epi
@@ -15480,6 +15482,7 @@ coopératif·ve/,,fv&& # po:adj
 coopération/Es&& # po:noun is:fem
 coopératisme/Es&& # po:noun is:mas
 coopérative/Es&& # po:noun is:fem
+coopérativement/ # po:adv
 coopérativisme/Es&& # po:noun is:mas
 coopérativiste/Es&& # po:adj is:epi
 coopérer/v0p. # po:verb
@@ -40569,7 +40572,7 @@ malikisme/Es&& # po:noun is:mas
 malikite/Es&& # po:noun po:adj is:epi
 maline/Es&& # po:adj is:epi
 maline/Es&& # po:noun is:fem
-malin/Fx&& # po:noun po:adj
+malin/Es&& # po:noun po:adj
 malingre/Es&& # po:noun po:adj is:epi
 malinois·e/,,Ee&& # po:noun po:adj
 malintentionné·e/,,Ee&& # po:noun po:adj
@@ -43950,7 +43953,9 @@ moulure/Es&& # po:noun is:fem
 moulurer/a0p+ # po:verb
 moumoute/Es&& # po:noun is:fem
 mouna/Es&& # po:noun is:fem
-mou·olle/,,lu&& # po:adj
+mou/Es&& # po:noun is:mas
+mol/Es&& # po:noun is:mas
+molle/Es&& # po:noun is:fem
 mouquère/Es&& # po:noun is:fem
 mourant·e/,,Ee&& # po:noun po:adj
 mouride/Es&& # po:noun po:adj is:epi

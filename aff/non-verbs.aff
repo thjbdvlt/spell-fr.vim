@@ -46,13 +46,14 @@ SFX re ·rice -e/EsIs eur·rice # is:incl
 SFX re ·rice ·e/EsIs eur·rice # is:incl
 
 # accordeu -r -se -eureuse -exes
-SFX rs Y 6
+SFX rs Y 7
 SFX rs 0 /EsIs . # is:incl
 SFX rs eur·euse eureuse/Es . # is:incl is:nodot
 SFX rs eur·euse eureusex/Es . # is:incl is:nonb
 SFX rs eur·euse euse/Es . # is:fem
 SFX rs ·euse /Es . # is:mas
 SFX rs ·euse -euse/EsIs . # is:incl
+SFX rs ·euse ·se/EsIs . # is:incl
 
 # foresti -ère -er
 SFX rr Y 4
@@ -183,10 +184,10 @@ SFX gu ·ue -ue/EsIS . # is:incl
 # global, globale, globales, globaux (!=cheval, chevaux)
 SFX al Y 5
 SFX al 0 /EsIs . # is:incl
-SFX al ·e / . # is:mas
+SFX al ·e /Es . # is:mas
 SFX al ·e e/Es . # is:fem
 SFX al ·e -e/EsIs . # is:incl
-SFX al l·e ux/ . # is:mas is:pl
+SFX al l·e ux/Es . # is:mas is:pl
 
 # les féminins qui double la dernière consonne
 SFX ll Y 16
@@ -217,8 +218,8 @@ SFX ss ·sse -sse/EsIs . # is:incl
 # fo -l -lle -u
 SFX lu Y 5
 SFX lu 0 /EsIs . # is:incl
-SFX lu ·lle /Es . # is:mas
-SFX lu ·lle -lle/EsIs . # is:incl
+SFX lu ·olle /Es . # is:mas
+SFX lu ·olle -lle/EsIs . # is:incl
 SFX lu ou·lle l/Es . # is:mas
 SFX lu ou·lle lle/Es . # is:fem
 
