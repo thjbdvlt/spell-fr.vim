@@ -38916,8 +38916,8 @@ leucotrichie/Es&& # po:noun is:fem
 leucoxène/Es&& # po:noun is:mas
 leude/Es&& # po:noun is:mas
 leu/&& # po:noun is:sg is:mas
-leur/Es # po:det is:epi
-leur/Es&& # po:noun is:epi
+leur/Es # po:det is:epi is:poss is:3pl
+leur/Es&& # po:noun is:epi is:poss is:3pl
 leur/PP # po:pron po:adp is:3pl is:epi
 leurre/Es&& # po:noun is:mas
 leurrer/a0p+ # po:verb
@@ -40894,7 +40894,7 @@ maoïsme/Es&& # po:noun is:mas
 maoïste/Es&& # po:noun po:adj is:epi
 maori·e/,,Ee&& # po:noun po:adj
 maous·se/,,ll&& # po:adj
-ma/ # po:det is:sg is:fem
+ma/ # po:det is:sg is:fem is:poss is:1sg
 mappage/Es&& # po:noun is:mas
 mappemonde/Es&& # po:noun is:fem
 mapper/a0p+ # po:verb
@@ -42168,7 +42168,7 @@ mésotonique/Es&& # po:adj is:epi
 mésozoaire/Es&& # po:noun is:mas
 mésozoïque/Es&& # po:adj is:epi
 mésozoïque/Es&& # po:noun is:mas
-mes/ # po:det is:pl is:epi
+mes/ # po:det is:pl is:epi is:poss is:1sg
 mesquin·e/,,Ee&& # po:noun po:adj
 mesquinement/ # po:adv
 mesquinerie/Es&& # po:noun is:fem
@@ -42711,7 +42711,7 @@ miellée/Es&& # po:noun is:fem
 miellerie/Es&& # po:noun is:fem
 mielleusement/ # po:adv
 mielleux·euse/,,xz&& # po:adj
-mien·ne/,,ll&& # po:noun po:adj
+mien·ne/,,ll&& # po:noun po:adj is:poss is:1sg
 miette/Es&& # po:noun is:fem
 mieux/&& # po:noun po:adv
 mièvre/Es&& # po:noun po:adj is:epi
@@ -43616,7 +43616,7 @@ monoxène/Es&& # po:adj is:epi
 monoxyde/Es&& # po:noun is:mas
 monoxyle/Es&& # po:adj is:epi
 monozygote/Es&& # po:noun po:adj is:epi
-mon/ # po:det is:sg is:epi
+mon/ # po:det is:sg is:epi is:1sg is:poss
 monseigneur/&& # po:noun is:sg is:mas
 monseigneur/ # po:pron is:sg is:mas
 monsieur/&& # po:pron po:noun is:sg is:mas
@@ -45704,7 +45704,7 @@ nosographique/Es&& # po:adj is:epi
 nosologie/Es&& # po:noun is:fem
 nosologique/Es&& # po:adj is:epi
 nosophobie/Es&& # po:noun is:fem
-nos/ # po:det is:pl is:epi
+nos/ # po:det is:pl is:epi is:poss is:1pl
 nostalgie/Es&& # po:noun is:fem
 nostalgique/Es&& # po:noun po:adj is:epi
 nostalgiquement/ # po:adv
@@ -45734,8 +45734,8 @@ notoire/Es&& # po:adj is:epi
 notoirement/ # po:adv
 notonecte/Es&& # po:noun is:fem
 notoriété/Es&& # po:noun is:fem
-nôtre/Es&& # po:noun po:adj is:epi
-notre/ # po:det is:sg is:epi
+nôtre/Es&& # po:noun po:adj is:epi is:poss is:1pl
+notre/ # po:det is:sg is:epi is:poss is:1pl
 notule/Es&& # po:noun is:fem
 nouage/Es&& # po:noun is:mas
 nouaison/Es&& # po:noun is:fem
@@ -59522,7 +59522,7 @@ sapinière/Es&& # po:noun is:fem
 sapiosexualité/Es&& # po:noun is:fem
 sapiosexuel·le/,,ll&& # po:noun po:adj
 sapiteur/Es&& # po:noun is:mas
-sa/ # po:det is:sg is:fem
+sa/ # po:det is:sg is:fem is:poss is:3sg
 saponacé·e/,,Ee&& # po:adj
 saponaire/Es&& # po:noun is:fem
 saponase/Es&& # po:noun is:fem
@@ -60805,7 +60805,7 @@ sésamoïde/Es&& # po:adj is:epi
 sesbania/Es&& # po:noun is:mas
 sesbanie/Es&& # po:noun is:fem
 sesotho/Es&& # po:noun is:mas
-ses/ # po:det is:pl is:epi
+ses/ # po:det is:pl is:epi is:poss is:3sg
 sesquialtère/Es&& # po:adj is:epi
 sesquilinéaire/Es&& # po:adj is:epi
 sesquioxyde/Es&& # po:noun is:mas
@@ -61014,7 +61014,7 @@ siècle/Es&& # po:noun is:mas
 siège/Es&& # po:noun is:mas
 siéger/v0p. # po:verb
 siemens/Ui&& # po:noun is:mas is:inv
-sien·ne/,,ll&& # po:noun po:adj
+sien·ne/,,ll&& # po:noun po:adj is:poss is:3sg
 siennois·e/,,Ee&& # po:noun po:adj
 sierra/Es&& # po:noun is:fem
 sieste/Es&& # po:noun is:fem
@@ -61717,7 +61717,7 @@ sonde/Es&& # po:noun is:fem
 sonder/a0p+ # po:verb
 sondeur·euse/,,rs&& # po:noun
 sondologie/Es&& # po:noun is:fem
-son/Es&& # po:noun is:mas
+son/Es&& # po:noun is:mas is:poss is:3sg
 songe/Es&& # po:noun is:mas
 songer/a0p. # po:verb
 songerie/Es&& # po:noun is:fem
@@ -64550,7 +64550,7 @@ tapissage/Es&& # po:noun is:mas
 tapisser/a0p+ # po:verb
 tapisserie/Es&& # po:noun is:fem
 tapissier·ère/,,rr&& # po:noun po:adj
-ta/ # po:det is:sg is:fem
+ta/ # po:det is:sg is:fem is:poss is:2sg
 tapon/Es&& # po:noun is:mas
 taponnage/Es&& # po:noun is:mas
 taponner/a0p+ # po:verb
@@ -65360,7 +65360,7 @@ tervueren/Es&& # po:noun is:mas
 terzetto/Es&& # po:noun is:mas
 teseter/d0p+ # po:verb
 tesla/Um&& # po:noun is:mas
-tes/ # po:det is:pl is:epi
+tes/ # po:det is:pl is:epi is:poss is:2sg
 tesselation/Es&& # po:noun is:fem
 tessellé·e/,,Ee&& # po:adj
 tesselle/Es&& # po:noun is:fem
@@ -65870,7 +65870,7 @@ tièdement/ # po:adv
 tiédeur/Es&& # po:noun is:fem
 tiédir/f0p+ # po:verb
 tiédissement/Es&& # po:noun is:mas
-tien·ne/,,ll&& # po:noun po:adj
+tien·ne/,,ll&& # po:noun po:adj is:poss is:2sg
 tierçage/Es&& # po:noun is:mas
 tiercé·e/,,Ee&& # po:noun po:adj
 tierce/Es&& # po:noun po:adj is:fem
@@ -66166,7 +66166,7 @@ tonologie/Es&& # po:noun is:fem
 tonomètre/Es&& # po:noun is:mas
 tonométrie/Es&& # po:noun is:fem
 tonoplaste/Es&& # po:noun is:mas
-ton/ # po:det is:sg is:epi
+ton/ # po:det is:sg is:epi is:2sg is:poss
 tonsillite/Es&& # po:noun is:fem
 tonsure/Es&& # po:noun is:fem
 tonsuré/Es&& # po:noun is:mas
@@ -69886,7 +69886,7 @@ voracité/Es&& # po:noun is:fem
 vortex/&& # po:noun is:mas is:inv
 vorticelle/Es&& # po:noun is:fem
 vosgien·ne/,,ll&& # po:noun po:adj
-vos/ # po:det is:pl is:epi
+vos/ # po:det is:pl is:epi is:poss is:2pl
 voszigues/ # po:pron is:2pl is:epi
 votant·e/,,Ee&& # po:noun
 votation/Es&& # po:noun is:fem
@@ -69894,8 +69894,8 @@ vote/Es&& # po:noun is:mas
 voter/a0p+ # po:verb
 voteur·euse/,,rs&& # po:noun po:adj
 votif·ve/,,fv&& # po:adj
-vôtre/Es&& # po:noun po:adj is:epi
-votre/ # po:det is:sg is:epi
+vôtre/Es&& # po:noun po:adj is:epi is:poss is:2pl
+votre/ # po:det is:sg is:epi is:poss is:2pl
 vouer/a0p+ # po:verb
 vouge/Es&& # po:noun is:epi
 vouivre/Es&& # po:noun is:fem
