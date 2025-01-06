@@ -1,18 +1,20 @@
 VIMDIR = ~/.config/nvim/spell
 AFF = aff/options.aff aff/non-verbs.aff aff/rep.aff aff/verbs.aff
 DIC = dic/main.dic dic/deligatures.dic dic/prefixes.dic dic/compounds.dic
-DIC_SUPP = dic/propn.dic dic/propn_narrafeats.dic dic/intj.dic dic/softwares.dic dic/common_mistakes.dic dic/propn_init.dic
+DIC_SUPP = dic/propn.dic dic/propn_narrafeats.dic dic/intj.dic dic/softwares.dic dic/common_mistakes.dic dic/propn_init.dic dic/allographe.dic dic/hunspell_compound.dic
 COMP = ./aff/compound.aff
 CAT = sed -e '$$s/$$/\n/' -s 
 
 
-.PHONY: clean install all ud test
+.PHONY: ud vim all install clean test
 
 all:
 	make fr_ud.aff fr_ud.dic fr.utf-8.spl
 
 ud:
 	make fr_ud.aff fr_ud.dic
+
+vim: fr.utf-8.spl
 
 install: fr.utf-8.spl
 	cp fr.utf-8.spl $(VIMDIR)/fr.utf-8.spl
@@ -23,25 +25,25 @@ install: fr.utf-8.spl
 # inspired by Universal Dependancies POS tags
 # https://universaldependencies.org/u/pos/index.html
 fr_ud.aff: $(AFF) $(COMP)
-	$(CAT) $(AFF) $(COMP) | sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' > fr_ud.aff
+	$(CAT) $(AFF) $(COMP) | sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' > $@
 fr_ud.dic: $(DIC) $(DIC_SUPP)
 	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $(DIC) $(DIC_SUPP) \
-		| grep -v '^ *$$' | sort | uniq > fr_ud.dic
-	sed -i "1s/^/$$(wc -l fr_ud.dic | cut -d ' ' -f 1)\n/" fr_ud.dic
+		| grep -v '^ *$$' | sort | uniq > $@
+	sed -i "1s/^/$$(wc -l fr_ud.dic | cut -d ' ' -f 1)\n/" $@
 
 
 # VIM
 fr.dic: $(DIC)
 	$(CAT) $(DIC) vim/*.dic | sort | uniq \
 		| sed -E 's|\s*#.*||' \
-		| grep -v '^\s*$$' > fr.dic
-	sed -i "1s/^/$$(wc -l fr.dic | cut -d ' ' -f 1)\n/" fr.dic
+		| grep -v '^\s*$$' > $@
+	sed -i "1s/^/$$(wc -l fr.dic | cut -d ' ' -f 1)\n/" $@
 
 fr.aff: $(AFF)
 	$(CAT) $(AFF) | sed -E 's|\s*#.*||' \
 		| grep -E -v \
-		'^(ICONV|IGNORE|FULLSTRIP|BREAK|WORDCHARS)\b' > fr.aff
-	python3 ./scripts/add_incl.py '.' fr.aff
+		'^(ICONV|IGNORE|FULLSTRIP|BREAK|WORDCHARS)\b' > $@
+	python3 ./scripts/add_incl.py '.' $@
 
 fr.utf-8.spl: fr.dic fr.aff
 	vim -c "mkspell! fr" -c 'q'
@@ -51,7 +53,7 @@ fr.utf-8.spl: fr.dic fr.aff
 fr.txt: fr.utf-8.spl
 	nvim -c 'set spell spelllang=fr' -c 'spelldump!' \
 		-c 'write fr.txt' -c 'qa'
-	grep -v -E '(\.\w+[-·])|(-\w+[·\.])|(·\w+[-\.])' fr.txt | sponge fr.txt 
+	grep -v -E '(\.\w+[-·])|(-\w+[·\.])|(·\w+[-\.])' $@ | sponge $@
 
 
 clean:
