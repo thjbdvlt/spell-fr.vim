@@ -2114,8 +2114,8 @@ allélopathie/Es&& # po:noun is:fem
 alléluia/Es&& # po:noun is:mas
 allemand·e/,,Ee&& # po:noun po:adj
 allène/Es&& # po:noun is:mas
-aller/aA # po:verb po:saux
-aller/Es&& # po:noun is:mas
+aller/aA # po:verb po:saux is:auxetre
+aller/Es&& # po:noun is:mas is:auxetre
 allergène/Es&& # po:adj is:epi
 allergène/Es&& # po:noun is:mas
 allergénique/Es&& # po:adj is:epi
@@ -4063,7 +4063,7 @@ appalachien·ne/,,ll&& # po:adj
 appaméen·ne/,,ll&& # po:noun po:adj
 apparaissant·e/Ee,, # po:adj
 apparaitre/wQq+ # po:verb
-apparaître/wQq+ # po:verb
+apparaître/wQq+ # po:verb is:auxetre
 apparatchik/Es&& # po:noun is:mas
 apparatchik/&& # po:noun is:mas is:inv
 apparat/Es&& # po:noun is:mas
@@ -4710,7 +4710,7 @@ arriser/a0p+ # po:verb
 arrivage/Es&& # po:noun is:mas
 arrivant·e/,,Ee&& # po:noun po:adj
 arrivée/Es&& # po:noun is:fem
-arriver/a0p+ # po:verb
+arriver/a0p+ # po:verb is:auxetre
 arrivisme/Es&& # po:noun is:mas
 arriviste/Es&& # po:noun po:adj is:epi
 arrobas·e/,,Ee&& # po:noun
@@ -18911,7 +18911,7 @@ démeubler/a0p+ # po:verb
 demeurant/ # po:adv
 demeuré·e/,,Ee&& # po:noun po:adj
 demeure/Es&& # po:noun is:fem
-demeurer/a0p. # po:verb
+demeurer/a0p. # po:verb is:auxetre
 demiard/Es&& # po:noun is:mas
 demi·e/,,Ee&& # po:noun po:adj
 démieller/a0p+ # po:verb
@@ -20360,8 +20360,8 @@ développemental·e/,,al&& # po:adj
 développement/Es&& # po:noun is:mas
 développer/a0p+ # po:verb
 développeur·euse/,,rs&& # po:noun
-devenir/Es&& # po:noun is:mas
-devenir/i0q+ # po:verb
+devenir/Es&& # po:noun is:mas is:auxetre
+devenir/i0q+ # po:verb is:auxetre
 déventer/a0p+ # po:verb
 déverbal·e/,,al&& # po:adj
 déverbatif/Es&& # po:noun is:mas
@@ -21163,7 +21163,7 @@ dismutation/Es&& # po:noun is:fem
 disodique/Es&& # po:adj is:epi
 disomie/Es&& # po:noun is:fem
 disparaitre/wQq+ # po:verb
-disparaître/wQq+ # po:verb
+disparaître/wQq+ # po:verb is:auxetre
 disparate/Es&& # po:noun po:adj is:epi
 disparation/Es&& # po:noun is:fem
 disparité/Es&& # po:noun is:fem
@@ -22393,7 +22393,7 @@ ecdysone/Es&& # po:noun is:fem
 échographier/a0p+ # po:verb
 échographique/Es&& # po:adj is:epi
 échographiste/Es&& # po:noun is:epi
-échoir/pY # po:verb
+échoir/pY # po:verb is:auxetre
 écholalie/Es&& # po:noun is:fem
 écholalique/Es&& # po:adj is:epi
 écholocalisation/Es&& # po:noun is:fem
@@ -24621,7 +24621,7 @@ entrepreneur·euse/,,rs&& # po:noun
 entrepreneurial·e/,,al&& # po:adj
 entrepreneuriat/Es&& # po:noun is:mas
 entreprise/Es&& # po:noun is:fem
-entrer/a0p+ # po:verb
+entrer/a0p+ # po:verb is:auxetre
 entrerail/Es&& # po:noun is:mas
 entreregarder/a6p+ # po:verb
 entresol/Es&& # po:noun is:mas
@@ -36493,7 +36493,7 @@ intervallaire/Es&& # po:adj is:epi
 intervalle/Es&& # po:noun is:mas
 intervalliste/Es&& # po:noun is:epi
 intervenant·e/,,Ee&& # po:noun po:adj
-intervenir/i0q+ # po:verb
+intervenir/i0q+ # po:verb is:auxetre
 intervention/Es&& # po:noun is:fem
 interventionnel·le/,,ll&& # po:adj
 interventionnisme/Es&& # po:noun is:mas
@@ -43971,7 +43971,7 @@ mouquère/Es&& # po:noun is:fem
 mourant·e/,,Ee&& # po:noun po:adj
 mouride/Es&& # po:noun po:adj is:epi
 mouridisme/Es&& # po:noun is:mas
-mourir/iP # po:verb
+mourir/iP # po:verb is:auxetre
 mouroir/Es&& # po:noun is:mas
 mouron/Es&& # po:noun is:mas
 mouronner/a0p+ # po:verb
@@ -48583,7 +48583,7 @@ partie/Es&& # po:noun is:fem
 partiel·le/,,ll&& # po:noun po:adj
 partiellement/ # po:adv
 parti/Es&& # po:noun is:mas
-partir/i5q+ # po:verb
+partir/i5q+ # po:verb is:auxetre
 partisan·e/,,Ee&& # po:noun po:adj
 partisanerie/Es&& # po:noun is:fem
 partita/LT&& # po:noun is:fem
@@ -48609,7 +48609,7 @@ parure/Es&& # po:noun is:fem
 parurerie/Es&& # po:noun is:fem
 parurier·ère/,,rr&& # po:noun
 parution/Es&& # po:noun is:fem
-parvenir/i0q+ # po:verb
+parvenir/i0q+ # po:verb is:auxetre
 parvenu·e/,,Ee&& # po:noun
 parvis/&& # po:noun is:mas is:inv
 parvovirus/&& # po:noun is:mas is:inv
@@ -48653,7 +48653,7 @@ passepoile/Es&& # po:noun is:fem
 passepoiler/a0p+ # po:verb
 passepoil/Es&& # po:noun is:mas
 passeport/Es&& # po:noun is:mas
-passer/a0p+ # po:verb
+passer/a0p+ # po:verb is:auxetre
 passerage/Es&& # po:noun is:fem
 passereau/lx&& # po:noun is:mas
 passerelle/Es&& # po:noun is:fem
@@ -53784,7 +53784,7 @@ provenance/Es&& # po:noun is:fem
 provençal·e/,,al&& # po:noun po:adj
 provençalisme/Es&& # po:noun is:mas
 provende/Es&& # po:noun is:fem
-provenir/i0q+ # po:verb
+provenir/i0q+ # po:verb is:auxetre
 proverbe/Es&& # po:noun is:mas
 proverbial·e/,,al&& # po:adj
 proverbialement/ # po:adv
@@ -55691,7 +55691,7 @@ réanimation/Es&& # po:noun is:fem
 réanimatoire/Es&& # po:adj is:epi
 réanimer/a0p+ # po:verb
 réapparaitre/wQq+ # po:verb
-réapparaître/wQq+ # po:verb
+réapparaître/wQq+ # po:verb is:auxetre
 réapparition/Es&& # po:noun is:fem
 réappliquer/a0p+ # po:verb
 réappréciation/Es&& # po:noun is:fem
@@ -56234,7 +56234,7 @@ redevabilité/Es&& # po:noun is:fem
 redevable/Es&& # po:adj is:epi
 redevance/Es&& # po:noun is:fem
 redévelopper/a0p+ # po:verb
-redevenir/i0q+ # po:verb
+redevenir/i0q+ # po:verb is:auxetre
 redevoir/pC # po:verb
 rédhibition/Es&& # po:noun is:fem
 rédhibitoire/Es&& # po:adj is:epi
@@ -57242,16 +57242,16 @@ repartager/a0p+ # po:verb
 répartement/Es&& # po:noun is:mas
 repartie/Es&& # po:noun is:fem
 répartie/Es&& # po:noun is:fem
-repartir/f0p+ # po:verb
-répartir/f0p+ # po:verb
-repartir/i5q+ # po:verb
+repartir/f0p+ # po:verb is:auxetre
+répartir/f0p+ # po:verb is:auxetre
+repartir/i5q+ # po:verb is:auxetre
 répartissable/Es&& # po:adj is:epi
 répartiteur·rice/,,ri&& # po:noun
 répartition/Es&& # po:noun is:fem
 reparution/Es&& # po:noun is:fem
 repas/&& # po:noun is:mas is:inv
 repassage/Es&& # po:noun is:mas
-repasser/a0p+ # po:verb
+repasser/a0p+ # po:verb is:auxetre
 repasseur·euse/,,rs&& # po:noun
 repatiner/a0p+ # po:verb
 repavage/Es&& # po:noun is:mas
@@ -57651,7 +57651,7 @@ restauration/Es&& # po:noun is:fem
 restauratoire/Es&& # po:adj is:epi
 restaurer/a0p+ # po:verb
 reste/Es&& # po:noun is:mas
-rester/a0p+ # po:verb
+rester/a0p+ # po:verb is:auxetre
 restituable/Es&& # po:adj is:epi
 restituer/a0p+ # po:verb
 restituteur·rice/,,ri&& # po:noun
@@ -57759,7 +57759,7 @@ rétivité/Es&& # po:noun is:fem
 retombant·e/,,Ee&& # po:adj
 retombée/Es&& # po:noun is:fem
 retombement/Es&& # po:noun is:mas
-retomber/a0p+ # po:verb
+retomber/a0p+ # po:verb is:auxetre
 retondre/tA # po:verb
 retoquer/a0p+ # po:verb
 retordage/Es&& # po:noun is:mas
@@ -57950,7 +57950,7 @@ revendicatif·ve/,,fv&& # po:adj
 revendication/Es&& # po:noun is:fem
 revendiquer/a0p+ # po:verb
 revendre/tA # po:verb
-revenir/i0q+ # po:verb
+revenir/i0q+ # po:verb is:auxetre
 revente/Es&& # po:noun is:fem
 revenue/Es&& # po:noun is:fem
 revenu/Es&& # po:noun is:mas
@@ -63881,7 +63881,7 @@ surveillant·e/,,Ee&& # po:noun po:adj
 surveiller/a0p+ # po:verb
 survenance/Es&& # po:noun is:fem
 survendre/tA # po:verb
-survenir/i0q+ # po:verb
+survenir/i0q+ # po:verb is:auxetre
 survente/Es&& # po:noun is:fem
 survenue/Es&& # po:noun is:fem
 survêtement/Es&& # po:noun is:mas
@@ -66102,7 +66102,7 @@ tombeau/lx&& # po:noun is:mas
 tombé·e/,,Ee&& # po:noun
 tombe/Es&& # po:noun is:fem
 tombelle/Es&& # po:noun is:fem
-tomber/a0p+ # po:verb
+tomber/a0p+ # po:verb is:auxetre
 tombereau/lx&& # po:noun is:mas
 tombeur·euse/,,rs&& # po:noun
 tombola/Es&& # po:noun is:fem
@@ -68883,7 +68883,7 @@ venimeusement/ # po:adv
 venimeux·euse/,,xz&& # po:adj
 venimosité/Es&& # po:noun is:fem
 venin/Es&& # po:noun is:mas
-venir/i0q+ # po:verb po:saux
+venir/i0q+ # po:verb po:saux is:auxetre
 vénitien·ne/,,ll&& # po:noun po:adj
 ventage/Es&& # po:noun is:mas
 ventail/lx&& # po:noun is:mas
