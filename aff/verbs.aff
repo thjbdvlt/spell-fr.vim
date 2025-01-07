@@ -4779,11 +4779,12 @@ SFX wP aincre aincu-es/ vaincre # is:ppas po:adj is:incl is:pl
 SFX wP aincre aincu·e·s/ vaincre # is:ppas po:adj is:incl is:pl
 SFX wP aincre aincu-e-s/ vaincre # is:ppas po:adj is:incl is:pl
 
-SFX wQ Y 72
+SFX wQ Y 73
 SFX wQ tre tre/ tre # is:infi
 SFX wQ aître aissant/ aître # is:ppre
 SFX wQ aitre aissant/ aitre # is:ppre
 SFX wQ aître ais/ aître # is:ipre is:1sg is:2sg
+SFX wQ aître aîs/ aître # is:ipre is:1sg is:2sg
 SFX wQ aître aît/ aître # is:ipre is:3sg
 SFX wQ aître aissons/ aître # is:ipre is:1pl
 SFX wQ aître aissez/ aître # is:ipre is:2pl

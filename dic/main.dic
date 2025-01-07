@@ -96,6 +96,8 @@ abêtifié·e/,,Ee&& # po:adj
 abêtifier/ # po:verb
 abêtir/f0p+ # po:verb
 abêtissant·e/,,Ee&& # po:adj
+quelqu'un·e/,,Ee&& # po:pron
+quelques-un·e/,,Ee&& # po:pron
 abêtissement/Es&& # po:noun is:mas
 abhorrer/a0p+ # po:verb
 abicher/ # po:verb
@@ -8405,7 +8407,6 @@ bonimenter/a0p. # po:verb
 boniment/Es&& # po:noun is:mas
 bonimenteur·euse/,,rs&& # po:noun
 bonite/Es&& # po:noun is:fem
-bonjour/Es&& # po:noun is:mas
 bonnard·e/,,Ee&& # po:adj
 bon·ne/,,ll&& # po:noun po:adj
 bonnement/ # po:adv
@@ -8421,7 +8422,7 @@ bonobo/Es&& # po:adj is:epi
 bonobo/Es&& # po:noun is:mas
 bonsaï/Es&& # po:noun is:mas
 bonshommes/&& # po:noun is:pl is:mas
-bonsoir/Es&& # po:noun is:mas
+bonsoir/Es&& # po:intj
 bonté/Es&& # po:noun is:fem
 bonus/&& # po:noun is:mas is:inv
 bonzaï/Es&& # po:noun is:mas
@@ -32275,7 +32276,6 @@ hellénisme/Es&& # po:noun is:mas
 helléniste/Es&& # po:noun is:epi
 hellénistique/Es&& # po:adj is:epi
 hellénophone/Es&& # po:noun po:adj is:epi
-hello/ # po:intj
 helminthe/Es&& # po:noun is:mas
 helminthiase/Es&& # po:noun is:fem
 helminthique/Es&& # po:adj is:epi
@@ -33240,7 +33240,6 @@ huiler/a0p+ # po:verb
 huilerie/Es&& # po:noun is:fem
 huileux·euse/,,xz&& # po:adj
 huilier·ère/,,rr&& # po:noun po:adj
-hui/ # po:adp
 hui/ # po:adv
 huis/&& # po:noun is:mas is:inv
 huisserie/Es&& # po:noun is:fem
@@ -42014,7 +42013,7 @@ merceriser/a0p+ # po:verb
 merceriseuse/Es&& # po:noun is:fem
 merchandising/Es&& # po:noun is:mas
 mercier·ère/,,rr&& # po:noun
-merci/Es&& # po:noun is:epi
+merci/Es&& # po:intj
 mercredi/Es&& # po:noun is:mas
 mercredi/ # po:adv
 mercure/Es&& # po:noun is:mas
@@ -55758,6 +55757,7 @@ rebondir/f0p+ # po:verb
 rebondissant·e/,,Ee&& # po:adj
 rebondissement/Es&& # po:noun is:mas
 rebonjour/ # po:intj
+bonjour/ # po:intj
 rebonneter/ # po:verb
 rebooster/a0p+ # po:verb
 reborder/a0p+ # po:verb
@@ -59369,6 +59369,7 @@ salure/Es&& # po:noun is:fem
 salutaire/Es&& # po:adj is:epi
 salutairement/ # po:adv
 salutation/Es&& # po:noun is:fem
+salut/ # po:intj
 salut/Es&& # po:noun is:mas
 salutiste/Es&& # po:noun is:epi
 salvadorien·ne/,,ll&& # po:noun po:adj

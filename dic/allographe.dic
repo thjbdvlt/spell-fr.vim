@@ -31,3 +31,7 @@ nop/ # po:adv
 nope/ # po:adv
 y'a/ # po:aux po:verb st:avoir
 ya/ # po:aux po:verb st:avoir
+y'en/ # po:aux po:verb st:avoir
+v'la/ # po:adp
+hello/ # po:intj
+so/ # po:intj
