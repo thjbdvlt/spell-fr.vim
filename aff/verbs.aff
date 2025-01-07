@@ -29,11 +29,11 @@ SFX zA voir ura/ avoir # is:ifut is:3sg
 SFX zA voir urons/ avoir # is:ifut is:1pl
 SFX zA voir urez/ avoir # is:ifut is:2pl
 SFX zA voir uront/ avoir # is:ifut is:3pl!
-SFX zA voir urais/ avoir # is:cond is:1sg is:2sg
-SFX zA voir urait/ avoir # is:cond is:3sg
-SFX zA voir urions/ avoir # is:cond is:1pl
-SFX zA voir uriez/ avoir # is:cond is:2pl
-SFX zA voir uraient/ avoir # is:cond is:3pl
+SFX zA voir urais/ avoir # is:cnd is:1sg is:2sg
+SFX zA voir urait/ avoir # is:cnd is:3sg
+SFX zA voir urions/ avoir # is:cnd is:1pl
+SFX zA voir uriez/ avoir # is:cnd is:2pl
+SFX zA voir uraient/ avoir # is:cnd is:3pl
 SFX zA voir ie/ avoir # is:spre is:1sg
 SFX zA voir ies/ avoir # is:spre is:2sg
 SFX zA voir it/ avoir # is:spre is:3sg
@@ -82,11 +82,11 @@ SFX zE être sera/ être # is:ifut is:3sg
 SFX zE être serons/ être # is:ifut is:1pl
 SFX zE être serez/ être # is:ifut is:2pl
 SFX zE être seront/ être # is:ifut is:3pl!
-SFX zE être serais/ être # is:cond is:1sg is:2sg
-SFX zE être serait/ être # is:cond is:3sg
-SFX zE être serions/ être # is:cond is:1pl
-SFX zE être seriez/ être # is:cond is:2pl
-SFX zE être seraient/ être # is:cond is:3pl
+SFX zE être serais/ être # is:cnd is:1sg is:2sg
+SFX zE être serait/ être # is:cnd is:3sg
+SFX zE être serions/ être # is:cnd is:1pl
+SFX zE être seriez/ être # is:cnd is:2pl
+SFX zE être seraient/ être # is:cnd is:3pl
 SFX zE être sois/ être # is:spre is:1sg is:2sg
 SFX zE être soit/ être # is:spre is:3sg
 SFX zE être soyons/ être # is:spre is:1pl
@@ -168,21 +168,21 @@ SFX a0 yer ierez/ [aou]yer # is:ifut is:2pl
 SFX a0 er eront/ [^y]er # is:ifut is:3pl!
 SFX a0 yer yeront/ [^ou]yer # is:ifut is:3pl!
 SFX a0 yer ieront/ [aou]yer # is:ifut is:3pl!
-SFX a0 er erais/ [^y]er # is:cond is:1sg is:2sg
-SFX a0 yer yerais/ [^ou]yer # is:cond is:1sg is:2sg
-SFX a0 yer ierais/ [aou]yer # is:cond is:1sg is:2sg
-SFX a0 er erait/ [^y]er # is:cond is:3sg
-SFX a0 yer yerait/ [^ou]yer # is:cond is:3sg
-SFX a0 yer ierait/ [aou]yer # is:cond is:3sg
-SFX a0 er erions/ [^y]er # is:cond is:1pl
-SFX a0 yer yerions/ [^ou]yer # is:cond is:1pl
-SFX a0 yer ierions/ [aou]yer # is:cond is:1pl
-SFX a0 er eriez/ [^y]er # is:cond is:2pl
-SFX a0 yer yeriez/ [^ou]yer # is:cond is:2pl
-SFX a0 yer ieriez/ [aou]yer # is:cond is:2pl
-SFX a0 er eraient/ [^y]er # is:cond is:3pl
-SFX a0 yer yeraient/ [^ou]yer # is:cond is:3pl
-SFX a0 yer ieraient/ [aou]yer # is:cond is:3pl
+SFX a0 er erais/ [^y]er # is:cnd is:1sg is:2sg
+SFX a0 yer yerais/ [^ou]yer # is:cnd is:1sg is:2sg
+SFX a0 yer ierais/ [aou]yer # is:cnd is:1sg is:2sg
+SFX a0 er erait/ [^y]er # is:cnd is:3sg
+SFX a0 yer yerait/ [^ou]yer # is:cnd is:3sg
+SFX a0 yer ierait/ [aou]yer # is:cnd is:3sg
+SFX a0 er erions/ [^y]er # is:cnd is:1pl
+SFX a0 yer yerions/ [^ou]yer # is:cnd is:1pl
+SFX a0 yer ierions/ [aou]yer # is:cnd is:1pl
+SFX a0 er eriez/ [^y]er # is:cnd is:2pl
+SFX a0 yer yeriez/ [^ou]yer # is:cnd is:2pl
+SFX a0 yer ieriez/ [aou]yer # is:cnd is:2pl
+SFX a0 er eraient/ [^y]er # is:cnd is:3pl
+SFX a0 yer yeraient/ [^ou]yer # is:cnd is:3pl
+SFX a0 yer ieraient/ [aou]yer # is:cnd is:3pl
 SFX a0 er asse/ [^cg]er # is:simp is:1sg
 SFX a0 cer çasse/ cer # is:simp is:1sg
 SFX a0 ger geasse/ ger # is:simp is:1sg
@@ -254,18 +254,18 @@ SFX a6 yer ierez/ [aou]yer # is:ifut is:2pl
 SFX a6 er eront/ [^y]er # is:ifut is:3pl!
 SFX a6 yer yeront/ [^ou]yer # is:ifut is:3pl!
 SFX a6 yer ieront/ [aou]yer # is:ifut is:3pl!
-SFX a6 er erait/ [^y]er # is:cond is:3sg
-SFX a6 yer yerait/ [^ou]yer # is:cond is:3sg
-SFX a6 yer ierait/ [aou]yer # is:cond is:3sg
-SFX a6 er erions/ [^y]er # is:cond is:1pl
-SFX a6 yer yerions/ [^ou]yer # is:cond is:1pl
-SFX a6 yer ierions/ [aou]yer # is:cond is:1pl
-SFX a6 er eriez/ [^y]er # is:cond is:2pl
-SFX a6 yer yeriez/ [^ou]yer # is:cond is:2pl
-SFX a6 yer ieriez/ [aou]yer # is:cond is:2pl
-SFX a6 er eraient/ [^y]er # is:cond is:3pl
-SFX a6 yer yeraient/ [^ou]yer # is:cond is:3pl
-SFX a6 yer ieraient/ [aou]yer # is:cond is:3pl
+SFX a6 er erait/ [^y]er # is:cnd is:3sg
+SFX a6 yer yerait/ [^ou]yer # is:cnd is:3sg
+SFX a6 yer ierait/ [aou]yer # is:cnd is:3sg
+SFX a6 er erions/ [^y]er # is:cnd is:1pl
+SFX a6 yer yerions/ [^ou]yer # is:cnd is:1pl
+SFX a6 yer ierions/ [aou]yer # is:cnd is:1pl
+SFX a6 er eriez/ [^y]er # is:cnd is:2pl
+SFX a6 yer yeriez/ [^ou]yer # is:cnd is:2pl
+SFX a6 yer ieriez/ [aou]yer # is:cnd is:2pl
+SFX a6 er eraient/ [^y]er # is:cnd is:3pl
+SFX a6 yer yeraient/ [^ou]yer # is:cnd is:3pl
+SFX a6 yer ieraient/ [aou]yer # is:cnd is:3pl
 SFX a6 er ât/ [^cg]er # is:simp is:3sg
 SFX a6 cer çât/ cer # is:simp is:3sg
 SFX a6 ger geât/ ger # is:simp is:3sg
@@ -296,7 +296,7 @@ SFX a8 er a/ [^cg]er # is:ipsi is:3sg
 SFX a8 cer ça/ cer # is:ipsi is:3sg
 SFX a8 ger gea/ ger # is:ipsi is:3sg
 SFX a8 er era/ er # is:ifut is:3sg
-SFX a8 er erait/ er # is:cond is:3sg
+SFX a8 er erait/ er # is:cnd is:3sg
 SFX a8 er ât/ [^cg]er # is:simp is:3sg
 SFX a8 cer çât/ cer # is:simp is:3sg
 SFX a8 ger geât/ ger # is:simp is:3sg
@@ -308,7 +308,7 @@ SFX a9 cer çaient/ cer # is:iimp is:3pl
 SFX a9 ger geaient/ ger # is:iimp is:3pl
 SFX a9 er èrent/ er # is:ipsi is:3pl!
 SFX a9 er eront/ er # is:ifut is:3pl!
-SFX a9 er eraient/ er # is:cond is:3pl
+SFX a9 er eraient/ er # is:cnd is:3pl
 SFX a9 er assent/ [^cg]er # is:simp is:3pl
 SFX a9 cer çassent/ cer # is:simp is:3pl
 SFX a9 ger geassent/ ger # is:simp is:3pl
@@ -430,56 +430,56 @@ SFX b0 ever èveront/ ever # is:ifut is:3pl!
 SFX b0 evrer èvreront/ evrer # is:ifut is:3pl!
 SFX b0 eter èteront/ eter # is:ifut is:3pl!
 SFX b0 eler èleront/ eler # is:ifut is:3pl!
-SFX b0 ecer ècerais/ ecer # is:cond is:1sg is:2sg
-SFX b0 emer èmerais/ emer # is:cond is:1sg is:2sg
-SFX b0 ener ènerais/ ener # is:cond is:1sg is:2sg
-SFX b0 eper èperais/ eper # is:cond is:1sg is:2sg
-SFX b0 erer èrerais/ erer # is:cond is:1sg is:2sg
-SFX b0 eser èserais/ eser # is:cond is:1sg is:2sg
-SFX b0 ever èverais/ ever # is:cond is:1sg is:2sg
-SFX b0 evrer èvrerais/ evrer # is:cond is:1sg is:2sg
-SFX b0 eter èterais/ eter # is:cond is:1sg is:2sg
-SFX b0 eler èlerais/ eler # is:cond is:1sg is:2sg
-SFX b0 ecer ècerait/ ecer # is:cond is:3sg
-SFX b0 emer èmerait/ emer # is:cond is:3sg
-SFX b0 ener ènerait/ ener # is:cond is:3sg
-SFX b0 eper èperait/ eper # is:cond is:3sg
-SFX b0 erer èrerait/ erer # is:cond is:3sg
-SFX b0 eser èserait/ eser # is:cond is:3sg
-SFX b0 ever èverait/ ever # is:cond is:3sg
-SFX b0 evrer èvrerait/ evrer # is:cond is:3sg
-SFX b0 eter èterait/ eter # is:cond is:3sg
-SFX b0 eler èlerait/ eler # is:cond is:3sg
-SFX b0 ecer ècerions/ ecer # is:cond is:1pl
-SFX b0 emer èmerions/ emer # is:cond is:1pl
-SFX b0 ener ènerions/ ener # is:cond is:1pl
-SFX b0 eper èperions/ eper # is:cond is:1pl
-SFX b0 erer èrerions/ erer # is:cond is:1pl
-SFX b0 eser èserions/ eser # is:cond is:1pl
-SFX b0 ever èverions/ ever # is:cond is:1pl
-SFX b0 evrer èvrerions/ evrer # is:cond is:1pl
-SFX b0 eter èterions/ eter # is:cond is:1pl
-SFX b0 eler èlerions/ eler # is:cond is:1pl
-SFX b0 ecer èceriez/ ecer # is:cond is:2pl
-SFX b0 emer èmeriez/ emer # is:cond is:2pl
-SFX b0 ener èneriez/ ener # is:cond is:2pl
-SFX b0 eper èperiez/ eper # is:cond is:2pl
-SFX b0 erer èreriez/ erer # is:cond is:2pl
-SFX b0 eser èseriez/ eser # is:cond is:2pl
-SFX b0 ever èveriez/ ever # is:cond is:2pl
-SFX b0 evrer èvreriez/ evrer # is:cond is:2pl
-SFX b0 eter èteriez/ eter # is:cond is:2pl
-SFX b0 eler èleriez/ eler # is:cond is:2pl
-SFX b0 ecer èceraient/ ecer # is:cond is:3pl
-SFX b0 emer èmeraient/ emer # is:cond is:3pl
-SFX b0 ener èneraient/ ener # is:cond is:3pl
-SFX b0 eper èperaient/ eper # is:cond is:3pl
-SFX b0 erer èreraient/ erer # is:cond is:3pl
-SFX b0 eser èseraient/ eser # is:cond is:3pl
-SFX b0 ever èveraient/ ever # is:cond is:3pl
-SFX b0 evrer èvreraient/ evrer # is:cond is:3pl
-SFX b0 eter èteraient/ eter # is:cond is:3pl
-SFX b0 eler èleraient/ eler # is:cond is:3pl
+SFX b0 ecer ècerais/ ecer # is:cnd is:1sg is:2sg
+SFX b0 emer èmerais/ emer # is:cnd is:1sg is:2sg
+SFX b0 ener ènerais/ ener # is:cnd is:1sg is:2sg
+SFX b0 eper èperais/ eper # is:cnd is:1sg is:2sg
+SFX b0 erer èrerais/ erer # is:cnd is:1sg is:2sg
+SFX b0 eser èserais/ eser # is:cnd is:1sg is:2sg
+SFX b0 ever èverais/ ever # is:cnd is:1sg is:2sg
+SFX b0 evrer èvrerais/ evrer # is:cnd is:1sg is:2sg
+SFX b0 eter èterais/ eter # is:cnd is:1sg is:2sg
+SFX b0 eler èlerais/ eler # is:cnd is:1sg is:2sg
+SFX b0 ecer ècerait/ ecer # is:cnd is:3sg
+SFX b0 emer èmerait/ emer # is:cnd is:3sg
+SFX b0 ener ènerait/ ener # is:cnd is:3sg
+SFX b0 eper èperait/ eper # is:cnd is:3sg
+SFX b0 erer èrerait/ erer # is:cnd is:3sg
+SFX b0 eser èserait/ eser # is:cnd is:3sg
+SFX b0 ever èverait/ ever # is:cnd is:3sg
+SFX b0 evrer èvrerait/ evrer # is:cnd is:3sg
+SFX b0 eter èterait/ eter # is:cnd is:3sg
+SFX b0 eler èlerait/ eler # is:cnd is:3sg
+SFX b0 ecer ècerions/ ecer # is:cnd is:1pl
+SFX b0 emer èmerions/ emer # is:cnd is:1pl
+SFX b0 ener ènerions/ ener # is:cnd is:1pl
+SFX b0 eper èperions/ eper # is:cnd is:1pl
+SFX b0 erer èrerions/ erer # is:cnd is:1pl
+SFX b0 eser èserions/ eser # is:cnd is:1pl
+SFX b0 ever èverions/ ever # is:cnd is:1pl
+SFX b0 evrer èvrerions/ evrer # is:cnd is:1pl
+SFX b0 eter èterions/ eter # is:cnd is:1pl
+SFX b0 eler èlerions/ eler # is:cnd is:1pl
+SFX b0 ecer èceriez/ ecer # is:cnd is:2pl
+SFX b0 emer èmeriez/ emer # is:cnd is:2pl
+SFX b0 ener èneriez/ ener # is:cnd is:2pl
+SFX b0 eper èperiez/ eper # is:cnd is:2pl
+SFX b0 erer èreriez/ erer # is:cnd is:2pl
+SFX b0 eser èseriez/ eser # is:cnd is:2pl
+SFX b0 ever èveriez/ ever # is:cnd is:2pl
+SFX b0 evrer èvreriez/ evrer # is:cnd is:2pl
+SFX b0 eter èteriez/ eter # is:cnd is:2pl
+SFX b0 eler èleriez/ eler # is:cnd is:2pl
+SFX b0 ecer èceraient/ ecer # is:cnd is:3pl
+SFX b0 emer èmeraient/ emer # is:cnd is:3pl
+SFX b0 ener èneraient/ ener # is:cnd is:3pl
+SFX b0 eper èperaient/ eper # is:cnd is:3pl
+SFX b0 erer èreraient/ erer # is:cnd is:3pl
+SFX b0 eser èseraient/ eser # is:cnd is:3pl
+SFX b0 ever èveraient/ ever # is:cnd is:3pl
+SFX b0 evrer èvreraient/ evrer # is:cnd is:3pl
+SFX b0 eter èteraient/ eter # is:cnd is:3pl
+SFX b0 eler èleraient/ eler # is:cnd is:3pl
 SFX b0 er asse/ [^c]er # is:simp is:1sg
 SFX b0 cer çasse/ cer # is:simp is:1sg
 SFX b0 er asses/ [^c]er # is:simp is:2sg
@@ -738,116 +738,116 @@ SFX v0 éter èteront/ éter # is:ifut is:3pl!
 SFX v0 étrer ètreront/ étrer # is:ifut is:3pl!
 SFX v0 évrer èvreront/ évrer # is:ifut is:3pl!
 SFX v0 éyer èyeront/ éyer # is:ifut is:3pl!
-SFX v0 er erais/ er # is:cond is:1sg is:2sg
-SFX v0 ébrer èbrerais/ ébrer # is:cond is:1sg is:2sg
-SFX v0 écer ècerais/ écer # is:cond is:1sg is:2sg
-SFX v0 écher ècherais/ écher # is:cond is:1sg is:2sg
-SFX v0 écrer ècrerais/ écrer # is:cond is:1sg is:2sg
-SFX v0 éder èderais/ éder # is:cond is:1sg is:2sg
-SFX v0 éger ègerais/ éger # is:cond is:1sg is:2sg
-SFX v0 égler èglerais/ égler # is:cond is:1sg is:2sg
-SFX v0 égner ègnerais/ égner # is:cond is:1sg is:2sg
-SFX v0 égrer ègrerais/ égrer # is:cond is:1sg is:2sg
-SFX v0 éguer èguerais/ éguer # is:cond is:1sg is:2sg
-SFX v0 éler èlerais/ éler # is:cond is:1sg is:2sg
-SFX v0 émer èmerais/ émer # is:cond is:1sg is:2sg
-SFX v0 éner ènerais/ éner # is:cond is:1sg is:2sg
-SFX v0 éper èperais/ éper # is:cond is:1sg is:2sg
-SFX v0 équer èquerais/ équer # is:cond is:1sg is:2sg
-SFX v0 érer èrerais/ érer # is:cond is:1sg is:2sg
-SFX v0 éser èserais/ éser # is:cond is:1sg is:2sg
-SFX v0 éter èterais/ éter # is:cond is:1sg is:2sg
-SFX v0 étrer ètrerais/ étrer # is:cond is:1sg is:2sg
-SFX v0 évrer èvrerais/ évrer # is:cond is:1sg is:2sg
-SFX v0 éyer èyerais/ éyer # is:cond is:1sg is:2sg
-SFX v0 er erait/ er # is:cond is:3sg
-SFX v0 ébrer èbrerait/ ébrer # is:cond is:3sg
-SFX v0 écer ècerait/ écer # is:cond is:3sg
-SFX v0 écher ècherait/ écher # is:cond is:3sg
-SFX v0 écrer ècrerait/ écrer # is:cond is:3sg
-SFX v0 éder èderait/ éder # is:cond is:3sg
-SFX v0 éger ègerait/ éger # is:cond is:3sg
-SFX v0 égler èglerait/ égler # is:cond is:3sg
-SFX v0 égner ègnerait/ égner # is:cond is:3sg
-SFX v0 égrer ègrerait/ égrer # is:cond is:3sg
-SFX v0 éguer èguerait/ éguer # is:cond is:3sg
-SFX v0 éler èlerait/ éler # is:cond is:3sg
-SFX v0 émer èmerait/ émer # is:cond is:3sg
-SFX v0 éner ènerait/ éner # is:cond is:3sg
-SFX v0 éper èperait/ éper # is:cond is:3sg
-SFX v0 équer èquerait/ équer # is:cond is:3sg
-SFX v0 érer èrerait/ érer # is:cond is:3sg
-SFX v0 éser èserait/ éser # is:cond is:3sg
-SFX v0 éter èterait/ éter # is:cond is:3sg
-SFX v0 étrer ètrerait/ étrer # is:cond is:3sg
-SFX v0 évrer èvrerait/ évrer # is:cond is:3sg
-SFX v0 éyer èyerait/ éyer # is:cond is:3sg
-SFX v0 er erions/ er # is:cond is:1pl
-SFX v0 ébrer èbrerions/ ébrer # is:cond is:1pl
-SFX v0 écer ècerions/ écer # is:cond is:1pl
-SFX v0 écher ècherions/ écher # is:cond is:1pl
-SFX v0 écrer ècrerions/ écrer # is:cond is:1pl
-SFX v0 éder èderions/ éder # is:cond is:1pl
-SFX v0 éger ègerions/ éger # is:cond is:1pl
-SFX v0 égler èglerions/ égler # is:cond is:1pl
-SFX v0 égner ègnerions/ égner # is:cond is:1pl
-SFX v0 égrer ègrerions/ égrer # is:cond is:1pl
-SFX v0 éguer èguerions/ éguer # is:cond is:1pl
-SFX v0 éler èlerions/ éler # is:cond is:1pl
-SFX v0 émer èmerions/ émer # is:cond is:1pl
-SFX v0 éner ènerions/ éner # is:cond is:1pl
-SFX v0 éper èperions/ éper # is:cond is:1pl
-SFX v0 équer èquerions/ équer # is:cond is:1pl
-SFX v0 érer èrerions/ érer # is:cond is:1pl
-SFX v0 éser èserions/ éser # is:cond is:1pl
-SFX v0 éter èterions/ éter # is:cond is:1pl
-SFX v0 étrer ètrerions/ étrer # is:cond is:1pl
-SFX v0 évrer èvrerions/ évrer # is:cond is:1pl
-SFX v0 éyer èyerions/ éyer # is:cond is:1pl
-SFX v0 er eriez/ er # is:cond is:2pl
-SFX v0 ébrer èbreriez/ ébrer # is:cond is:2pl
-SFX v0 écer èceriez/ écer # is:cond is:2pl
-SFX v0 écher ècheriez/ écher # is:cond is:2pl
-SFX v0 écrer ècreriez/ écrer # is:cond is:2pl
-SFX v0 éder èderiez/ éder # is:cond is:2pl
-SFX v0 éger ègeriez/ éger # is:cond is:2pl
-SFX v0 égler ègleriez/ égler # is:cond is:2pl
-SFX v0 égner ègneriez/ égner # is:cond is:2pl
-SFX v0 égrer ègreriez/ égrer # is:cond is:2pl
-SFX v0 éguer ègueriez/ éguer # is:cond is:2pl
-SFX v0 éler èleriez/ éler # is:cond is:2pl
-SFX v0 émer èmeriez/ émer # is:cond is:2pl
-SFX v0 éner èneriez/ éner # is:cond is:2pl
-SFX v0 éper èperiez/ éper # is:cond is:2pl
-SFX v0 équer èqueriez/ équer # is:cond is:2pl
-SFX v0 érer èreriez/ érer # is:cond is:2pl
-SFX v0 éser èseriez/ éser # is:cond is:2pl
-SFX v0 éter èteriez/ éter # is:cond is:2pl
-SFX v0 étrer ètreriez/ étrer # is:cond is:2pl
-SFX v0 évrer èvreriez/ évrer # is:cond is:2pl
-SFX v0 éyer èyeriez/ éyer # is:cond is:2pl
-SFX v0 er eraient/ er # is:cond is:3pl
-SFX v0 ébrer èbreraient/ ébrer # is:cond is:3pl
-SFX v0 écer èceraient/ écer # is:cond is:3pl
-SFX v0 écher ècheraient/ écher # is:cond is:3pl
-SFX v0 écrer ècreraient/ écrer # is:cond is:3pl
-SFX v0 éder èderaient/ éder # is:cond is:3pl
-SFX v0 éger ègeraient/ éger # is:cond is:3pl
-SFX v0 égler ègleraient/ égler # is:cond is:3pl
-SFX v0 égner ègneraient/ égner # is:cond is:3pl
-SFX v0 égrer ègreraient/ égrer # is:cond is:3pl
-SFX v0 éguer ègueraient/ éguer # is:cond is:3pl
-SFX v0 éler èleraient/ éler # is:cond is:3pl
-SFX v0 émer èmeraient/ émer # is:cond is:3pl
-SFX v0 éner èneraient/ éner # is:cond is:3pl
-SFX v0 éper èperaient/ éper # is:cond is:3pl
-SFX v0 équer èqueraient/ équer # is:cond is:3pl
-SFX v0 érer èreraient/ érer # is:cond is:3pl
-SFX v0 éser èseraient/ éser # is:cond is:3pl
-SFX v0 éter èteraient/ éter # is:cond is:3pl
-SFX v0 étrer ètreraient/ étrer # is:cond is:3pl
-SFX v0 évrer èvreraient/ évrer # is:cond is:3pl
-SFX v0 éyer èyeraient/ éyer # is:cond is:3pl
+SFX v0 er erais/ er # is:cnd is:1sg is:2sg
+SFX v0 ébrer èbrerais/ ébrer # is:cnd is:1sg is:2sg
+SFX v0 écer ècerais/ écer # is:cnd is:1sg is:2sg
+SFX v0 écher ècherais/ écher # is:cnd is:1sg is:2sg
+SFX v0 écrer ècrerais/ écrer # is:cnd is:1sg is:2sg
+SFX v0 éder èderais/ éder # is:cnd is:1sg is:2sg
+SFX v0 éger ègerais/ éger # is:cnd is:1sg is:2sg
+SFX v0 égler èglerais/ égler # is:cnd is:1sg is:2sg
+SFX v0 égner ègnerais/ égner # is:cnd is:1sg is:2sg
+SFX v0 égrer ègrerais/ égrer # is:cnd is:1sg is:2sg
+SFX v0 éguer èguerais/ éguer # is:cnd is:1sg is:2sg
+SFX v0 éler èlerais/ éler # is:cnd is:1sg is:2sg
+SFX v0 émer èmerais/ émer # is:cnd is:1sg is:2sg
+SFX v0 éner ènerais/ éner # is:cnd is:1sg is:2sg
+SFX v0 éper èperais/ éper # is:cnd is:1sg is:2sg
+SFX v0 équer èquerais/ équer # is:cnd is:1sg is:2sg
+SFX v0 érer èrerais/ érer # is:cnd is:1sg is:2sg
+SFX v0 éser èserais/ éser # is:cnd is:1sg is:2sg
+SFX v0 éter èterais/ éter # is:cnd is:1sg is:2sg
+SFX v0 étrer ètrerais/ étrer # is:cnd is:1sg is:2sg
+SFX v0 évrer èvrerais/ évrer # is:cnd is:1sg is:2sg
+SFX v0 éyer èyerais/ éyer # is:cnd is:1sg is:2sg
+SFX v0 er erait/ er # is:cnd is:3sg
+SFX v0 ébrer èbrerait/ ébrer # is:cnd is:3sg
+SFX v0 écer ècerait/ écer # is:cnd is:3sg
+SFX v0 écher ècherait/ écher # is:cnd is:3sg
+SFX v0 écrer ècrerait/ écrer # is:cnd is:3sg
+SFX v0 éder èderait/ éder # is:cnd is:3sg
+SFX v0 éger ègerait/ éger # is:cnd is:3sg
+SFX v0 égler èglerait/ égler # is:cnd is:3sg
+SFX v0 égner ègnerait/ égner # is:cnd is:3sg
+SFX v0 égrer ègrerait/ égrer # is:cnd is:3sg
+SFX v0 éguer èguerait/ éguer # is:cnd is:3sg
+SFX v0 éler èlerait/ éler # is:cnd is:3sg
+SFX v0 émer èmerait/ émer # is:cnd is:3sg
+SFX v0 éner ènerait/ éner # is:cnd is:3sg
+SFX v0 éper èperait/ éper # is:cnd is:3sg
+SFX v0 équer èquerait/ équer # is:cnd is:3sg
+SFX v0 érer èrerait/ érer # is:cnd is:3sg
+SFX v0 éser èserait/ éser # is:cnd is:3sg
+SFX v0 éter èterait/ éter # is:cnd is:3sg
+SFX v0 étrer ètrerait/ étrer # is:cnd is:3sg
+SFX v0 évrer èvrerait/ évrer # is:cnd is:3sg
+SFX v0 éyer èyerait/ éyer # is:cnd is:3sg
+SFX v0 er erions/ er # is:cnd is:1pl
+SFX v0 ébrer èbrerions/ ébrer # is:cnd is:1pl
+SFX v0 écer ècerions/ écer # is:cnd is:1pl
+SFX v0 écher ècherions/ écher # is:cnd is:1pl
+SFX v0 écrer ècrerions/ écrer # is:cnd is:1pl
+SFX v0 éder èderions/ éder # is:cnd is:1pl
+SFX v0 éger ègerions/ éger # is:cnd is:1pl
+SFX v0 égler èglerions/ égler # is:cnd is:1pl
+SFX v0 égner ègnerions/ égner # is:cnd is:1pl
+SFX v0 égrer ègrerions/ égrer # is:cnd is:1pl
+SFX v0 éguer èguerions/ éguer # is:cnd is:1pl
+SFX v0 éler èlerions/ éler # is:cnd is:1pl
+SFX v0 émer èmerions/ émer # is:cnd is:1pl
+SFX v0 éner ènerions/ éner # is:cnd is:1pl
+SFX v0 éper èperions/ éper # is:cnd is:1pl
+SFX v0 équer èquerions/ équer # is:cnd is:1pl
+SFX v0 érer èrerions/ érer # is:cnd is:1pl
+SFX v0 éser èserions/ éser # is:cnd is:1pl
+SFX v0 éter èterions/ éter # is:cnd is:1pl
+SFX v0 étrer ètrerions/ étrer # is:cnd is:1pl
+SFX v0 évrer èvrerions/ évrer # is:cnd is:1pl
+SFX v0 éyer èyerions/ éyer # is:cnd is:1pl
+SFX v0 er eriez/ er # is:cnd is:2pl
+SFX v0 ébrer èbreriez/ ébrer # is:cnd is:2pl
+SFX v0 écer èceriez/ écer # is:cnd is:2pl
+SFX v0 écher ècheriez/ écher # is:cnd is:2pl
+SFX v0 écrer ècreriez/ écrer # is:cnd is:2pl
+SFX v0 éder èderiez/ éder # is:cnd is:2pl
+SFX v0 éger ègeriez/ éger # is:cnd is:2pl
+SFX v0 égler ègleriez/ égler # is:cnd is:2pl
+SFX v0 égner ègneriez/ égner # is:cnd is:2pl
+SFX v0 égrer ègreriez/ égrer # is:cnd is:2pl
+SFX v0 éguer ègueriez/ éguer # is:cnd is:2pl
+SFX v0 éler èleriez/ éler # is:cnd is:2pl
+SFX v0 émer èmeriez/ émer # is:cnd is:2pl
+SFX v0 éner èneriez/ éner # is:cnd is:2pl
+SFX v0 éper èperiez/ éper # is:cnd is:2pl
+SFX v0 équer èqueriez/ équer # is:cnd is:2pl
+SFX v0 érer èreriez/ érer # is:cnd is:2pl
+SFX v0 éser èseriez/ éser # is:cnd is:2pl
+SFX v0 éter èteriez/ éter # is:cnd is:2pl
+SFX v0 étrer ètreriez/ étrer # is:cnd is:2pl
+SFX v0 évrer èvreriez/ évrer # is:cnd is:2pl
+SFX v0 éyer èyeriez/ éyer # is:cnd is:2pl
+SFX v0 er eraient/ er # is:cnd is:3pl
+SFX v0 ébrer èbreraient/ ébrer # is:cnd is:3pl
+SFX v0 écer èceraient/ écer # is:cnd is:3pl
+SFX v0 écher ècheraient/ écher # is:cnd is:3pl
+SFX v0 écrer ècreraient/ écrer # is:cnd is:3pl
+SFX v0 éder èderaient/ éder # is:cnd is:3pl
+SFX v0 éger ègeraient/ éger # is:cnd is:3pl
+SFX v0 égler ègleraient/ égler # is:cnd is:3pl
+SFX v0 égner ègneraient/ égner # is:cnd is:3pl
+SFX v0 égrer ègreraient/ égrer # is:cnd is:3pl
+SFX v0 éguer ègueraient/ éguer # is:cnd is:3pl
+SFX v0 éler èleraient/ éler # is:cnd is:3pl
+SFX v0 émer èmeraient/ émer # is:cnd is:3pl
+SFX v0 éner èneraient/ éner # is:cnd is:3pl
+SFX v0 éper èperaient/ éper # is:cnd is:3pl
+SFX v0 équer èqueraient/ équer # is:cnd is:3pl
+SFX v0 érer èreraient/ érer # is:cnd is:3pl
+SFX v0 éser èseraient/ éser # is:cnd is:3pl
+SFX v0 éter èteraient/ éter # is:cnd is:3pl
+SFX v0 étrer ètreraient/ étrer # is:cnd is:3pl
+SFX v0 évrer èvreraient/ évrer # is:cnd is:3pl
+SFX v0 éyer èyeraient/ éyer # is:cnd is:3pl
 SFX v0 er asse/ [^cg]er # is:simp is:1sg
 SFX v0 écer éçasse/ écer # is:simp is:1sg
 SFX v0 éger égeasse/ éger # is:simp is:1sg
@@ -981,46 +981,46 @@ SFX d0 eler elleront/ [^p].eler # is:ifut is:3pl!
 SFX d0 eler èleront/ [^p].eler # is:ifut is:3pl!
 SFX d0 eler elleront/ épeler # is:ifut is:3pl!
 SFX d0 eler èleront/ épeler # is:ifut is:3pl!
-SFX d0 eter etterais/ jeter # is:cond is:1sg is:2sg
-SFX d0 eter etterais/ [^j]eter # is:cond is:1sg is:2sg
-SFX d0 eter èterais/ [^j]eter # is:cond is:1sg is:2sg
-SFX d0 eler ellerais/ ppeler # is:cond is:1sg is:2sg
-SFX d0 eler ellerais/ [^p].eler # is:cond is:1sg is:2sg
-SFX d0 eler èlerais/ [^p].eler # is:cond is:1sg is:2sg
-SFX d0 eler ellerais/ épeler # is:cond is:1sg is:2sg
-SFX d0 eler èlerais/ épeler # is:cond is:1sg is:2sg
-SFX d0 eter etterait/ jeter # is:cond is:3sg
-SFX d0 eter etterait/ [^j]eter # is:cond is:3sg
-SFX d0 eter èterait/ [^j]eter # is:cond is:3sg
-SFX d0 eler ellerait/ ppeler # is:cond is:3sg
-SFX d0 eler ellerait/ [^p].eler # is:cond is:3sg
-SFX d0 eler èlerait/ [^p].eler # is:cond is:3sg
-SFX d0 eler ellerait/ épeler # is:cond is:3sg
-SFX d0 eler èlerait/ épeler # is:cond is:3sg
-SFX d0 eter etterions/ jeter # is:cond is:1pl
-SFX d0 eter etterions/ [^j]eter # is:cond is:1pl
-SFX d0 eter èterions/ [^j]eter # is:cond is:1pl
-SFX d0 eler ellerions/ ppeler # is:cond is:1pl
-SFX d0 eler ellerions/ [^p].eler # is:cond is:1pl
-SFX d0 eler èlerions/ [^p].eler # is:cond is:1pl
-SFX d0 eler ellerions/ épeler # is:cond is:1pl
-SFX d0 eler èlerions/ épeler # is:cond is:1pl
-SFX d0 eter etteriez/ jeter # is:cond is:2pl
-SFX d0 eter etteriez/ [^j]eter # is:cond is:2pl
-SFX d0 eter èteriez/ [^j]eter # is:cond is:2pl
-SFX d0 eler elleriez/ ppeler # is:cond is:2pl
-SFX d0 eler elleriez/ [^p].eler # is:cond is:2pl
-SFX d0 eler èleriez/ [^p].eler # is:cond is:2pl
-SFX d0 eler elleriez/ épeler # is:cond is:2pl
-SFX d0 eler èleriez/ épeler # is:cond is:2pl
-SFX d0 eter etteraient/ jeter # is:cond is:3pl
-SFX d0 eter etteraient/ [^j]eter # is:cond is:3pl
-SFX d0 eter èteraient/ [^j]eter # is:cond is:3pl
-SFX d0 eler elleraient/ ppeler # is:cond is:3pl
-SFX d0 eler elleraient/ [^p].eler # is:cond is:3pl
-SFX d0 eler èleraient/ [^p].eler # is:cond is:3pl
-SFX d0 eler elleraient/ épeler # is:cond is:3pl
-SFX d0 eler èleraient/ épeler # is:cond is:3pl
+SFX d0 eter etterais/ jeter # is:cnd is:1sg is:2sg
+SFX d0 eter etterais/ [^j]eter # is:cnd is:1sg is:2sg
+SFX d0 eter èterais/ [^j]eter # is:cnd is:1sg is:2sg
+SFX d0 eler ellerais/ ppeler # is:cnd is:1sg is:2sg
+SFX d0 eler ellerais/ [^p].eler # is:cnd is:1sg is:2sg
+SFX d0 eler èlerais/ [^p].eler # is:cnd is:1sg is:2sg
+SFX d0 eler ellerais/ épeler # is:cnd is:1sg is:2sg
+SFX d0 eler èlerais/ épeler # is:cnd is:1sg is:2sg
+SFX d0 eter etterait/ jeter # is:cnd is:3sg
+SFX d0 eter etterait/ [^j]eter # is:cnd is:3sg
+SFX d0 eter èterait/ [^j]eter # is:cnd is:3sg
+SFX d0 eler ellerait/ ppeler # is:cnd is:3sg
+SFX d0 eler ellerait/ [^p].eler # is:cnd is:3sg
+SFX d0 eler èlerait/ [^p].eler # is:cnd is:3sg
+SFX d0 eler ellerait/ épeler # is:cnd is:3sg
+SFX d0 eler èlerait/ épeler # is:cnd is:3sg
+SFX d0 eter etterions/ jeter # is:cnd is:1pl
+SFX d0 eter etterions/ [^j]eter # is:cnd is:1pl
+SFX d0 eter èterions/ [^j]eter # is:cnd is:1pl
+SFX d0 eler ellerions/ ppeler # is:cnd is:1pl
+SFX d0 eler ellerions/ [^p].eler # is:cnd is:1pl
+SFX d0 eler èlerions/ [^p].eler # is:cnd is:1pl
+SFX d0 eler ellerions/ épeler # is:cnd is:1pl
+SFX d0 eler èlerions/ épeler # is:cnd is:1pl
+SFX d0 eter etteriez/ jeter # is:cnd is:2pl
+SFX d0 eter etteriez/ [^j]eter # is:cnd is:2pl
+SFX d0 eter èteriez/ [^j]eter # is:cnd is:2pl
+SFX d0 eler elleriez/ ppeler # is:cnd is:2pl
+SFX d0 eler elleriez/ [^p].eler # is:cnd is:2pl
+SFX d0 eler èleriez/ [^p].eler # is:cnd is:2pl
+SFX d0 eler elleriez/ épeler # is:cnd is:2pl
+SFX d0 eler èleriez/ épeler # is:cnd is:2pl
+SFX d0 eter etteraient/ jeter # is:cnd is:3pl
+SFX d0 eter etteraient/ [^j]eter # is:cnd is:3pl
+SFX d0 eter èteraient/ [^j]eter # is:cnd is:3pl
+SFX d0 eler elleraient/ ppeler # is:cnd is:3pl
+SFX d0 eler elleraient/ [^p].eler # is:cnd is:3pl
+SFX d0 eler èleraient/ [^p].eler # is:cnd is:3pl
+SFX d0 eler elleraient/ épeler # is:cnd is:3pl
+SFX d0 eler èleraient/ épeler # is:cnd is:3pl
 SFX d0 er asse/ er # is:simp is:1sg
 SFX d0 er asses/ er # is:simp is:2sg
 SFX d0 er ât/ er # is:simp is:3sg
@@ -1070,11 +1070,11 @@ SFX aA aller ira/ aller # is:ifut is:3sg
 SFX aA aller irons/ aller # is:ifut is:1pl
 SFX aA aller irez/ aller # is:ifut is:2pl
 SFX aA aller iront/ aller # is:ifut is:3pl!
-SFX aA aller irais/ aller # is:cond is:1sg is:2sg
-SFX aA aller irait/ aller # is:cond is:3sg
-SFX aA aller irions/ aller # is:cond is:1pl
-SFX aA aller iriez/ aller # is:cond is:2pl
-SFX aA aller iraient/ aller # is:cond is:3pl
+SFX aA aller irais/ aller # is:cnd is:1sg is:2sg
+SFX aA aller irait/ aller # is:cnd is:3sg
+SFX aA aller irions/ aller # is:cnd is:1pl
+SFX aA aller iriez/ aller # is:cnd is:2pl
+SFX aA aller iraient/ aller # is:cnd is:3pl
 SFX aA ller ille/ aller # is:spre is:1sg is:3sg
 SFX aA ller illes/ aller # is:spre is:2sg
 SFX aA ller llions/ aller # is:spre is:1pl
@@ -1125,11 +1125,11 @@ SFX aD voyer verra/ envoyer # is:ifut is:3sg
 SFX aD voyer verrons/ envoyer # is:ifut is:1pl
 SFX aD voyer verrez/ envoyer # is:ifut is:2pl
 SFX aD voyer verront/ envoyer # is:ifut is:3pl!
-SFX aD voyer verrais/ envoyer # is:cond is:1sg is:2sg
-SFX aD voyer verrait/ envoyer # is:cond is:3sg
-SFX aD voyer verrions/ envoyer # is:cond is:1pl
-SFX aD voyer verriez/ envoyer # is:cond is:2pl
-SFX aD voyer verraient/ envoyer # is:cond is:3pl
+SFX aD voyer verrais/ envoyer # is:cnd is:1sg is:2sg
+SFX aD voyer verrait/ envoyer # is:cnd is:3sg
+SFX aD voyer verrions/ envoyer # is:cnd is:1pl
+SFX aD voyer verriez/ envoyer # is:cnd is:2pl
+SFX aD voyer verraient/ envoyer # is:cnd is:3pl
 SFX aD voyer voie/ envoyer # is:spre is:1sg is:3sg
 SFX aD voyer voies/ envoyer # is:spre is:2sg
 SFX aD voyer voyasse/ envoyer # is:simp is:1sg
@@ -1177,8 +1177,8 @@ SFX aF cerner cerna/ er # is:ipsi is:3sg
 SFX aF cerner cernèrent/ er # is:ipsi is:3pl!
 SFX aF cerner cernera/ er # is:ifut is:3sg
 SFX aF cerner cerneront/ er # is:ifut is:3pl!
-SFX aF cerner cernerait/ er # is:cond is:3sg
-SFX aF cerner cerneraient/ er # is:cond is:3pl
+SFX aF cerner cernerait/ er # is:cnd is:3sg
+SFX aF cerner cerneraient/ er # is:cnd is:3pl
 SFX aF cerner cernât/ er # is:simp is:3sg
 SFX aF cerner cernassent/ er # is:simp is:3pl
 SFX aF cerner cerné-e/ er # is:ppas po:adj is:incl is:sg
@@ -1204,8 +1204,8 @@ SFX aG er a/ er # is:ipsi is:3sg
 SFX aG er èrent/ er # is:ipsi is:3pl!
 SFX aG er era/ er # is:ifut is:3sg
 SFX aG er eront/ er # is:ifut is:3pl!
-SFX aG er erait/ er # is:cond is:3sg
-SFX aG er eraient/ er # is:cond is:3pl
+SFX aG er erait/ er # is:cnd is:3sg
+SFX aG er eraient/ er # is:cnd is:3pl
 SFX aG er ât/ er # is:simp is:3sg
 SFX aG er assent/ er # is:simp is:3pl
 SFX aG lter lté-e/ lter # is:ppas po:adj is:incl is:sg
@@ -1239,11 +1239,11 @@ SFX aH er era/ gger # is:ifut is:3sg
 SFX aH er erons/ gger # is:ifut is:1pl
 SFX aH er erez/ gger # is:ifut is:2pl
 SFX aH er eront/ gger # is:ifut is:3pl!
-SFX aH er erais/ gger # is:cond is:1sg is:2sg
-SFX aH er erait/ gger # is:cond is:3sg
-SFX aH er erions/ gger # is:cond is:1pl
-SFX aH er eriez/ gger # is:cond is:2pl
-SFX aH er eraient/ gger # is:cond is:3pl
+SFX aH er erais/ gger # is:cnd is:1sg is:2sg
+SFX aH er erait/ gger # is:cnd is:3sg
+SFX aH er erions/ gger # is:cnd is:1pl
+SFX aH er eriez/ gger # is:cnd is:2pl
+SFX aH er eraient/ gger # is:cnd is:3pl
 SFX aH er asse/ gger # is:simp is:1sg
 SFX aH er asses/ gger # is:simp is:2sg
 SFX aH er ât/ gger # is:simp is:3sg
@@ -1294,16 +1294,16 @@ SFX aY éneler énellerez/ éneler # is:ifut is:2pl
 SFX aY èneler énèlerez/ èneler # is:ifut is:2pl
 SFX aY éneler énelleront/ éneler # is:ifut is:3pl!
 SFX aY èneler énèleront/ èneler # is:ifut is:3pl!
-SFX aY éneler énellerais/ éneler # is:cond is:1sg is:2sg
-SFX aY èneler énèlerais/ èneler # is:cond is:1sg is:2sg
-SFX aY éneler énellerait/ éneler # is:cond is:3sg
-SFX aY èneler énèlerait/ èneler # is:cond is:3sg
-SFX aY éneler énellerions/ éneler # is:cond is:1pl
-SFX aY èneler énèlerions/ èneler # is:cond is:1pl
-SFX aY éneler énelleriez/ éneler # is:cond is:2pl
-SFX aY èneler énèleriez/ èneler # is:cond is:2pl
-SFX aY éneler énelleraient/ éneler # is:cond is:3pl
-SFX aY èneler énèleraient/ èneler # is:cond is:3pl
+SFX aY éneler énellerais/ éneler # is:cnd is:1sg is:2sg
+SFX aY èneler énèlerais/ èneler # is:cnd is:1sg is:2sg
+SFX aY éneler énellerait/ éneler # is:cnd is:3sg
+SFX aY èneler énèlerait/ èneler # is:cnd is:3sg
+SFX aY éneler énellerions/ éneler # is:cnd is:1pl
+SFX aY èneler énèlerions/ èneler # is:cnd is:1pl
+SFX aY éneler énelleriez/ éneler # is:cnd is:2pl
+SFX aY èneler énèleriez/ èneler # is:cnd is:2pl
+SFX aY éneler énelleraient/ éneler # is:cnd is:3pl
+SFX aY èneler énèleraient/ èneler # is:cnd is:3pl
 SFX aY neler nelasse/ neler # is:simp is:1sg
 SFX aY neler nelasses/ neler # is:simp is:2sg
 SFX aY neler nelât/ neler # is:simp is:3sg
@@ -1359,16 +1359,16 @@ SFX aZ ételer étellerez/ ételer # is:ifut is:2pl
 SFX aZ èteler étèlerez/ èteler # is:ifut is:2pl
 SFX aZ ételer ételleront/ ételer # is:ifut is:3pl!
 SFX aZ èteler étèleront/ èteler # is:ifut is:3pl!
-SFX aZ ételer étellerais/ ételer # is:cond is:1sg is:2sg
-SFX aZ èteler étèlerais/ èteler # is:cond is:1sg is:2sg
-SFX aZ ételer étellerait/ ételer # is:cond is:3sg
-SFX aZ èteler étèlerait/ èteler # is:cond is:3sg
-SFX aZ ételer étellerions/ ételer # is:cond is:1pl
-SFX aZ èteler étèlerions/ èteler # is:cond is:1pl
-SFX aZ ételer ételleriez/ ételer # is:cond is:2pl
-SFX aZ èteler étèleriez/ èteler # is:cond is:2pl
-SFX aZ ételer ételleraient/ ételer # is:cond is:3pl
-SFX aZ èteler étèleraient/ èteler # is:cond is:3pl
+SFX aZ ételer étellerais/ ételer # is:cnd is:1sg is:2sg
+SFX aZ èteler étèlerais/ èteler # is:cnd is:1sg is:2sg
+SFX aZ ételer étellerait/ ételer # is:cnd is:3sg
+SFX aZ èteler étèlerait/ èteler # is:cnd is:3sg
+SFX aZ ételer étellerions/ ételer # is:cnd is:1pl
+SFX aZ èteler étèlerions/ èteler # is:cnd is:1pl
+SFX aZ ételer ételleriez/ ételer # is:cnd is:2pl
+SFX aZ èteler étèleriez/ èteler # is:cnd is:2pl
+SFX aZ ételer ételleraient/ ételer # is:cnd is:3pl
+SFX aZ èteler étèleraient/ èteler # is:cnd is:3pl
 SFX aZ teler telasse/ teler # is:simp is:1sg
 SFX aZ teler telasses/ teler # is:simp is:2sg
 SFX aZ teler telât/ teler # is:simp is:3sg
@@ -1415,11 +1415,11 @@ SFX dA peler pellera/ peler # is:ifut is:3sg
 SFX dA peler pellerons/ peler # is:ifut is:1pl
 SFX dA peler pellerez/ peler # is:ifut is:2pl
 SFX dA peler pelleront/ peler # is:ifut is:3pl!
-SFX dA peler pellerais/ peler # is:cond is:1sg is:2sg
-SFX dA peler pellerait/ peler # is:cond is:3sg
-SFX dA peler pellerions/ peler # is:cond is:1pl
-SFX dA peler pelleriez/ peler # is:cond is:2pl
-SFX dA peler pelleraient/ peler # is:cond is:3pl
+SFX dA peler pellerais/ peler # is:cnd is:1sg is:2sg
+SFX dA peler pellerait/ peler # is:cnd is:3sg
+SFX dA peler pellerions/ peler # is:cnd is:1pl
+SFX dA peler pelleriez/ peler # is:cnd is:2pl
+SFX dA peler pelleraient/ peler # is:cnd is:3pl
 SFX dA peler pelasse/ peler # is:simp is:1sg
 SFX dA peler pelasses/ peler # is:simp is:2sg
 SFX dA peler pelât/ peler # is:simp is:3sg
@@ -1456,11 +1456,11 @@ SFX f0 ir ira/ ir # is:ifut is:3sg
 SFX f0 ir irons/ ir # is:ifut is:1pl
 SFX f0 ir irez/ ir # is:ifut is:2pl
 SFX f0 ir iront/ ir # is:ifut is:3pl!
-SFX f0 ir irais/ ir # is:cond is:1sg is:2sg
-SFX f0 ir irait/ ir # is:cond is:3sg
-SFX f0 ir irions/ ir # is:cond is:1pl
-SFX f0 ir iriez/ ir # is:cond is:2pl
-SFX f0 ir iraient/ ir # is:cond is:3pl
+SFX f0 ir irais/ ir # is:cnd is:1sg is:2sg
+SFX f0 ir irait/ ir # is:cnd is:3sg
+SFX f0 ir irions/ ir # is:cnd is:1pl
+SFX f0 ir iriez/ ir # is:cnd is:2pl
+SFX f0 ir iraient/ ir # is:cnd is:3pl
 SFX f0 ir isse/ ir # is:spre is:simp is:1sg
 SFX f0 ir isses/ ir # is:spre is:simp is:2sg
 SFX f0 ir isse/ ir # is:spre is:3sg
@@ -1499,11 +1499,11 @@ SFX fA aïr aïra/ aïr # is:ifut is:3sg
 SFX fA aïr aïrons/ aïr # is:ifut is:1pl
 SFX fA aïr aïrez/ aïr # is:ifut is:2pl
 SFX fA aïr aïront/ aïr # is:ifut is:3pl!
-SFX fA aïr aïrais/ aïr # is:cond is:1sg is:2sg
-SFX fA aïr aïrait/ aïr # is:cond is:3sg
-SFX fA aïr aïrions/ aïr # is:cond is:1pl
-SFX fA aïr aïriez/ aïr # is:cond is:2pl
-SFX fA aïr aïraient/ aïr # is:cond is:3pl
+SFX fA aïr aïrais/ aïr # is:cnd is:1sg is:2sg
+SFX fA aïr aïrait/ aïr # is:cnd is:3sg
+SFX fA aïr aïrions/ aïr # is:cnd is:1pl
+SFX fA aïr aïriez/ aïr # is:cnd is:2pl
+SFX fA aïr aïraient/ aïr # is:cnd is:3pl
 SFX fA aïr aïsse/ aïr # is:spre is:simp is:1sg
 SFX fA aïr aïsses/ aïr # is:spre is:simp is:2sg
 SFX fA aïr aïsse/ aïr # is:spre is:3sg
@@ -1540,10 +1540,10 @@ SFX fB haïr haïra/ aïr # is:ifut is:3sg
 SFX fB haïr haïrons/ aïr # is:ifut is:1pl
 SFX fB haïr haïrez/ aïr # is:ifut is:2pl
 SFX fB haïr haïront/ aïr # is:ifut is:3pl!
-SFX fB haïr haïrait/ aïr # is:cond is:3sg
-SFX fB haïr haïrions/ aïr # is:cond is:1pl
-SFX fB haïr haïriez/ aïr # is:cond is:2pl
-SFX fB haïr haïraient/ aïr # is:cond is:3pl
+SFX fB haïr haïrait/ aïr # is:cnd is:3sg
+SFX fB haïr haïrions/ aïr # is:cnd is:1pl
+SFX fB haïr haïriez/ aïr # is:cnd is:2pl
+SFX fB haïr haïraient/ aïr # is:cnd is:3pl
 SFX fB haïr haïsse/ aïr # is:spre is:3sg
 SFX fB haïr haïssons/ aïr # is:impe is:1pl
 SFX fB haïr haïssez/ aïr # is:impe is:2pl
@@ -1580,8 +1580,8 @@ SFX fD ortir ortissait/ sortir # is:iimp is:3sg
 SFX fD ortir ortissaient/ sortir # is:iimp is:3pl
 SFX fD ortir ortira/ sortir # is:ifut is:3sg
 SFX fD ortir ortiront/ sortir # is:ifut is:3pl!
-SFX fD ortir ortirait/ sortir # is:cond is:3sg
-SFX fD ortir ortiraient/ sortir # is:cond is:3pl
+SFX fD ortir ortirait/ sortir # is:cnd is:3sg
+SFX fD ortir ortiraient/ sortir # is:cnd is:3pl
 SFX fD ortir ortisse/ sortir # is:spre is:3sg
 SFX fD ortir ortît/ sortir # is:simp is:3sg
 
@@ -1613,11 +1613,11 @@ SFX fY uïr uïra/ uïr # is:ifut is:3sg
 SFX fY uïr uïrons/ uïr # is:ifut is:1pl
 SFX fY uïr uïrez/ uïr # is:ifut is:2pl
 SFX fY uïr uïront/ uïr # is:ifut is:3pl!
-SFX fY uïr uïrais/ uïr # is:cond is:1sg is:2sg
-SFX fY uïr uïrait/ uïr # is:cond is:3sg
-SFX fY uïr uïrions/ uïr # is:cond is:1pl
-SFX fY uïr uïriez/ uïr # is:cond is:2pl
-SFX fY uïr uïraient/ uïr # is:cond is:3pl
+SFX fY uïr uïrais/ uïr # is:cnd is:1sg is:2sg
+SFX fY uïr uïrait/ uïr # is:cnd is:3sg
+SFX fY uïr uïrions/ uïr # is:cnd is:1pl
+SFX fY uïr uïriez/ uïr # is:cnd is:2pl
+SFX fY uïr uïraient/ uïr # is:cnd is:3pl
 SFX fY uïr uïsse/ uïr # is:spre is:simp is:1sg
 SFX fY uïr uïsses/ uïr # is:spre is:simp is:2sg
 SFX fY uïr uïsse/ uïr # is:spre is:3sg
@@ -1680,11 +1680,11 @@ SFX i0 enir iendra/ enir # is:ifut is:3sg
 SFX i0 enir iendrons/ enir # is:ifut is:1pl
 SFX i0 enir iendrez/ enir # is:ifut is:2pl
 SFX i0 enir iendront/ enir # is:ifut is:3pl!
-SFX i0 enir iendrais/ enir # is:cond is:1sg is:2sg
-SFX i0 enir iendrait/ enir # is:cond is:3sg
-SFX i0 enir iendrions/ enir # is:cond is:1pl
-SFX i0 enir iendriez/ enir # is:cond is:2pl
-SFX i0 enir iendraient/ enir # is:cond is:3pl
+SFX i0 enir iendrais/ enir # is:cnd is:1sg is:2sg
+SFX i0 enir iendrait/ enir # is:cnd is:3sg
+SFX i0 enir iendrions/ enir # is:cnd is:1pl
+SFX i0 enir iendriez/ enir # is:cnd is:2pl
+SFX i0 enir iendraient/ enir # is:cnd is:3pl
 SFX i0 enir ienne/ enir # is:spre is:1sg is:3sg
 SFX i0 enir iennes/ enir # is:spre is:2sg
 SFX i0 enir insse/ enir # is:simp is:1sg
@@ -1721,11 +1721,11 @@ SFX i5 tir tira/ tir # is:ifut is:3sg
 SFX i5 tir tirons/ tir # is:ifut is:1pl
 SFX i5 tir tirez/ tir # is:ifut is:2pl
 SFX i5 tir tiront/ tir # is:ifut is:3pl!
-SFX i5 tir tirais/ tir # is:cond is:1sg is:2sg
-SFX i5 tir tirait/ tir # is:cond is:3sg
-SFX i5 tir tirions/ tir # is:cond is:1pl
-SFX i5 tir tiriez/ tir # is:cond is:2pl
-SFX i5 tir tiraient/ tir # is:cond is:3pl
+SFX i5 tir tirais/ tir # is:cnd is:1sg is:2sg
+SFX i5 tir tirait/ tir # is:cnd is:3sg
+SFX i5 tir tirions/ tir # is:cnd is:1pl
+SFX i5 tir tiriez/ tir # is:cnd is:2pl
+SFX i5 tir tiraient/ tir # is:cnd is:3pl
 SFX i5 tir te/ tir # is:spre is:1sg is:3sg
 SFX i5 tir tes/ tir # is:spre is:2sg
 SFX i5 tir tisse/ tir # is:simp is:1sg
@@ -1755,8 +1755,8 @@ SFX iA dvenir dvint/ venir # is:ipsi is:3sg
 SFX iA dvenir dvinrent/ venir # is:ipsi is:3pl!
 SFX iA dvenir dviendra/ venir # is:ifut is:3sg
 SFX iA dvenir dviendront/ venir # is:ifut is:3pl!
-SFX iA dvenir dviendrait/ venir # is:cond is:3sg
-SFX iA dvenir dviendraient/ venir # is:cond is:3pl
+SFX iA dvenir dviendrait/ venir # is:cnd is:3sg
+SFX iA dvenir dviendraient/ venir # is:cnd is:3pl
 SFX iA dvenir dvienne/ venir # is:spre is:3sg
 SFX iA dvenir dvînt/ venir # is:simp is:3sg
 SFX iA dvenir dvinssent/ venir # is:simp is:3pl
@@ -1790,11 +1790,11 @@ SFX iB partenir partiendra/ tenir # is:ifut is:3sg
 SFX iB partenir partiendrons/ tenir # is:ifut is:1pl
 SFX iB partenir partiendrez/ tenir # is:ifut is:2pl
 SFX iB partenir partiendront/ tenir # is:ifut is:3pl!
-SFX iB partenir partiendrais/ tenir # is:cond is:1sg is:2sg
-SFX iB partenir partiendrait/ tenir # is:cond is:3sg
-SFX iB partenir partiendrions/ tenir # is:cond is:1pl
-SFX iB partenir partiendriez/ tenir # is:cond is:2pl
-SFX iB partenir partiendraient/ tenir # is:cond is:3pl
+SFX iB partenir partiendrais/ tenir # is:cnd is:1sg is:2sg
+SFX iB partenir partiendrait/ tenir # is:cnd is:3sg
+SFX iB partenir partiendrions/ tenir # is:cnd is:1pl
+SFX iB partenir partiendriez/ tenir # is:cnd is:2pl
+SFX iB partenir partiendraient/ tenir # is:cnd is:3pl
 SFX iB partenir partienne/ tenir # is:spre is:1sg is:3sg
 SFX iB partenir partiennes/ tenir # is:spre is:2sg
 SFX iB partenir partinsse/ tenir # is:simp is:1sg
@@ -1837,11 +1837,11 @@ SFX iC rir rira/ [vf]rir # is:ifut is:3sg
 SFX iC rir rirons/ [vf]rir # is:ifut is:1pl
 SFX iC rir rirez/ [vf]rir # is:ifut is:2pl
 SFX iC rir riront/ [vf]rir # is:ifut is:3pl!
-SFX iC rir rirais/ [vf]rir # is:cond is:1sg is:2sg
-SFX iC rir rirait/ [vf]rir # is:cond is:3sg
-SFX iC rir ririons/ [vf]rir # is:cond is:1pl
-SFX iC rir ririez/ [vf]rir # is:cond is:2pl
-SFX iC rir riraient/ [vf]rir # is:cond is:3pl
+SFX iC rir rirais/ [vf]rir # is:cnd is:1sg is:2sg
+SFX iC rir rirait/ [vf]rir # is:cnd is:3sg
+SFX iC rir ririons/ [vf]rir # is:cnd is:1pl
+SFX iC rir ririez/ [vf]rir # is:cnd is:2pl
+SFX iC rir riraient/ [vf]rir # is:cnd is:3pl
 SFX iC rir risse/ [vf]rir # is:simp is:1sg
 SFX iC rir risses/ [vf]rir # is:simp is:2sg
 SFX iC rir rît/ [vf]rir # is:simp is:3sg
@@ -1886,11 +1886,11 @@ SFX iD courir courra/ courir # is:ifut is:3sg
 SFX iD courir courrons/ courir # is:ifut is:1pl
 SFX iD courir courrez/ courir # is:ifut is:2pl
 SFX iD courir courront/ courir # is:ifut is:3pl!
-SFX iD courir courrais/ courir # is:cond is:1sg is:2sg
-SFX iD courir courrait/ courir # is:cond is:3sg
-SFX iD courir courrions/ courir # is:cond is:1pl
-SFX iD courir courriez/ courir # is:cond is:2pl
-SFX iD courir courraient/ courir # is:cond is:3pl
+SFX iD courir courrais/ courir # is:cnd is:1sg is:2sg
+SFX iD courir courrait/ courir # is:cnd is:3sg
+SFX iD courir courrions/ courir # is:cnd is:1pl
+SFX iD courir courriez/ courir # is:cnd is:2pl
+SFX iD courir courraient/ courir # is:cnd is:3pl
 SFX iD courir coure/ courir # is:spre is:1sg is:3sg
 SFX iD courir coures/ courir # is:spre is:2sg
 SFX iD courir courusse/ courir # is:simp is:1sg
@@ -1937,11 +1937,11 @@ SFX iE ourir ourra/ courir # is:ifut is:3sg
 SFX iE ourir ourrons/ courir # is:ifut is:1pl
 SFX iE ourir ourrez/ courir # is:ifut is:2pl
 SFX iE ourir ourront/ courir # is:ifut is:3pl!
-SFX iE ourir ourrais/ courir # is:cond is:1sg is:2sg
-SFX iE ourir ourrait/ courir # is:cond is:3sg
-SFX iE ourir ourrions/ courir # is:cond is:1pl
-SFX iE ourir ourriez/ courir # is:cond is:2pl
-SFX iE ourir ourraient/ courir # is:cond is:3pl
+SFX iE ourir ourrais/ courir # is:cnd is:1sg is:2sg
+SFX iE ourir ourrait/ courir # is:cnd is:3sg
+SFX iE ourir ourrions/ courir # is:cnd is:1pl
+SFX iE ourir ourriez/ courir # is:cnd is:2pl
+SFX iE ourir ourraient/ courir # is:cnd is:3pl
 SFX iE ourir oure/ courir # is:spre is:1sg is:3sg
 SFX iE ourir oures/ courir # is:spre is:2sg
 SFX iE ourir ourusse/ courir # is:simp is:1sg
@@ -1988,11 +1988,11 @@ SFX iF ervir ervira/ servir # is:ifut is:3sg
 SFX iF ervir ervirons/ servir # is:ifut is:1pl
 SFX iF ervir ervirez/ servir # is:ifut is:2pl
 SFX iF ervir erviront/ servir # is:ifut is:3pl!
-SFX iF ervir ervirais/ servir # is:cond is:1sg is:2sg
-SFX iF ervir ervirait/ servir # is:cond is:3sg
-SFX iF ervir ervirions/ servir # is:cond is:1pl
-SFX iF ervir erviriez/ servir # is:cond is:2pl
-SFX iF ervir erviraient/ servir # is:cond is:3pl
+SFX iF ervir ervirais/ servir # is:cnd is:1sg is:2sg
+SFX iF ervir ervirait/ servir # is:cnd is:3sg
+SFX iF ervir ervirions/ servir # is:cnd is:1pl
+SFX iF ervir erviriez/ servir # is:cnd is:2pl
+SFX iF ervir erviraient/ servir # is:cnd is:3pl
 SFX iF ervir erve/ servir # is:spre is:1sg is:3sg
 SFX iF ervir erves/ servir # is:spre is:2sg
 SFX iF ervir ervisse/ servir # is:simp is:1sg
@@ -2039,11 +2039,11 @@ SFX iG êtir êtira/ vêtir # is:ifut is:3sg
 SFX iG êtir êtirons/ vêtir # is:ifut is:1pl
 SFX iG êtir êtirez/ vêtir # is:ifut is:2pl
 SFX iG êtir êtiront/ vêtir # is:ifut is:3pl!
-SFX iG êtir êtirais/ vêtir # is:cond is:1sg is:2sg
-SFX iG êtir êtirait/ vêtir # is:cond is:3sg
-SFX iG êtir êtirions/ vêtir # is:cond is:1pl
-SFX iG êtir êtiriez/ vêtir # is:cond is:2pl
-SFX iG êtir êtiraient/ vêtir # is:cond is:3pl
+SFX iG êtir êtirais/ vêtir # is:cnd is:1sg is:2sg
+SFX iG êtir êtirait/ vêtir # is:cnd is:3sg
+SFX iG êtir êtirions/ vêtir # is:cnd is:1pl
+SFX iG êtir êtiriez/ vêtir # is:cnd is:2pl
+SFX iG êtir êtiraient/ vêtir # is:cnd is:3pl
 SFX iG êtir ête/ vêtir # is:spre is:1sg is:3sg
 SFX iG êtir êtes/ vêtir # is:spre is:2sg
 SFX iG êtir êtisse/ vêtir # is:simp is:1sg
@@ -2085,11 +2085,11 @@ SFX iI ormir ormira/ dormir # is:ifut is:3sg
 SFX iI ormir ormirons/ dormir # is:ifut is:1pl
 SFX iI ormir ormirez/ dormir # is:ifut is:2pl
 SFX iI ormir ormiront/ dormir # is:ifut is:3pl!
-SFX iI ormir ormirais/ dormir # is:cond is:1sg is:2sg
-SFX iI ormir ormirait/ dormir # is:cond is:3sg
-SFX iI ormir ormirions/ dormir # is:cond is:1pl
-SFX iI ormir ormiriez/ dormir # is:cond is:2pl
-SFX iI ormir ormiraient/ dormir # is:cond is:3pl
+SFX iI ormir ormirais/ dormir # is:cnd is:1sg is:2sg
+SFX iI ormir ormirait/ dormir # is:cnd is:3sg
+SFX iI ormir ormirions/ dormir # is:cnd is:1pl
+SFX iI ormir ormiriez/ dormir # is:cnd is:2pl
+SFX iI ormir ormiraient/ dormir # is:cnd is:3pl
 SFX iI ormir orme/ dormir # is:spre is:1sg is:3sg
 SFX iI ormir ormes/ dormir # is:spre is:2sg
 SFX iI ormir ormisse/ dormir # is:simp is:1sg
@@ -2132,11 +2132,11 @@ SFX iJ dormir dormira/ dormir # is:ifut is:3sg
 SFX iJ dormir dormirons/ dormir # is:ifut is:1pl
 SFX iJ dormir dormirez/ dormir # is:ifut is:2pl
 SFX iJ dormir dormiront/ dormir # is:ifut is:3pl!
-SFX iJ dormir dormirais/ dormir # is:cond is:1sg is:2sg
-SFX iJ dormir dormirait/ dormir # is:cond is:3sg
-SFX iJ dormir dormirions/ dormir # is:cond is:1pl
-SFX iJ dormir dormiriez/ dormir # is:cond is:2pl
-SFX iJ dormir dormiraient/ dormir # is:cond is:3pl
+SFX iJ dormir dormirais/ dormir # is:cnd is:1sg is:2sg
+SFX iJ dormir dormirait/ dormir # is:cnd is:3sg
+SFX iJ dormir dormirions/ dormir # is:cnd is:1pl
+SFX iJ dormir dormiriez/ dormir # is:cnd is:2pl
+SFX iJ dormir dormiraient/ dormir # is:cnd is:3pl
 SFX iJ dormir dorme/ dormir # is:spre is:1sg is:3sg
 SFX iJ dormir dormes/ dormir # is:spre is:2sg
 SFX iJ dormir dormisse/ dormir # is:simp is:1sg
@@ -2182,11 +2182,11 @@ SFX iK quérir querra/ quérir # is:ifut is:3sg
 SFX iK quérir querrons/ quérir # is:ifut is:1pl
 SFX iK quérir querrez/ quérir # is:ifut is:2pl
 SFX iK quérir querront/ quérir # is:ifut is:3pl!
-SFX iK quérir querrais/ quérir # is:cond is:1sg is:2sg
-SFX iK quérir querrait/ quérir # is:cond is:3sg
-SFX iK quérir querrions/ quérir # is:cond is:1pl
-SFX iK quérir querriez/ quérir # is:cond is:2pl
-SFX iK quérir querraient/ quérir # is:cond is:3pl
+SFX iK quérir querrais/ quérir # is:cnd is:1sg is:2sg
+SFX iK quérir querrait/ quérir # is:cnd is:3sg
+SFX iK quérir querrions/ quérir # is:cnd is:1pl
+SFX iK quérir querriez/ quérir # is:cnd is:2pl
+SFX iK quérir querraient/ quérir # is:cnd is:3pl
 SFX iK quérir quière/ quérir # is:spre is:1sg is:3sg
 SFX iK quérir quières/ quérir # is:spre is:2sg
 SFX iK quérir quisse/ quérir # is:simp is:1sg
@@ -2232,11 +2232,11 @@ SFX iM quérir querra/ quérir # is:ifut is:3sg
 SFX iM quérir querrons/ quérir # is:ifut is:1pl
 SFX iM quérir querrez/ quérir # is:ifut is:2pl
 SFX iM quérir querront/ quérir # is:ifut is:3pl!
-SFX iM quérir querrais/ quérir # is:cond is:1sg is:2sg
-SFX iM quérir querrait/ quérir # is:cond is:3sg
-SFX iM quérir querrions/ quérir # is:cond is:1pl
-SFX iM quérir querriez/ quérir # is:cond is:2pl
-SFX iM quérir querraient/ quérir # is:cond is:3pl
+SFX iM quérir querrais/ quérir # is:cnd is:1sg is:2sg
+SFX iM quérir querrait/ quérir # is:cnd is:3sg
+SFX iM quérir querrions/ quérir # is:cnd is:1pl
+SFX iM quérir querriez/ quérir # is:cnd is:2pl
+SFX iM quérir querraient/ quérir # is:cnd is:3pl
 SFX iM quérir quière/ quérir # is:spre is:1sg is:3sg
 SFX iM quérir quières/ quérir # is:spre is:2sg
 SFX iM quérir quisse/ quérir # is:simp is:1sg
@@ -2281,11 +2281,11 @@ SFX iN uir uira/ fuir # is:ifut is:3sg
 SFX iN uir uirons/ fuir # is:ifut is:1pl
 SFX iN uir uirez/ fuir # is:ifut is:2pl
 SFX iN uir uiront/ fuir # is:ifut is:3pl!
-SFX iN uir uirais/ fuir # is:cond is:1sg is:2sg
-SFX iN uir uirait/ fuir # is:cond is:3sg
-SFX iN uir uirions/ fuir # is:cond is:1pl
-SFX iN uir uiriez/ fuir # is:cond is:2pl
-SFX iN uir uiraient/ fuir # is:cond is:3pl
+SFX iN uir uirais/ fuir # is:cnd is:1sg is:2sg
+SFX iN uir uirait/ fuir # is:cnd is:3sg
+SFX iN uir uirions/ fuir # is:cnd is:1pl
+SFX iN uir uiriez/ fuir # is:cnd is:2pl
+SFX iN uir uiraient/ fuir # is:cnd is:3pl
 SFX iN uir uie/ fuir # is:spre is:1sg is:3sg
 SFX iN uir uies/ fuir # is:spre is:2sg
 SFX iN uir uisse/ fuir # is:simp is:1sg
@@ -2330,11 +2330,11 @@ SFX iO fuir fuira/ enfuir # is:ifut is:3sg
 SFX iO fuir fuirons/ enfuir # is:ifut is:1pl
 SFX iO fuir fuirez/ enfuir # is:ifut is:2pl
 SFX iO fuir fuiront/ enfuir # is:ifut is:3pl!
-SFX iO fuir fuirais/ enfuir # is:cond is:1sg is:2sg
-SFX iO fuir fuirait/ enfuir # is:cond is:3sg
-SFX iO fuir fuirions/ enfuir # is:cond is:1pl
-SFX iO fuir fuiriez/ enfuir # is:cond is:2pl
-SFX iO fuir fuiraient/ enfuir # is:cond is:3pl
+SFX iO fuir fuirais/ enfuir # is:cnd is:1sg is:2sg
+SFX iO fuir fuirait/ enfuir # is:cnd is:3sg
+SFX iO fuir fuirions/ enfuir # is:cnd is:1pl
+SFX iO fuir fuiriez/ enfuir # is:cnd is:2pl
+SFX iO fuir fuiraient/ enfuir # is:cnd is:3pl
 SFX iO fuir fuie/ enfuir # is:spre is:1sg is:3sg
 SFX iO fuir fuies/ enfuir # is:spre is:2sg
 SFX iO fuir fuisse/ enfuir # is:simp is:1sg
@@ -2381,11 +2381,11 @@ SFX iP ourir ourra/ mourir # is:ifut is:3sg
 SFX iP ourir ourrons/ mourir # is:ifut is:1pl
 SFX iP ourir ourrez/ mourir # is:ifut is:2pl
 SFX iP ourir ourront/ mourir # is:ifut is:3pl!
-SFX iP ourir ourrais/ mourir # is:cond is:1sg is:2sg
-SFX iP ourir ourrait/ mourir # is:cond is:3sg
-SFX iP ourir ourrions/ mourir # is:cond is:1pl
-SFX iP ourir ourriez/ mourir # is:cond is:2pl
-SFX iP ourir ourraient/ mourir # is:cond is:3pl
+SFX iP ourir ourrais/ mourir # is:cnd is:1sg is:2sg
+SFX iP ourir ourrait/ mourir # is:cnd is:3sg
+SFX iP ourir ourrions/ mourir # is:cnd is:1pl
+SFX iP ourir ourriez/ mourir # is:cnd is:2pl
+SFX iP ourir ourraient/ mourir # is:cnd is:3pl
 SFX iP ourir eure/ mourir # is:spre is:1sg is:3sg
 SFX iP ourir eures/ mourir # is:spre is:2sg
 SFX iP ourir ourusse/ mourir # is:simp is:1sg
@@ -2432,11 +2432,11 @@ SFX iQ ouillir ouillira/ bouillir # is:ifut is:3sg
 SFX iQ ouillir ouillirons/ bouillir # is:ifut is:1pl
 SFX iQ ouillir ouillirez/ bouillir # is:ifut is:2pl
 SFX iQ ouillir ouilliront/ bouillir # is:ifut is:3pl!
-SFX iQ ouillir ouillirais/ bouillir # is:cond is:1sg is:2sg
-SFX iQ ouillir ouillirait/ bouillir # is:cond is:3sg
-SFX iQ ouillir ouillirions/ bouillir # is:cond is:1pl
-SFX iQ ouillir ouilliriez/ bouillir # is:cond is:2pl
-SFX iQ ouillir ouilliraient/ bouillir # is:cond is:3pl
+SFX iQ ouillir ouillirais/ bouillir # is:cnd is:1sg is:2sg
+SFX iQ ouillir ouillirait/ bouillir # is:cnd is:3sg
+SFX iQ ouillir ouillirions/ bouillir # is:cnd is:1pl
+SFX iQ ouillir ouilliriez/ bouillir # is:cnd is:2pl
+SFX iQ ouillir ouilliraient/ bouillir # is:cnd is:3pl
 SFX iQ ouillir ouille/ bouillir # is:spre is:1sg is:3sg
 SFX iQ ouillir ouilles/ bouillir # is:spre is:2sg
 SFX iQ ouillir ouillisse/ bouillir # is:simp is:1sg
@@ -2483,11 +2483,11 @@ SFX iR ueillir ueillera/ cueillir # is:ifut is:3sg
 SFX iR ueillir ueillerons/ cueillir # is:ifut is:1pl
 SFX iR ueillir ueillerez/ cueillir # is:ifut is:2pl
 SFX iR ueillir ueilleront/ cueillir # is:ifut is:3pl!
-SFX iR ueillir ueillerais/ cueillir # is:cond is:1sg is:2sg
-SFX iR ueillir ueillerait/ cueillir # is:cond is:3sg
-SFX iR ueillir ueillerions/ cueillir # is:cond is:1pl
-SFX iR ueillir ueilleriez/ cueillir # is:cond is:2pl
-SFX iR ueillir ueilleraient/ cueillir # is:cond is:3pl
+SFX iR ueillir ueillerais/ cueillir # is:cnd is:1sg is:2sg
+SFX iR ueillir ueillerait/ cueillir # is:cnd is:3sg
+SFX iR ueillir ueillerions/ cueillir # is:cnd is:1pl
+SFX iR ueillir ueilleriez/ cueillir # is:cnd is:2pl
+SFX iR ueillir ueilleraient/ cueillir # is:cnd is:3pl
 SFX iR ueillir ueillisse/ cueillir # is:simp is:1sg
 SFX iR ueillir ueillisses/ cueillir # is:simp is:2sg
 SFX iR ueillir ueillît/ cueillir # is:simp is:3sg
@@ -2527,11 +2527,11 @@ SFX iS aillir aillira/ aillir # is:ifut is:3sg
 SFX iS aillir aillirons/ aillir # is:ifut is:1pl
 SFX iS aillir aillirez/ aillir # is:ifut is:2pl
 SFX iS aillir ailliront/ aillir # is:ifut is:3pl!
-SFX iS aillir aillirais/ aillir # is:cond is:1sg is:2sg
-SFX iS aillir aillirait/ aillir # is:cond is:3sg
-SFX iS aillir aillirions/ aillir # is:cond is:1pl
-SFX iS aillir ailliriez/ aillir # is:cond is:2pl
-SFX iS aillir ailliraient/ aillir # is:cond is:3pl
+SFX iS aillir aillirais/ aillir # is:cnd is:1sg is:2sg
+SFX iS aillir aillirait/ aillir # is:cnd is:3sg
+SFX iS aillir aillirions/ aillir # is:cnd is:1pl
+SFX iS aillir ailliriez/ aillir # is:cnd is:2pl
+SFX iS aillir ailliraient/ aillir # is:cnd is:3pl
 SFX iS aillir aillisse/ aillir # is:simp is:1sg
 SFX iS aillir aillisses/ aillir # is:simp is:2sg
 SFX iS aillir aillît/ aillir # is:simp is:3sg
@@ -2572,11 +2572,11 @@ SFX iT saillir saillira/ aillir # is:ifut is:3sg
 SFX iT saillir saillirons/ aillir # is:ifut is:1pl
 SFX iT saillir saillirez/ aillir # is:ifut is:2pl
 SFX iT saillir sailliront/ aillir # is:ifut is:3pl!
-SFX iT saillir saillirais/ aillir # is:cond is:1sg is:2sg
-SFX iT saillir saillirait/ aillir # is:cond is:3sg
-SFX iT saillir saillirions/ aillir # is:cond is:1pl
-SFX iT saillir sailliriez/ aillir # is:cond is:2pl
-SFX iT saillir sailliraient/ aillir # is:cond is:3pl
+SFX iT saillir saillirais/ aillir # is:cnd is:1sg is:2sg
+SFX iT saillir saillirait/ aillir # is:cnd is:3sg
+SFX iT saillir saillirions/ aillir # is:cnd is:1pl
+SFX iT saillir sailliriez/ aillir # is:cnd is:2pl
+SFX iT saillir sailliraient/ aillir # is:cnd is:3pl
 SFX iT saillir saillisse/ aillir # is:simp is:1sg
 SFX iT saillir saillisses/ aillir # is:simp is:2sg
 SFX iT saillir saillît/ aillir # is:simp is:3sg
@@ -2616,11 +2616,11 @@ SFX iU aillir aillira/ faillir # is:ifut is:3sg
 SFX iU aillir aillirons/ faillir # is:ifut is:1pl
 SFX iU aillir aillirez/ faillir # is:ifut is:2pl
 SFX iU aillir ailliront/ faillir # is:ifut is:3pl!
-SFX iU aillir aillirais/ faillir # is:cond is:1sg is:2sg
-SFX iU aillir aillirait/ faillir # is:cond is:3sg
-SFX iU aillir aillirions/ faillir # is:cond is:1pl
-SFX iU aillir ailliriez/ faillir # is:cond is:2pl
-SFX iU aillir ailliraient/ faillir # is:cond is:3pl
+SFX iU aillir aillirais/ faillir # is:cnd is:1sg is:2sg
+SFX iU aillir aillirait/ faillir # is:cnd is:3sg
+SFX iU aillir aillirions/ faillir # is:cnd is:1pl
+SFX iU aillir ailliriez/ faillir # is:cnd is:2pl
+SFX iU aillir ailliraient/ faillir # is:cnd is:3pl
 SFX iU aillir aille/ faillir # is:spre is:1sg is:3sg
 SFX iU aillir ailles/ faillir # is:spre is:2sg
 SFX iU aillir aillisse/ faillir # is:simp is:1sg
@@ -2681,16 +2681,16 @@ SFX iW uïr uïrez/ ouïr # is:ifut is:2pl
 SFX iW uïr rrez/ ouïr # is:ifut is:2pl
 SFX iW uïr uïront/ ouïr # is:ifut is:3pl!
 SFX iW uïr rront/ ouïr # is:ifut is:3pl!
-SFX iW uïr uïrais/ ouïr # is:cond is:1sg is:2sg
-SFX iW uïr rrais/ ouïr # is:cond is:1sg is:2sg
-SFX iW uïr uïrait/ ouïr # is:cond is:3sg
-SFX iW uïr rrait/ ouïr # is:cond is:3sg
-SFX iW uïr uïrions/ ouïr # is:cond is:1pl
-SFX iW uïr rrions/ ouïr # is:cond is:1pl
-SFX iW uïr uïriez/ ouïr # is:cond is:2pl
-SFX iW uïr rriez/ ouïr # is:cond is:2pl
-SFX iW uïr uïraient/ ouïr # is:cond is:3pl
-SFX iW uïr rraient/ ouïr # is:cond is:3pl
+SFX iW uïr uïrais/ ouïr # is:cnd is:1sg is:2sg
+SFX iW uïr rrais/ ouïr # is:cnd is:1sg is:2sg
+SFX iW uïr uïrait/ ouïr # is:cnd is:3sg
+SFX iW uïr rrait/ ouïr # is:cnd is:3sg
+SFX iW uïr uïrions/ ouïr # is:cnd is:1pl
+SFX iW uïr rrions/ ouïr # is:cnd is:1pl
+SFX iW uïr uïriez/ ouïr # is:cnd is:2pl
+SFX iW uïr rriez/ ouïr # is:cnd is:2pl
+SFX iW uïr uïraient/ ouïr # is:cnd is:3pl
+SFX iW uïr rraient/ ouïr # is:cnd is:3pl
 SFX iW uïr ie/ ouïr # is:spre is:1sg is:3sg
 SFX iW uïr ies/ ouïr # is:spre is:2sg
 SFX iW uïr uïsse/ ouïr # is:simp is:1sg
@@ -2759,11 +2759,11 @@ SFX pA ouvoir ourra/ pouvoir # is:ifut is:3sg
 SFX pA ouvoir ourrons/ pouvoir # is:ifut is:1pl
 SFX pA ouvoir ourrez/ pouvoir # is:ifut is:2pl
 SFX pA ouvoir ourront/ pouvoir # is:ifut is:3pl!
-SFX pA ouvoir ourrais/ pouvoir # is:cond is:1sg is:2sg
-SFX pA ouvoir ourrait/ pouvoir # is:cond is:3sg
-SFX pA ouvoir ourrions/ pouvoir # is:cond is:1pl
-SFX pA ouvoir ourriez/ pouvoir # is:cond is:2pl
-SFX pA ouvoir ourraient/ pouvoir # is:cond is:3pl
+SFX pA ouvoir ourrais/ pouvoir # is:cnd is:1sg is:2sg
+SFX pA ouvoir ourrait/ pouvoir # is:cnd is:3sg
+SFX pA ouvoir ourrions/ pouvoir # is:cnd is:1pl
+SFX pA ouvoir ourriez/ pouvoir # is:cnd is:2pl
+SFX pA ouvoir ourraient/ pouvoir # is:cnd is:3pl
 SFX pA ouvoir uisse/ pouvoir # is:spre is:1sg is:3sg
 SFX pA ouvoir uissé/ pouvoir # is:spre is:1isg
 SFX pA ouvoir uissè/ pouvoir # is:spre is:1isg
@@ -2810,11 +2810,11 @@ SFX pB ouloir oudra/ vouloir # is:ifut is:3sg
 SFX pB ouloir oudrons/ vouloir # is:ifut is:1pl
 SFX pB ouloir oudrez/ vouloir # is:ifut is:2pl
 SFX pB ouloir oudront/ vouloir # is:ifut is:3pl!
-SFX pB ouloir oudrais/ vouloir # is:cond is:1sg is:2sg
-SFX pB ouloir oudrait/ vouloir # is:cond is:3sg
-SFX pB ouloir oudrions/ vouloir # is:cond is:1pl
-SFX pB ouloir oudriez/ vouloir # is:cond is:2pl
-SFX pB ouloir oudraient/ vouloir # is:cond is:3pl
+SFX pB ouloir oudrais/ vouloir # is:cnd is:1sg is:2sg
+SFX pB ouloir oudrait/ vouloir # is:cnd is:3sg
+SFX pB ouloir oudrions/ vouloir # is:cnd is:1pl
+SFX pB ouloir oudriez/ vouloir # is:cnd is:2pl
+SFX pB ouloir oudraient/ vouloir # is:cnd is:3pl
 SFX pB ouloir euille/ vouloir # is:spre is:1sg is:3sg
 SFX pB ouloir euillé/ vouloir # is:spre is:1isg
 SFX pB ouloir euillè/ vouloir # is:spre is:1isg
@@ -2868,11 +2868,11 @@ SFX pC evoir evra/ devoir # is:ifut is:3sg
 SFX pC evoir evrons/ devoir # is:ifut is:1pl
 SFX pC evoir evrez/ devoir # is:ifut is:2pl
 SFX pC evoir evront/ devoir # is:ifut is:3pl!
-SFX pC evoir evrais/ devoir # is:cond is:1sg is:2sg
-SFX pC evoir evrait/ devoir # is:cond is:3sg
-SFX pC evoir evrions/ devoir # is:cond is:1pl
-SFX pC evoir evriez/ devoir # is:cond is:2pl
-SFX pC evoir evraient/ devoir # is:cond is:3pl
+SFX pC evoir evrais/ devoir # is:cnd is:1sg is:2sg
+SFX pC evoir evrait/ devoir # is:cnd is:3sg
+SFX pC evoir evrions/ devoir # is:cnd is:1pl
+SFX pC evoir evriez/ devoir # is:cnd is:2pl
+SFX pC evoir evraient/ devoir # is:cnd is:3pl
 SFX pC evoir oive/ devoir # is:spre is:1sg is:3sg
 SFX pC evoir oives/ devoir # is:spre is:2sg
 SFX pC evoir usse/ devoir # is:simp is:1sg
@@ -2924,11 +2924,11 @@ SFX pE avoir aura/ savoir # is:ifut is:3sg
 SFX pE avoir aurons/ savoir # is:ifut is:1pl
 SFX pE avoir aurez/ savoir # is:ifut is:2pl
 SFX pE avoir auront/ savoir # is:ifut is:3pl!
-SFX pE avoir aurais/ savoir # is:cond is:1sg is:2sg
-SFX pE avoir aurait/ savoir # is:cond is:3sg
-SFX pE avoir aurions/ savoir # is:cond is:1pl
-SFX pE avoir auriez/ savoir # is:cond is:2pl
-SFX pE avoir auraient/ savoir # is:cond is:3pl
+SFX pE avoir aurais/ savoir # is:cnd is:1sg is:2sg
+SFX pE avoir aurait/ savoir # is:cnd is:3sg
+SFX pE avoir aurions/ savoir # is:cnd is:1pl
+SFX pE avoir auriez/ savoir # is:cnd is:2pl
+SFX pE avoir auraient/ savoir # is:cnd is:3pl
 SFX pE avoir ache/ savoir # is:spre is:1sg is:3sg
 SFX pE avoir aches/ savoir # is:spre is:2sg
 SFX pE avoir achions/ savoir # is:spre is:1pl
@@ -2984,16 +2984,16 @@ SFX pF oir errez/ [^é]voir # is:ifut is:2pl
 SFX pF oir oirez/ évoir # is:ifut is:2pl
 SFX pF oir erront/ [^é]voir # is:ifut is:3pl!
 SFX pF oir oiront/ évoir # is:ifut is:3pl!
-SFX pF oir errais/ [^é]voir # is:cond is:1sg is:2sg
-SFX pF oir oirais/ évoir # is:cond is:1sg is:2sg
-SFX pF oir errait/ [^é]voir # is:cond is:3sg
-SFX pF oir oirait/ évoir # is:cond is:3sg
-SFX pF oir errions/ [^é]voir # is:cond is:1pl
-SFX pF oir oirions/ évoir # is:cond is:1pl
-SFX pF oir erriez/ [^é]voir # is:cond is:2pl
-SFX pF oir oiriez/ évoir # is:cond is:2pl
-SFX pF oir erraient/ [^é]voir # is:cond is:3pl
-SFX pF oir oiraient/ évoir # is:cond is:3pl
+SFX pF oir errais/ [^é]voir # is:cnd is:1sg is:2sg
+SFX pF oir oirais/ évoir # is:cnd is:1sg is:2sg
+SFX pF oir errait/ [^é]voir # is:cnd is:3sg
+SFX pF oir oirait/ évoir # is:cnd is:3sg
+SFX pF oir errions/ [^é]voir # is:cnd is:1pl
+SFX pF oir oirions/ évoir # is:cnd is:1pl
+SFX pF oir erriez/ [^é]voir # is:cnd is:2pl
+SFX pF oir oiriez/ évoir # is:cnd is:2pl
+SFX pF oir erraient/ [^é]voir # is:cnd is:3pl
+SFX pF oir oiraient/ évoir # is:cnd is:3pl
 SFX pF oir oie/ voir # is:spre is:1sg is:3sg
 SFX pF oir oies/ voir # is:spre is:2sg
 SFX pF oir isse/ voir # is:simp is:1sg
@@ -3017,11 +3017,11 @@ SFX pG oir erra/ voir # is:ifut is:3sg
 SFX pG oir errons/ voir # is:ifut is:1pl
 SFX pG oir errez/ voir # is:ifut is:2pl
 SFX pG oir erront/ voir # is:ifut is:3pl!
-SFX pG oir errais/ voir # is:cond is:1sg is:2sg
-SFX pG oir errait/ voir # is:cond is:3sg
-SFX pG oir errions/ voir # is:cond is:1pl
-SFX pG oir erriez/ voir # is:cond is:2pl
-SFX pG oir erraient/ voir # is:cond is:3pl
+SFX pG oir errais/ voir # is:cnd is:1sg is:2sg
+SFX pG oir errait/ voir # is:cnd is:3sg
+SFX pG oir errions/ voir # is:cnd is:1pl
+SFX pG oir erriez/ voir # is:cnd is:2pl
+SFX pG oir erraient/ voir # is:cnd is:3pl
 
 SFX pH Y 49
 SFX pH ouvoir ouvoir/ mouvoir # is:infi
@@ -3053,11 +3053,11 @@ SFX pH ouvoir ouvra/ mouvoir # is:ifut is:3sg
 SFX pH ouvoir ouvrons/ mouvoir # is:ifut is:1pl
 SFX pH ouvoir ouvrez/ mouvoir # is:ifut is:2pl
 SFX pH ouvoir ouvront/ mouvoir # is:ifut is:3pl!
-SFX pH ouvoir ouvrais/ mouvoir # is:cond is:1sg is:2sg
-SFX pH ouvoir ouvrait/ mouvoir # is:cond is:3sg
-SFX pH ouvoir ouvrions/ mouvoir # is:cond is:1pl
-SFX pH ouvoir ouvriez/ mouvoir # is:cond is:2pl
-SFX pH ouvoir ouvraient/ mouvoir # is:cond is:3pl
+SFX pH ouvoir ouvrais/ mouvoir # is:cnd is:1sg is:2sg
+SFX pH ouvoir ouvrait/ mouvoir # is:cnd is:3sg
+SFX pH ouvoir ouvrions/ mouvoir # is:cnd is:1pl
+SFX pH ouvoir ouvriez/ mouvoir # is:cnd is:2pl
+SFX pH ouvoir ouvraient/ mouvoir # is:cnd is:3pl
 SFX pH ouvoir euve/ mouvoir # is:spre is:1sg is:3sg
 SFX pH ouvoir euves/ mouvoir # is:spre is:2sg
 SFX pH ouvoir usse/ mouvoir # is:simp is:1sg
@@ -3108,11 +3108,11 @@ SFX pJ ourvoir ourvoira/ pourvoir # is:ifut is:3sg
 SFX pJ ourvoir ourvoirons/ pourvoir # is:ifut is:1pl
 SFX pJ ourvoir ourvoirez/ pourvoir # is:ifut is:2pl
 SFX pJ ourvoir ourvoiront/ pourvoir # is:ifut is:3pl!
-SFX pJ ourvoir ourvoirais/ pourvoir # is:cond is:1sg is:2sg
-SFX pJ ourvoir ourvoirait/ pourvoir # is:cond is:3sg
-SFX pJ ourvoir ourvoirions/ pourvoir # is:cond is:1pl
-SFX pJ ourvoir ourvoiriez/ pourvoir # is:cond is:2pl
-SFX pJ ourvoir ourvoiraient/ pourvoir # is:cond is:3pl
+SFX pJ ourvoir ourvoirais/ pourvoir # is:cnd is:1sg is:2sg
+SFX pJ ourvoir ourvoirait/ pourvoir # is:cnd is:3sg
+SFX pJ ourvoir ourvoirions/ pourvoir # is:cnd is:1pl
+SFX pJ ourvoir ourvoiriez/ pourvoir # is:cnd is:2pl
+SFX pJ ourvoir ourvoiraient/ pourvoir # is:cnd is:3pl
 SFX pJ ourvoir ourvoie/ pourvoir # is:spre is:1sg is:3sg
 SFX pJ ourvoir ourvoies/ pourvoir # is:spre is:2sg
 SFX pJ ourvoir ourvusse/ pourvoir # is:simp is:1sg
@@ -3159,11 +3159,11 @@ SFX pK cevoir cevra/ cevoir # is:ifut is:3sg
 SFX pK cevoir cevrons/ cevoir # is:ifut is:1pl
 SFX pK cevoir cevrez/ cevoir # is:ifut is:2pl
 SFX pK cevoir cevront/ cevoir # is:ifut is:3pl!
-SFX pK cevoir cevrais/ cevoir # is:cond is:1sg is:2sg
-SFX pK cevoir cevrait/ cevoir # is:cond is:3sg
-SFX pK cevoir cevrions/ cevoir # is:cond is:1pl
-SFX pK cevoir cevriez/ cevoir # is:cond is:2pl
-SFX pK cevoir cevraient/ cevoir # is:cond is:3pl
+SFX pK cevoir cevrais/ cevoir # is:cnd is:1sg is:2sg
+SFX pK cevoir cevrait/ cevoir # is:cnd is:3sg
+SFX pK cevoir cevrions/ cevoir # is:cnd is:1pl
+SFX pK cevoir cevriez/ cevoir # is:cnd is:2pl
+SFX pK cevoir cevraient/ cevoir # is:cnd is:3pl
 SFX pK cevoir çoive/ cevoir # is:spre is:1sg is:3sg
 SFX pK cevoir çoives/ cevoir # is:spre is:2sg
 SFX pK cevoir çusse/ cevoir # is:simp is:1sg
@@ -3210,11 +3210,11 @@ SFX pM aloir audra/ valoir # is:ifut is:3sg
 SFX pM aloir audrons/ valoir # is:ifut is:1pl
 SFX pM aloir audrez/ valoir # is:ifut is:2pl
 SFX pM aloir audront/ valoir # is:ifut is:3pl!
-SFX pM aloir audrais/ valoir # is:cond is:1sg is:2sg
-SFX pM aloir audrait/ valoir # is:cond is:3sg
-SFX pM aloir audrions/ valoir # is:cond is:1pl
-SFX pM aloir audriez/ valoir # is:cond is:2pl
-SFX pM aloir audraient/ valoir # is:cond is:3pl
+SFX pM aloir audrais/ valoir # is:cnd is:1sg is:2sg
+SFX pM aloir audrait/ valoir # is:cnd is:3sg
+SFX pM aloir audrions/ valoir # is:cnd is:1pl
+SFX pM aloir audriez/ valoir # is:cnd is:2pl
+SFX pM aloir audraient/ valoir # is:cnd is:3pl
 SFX pM aloir aille/ valoir # is:spre is:1sg is:3sg
 SFX pM aloir ailles/ valoir # is:spre is:2sg
 SFX pM aloir aillent/ valoir # is:spre is:3pl
@@ -3257,11 +3257,11 @@ SFX pN valoir vaudra/ valoir # is:ifut is:3sg
 SFX pN valoir vaudrons/ valoir # is:ifut is:1pl
 SFX pN valoir vaudrez/ valoir # is:ifut is:2pl
 SFX pN valoir vaudront/ valoir # is:ifut is:3pl!
-SFX pN valoir vaudrais/ valoir # is:cond is:1sg is:2sg
-SFX pN valoir vaudrait/ valoir # is:cond is:3sg
-SFX pN valoir vaudrions/ valoir # is:cond is:1pl
-SFX pN valoir vaudriez/ valoir # is:cond is:2pl
-SFX pN valoir vaudraient/ valoir # is:cond is:3pl
+SFX pN valoir vaudrais/ valoir # is:cnd is:1sg is:2sg
+SFX pN valoir vaudrait/ valoir # is:cnd is:3sg
+SFX pN valoir vaudrions/ valoir # is:cnd is:1pl
+SFX pN valoir vaudriez/ valoir # is:cnd is:2pl
+SFX pN valoir vaudraient/ valoir # is:cnd is:3pl
 SFX pN valoir vaille/ quivaloir # is:spre is:1sg is:3sg
 SFX pN valoir vale/ révaloir # is:spre is:1sg is:3sg
 SFX pN valoir vailles/ quivaloir # is:spre is:2sg
@@ -3292,11 +3292,11 @@ SFX pO valoir vaudra/ revaloir # is:ifut is:3sg
 SFX pO valoir vaudrons/ revaloir # is:ifut is:1pl
 SFX pO valoir vaudrez/ revaloir # is:ifut is:2pl
 SFX pO valoir vaudront/ revaloir # is:ifut is:3pl!
-SFX pO valoir vaudrais/ revaloir # is:cond is:1sg is:2sg
-SFX pO valoir vaudrait/ revaloir # is:cond is:3sg
-SFX pO valoir vaudrions/ revaloir # is:cond is:1pl
-SFX pO valoir vaudriez/ revaloir # is:cond is:2pl
-SFX pO valoir vaudraient/ revaloir # is:cond is:3pl
+SFX pO valoir vaudrais/ revaloir # is:cnd is:1sg is:2sg
+SFX pO valoir vaudrait/ revaloir # is:cnd is:3sg
+SFX pO valoir vaudrions/ revaloir # is:cnd is:1pl
+SFX pO valoir vaudriez/ revaloir # is:cnd is:2pl
+SFX pO valoir vaudraient/ revaloir # is:cnd is:3pl
 SFX pO valoir valu-e/ revaloir # is:ppas po:adj is:incl is:sg
 SFX pO valoir valu-es/ revaloir # is:ppas po:adj is:incl is:pl
 SFX pO valoir valu·e·s/ revaloir # is:ppas po:adj is:incl is:pl
@@ -3404,26 +3404,26 @@ SFX pS ssoir ssoira/ soir # is:ifut is:3sg
 SFX pS ssoir ssoirons/ soir # is:ifut is:1pl
 SFX pS ssoir ssoirez/ soir # is:ifut is:2pl
 SFX pS ssoir ssoiront/ soir # is:ifut is:3pl
-SFX pS sseoir ssiérais/ seoir # is:cond is:1sg is:2sg
-SFX pS sseoir ssiérait/ seoir # is:cond is:3sg
-SFX pS sseoir ssiérions/ seoir # is:cond is:1pl
-SFX pS sseoir ssiériez/ seoir # is:cond is:2pl
-SFX pS sseoir ssiéraient/ seoir # is:cond is:3pl
-SFX pS sseoir ssoirais/ seoir # is:cond is:1sg is:2sg
-SFX pS sseoir ssoirait/ seoir # is:cond is:3sg
-SFX pS sseoir ssoirions/ seoir # is:cond is:1pl
-SFX pS sseoir ssoiriez/ seoir # is:cond is:2pl
-SFX pS sseoir ssoiraient/ seoir # is:cond is:3pl
-SFX pS ssoir ssiérais/ soir # is:cond is:1sg is:2sg
-SFX pS ssoir ssiérait/ soir # is:cond is:3sg
-SFX pS ssoir ssiérions/ soir # is:cond is:1pl
-SFX pS ssoir ssiériez/ soir # is:cond is:2pl
-SFX pS ssoir ssiéraient/ soir # is:cond is:3pl
-SFX pS ssoir ssoirais/ soir # is:cond is:1sg is:2sg
-SFX pS ssoir ssoirait/ soir # is:cond is:3sg
-SFX pS ssoir ssoirions/ soir # is:cond is:1pl
-SFX pS ssoir ssoiriez/ soir # is:cond is:2pl
-SFX pS ssoir ssoiraient/ soir # is:cond is:3pl
+SFX pS sseoir ssiérais/ seoir # is:cnd is:1sg is:2sg
+SFX pS sseoir ssiérait/ seoir # is:cnd is:3sg
+SFX pS sseoir ssiérions/ seoir # is:cnd is:1pl
+SFX pS sseoir ssiériez/ seoir # is:cnd is:2pl
+SFX pS sseoir ssiéraient/ seoir # is:cnd is:3pl
+SFX pS sseoir ssoirais/ seoir # is:cnd is:1sg is:2sg
+SFX pS sseoir ssoirait/ seoir # is:cnd is:3sg
+SFX pS sseoir ssoirions/ seoir # is:cnd is:1pl
+SFX pS sseoir ssoiriez/ seoir # is:cnd is:2pl
+SFX pS sseoir ssoiraient/ seoir # is:cnd is:3pl
+SFX pS ssoir ssiérais/ soir # is:cnd is:1sg is:2sg
+SFX pS ssoir ssiérait/ soir # is:cnd is:3sg
+SFX pS ssoir ssiérions/ soir # is:cnd is:1pl
+SFX pS ssoir ssiériez/ soir # is:cnd is:2pl
+SFX pS ssoir ssiéraient/ soir # is:cnd is:3pl
+SFX pS ssoir ssoirais/ soir # is:cnd is:1sg is:2sg
+SFX pS ssoir ssoirait/ soir # is:cnd is:3sg
+SFX pS ssoir ssoirions/ soir # is:cnd is:1pl
+SFX pS ssoir ssoiriez/ soir # is:cnd is:2pl
+SFX pS ssoir ssoiraient/ soir # is:cnd is:3pl
 SFX pS sseoir sseye/ seoir # is:spre is:1sg is:3sg
 SFX pS sseoir sseyes/ seoir # is:spre is:2sg
 SFX pS sseoir ssoie/ seoir # is:spre is:1sg is:3sg
@@ -3521,16 +3521,16 @@ SFX pT ursoir ursoira/ soir # is:ifut is:3sg
 SFX pT ursoir ursoirons/ soir # is:ifut is:1pl
 SFX pT ursoir ursoirez/ soir # is:ifut is:2pl
 SFX pT ursoir ursoiront/ soir # is:ifut is:3pl!
-SFX pT urseoir urseoirais/ seoir # is:cond is:1sg is:2sg
-SFX pT urseoir urseoirait/ seoir # is:cond is:3sg
-SFX pT urseoir urseoirions/ seoir # is:cond is:1pl
-SFX pT urseoir urseoiriez/ seoir # is:cond is:2pl
-SFX pT urseoir urseoiraient/ seoir # is:cond is:3pl
-SFX pT ursoir ursoirais/ soir # is:cond is:1sg is:2sg
-SFX pT ursoir ursoirait/ soir # is:cond is:3sg
-SFX pT ursoir ursoirions/ soir # is:cond is:1pl
-SFX pT ursoir ursoiriez/ soir # is:cond is:2pl
-SFX pT ursoir ursoiraient/ soir # is:cond is:3pl
+SFX pT urseoir urseoirais/ seoir # is:cnd is:1sg is:2sg
+SFX pT urseoir urseoirait/ seoir # is:cnd is:3sg
+SFX pT urseoir urseoirions/ seoir # is:cnd is:1pl
+SFX pT urseoir urseoiriez/ seoir # is:cnd is:2pl
+SFX pT urseoir urseoiraient/ seoir # is:cnd is:3pl
+SFX pT ursoir ursoirais/ soir # is:cnd is:1sg is:2sg
+SFX pT ursoir ursoirait/ soir # is:cnd is:3sg
+SFX pT ursoir ursoirions/ soir # is:cnd is:1pl
+SFX pT ursoir ursoiriez/ soir # is:cnd is:2pl
+SFX pT ursoir ursoiraient/ soir # is:cnd is:3pl
 SFX pT urseoir ursoie/ seoir # is:spre is:1sg is:3sg
 SFX pT urseoir ursoies/ seoir # is:spre is:2sg
 SFX pT ursoir ursoie/ soir # is:spre is:1sg is:3sg
@@ -3586,8 +3586,8 @@ SFX pV eoir eyait/ seoir # is:iimp is:3sg
 SFX pV eoir eyaient/ seoir # is:iimp is:3pl
 SFX pV eoir iéra/ seoir # is:ifut is:3sg
 SFX pV eoir iéront/ seoir # is:ifut is:3pl!
-SFX pV eoir iérait/ seoir # is:cond is:3sg
-SFX pV eoir iéraient/ seoir # is:cond is:3pl
+SFX pV eoir iérait/ seoir # is:cnd is:3sg
+SFX pV eoir iéraient/ seoir # is:cnd is:3pl
 SFX pV eoir iée/ seoir # is:spre is:3sg
 SFX pV eoir iéent/ seoir # is:spre is:3pl
 
@@ -3607,10 +3607,10 @@ SFX pW sseoir ssiéra/ seoir # is:ifut is:3sg
 SFX pW sseoir ssiéront/ seoir # is:ifut is:3pl!
 SFX pW ssoir ssiéra/ soir # is:ifut is:3sg
 SFX pW ssoir ssiéront/ soir # is:ifut is:3pl!
-SFX pW sseoir ssiérait/ seoir # is:cond is:3sg
-SFX pW sseoir ssiéraient/ seoir # is:cond is:3pl
-SFX pW ssoir ssiérait/ soir # is:cond is:3sg
-SFX pW ssoir ssiéraient/ soir # is:cond is:3pl
+SFX pW sseoir ssiérait/ seoir # is:cnd is:3sg
+SFX pW sseoir ssiéraient/ seoir # is:cnd is:3pl
+SFX pW ssoir ssiérait/ soir # is:cnd is:3sg
+SFX pW ssoir ssiéraient/ soir # is:cnd is:3pl
 SFX pW sseoir ssiée/ seoir # is:spre is:3sg
 SFX pW sseoir ssiéent/ seoir # is:spre is:3pl
 SFX pW ssoir ssiée/ soir # is:spre is:3sg
@@ -3651,16 +3651,16 @@ SFX pX hoir hoirez/ choir # is:ifut is:2pl
 SFX pX hoir herrez/ choir # is:ifut is:2pl
 SFX pX hoir hoiront/ choir # is:ifut is:3pl!
 SFX pX hoir herront/ choir # is:ifut is:3pl!
-SFX pX hoir hoirais/ choir # is:cond is:1sg is:2sg
-SFX pX hoir herrais/ choir # is:cond is:1sg is:2sg
-SFX pX hoir hoirait/ choir # is:cond is:3sg
-SFX pX hoir herrait/ choir # is:cond is:3sg
-SFX pX hoir hoirions/ choir # is:cond is:1pl
-SFX pX hoir herrions/ choir # is:cond is:1pl
-SFX pX hoir hoiriez/ choir # is:cond is:2pl
-SFX pX hoir herriez/ choir # is:cond is:2pl
-SFX pX hoir hoiraient/ choir # is:cond is:3pl
-SFX pX hoir herraient/ choir # is:cond is:3pl
+SFX pX hoir hoirais/ choir # is:cnd is:1sg is:2sg
+SFX pX hoir herrais/ choir # is:cnd is:1sg is:2sg
+SFX pX hoir hoirait/ choir # is:cnd is:3sg
+SFX pX hoir herrait/ choir # is:cnd is:3sg
+SFX pX hoir hoirions/ choir # is:cnd is:1pl
+SFX pX hoir herrions/ choir # is:cnd is:1pl
+SFX pX hoir hoiriez/ choir # is:cnd is:2pl
+SFX pX hoir herriez/ choir # is:cnd is:2pl
+SFX pX hoir hoiraient/ choir # is:cnd is:3pl
+SFX pX hoir herraient/ choir # is:cnd is:3pl
 SFX pX hoir hoie/ choir # is:spre is:1sg is:3sg
 SFX pX hoir hoies/ choir # is:spre is:2sg
 SFX pX hoir husse/ choir # is:simp is:1sg
@@ -3698,10 +3698,10 @@ SFX pY choir choira/ échoir # is:ifut is:3sg
 SFX pY choir cherra/ échoir # is:ifut is:3sg
 SFX pY choir choiront/ échoir # is:ifut is:3pl!
 SFX pY choir cherront/ échoir # is:ifut is:3pl!
-SFX pY choir choirait/ échoir # is:cond is:3sg
-SFX pY choir cherrait/ échoir # is:cond is:3sg
-SFX pY choir choiraient/ échoir # is:cond is:3pl
-SFX pY choir cherraient/ échoir # is:cond is:3pl
+SFX pY choir choirait/ échoir # is:cnd is:3sg
+SFX pY choir cherrait/ échoir # is:cnd is:3sg
+SFX pY choir choiraient/ échoir # is:cnd is:3pl
+SFX pY choir cherraient/ échoir # is:cnd is:3pl
 SFX pY choir choie/ échoir # is:spre is:3sg
 SFX pY choir choient/ échoir # is:spre is:3pl
 SFX pY choir chût/ échoir # is:simp is:3sg
@@ -3723,8 +3723,8 @@ SFX pZ euvoir ut/ pleuvoir # is:ipsi is:3sg
 SFX pZ euvoir urent/ pleuvoir # is:ipsi is:3pl!
 SFX pZ euvoir euvra/ pleuvoir # is:ifut is:3sg
 SFX pZ euvoir euvront/ pleuvoir # is:ifut is:3pl!
-SFX pZ euvoir euvrait/ pleuvoir # is:cond is:3sg
-SFX pZ euvoir euvraient/ pleuvoir # is:cond is:3pl
+SFX pZ euvoir euvrait/ pleuvoir # is:cnd is:3sg
+SFX pZ euvoir euvraient/ pleuvoir # is:cnd is:3pl
 SFX pZ euvoir euve/ pleuvoir # is:spre is:3sg
 SFX pZ euvoir ût/ pleuvoir # is:simp is:3sg
 SFX pZ euvoir ussent/ pleuvoir # is:simp is:3pl!
@@ -3739,7 +3739,7 @@ SFX qA alloir aut/ falloir # is:ipre is:3sg
 SFX qA alloir allait/ falloir # is:iimp is:3sg
 SFX qA alloir allut/ falloir # is:ipsi is:3sg
 SFX qA alloir audra/ falloir # is:ifut is:3sg
-SFX qA alloir audrait/ falloir # is:cond is:3sg
+SFX qA alloir audrait/ falloir # is:cnd is:3sg
 SFX qA alloir aille/ falloir # is:spre is:3sg
 SFX qA alloir allût/ falloir # is:simp is:3sg
 
@@ -3762,11 +3762,11 @@ SFX rA lore lora/ clore # is:ifut is:3sg
 SFX rA lore lorons/ clore # is:ifut is:1pl
 SFX rA lore lorez/ clore # is:ifut is:2pl
 SFX rA lore loront/ clore # is:ifut is:3pl!
-SFX rA lore lorais/ clore # is:cond is:1sg is:2sg
-SFX rA lore lorait/ clore # is:cond is:3sg
-SFX rA lore lorions/ clore # is:cond is:1pl
-SFX rA lore loriez/ clore # is:cond is:2pl
-SFX rA lore loraient/ clore # is:cond is:3pl
+SFX rA lore lorais/ clore # is:cnd is:1sg is:2sg
+SFX rA lore lorait/ clore # is:cnd is:3sg
+SFX rA lore lorions/ clore # is:cnd is:1pl
+SFX rA lore loriez/ clore # is:cnd is:2pl
+SFX rA lore loraient/ clore # is:cnd is:3pl
 SFX rA lore lose/ clore # is:spre is:1sg is:3sg
 SFX rA lore loses/ clore # is:spre is:2sg
 SFX rA lore losions/ clore # is:spre is:1pl
@@ -3801,11 +3801,11 @@ SFX rC clore clora/ clore # is:ifut is:3sg
 SFX rC clore clorons/ clore # is:ifut is:1pl
 SFX rC clore clorez/ clore # is:ifut is:2pl
 SFX rC clore cloront/ clore # is:ifut is:3pl!
-SFX rC clore clorais/ clore # is:cond is:1sg is:2sg
-SFX rC clore clorait/ clore # is:cond is:3sg
-SFX rC clore clorions/ clore # is:cond is:1pl
-SFX rC clore cloriez/ clore # is:cond is:2pl
-SFX rC clore cloraient/ clore # is:cond is:3pl
+SFX rC clore clorais/ clore # is:cnd is:1sg is:2sg
+SFX rC clore clorait/ clore # is:cnd is:3sg
+SFX rC clore clorions/ clore # is:cnd is:1pl
+SFX rC clore cloriez/ clore # is:cnd is:2pl
+SFX rC clore cloraient/ clore # is:cnd is:3pl
 SFX rC clore close/ clore # is:spre is:1sg is:3sg
 SFX rC clore closes/ clore # is:spre is:2sg
 SFX rC clore closions/ clore # is:spre is:1pl
@@ -3861,11 +3861,11 @@ SFX tA re ra/ [dp]re # is:ifut is:3sg
 SFX tA re rons/ [dp]re # is:ifut is:1pl
 SFX tA re rez/ [dp]re # is:ifut is:2pl
 SFX tA re ront/ [dp]re # is:ifut is:3pl!
-SFX tA re rais/ [dp]re # is:cond is:1sg is:2sg
-SFX tA re rait/ [dp]re # is:cond is:3sg
-SFX tA re rions/ [dp]re # is:cond is:1pl
-SFX tA re riez/ [dp]re # is:cond is:2pl
-SFX tA re raient/ [dp]re # is:cond is:3pl
+SFX tA re rais/ [dp]re # is:cnd is:1sg is:2sg
+SFX tA re rait/ [dp]re # is:cnd is:3sg
+SFX tA re rions/ [dp]re # is:cnd is:1pl
+SFX tA re riez/ [dp]re # is:cnd is:2pl
+SFX tA re raient/ [dp]re # is:cnd is:3pl
 SFX tA re e/ [dp]re # is:spre is:1sg is:3sg
 SFX tA re es/ [dp]re # is:spre is:2sg
 SFX tA re isse/ [dp]re # is:simp is:1sg
@@ -3912,11 +3912,11 @@ SFX tD perdre perdra/ perdre # is:ifut is:3sg
 SFX tD perdre perdrons/ perdre # is:ifut is:1pl
 SFX tD perdre perdrez/ perdre # is:ifut is:2pl
 SFX tD perdre perdront/ perdre # is:ifut is:3pl!
-SFX tD perdre perdrais/ perdre # is:cond is:1sg is:2sg
-SFX tD perdre perdrait/ perdre # is:cond is:3sg
-SFX tD perdre perdrions/ perdre # is:cond is:1pl
-SFX tD perdre perdriez/ perdre # is:cond is:2pl
-SFX tD perdre perdraient/ perdre # is:cond is:3pl
+SFX tD perdre perdrais/ perdre # is:cnd is:1sg is:2sg
+SFX tD perdre perdrait/ perdre # is:cnd is:3sg
+SFX tD perdre perdrions/ perdre # is:cnd is:1pl
+SFX tD perdre perdriez/ perdre # is:cnd is:2pl
+SFX tD perdre perdraient/ perdre # is:cnd is:3pl
 SFX tD perdre perde/ perdre # is:spre is:1sg is:3sg
 SFX tD perdre perdes/ perdre # is:spre is:2sg
 SFX tD perdre perdisse/ perdre # is:simp is:1sg
@@ -3957,11 +3957,11 @@ SFX tE dre dra/ dre # is:ifut is:3sg
 SFX tE dre drons/ dre # is:ifut is:1pl
 SFX tE dre drez/ dre # is:ifut is:2pl
 SFX tE dre dront/ dre # is:ifut is:3pl!
-SFX tE dre drais/ dre # is:cond is:1sg is:2sg
-SFX tE dre drait/ dre # is:cond is:3sg
-SFX tE dre drions/ dre # is:cond is:1pl
-SFX tE dre driez/ dre # is:cond is:2pl
-SFX tE dre draient/ dre # is:cond is:3pl
+SFX tE dre drais/ dre # is:cnd is:1sg is:2sg
+SFX tE dre drait/ dre # is:cnd is:3sg
+SFX tE dre drions/ dre # is:cnd is:1pl
+SFX tE dre driez/ dre # is:cnd is:2pl
+SFX tE dre draient/ dre # is:cnd is:3pl
 SFX tE dre de/ dre # is:spre is:1sg is:3sg
 SFX tE dre des/ dre # is:spre is:2sg
 SFX tE dre disse/ dre # is:simp is:1sg
@@ -4003,11 +4003,11 @@ SFX tF rendre rendra/ prendre # is:ifut is:3sg
 SFX tF rendre rendrons/ prendre # is:ifut is:1pl
 SFX tF rendre rendrez/ prendre # is:ifut is:2pl
 SFX tF rendre rendront/ prendre # is:ifut is:3pl!
-SFX tF rendre rendrais/ prendre # is:cond is:1sg is:2sg
-SFX tF rendre rendrait/ prendre # is:cond is:3sg
-SFX tF rendre rendrions/ prendre # is:cond is:1pl
-SFX tF rendre rendriez/ prendre # is:cond is:2pl
-SFX tF rendre rendraient/ prendre # is:cond is:3pl
+SFX tF rendre rendrais/ prendre # is:cnd is:1sg is:2sg
+SFX tF rendre rendrait/ prendre # is:cnd is:3sg
+SFX tF rendre rendrions/ prendre # is:cnd is:1pl
+SFX tF rendre rendriez/ prendre # is:cnd is:2pl
+SFX tF rendre rendraient/ prendre # is:cnd is:3pl
 SFX tF rendre renne/ prendre # is:spre is:1sg is:3sg
 SFX tF rendre rennes/ prendre # is:spre is:2sg
 SFX tF rendre risse/ prendre # is:simp is:1sg
@@ -4053,11 +4053,11 @@ SFX tG prendre prendra/ prendre # is:ifut is:3sg
 SFX tG prendre prendrons/ prendre # is:ifut is:1pl
 SFX tG prendre prendrez/ prendre # is:ifut is:2pl
 SFX tG prendre prendront/ prendre # is:ifut is:3pl!
-SFX tG prendre prendrais/ prendre # is:cond is:1sg is:2sg
-SFX tG prendre prendrait/ prendre # is:cond is:3sg
-SFX tG prendre prendrions/ prendre # is:cond is:1pl
-SFX tG prendre prendriez/ prendre # is:cond is:2pl
-SFX tG prendre prendraient/ prendre # is:cond is:3pl
+SFX tG prendre prendrais/ prendre # is:cnd is:1sg is:2sg
+SFX tG prendre prendrait/ prendre # is:cnd is:3sg
+SFX tG prendre prendrions/ prendre # is:cnd is:1pl
+SFX tG prendre prendriez/ prendre # is:cnd is:2pl
+SFX tG prendre prendraient/ prendre # is:cnd is:3pl
 SFX tG prendre prenne/ prendre # is:spre is:1sg is:3sg
 SFX tG prendre prennes/ prendre # is:spre is:2sg
 SFX tG prendre prisse/ prendre # is:simp is:1sg
@@ -4099,11 +4099,11 @@ SFX tM outre outra/ foutre # is:ifut is:3sg
 SFX tM outre outrons/ foutre # is:ifut is:1pl
 SFX tM outre outrez/ foutre # is:ifut is:2pl
 SFX tM outre outront/ foutre # is:ifut is:3pl!
-SFX tM outre outrais/ foutre # is:cond is:1sg is:2sg
-SFX tM outre outrait/ foutre # is:cond is:3sg
-SFX tM outre outrions/ foutre # is:cond is:1pl
-SFX tM outre outriez/ foutre # is:cond is:2pl
-SFX tM outre outraient/ foutre # is:cond is:3pl
+SFX tM outre outrais/ foutre # is:cnd is:1sg is:2sg
+SFX tM outre outrait/ foutre # is:cnd is:3sg
+SFX tM outre outrions/ foutre # is:cnd is:1pl
+SFX tM outre outriez/ foutre # is:cnd is:2pl
+SFX tM outre outraient/ foutre # is:cnd is:3pl
 SFX tM outre oute/ foutre # is:spre is:1sg is:3sg
 SFX tM outre outes/ foutre # is:spre is:2sg
 SFX tM outre ous/ foutre # is:impe is:2sg
@@ -4159,11 +4159,11 @@ SFX uA tre tra/ tre # is:ifut is:3sg
 SFX uA tre trons/ tre # is:ifut is:1pl
 SFX uA tre trez/ tre # is:ifut is:2pl
 SFX uA tre tront/ tre # is:ifut is:3pl!
-SFX uA tre trais/ tre # is:cond is:1sg is:2sg
-SFX uA tre trait/ tre # is:cond is:3sg
-SFX uA tre trions/ tre # is:cond is:1pl
-SFX uA tre triez/ tre # is:cond is:2pl
-SFX uA tre traient/ tre # is:cond is:3pl
+SFX uA tre trais/ tre # is:cnd is:1sg is:2sg
+SFX uA tre trait/ tre # is:cnd is:3sg
+SFX uA tre trions/ tre # is:cnd is:1pl
+SFX uA tre triez/ tre # is:cnd is:2pl
+SFX uA tre traient/ tre # is:cnd is:3pl
 SFX uA tre te/ tre # is:spre is:1sg is:3sg
 SFX uA tre tes/ tre # is:spre is:2sg
 SFX uA tre tisse/ tre # is:simp is:1sg
@@ -4211,11 +4211,11 @@ SFX uC battre battra/ battre # is:ifut is:3sg
 SFX uC battre battrons/ battre # is:ifut is:1pl
 SFX uC battre battrez/ battre # is:ifut is:2pl
 SFX uC battre battront/ battre # is:ifut is:3pl!
-SFX uC battre battrais/ battre # is:cond is:1sg is:2sg
-SFX uC battre battrait/ battre # is:cond is:3sg
-SFX uC battre battrions/ battre # is:cond is:1pl
-SFX uC battre battriez/ battre # is:cond is:2pl
-SFX uC battre battraient/ battre # is:cond is:3pl
+SFX uC battre battrais/ battre # is:cnd is:1sg is:2sg
+SFX uC battre battrait/ battre # is:cnd is:3sg
+SFX uC battre battrions/ battre # is:cnd is:1pl
+SFX uC battre battriez/ battre # is:cnd is:2pl
+SFX uC battre battraient/ battre # is:cnd is:3pl
 SFX uC battre batte/ battre # is:spre is:1sg is:3sg
 SFX uC battre battes/ battre # is:spre is:2sg
 SFX uC battre battisse/ battre # is:simp is:1sg
@@ -4257,10 +4257,10 @@ SFX uD battre battra/ battre # is:ifut is:3sg
 SFX uD battre battrons/ battre # is:ifut is:1pl
 SFX uD battre battrez/ battre # is:ifut is:2pl
 SFX uD battre battront/ battre # is:ifut is:3pl!
-SFX uD battre battrait/ battre # is:cond is:3sg
-SFX uD battre battrions/ battre # is:cond is:1pl
-SFX uD battre battriez/ battre # is:cond is:2pl
-SFX uD battre battraient/ battre # is:cond is:3pl
+SFX uD battre battrait/ battre # is:cnd is:3sg
+SFX uD battre battrions/ battre # is:cnd is:1pl
+SFX uD battre battriez/ battre # is:cnd is:2pl
+SFX uD battre battraient/ battre # is:cnd is:3pl
 SFX uD battre batte/ battre # is:spre is:3sg
 SFX uD battre battît/ battre # is:simp is:3sg
 SFX uD battre battissions/ battre # is:simp is:1pl
@@ -4300,11 +4300,11 @@ SFX vA ettre ettra/ mettre # is:ifut is:3sg
 SFX vA ettre ettrons/ mettre # is:ifut is:1pl
 SFX vA ettre ettrez/ mettre # is:ifut is:2pl
 SFX vA ettre ettront/ mettre # is:ifut is:3pl!
-SFX vA ettre ettrais/ mettre # is:cond is:1sg is:2sg
-SFX vA ettre ettrait/ mettre # is:cond is:3sg
-SFX vA ettre ettrions/ mettre # is:cond is:1pl
-SFX vA ettre ettriez/ mettre # is:cond is:2pl
-SFX vA ettre ettraient/ mettre # is:cond is:3pl
+SFX vA ettre ettrais/ mettre # is:cnd is:1sg is:2sg
+SFX vA ettre ettrait/ mettre # is:cnd is:3sg
+SFX vA ettre ettrions/ mettre # is:cnd is:1pl
+SFX vA ettre ettriez/ mettre # is:cnd is:2pl
+SFX vA ettre ettraient/ mettre # is:cnd is:3pl
 SFX vA ettre ette/ mettre # is:spre is:1sg is:3sg
 SFX vA ettre ettes/ mettre # is:spre is:2sg
 SFX vA ettre isse/ mettre # is:simp is:1sg
@@ -4350,11 +4350,11 @@ SFX vC mettre mettra/ mettre # is:ifut is:3sg
 SFX vC mettre mettrons/ mettre # is:ifut is:1pl
 SFX vC mettre mettrez/ mettre # is:ifut is:2pl
 SFX vC mettre mettront/ mettre # is:ifut is:3pl!
-SFX vC mettre mettrais/ mettre # is:cond is:1sg is:2sg
-SFX vC mettre mettrait/ mettre # is:cond is:3sg
-SFX vC mettre mettrions/ mettre # is:cond is:1pl
-SFX vC mettre mettriez/ mettre # is:cond is:2pl
-SFX vC mettre mettraient/ mettre # is:cond is:3pl
+SFX vC mettre mettrais/ mettre # is:cnd is:1sg is:2sg
+SFX vC mettre mettrait/ mettre # is:cnd is:3sg
+SFX vC mettre mettrions/ mettre # is:cnd is:1pl
+SFX vC mettre mettriez/ mettre # is:cnd is:2pl
+SFX vC mettre mettraient/ mettre # is:cnd is:3pl
 SFX vC mettre mette/ mettre # is:spre is:1sg is:3sg
 SFX vC mettre mettes/ mettre # is:spre is:2sg
 SFX vC mettre misse/ mettre # is:simp is:1sg
@@ -4401,11 +4401,11 @@ SFX wA eindre eindra/ eindre # is:ifut is:3sg
 SFX wA eindre eindrons/ eindre # is:ifut is:1pl
 SFX wA eindre eindrez/ eindre # is:ifut is:2pl
 SFX wA eindre eindront/ eindre # is:ifut is:3pl!
-SFX wA eindre eindrais/ eindre # is:cond is:1sg is:2sg
-SFX wA eindre eindrait/ eindre # is:cond is:3sg
-SFX wA eindre eindrions/ eindre # is:cond is:1pl
-SFX wA eindre eindriez/ eindre # is:cond is:2pl
-SFX wA eindre eindraient/ eindre # is:cond is:3pl
+SFX wA eindre eindrais/ eindre # is:cnd is:1sg is:2sg
+SFX wA eindre eindrait/ eindre # is:cnd is:3sg
+SFX wA eindre eindrions/ eindre # is:cnd is:1pl
+SFX wA eindre eindriez/ eindre # is:cnd is:2pl
+SFX wA eindre eindraient/ eindre # is:cnd is:3pl
 SFX wA eindre eigne/ eindre # is:spre is:1sg is:3sg
 SFX wA eindre eignes/ eindre # is:spre is:2sg
 SFX wA eindre eignisse/ eindre # is:simp is:1sg
@@ -4452,11 +4452,11 @@ SFX wB indre indra/ indre # is:ifut is:3sg
 SFX wB indre indrons/ indre # is:ifut is:1pl
 SFX wB indre indrez/ indre # is:ifut is:2pl
 SFX wB indre indront/ indre # is:ifut is:3pl!
-SFX wB indre indrais/ indre # is:cond is:1sg is:2sg
-SFX wB indre indrait/ indre # is:cond is:3sg
-SFX wB indre indrions/ indre # is:cond is:1pl
-SFX wB indre indriez/ indre # is:cond is:2pl
-SFX wB indre indraient/ indre # is:cond is:3pl
+SFX wB indre indrais/ indre # is:cnd is:1sg is:2sg
+SFX wB indre indrait/ indre # is:cnd is:3sg
+SFX wB indre indrions/ indre # is:cnd is:1pl
+SFX wB indre indriez/ indre # is:cnd is:2pl
+SFX wB indre indraient/ indre # is:cnd is:3pl
 SFX wB indre igne/ indre # is:spre is:1sg is:3sg
 SFX wB indre ignes/ indre # is:spre is:2sg
 SFX wB indre ignisse/ indre # is:simp is:1sg
@@ -4503,11 +4503,11 @@ SFX wD aire era/ faire # is:ifut is:3sg
 SFX wD aire erons/ faire # is:ifut is:1pl
 SFX wD aire erez/ faire # is:ifut is:2pl
 SFX wD aire eront/ faire # is:ifut is:3pl!
-SFX wD aire erais/ faire # is:cond is:1sg is:2sg
-SFX wD aire erait/ faire # is:cond is:3sg
-SFX wD aire erions/ faire # is:cond is:1pl
-SFX wD aire eriez/ faire # is:cond is:2pl
-SFX wD aire eraient/ faire # is:cond is:3pl
+SFX wD aire erais/ faire # is:cnd is:1sg is:2sg
+SFX wD aire erait/ faire # is:cnd is:3sg
+SFX wD aire erions/ faire # is:cnd is:1pl
+SFX wD aire eriez/ faire # is:cnd is:2pl
+SFX wD aire eraient/ faire # is:cnd is:3pl
 SFX wD aire asse/ faire # is:spre is:1sg is:3sg
 SFX wD aire asses/ faire # is:spre is:2sg
 SFX wD aire assions/ faire # is:spre is:1pl
@@ -4588,11 +4588,11 @@ SFX wL raire raira/ traire # is:ifut is:3sg
 SFX wL raire rairons/ traire # is:ifut is:1pl
 SFX wL raire rairez/ traire # is:ifut is:2pl
 SFX wL raire rairont/ traire # is:ifut is:3pl!
-SFX wL raire rairais/ traire # is:cond is:1sg is:2sg
-SFX wL raire rairait/ traire # is:cond is:3sg
-SFX wL raire rairions/ traire # is:cond is:1pl
-SFX wL raire rairiez/ traire # is:cond is:2pl
-SFX wL raire rairaient/ traire # is:cond is:3pl
+SFX wL raire rairais/ traire # is:cnd is:1sg is:2sg
+SFX wL raire rairait/ traire # is:cnd is:3sg
+SFX wL raire rairions/ traire # is:cnd is:1pl
+SFX wL raire rairiez/ traire # is:cnd is:2pl
+SFX wL raire rairaient/ traire # is:cnd is:3pl
 SFX wL raire raie/ traire # is:spre is:1sg is:3sg
 SFX wL raire raies/ traire # is:spre is:2sg
 SFX wL raire rais/ traire # is:impe is:2sg
@@ -4623,11 +4623,11 @@ SFX wM aire aira/ raire # is:ifut is:3sg
 SFX wM aire airons/ raire # is:ifut is:1pl
 SFX wM aire airez/ raire # is:ifut is:2pl
 SFX wM aire airont/ raire # is:ifut is:3pl!
-SFX wM aire airais/ raire # is:cond is:1sg is:2sg
-SFX wM aire airait/ raire # is:cond is:3sg
-SFX wM aire airions/ raire # is:cond is:1pl
-SFX wM aire airiez/ raire # is:cond is:2pl
-SFX wM aire airaient/ raire # is:cond is:3pl
+SFX wM aire airais/ raire # is:cnd is:1sg is:2sg
+SFX wM aire airait/ raire # is:cnd is:3sg
+SFX wM aire airions/ raire # is:cnd is:1pl
+SFX wM aire airiez/ raire # is:cnd is:2pl
+SFX wM aire airaient/ raire # is:cnd is:3pl
 SFX wM aire aie/ raire # is:spre is:1sg is:3sg
 SFX wM aire aies/ raire # is:spre is:2sg
 SFX wM aire ais/ raire # is:impe is:2sg
@@ -4660,11 +4660,11 @@ SFX wN aire aira/ aire # is:ifut is:3sg
 SFX wN aire airons/ aire # is:ifut is:1pl
 SFX wN aire airez/ aire # is:ifut is:2pl
 SFX wN aire airont/ aire # is:ifut is:3pl!
-SFX wN aire airais/ aire # is:cond is:1sg is:2sg
-SFX wN aire airait/ aire # is:cond is:3sg
-SFX wN aire airions/ aire # is:cond is:1pl
-SFX wN aire airiez/ aire # is:cond is:2pl
-SFX wN aire airaient/ aire # is:cond is:3pl
+SFX wN aire airais/ aire # is:cnd is:1sg is:2sg
+SFX wN aire airait/ aire # is:cnd is:3sg
+SFX wN aire airions/ aire # is:cnd is:1pl
+SFX wN aire airiez/ aire # is:cnd is:2pl
+SFX wN aire airaient/ aire # is:cnd is:3pl
 SFX wN aire aise/ aire # is:spre is:1sg is:3sg
 SFX wN aire aises/ aire # is:spre is:2sg
 SFX wN aire usse/ aire # is:simp is:1sg
@@ -4707,11 +4707,11 @@ SFX wO aindre aindra/ aindre # is:ifut is:3sg
 SFX wO aindre aindrons/ aindre # is:ifut is:1pl
 SFX wO aindre aindrez/ aindre # is:ifut is:2pl
 SFX wO aindre aindront/ aindre # is:ifut is:3pl!
-SFX wO aindre aindrais/ aindre # is:cond is:1sg is:2sg
-SFX wO aindre aindrait/ aindre # is:cond is:3sg
-SFX wO aindre aindrions/ aindre # is:cond is:1pl
-SFX wO aindre aindriez/ aindre # is:cond is:2pl
-SFX wO aindre aindraient/ aindre # is:cond is:3pl
+SFX wO aindre aindrais/ aindre # is:cnd is:1sg is:2sg
+SFX wO aindre aindrait/ aindre # is:cnd is:3sg
+SFX wO aindre aindrions/ aindre # is:cnd is:1pl
+SFX wO aindre aindriez/ aindre # is:cnd is:2pl
+SFX wO aindre aindraient/ aindre # is:cnd is:3pl
 SFX wO aindre aigne/ aindre # is:spre is:1sg is:3sg
 SFX wO aindre aignes/ aindre # is:spre is:2sg
 SFX wO aindre aignisse/ aindre # is:simp is:1sg
@@ -4758,11 +4758,11 @@ SFX wP aincre aincra/ vaincre # is:ifut is:3sg
 SFX wP aincre aincrons/ vaincre # is:ifut is:1pl
 SFX wP aincre aincrez/ vaincre # is:ifut is:2pl
 SFX wP aincre aincront/ vaincre # is:ifut is:3pl!
-SFX wP aincre aincrais/ vaincre # is:cond is:1sg is:2sg
-SFX wP aincre aincrait/ vaincre # is:cond is:3sg
-SFX wP aincre aincrions/ vaincre # is:cond is:1pl
-SFX wP aincre aincriez/ vaincre # is:cond is:2pl
-SFX wP aincre aincraient/ vaincre # is:cond is:3pl
+SFX wP aincre aincrais/ vaincre # is:cnd is:1sg is:2sg
+SFX wP aincre aincrait/ vaincre # is:cnd is:3sg
+SFX wP aincre aincrions/ vaincre # is:cnd is:1pl
+SFX wP aincre aincriez/ vaincre # is:cnd is:2pl
+SFX wP aincre aincraient/ vaincre # is:cnd is:3pl
 SFX wP aincre ainque/ vaincre # is:spre is:1sg is:3sg
 SFX wP aincre ainques/ vaincre # is:spre is:2sg
 SFX wP aincre ainquisse/ vaincre # is:simp is:1sg
@@ -4820,11 +4820,11 @@ SFX wQ tre tra/ tre # is:ifut is:3sg
 SFX wQ tre trons/ tre # is:ifut is:1pl
 SFX wQ tre trez/ tre # is:ifut is:2pl
 SFX wQ tre tront/ tre # is:ifut is:3pl!
-SFX wQ tre trais/ tre # is:cond is:1sg is:2sg
-SFX wQ tre trait/ tre # is:cond is:3sg
-SFX wQ tre trions/ tre # is:cond is:1pl
-SFX wQ tre triez/ tre # is:cond is:2pl
-SFX wQ tre traient/ tre # is:cond is:3pl
+SFX wQ tre trais/ tre # is:cnd is:1sg is:2sg
+SFX wQ tre trait/ tre # is:cnd is:3sg
+SFX wQ tre trions/ tre # is:cnd is:1pl
+SFX wQ tre triez/ tre # is:cnd is:2pl
+SFX wQ tre traient/ tre # is:cnd is:3pl
 SFX wQ aître aisse/ aître # is:spre is:1sg is:3sg
 SFX wQ aître aisses/ aître # is:spre is:2sg
 SFX wQ aitre aisse/ aitre # is:spre is:1sg is:3sg
@@ -4906,11 +4906,11 @@ SFX wR tre tra/ tre # is:ifut is:3sg
 SFX wR tre trons/ tre # is:ifut is:1pl
 SFX wR tre trez/ tre # is:ifut is:2pl
 SFX wR tre tront/ tre # is:ifut is:3pl!
-SFX wR tre trais/ tre # is:cond is:1sg is:2sg
-SFX wR tre trait/ tre # is:cond is:3sg
-SFX wR tre trions/ tre # is:cond is:1pl
-SFX wR tre triez/ tre # is:cond is:2pl
-SFX wR tre traient/ tre # is:cond is:3pl
+SFX wR tre trais/ tre # is:cnd is:1sg is:2sg
+SFX wR tre trait/ tre # is:cnd is:3sg
+SFX wR tre trions/ tre # is:cnd is:1pl
+SFX wR tre triez/ tre # is:cnd is:2pl
+SFX wR tre traient/ tre # is:cnd is:3pl
 SFX wR aître aisse/ naître # is:spre is:1sg is:3sg
 SFX wR aître aisses/ naître # is:spre is:2sg
 SFX wR aitre aisse/ naitre # is:spre is:1sg is:3sg
@@ -4994,11 +4994,11 @@ SFX wS tre tra/ tre # is:ifut is:3sg
 SFX wS tre trons/ tre # is:ifut is:1pl
 SFX wS tre trez/ tre # is:ifut is:2pl
 SFX wS tre tront/ tre # is:ifut is:3pl!
-SFX wS tre trais/ tre # is:cond is:1sg is:2sg
-SFX wS tre trait/ tre # is:cond is:3sg
-SFX wS tre trions/ tre # is:cond is:1pl
-SFX wS tre triez/ tre # is:cond is:2pl
-SFX wS tre traient/ tre # is:cond is:3pl
+SFX wS tre trais/ tre # is:cnd is:1sg is:2sg
+SFX wS tre trait/ tre # is:cnd is:3sg
+SFX wS tre trions/ tre # is:cnd is:1pl
+SFX wS tre triez/ tre # is:cnd is:2pl
+SFX wS tre traient/ tre # is:cnd is:3pl
 SFX wS aître aisse/ paître # is:spre is:1sg is:3sg
 SFX wS aître aisses/ paître # is:spre is:2sg
 SFX wS aitre aisse/ paitre # is:spre is:1sg is:3sg
@@ -5088,11 +5088,11 @@ SFX wT tre tra/ tre # is:ifut is:3sg
 SFX wT tre trons/ tre # is:ifut is:1pl
 SFX wT tre trez/ tre # is:ifut is:2pl
 SFX wT tre tront/ tre # is:ifut is:3pl!
-SFX wT tre trais/ tre # is:cond is:1sg is:2sg
-SFX wT tre trait/ tre # is:cond is:3sg
-SFX wT tre trions/ tre # is:cond is:1pl
-SFX wT tre triez/ tre # is:cond is:2pl
-SFX wT tre traient/ tre # is:cond is:3pl
+SFX wT tre trais/ tre # is:cnd is:1sg is:2sg
+SFX wT tre trait/ tre # is:cnd is:3sg
+SFX wT tre trions/ tre # is:cnd is:1pl
+SFX wT tre triez/ tre # is:cnd is:2pl
+SFX wT tre traient/ tre # is:cnd is:3pl
 SFX wT roître roisse/ croître # is:spre is:1sg is:3sg
 SFX wT roître roisses/ croître # is:spre is:2sg
 SFX wT roitre roisse/ croitre # is:spre is:1sg is:3sg
@@ -5224,11 +5224,11 @@ SFX wV tre tra/ tre # is:ifut is:3sg
 SFX wV tre trons/ tre # is:ifut is:1pl
 SFX wV tre trez/ tre # is:ifut is:2pl
 SFX wV tre tront/ tre # is:ifut is:3pl!
-SFX wV tre trais/ tre # is:cond is:1sg is:2sg
-SFX wV tre trait/ tre # is:cond is:3sg
-SFX wV tre trions/ tre # is:cond is:1pl
-SFX wV tre triez/ tre # is:cond is:2pl
-SFX wV tre traient/ tre # is:cond is:3pl
+SFX wV tre trais/ tre # is:cnd is:1sg is:2sg
+SFX wV tre trait/ tre # is:cnd is:3sg
+SFX wV tre trions/ tre # is:cnd is:1pl
+SFX wV tre triez/ tre # is:cnd is:2pl
+SFX wV tre traient/ tre # is:cnd is:3pl
 SFX wV croître croisse/ croître # is:spre is:1sg is:3sg
 SFX wV croître croisses/ croître # is:spre is:2sg
 SFX wV croitre croisse/ croitre # is:spre is:1sg is:3sg
@@ -5290,11 +5290,11 @@ SFX xA roire roira/ croire # is:ifut is:3sg
 SFX xA roire roirons/ croire # is:ifut is:1pl
 SFX xA roire roirez/ croire # is:ifut is:2pl
 SFX xA roire roiront/ croire # is:ifut is:3pl!
-SFX xA roire roirais/ croire # is:cond is:1sg is:2sg
-SFX xA roire roirait/ croire # is:cond is:3sg
-SFX xA roire roirions/ croire # is:cond is:1pl
-SFX xA roire roiriez/ croire # is:cond is:2pl
-SFX xA roire roiraient/ croire # is:cond is:3pl
+SFX xA roire roirais/ croire # is:cnd is:1sg is:2sg
+SFX xA roire roirait/ croire # is:cnd is:3sg
+SFX xA roire roirions/ croire # is:cnd is:1pl
+SFX xA roire roiriez/ croire # is:cnd is:2pl
+SFX xA roire roiraient/ croire # is:cnd is:3pl
 SFX xA roire roie/ croire # is:spre is:1sg is:3sg
 SFX xA roire roies/ croire # is:spre is:2sg
 SFX xA roire russe/ croire # is:simp is:1sg
@@ -5341,11 +5341,11 @@ SFX xC oire oira/ boire # is:ifut is:3sg
 SFX xC oire oirons/ boire # is:ifut is:1pl
 SFX xC oire oirez/ boire # is:ifut is:2pl
 SFX xC oire oiront/ boire # is:ifut is:3pl!
-SFX xC oire oirais/ boire # is:cond is:1sg is:2sg
-SFX xC oire oirait/ boire # is:cond is:3sg
-SFX xC oire oirions/ boire # is:cond is:1pl
-SFX xC oire oiriez/ boire # is:cond is:2pl
-SFX xC oire oiraient/ boire # is:cond is:3pl
+SFX xC oire oirais/ boire # is:cnd is:1sg is:2sg
+SFX xC oire oirait/ boire # is:cnd is:3sg
+SFX xC oire oirions/ boire # is:cnd is:1pl
+SFX xC oire oiriez/ boire # is:cnd is:2pl
+SFX xC oire oiraient/ boire # is:cnd is:3pl
 SFX xC oire oive/ boire # is:spre is:1sg is:3sg
 SFX xC oire oives/ boire # is:spre is:2sg
 SFX xC oire usse/ boire # is:simp is:1sg
@@ -5401,11 +5401,11 @@ SFX xK clure clura/ clure # is:ifut is:3sg
 SFX xK clure clurons/ clure # is:ifut is:1pl
 SFX xK clure clurez/ clure # is:ifut is:2pl
 SFX xK clure cluront/ clure # is:ifut is:3pl!
-SFX xK clure clurais/ clure # is:cond is:1sg is:2sg
-SFX xK clure clurait/ clure # is:cond is:3sg
-SFX xK clure clurions/ clure # is:cond is:1pl
-SFX xK clure cluriez/ clure # is:cond is:2pl
-SFX xK clure cluraient/ clure # is:cond is:3pl
+SFX xK clure clurais/ clure # is:cnd is:1sg is:2sg
+SFX xK clure clurait/ clure # is:cnd is:3sg
+SFX xK clure clurions/ clure # is:cnd is:1pl
+SFX xK clure cluriez/ clure # is:cnd is:2pl
+SFX xK clure cluraient/ clure # is:cnd is:3pl
 SFX xK clure clue/ clure # is:spre is:1sg is:3sg
 SFX xK clure clues/ clure # is:spre is:2sg
 SFX xK clure clusse/ clure # is:simp is:1sg
@@ -5455,11 +5455,11 @@ SFX xL clure clura/ clure # is:ifut is:3sg
 SFX xL clure clurons/ clure # is:ifut is:1pl
 SFX xL clure clurez/ clure # is:ifut is:2pl
 SFX xL clure cluront/ clure # is:ifut is:3pl!
-SFX xL clure clurais/ clure # is:cond is:1sg is:2sg
-SFX xL clure clurait/ clure # is:cond is:3sg
-SFX xL clure clurions/ clure # is:cond is:1pl
-SFX xL clure cluriez/ clure # is:cond is:2pl
-SFX xL clure cluraient/ clure # is:cond is:3pl
+SFX xL clure clurais/ clure # is:cnd is:1sg is:2sg
+SFX xL clure clurait/ clure # is:cnd is:3sg
+SFX xL clure clurions/ clure # is:cnd is:1pl
+SFX xL clure cluriez/ clure # is:cnd is:2pl
+SFX xL clure cluraient/ clure # is:cnd is:3pl
 SFX xL clure clue/ clure # is:spre is:1sg is:3sg
 SFX xL clure clues/ clure # is:spre is:2sg
 SFX xL clure clusse/ clure # is:simp is:1sg
@@ -5491,8 +5491,8 @@ SFX xM ourdre ourdit/ sourdre # is:ipsi is:3sg
 SFX xM ourdre ourdirent/ sourdre # is:ipsi is:3pl!
 SFX xM ourdre ourdra/ sourdre # is:ifut is:3sg
 SFX xM ourdre ourdront/ sourdre # is:ifut is:3pl!
-SFX xM ourdre ourdrait/ sourdre # is:cond is:3sg
-SFX xM ourdre ourdraient/ sourdre # is:cond is:3pl
+SFX xM ourdre ourdrait/ sourdre # is:cnd is:3sg
+SFX xM ourdre ourdraient/ sourdre # is:cnd is:3pl
 SFX xM ourdre ourde/ sourdre # is:spre is:3sg
 SFX xM ourdre ourdît/ sourdre # is:simp is:3sg
 SFX xM ourdre ourdissent/ sourdre # is:simp is:3pl
@@ -5534,11 +5534,11 @@ SFX xN soudre soudra/ soudre # is:ifut is:3sg
 SFX xN soudre soudrons/ soudre # is:ifut is:1pl
 SFX xN soudre soudrez/ soudre # is:ifut is:2pl
 SFX xN soudre soudront/ soudre # is:ifut is:3pl!
-SFX xN soudre soudrais/ soudre # is:cond is:1sg is:2sg
-SFX xN soudre soudrait/ soudre # is:cond is:3sg
-SFX xN soudre soudrions/ soudre # is:cond is:1pl
-SFX xN soudre soudriez/ soudre # is:cond is:2pl
-SFX xN soudre soudraient/ soudre # is:cond is:3pl
+SFX xN soudre soudrais/ soudre # is:cnd is:1sg is:2sg
+SFX xN soudre soudrait/ soudre # is:cnd is:3sg
+SFX xN soudre soudrions/ soudre # is:cnd is:1pl
+SFX xN soudre soudriez/ soudre # is:cnd is:2pl
+SFX xN soudre soudraient/ soudre # is:cnd is:3pl
 SFX xN soudre solve/ soudre # is:spre is:1sg is:3sg
 SFX xN soudre solves/ soudre # is:spre is:2sg
 SFX xN soudre solusse/ soudre # is:simp is:1sg
@@ -5589,11 +5589,11 @@ SFX xO oudre oudra/ coudre # is:ifut is:3sg
 SFX xO oudre oudrons/ coudre # is:ifut is:1pl
 SFX xO oudre oudrez/ coudre # is:ifut is:2pl
 SFX xO oudre oudront/ coudre # is:ifut is:3pl!
-SFX xO oudre oudrais/ coudre # is:cond is:1sg is:2sg
-SFX xO oudre oudrait/ coudre # is:cond is:3sg
-SFX xO oudre oudrions/ coudre # is:cond is:1pl
-SFX xO oudre oudriez/ coudre # is:cond is:2pl
-SFX xO oudre oudraient/ coudre # is:cond is:3pl
+SFX xO oudre oudrais/ coudre # is:cnd is:1sg is:2sg
+SFX xO oudre oudrait/ coudre # is:cnd is:3sg
+SFX xO oudre oudrions/ coudre # is:cnd is:1pl
+SFX xO oudre oudriez/ coudre # is:cnd is:2pl
+SFX xO oudre oudraient/ coudre # is:cnd is:3pl
 SFX xO oudre ouse/ coudre # is:spre is:1sg is:3sg
 SFX xO oudre ouses/ coudre # is:spre is:2sg
 SFX xO oudre ousisse/ coudre # is:simp is:1sg
@@ -5640,11 +5640,11 @@ SFX xP oudre oudra/ moudre # is:ifut is:3sg
 SFX xP oudre oudrons/ moudre # is:ifut is:1pl
 SFX xP oudre oudrez/ moudre # is:ifut is:2pl
 SFX xP oudre oudront/ moudre # is:ifut is:3pl!
-SFX xP oudre oudrais/ moudre # is:cond is:1sg is:2sg
-SFX xP oudre oudrait/ moudre # is:cond is:3sg
-SFX xP oudre oudrions/ moudre # is:cond is:1pl
-SFX xP oudre oudriez/ moudre # is:cond is:2pl
-SFX xP oudre oudraient/ moudre # is:cond is:3pl
+SFX xP oudre oudrais/ moudre # is:cnd is:1sg is:2sg
+SFX xP oudre oudrait/ moudre # is:cnd is:3sg
+SFX xP oudre oudrions/ moudre # is:cnd is:1pl
+SFX xP oudre oudriez/ moudre # is:cnd is:2pl
+SFX xP oudre oudraient/ moudre # is:cnd is:3pl
 SFX xP oudre oule/ moudre # is:spre is:1sg is:3sg
 SFX xP oudre oules/ moudre # is:spre is:2sg
 SFX xP oudre oulusse/ moudre # is:simp is:1sg
@@ -5691,11 +5691,11 @@ SFX xQ uivre uivra/ suivre # is:ifut is:3sg
 SFX xQ uivre uivrons/ suivre # is:ifut is:1pl
 SFX xQ uivre uivrez/ suivre # is:ifut is:2pl
 SFX xQ uivre uivront/ suivre # is:ifut is:3pl!
-SFX xQ uivre uivrais/ suivre # is:cond is:1sg is:2sg
-SFX xQ uivre uivrait/ suivre # is:cond is:3sg
-SFX xQ uivre uivrions/ suivre # is:cond is:1pl
-SFX xQ uivre uivriez/ suivre # is:cond is:2pl
-SFX xQ uivre uivraient/ suivre # is:cond is:3pl
+SFX xQ uivre uivrais/ suivre # is:cnd is:1sg is:2sg
+SFX xQ uivre uivrait/ suivre # is:cnd is:3sg
+SFX xQ uivre uivrions/ suivre # is:cnd is:1pl
+SFX xQ uivre uivriez/ suivre # is:cnd is:2pl
+SFX xQ uivre uivraient/ suivre # is:cnd is:3pl
 SFX xQ uivre uive/ suivre # is:spre is:1sg is:3sg
 SFX xQ uivre uives/ suivre # is:spre is:2sg
 SFX xQ uivre uivisse/ suivre # is:simp is:1sg
@@ -5724,8 +5724,8 @@ SFX xR suivre suivit/ suivre # is:ipsi is:3sg
 SFX xR suivre suivirent/ suivre # is:ipsi is:3pl!
 SFX xR suivre suivra/ suivre # is:ifut is:3sg
 SFX xR suivre suivront/ suivre # is:ifut is:3pl!
-SFX xR suivre suivrait/ suivre # is:cond is:3sg
-SFX xR suivre suivraient/ suivre # is:cond is:3pl
+SFX xR suivre suivrait/ suivre # is:cnd is:3sg
+SFX xR suivre suivraient/ suivre # is:cnd is:3pl
 SFX xR suivre suive/ suivre # is:spre is:3sg
 SFX xR suivre suivît/ suivre # is:simp is:3sg
 SFX xR suivre suivissent/ suivre # is:simp is:3pl!
@@ -5754,11 +5754,11 @@ SFX xS ivre ivra/ vivre # is:ifut is:3sg
 SFX xS ivre ivrons/ vivre # is:ifut is:1pl
 SFX xS ivre ivrez/ vivre # is:ifut is:2pl
 SFX xS ivre ivront/ vivre # is:ifut is:3pl!
-SFX xS ivre ivrais/ vivre # is:cond is:1sg is:2sg
-SFX xS ivre ivrait/ vivre # is:cond is:3sg
-SFX xS ivre ivrions/ vivre # is:cond is:1pl
-SFX xS ivre ivriez/ vivre # is:cond is:2pl
-SFX xS ivre ivraient/ vivre # is:cond is:3pl
+SFX xS ivre ivrais/ vivre # is:cnd is:1sg is:2sg
+SFX xS ivre ivrait/ vivre # is:cnd is:3sg
+SFX xS ivre ivrions/ vivre # is:cnd is:1pl
+SFX xS ivre ivriez/ vivre # is:cnd is:2pl
+SFX xS ivre ivraient/ vivre # is:cnd is:3pl
 SFX xS ivre ive/ vivre # is:spre is:1sg is:3sg
 SFX xS ivre ives/ vivre # is:spre is:2sg
 SFX xS ivre écusse/ vivre # is:simp is:1sg
@@ -5801,11 +5801,11 @@ SFX y1 crire crira/ crire # is:ifut is:3sg
 SFX y1 crire crirons/ crire # is:ifut is:1pl
 SFX y1 crire crirez/ crire # is:ifut is:2pl
 SFX y1 crire criront/ crire # is:ifut is:3pl!
-SFX y1 crire crirais/ crire # is:cond is:1sg is:2sg
-SFX y1 crire crirait/ crire # is:cond is:3sg
-SFX y1 crire cririons/ crire # is:cond is:1pl
-SFX y1 crire cririez/ crire # is:cond is:2pl
-SFX y1 crire criraient/ crire # is:cond is:3pl
+SFX y1 crire crirais/ crire # is:cnd is:1sg is:2sg
+SFX y1 crire crirait/ crire # is:cnd is:3sg
+SFX y1 crire cririons/ crire # is:cnd is:1pl
+SFX y1 crire cririez/ crire # is:cnd is:2pl
+SFX y1 crire criraient/ crire # is:cnd is:3pl
 SFX y1 crire crive/ crire # is:spre is:1sg is:3sg
 SFX y1 crire crives/ crire # is:spre is:2sg
 SFX y1 crire crivisse/ crire # is:simp is:1sg
@@ -5852,11 +5852,11 @@ SFX yA ire ira/ lire # is:ifut is:3sg
 SFX yA ire irons/ lire # is:ifut is:1pl
 SFX yA ire irez/ lire # is:ifut is:2pl
 SFX yA ire iront/ lire # is:ifut is:3pl!
-SFX yA ire irais/ lire # is:cond is:1sg is:2sg
-SFX yA ire irait/ lire # is:cond is:3sg
-SFX yA ire irions/ lire # is:cond is:1pl
-SFX yA ire iriez/ lire # is:cond is:2pl
-SFX yA ire iraient/ lire # is:cond is:3pl
+SFX yA ire irais/ lire # is:cnd is:1sg is:2sg
+SFX yA ire irait/ lire # is:cnd is:3sg
+SFX yA ire irions/ lire # is:cnd is:1pl
+SFX yA ire iriez/ lire # is:cnd is:2pl
+SFX yA ire iraient/ lire # is:cnd is:3pl
 SFX yA ire ise/ lire # is:spre is:1sg is:3sg
 SFX yA ire ises/ lire # is:spre is:2sg
 SFX yA ire usse/ lire # is:simp is:1sg
@@ -5903,11 +5903,11 @@ SFX yB lire lira/ lire # is:ifut is:3sg
 SFX yB lire lirons/ lire # is:ifut is:1pl
 SFX yB lire lirez/ lire # is:ifut is:2pl
 SFX yB lire liront/ lire # is:ifut is:3pl!
-SFX yB lire lirais/ lire # is:cond is:1sg is:2sg
-SFX yB lire lirait/ lire # is:cond is:3sg
-SFX yB lire lirions/ lire # is:cond is:1pl
-SFX yB lire liriez/ lire # is:cond is:2pl
-SFX yB lire liraient/ lire # is:cond is:3pl
+SFX yB lire lirais/ lire # is:cnd is:1sg is:2sg
+SFX yB lire lirait/ lire # is:cnd is:3sg
+SFX yB lire lirions/ lire # is:cnd is:1pl
+SFX yB lire liriez/ lire # is:cnd is:2pl
+SFX yB lire liraient/ lire # is:cnd is:3pl
 SFX yB lire lise/ lire # is:spre is:1sg is:3sg
 SFX yB lire lises/ lire # is:spre is:2sg
 SFX yB lire lusse/ lire # is:simp is:1sg
@@ -5952,11 +5952,11 @@ SFX yC ire ira/ dire # is:ifut is:3sg
 SFX yC ire irons/ dire # is:ifut is:1pl
 SFX yC ire irez/ dire # is:ifut is:2pl
 SFX yC ire iront/ dire # is:ifut is:3pl!
-SFX yC ire irais/ dire # is:cond is:1sg is:2sg
-SFX yC ire irait/ dire # is:cond is:3sg
-SFX yC ire irions/ dire # is:cond is:1pl
-SFX yC ire iriez/ dire # is:cond is:2pl
-SFX yC ire iraient/ dire # is:cond is:3pl
+SFX yC ire irais/ dire # is:cnd is:1sg is:2sg
+SFX yC ire irait/ dire # is:cnd is:3sg
+SFX yC ire irions/ dire # is:cnd is:1pl
+SFX yC ire iriez/ dire # is:cnd is:2pl
+SFX yC ire iraient/ dire # is:cnd is:3pl
 SFX yC ire ise/ dire # is:spre is:1sg is:3sg
 SFX yC ire ises/ dire # is:spre is:2sg
 SFX yC ire isse/ dire # is:simp is:1sg
@@ -6001,11 +6001,11 @@ SFX yD dire dira/ dire # is:ifut is:3sg
 SFX yD dire dirons/ dire # is:ifut is:1pl
 SFX yD dire direz/ dire # is:ifut is:2pl
 SFX yD dire diront/ dire # is:ifut is:3pl!
-SFX yD dire dirais/ dire # is:cond is:1sg is:2sg
-SFX yD dire dirait/ dire # is:cond is:3sg
-SFX yD dire dirions/ dire # is:cond is:1pl
-SFX yD dire diriez/ dire # is:cond is:2pl
-SFX yD dire diraient/ dire # is:cond is:3pl
+SFX yD dire dirais/ dire # is:cnd is:1sg is:2sg
+SFX yD dire dirait/ dire # is:cnd is:3sg
+SFX yD dire dirions/ dire # is:cnd is:1pl
+SFX yD dire diriez/ dire # is:cnd is:2pl
+SFX yD dire diraient/ dire # is:cnd is:3pl
 SFX yD dire dise/ dire # is:spre is:1sg is:3sg
 SFX yD dire dises/ dire # is:spre is:2sg
 SFX yD dire disse/ dire # is:simp is:1sg
@@ -6045,11 +6045,11 @@ SFX yE édire édira/ édire # is:ifut is:3sg
 SFX yE édire édirons/ édire # is:ifut is:1pl
 SFX yE édire édirez/ édire # is:ifut is:2pl
 SFX yE édire édiront/ édire # is:ifut is:3pl!
-SFX yE édire édirais/ édire # is:cond is:1sg is:2sg
-SFX yE édire édirait/ édire # is:cond is:3sg
-SFX yE édire édirions/ édire # is:cond is:1pl
-SFX yE édire édiriez/ édire # is:cond is:2pl
-SFX yE édire édiraient/ édire # is:cond is:3pl
+SFX yE édire édirais/ édire # is:cnd is:1sg is:2sg
+SFX yE édire édirait/ édire # is:cnd is:3sg
+SFX yE édire édirions/ édire # is:cnd is:1pl
+SFX yE édire édiriez/ édire # is:cnd is:2pl
+SFX yE édire édiraient/ édire # is:cnd is:3pl
 SFX yE édire édise/ édire # is:spre is:1sg is:3sg
 SFX yE édire édises/ édire # is:spre is:2sg
 SFX yE édire édisse/ édire # is:simp is:1sg
@@ -6090,11 +6090,11 @@ SFX yF audire audira/ udire # is:ifut is:3sg
 SFX yF audire audirons/ udire # is:ifut is:1pl
 SFX yF audire audirez/ udire # is:ifut is:2pl
 SFX yF audire audiront/ udire # is:ifut is:3pl!
-SFX yF audire audirais/ udire # is:cond is:1sg is:2sg
-SFX yF audire audirait/ udire # is:cond is:3sg
-SFX yF audire audirions/ udire # is:cond is:1pl
-SFX yF audire audiriez/ udire # is:cond is:2pl
-SFX yF audire audiraient/ udire # is:cond is:3pl
+SFX yF audire audirais/ udire # is:cnd is:1sg is:2sg
+SFX yF audire audirait/ udire # is:cnd is:3sg
+SFX yF audire audirions/ udire # is:cnd is:1pl
+SFX yF audire audiriez/ udire # is:cnd is:2pl
+SFX yF audire audiraient/ udire # is:cnd is:3pl
 SFX yF audire audisse/ udire # is:spre is:simp is:1sg
 SFX yF audire audisses/ udire # is:spre is:simp is:2sg
 SFX yF audire audisse/ udire # is:spre is:3sg
@@ -6130,11 +6130,11 @@ SFX yG dire dira/ dire # is:ifut is:3sg
 SFX yG dire dirons/ dire # is:ifut is:1pl
 SFX yG dire direz/ dire # is:ifut is:2pl
 SFX yG dire diront/ dire # is:ifut is:3pl!
-SFX yG dire dirais/ dire # is:cond is:1sg is:2sg
-SFX yG dire dirait/ dire # is:cond is:3sg
-SFX yG dire dirions/ dire # is:cond is:1pl
-SFX yG dire diriez/ dire # is:cond is:2pl
-SFX yG dire diraient/ dire # is:cond is:3pl
+SFX yG dire dirais/ dire # is:cnd is:1sg is:2sg
+SFX yG dire dirait/ dire # is:cnd is:3sg
+SFX yG dire dirions/ dire # is:cnd is:1pl
+SFX yG dire diriez/ dire # is:cnd is:2pl
+SFX yG dire diraient/ dire # is:cnd is:3pl
 SFX yG dire dise/ dire # is:spre is:1sg is:3sg
 SFX yG dire dises/ dire # is:spre is:2sg
 SFX yG dire disse/ dire # is:simp is:1sg
@@ -6200,11 +6200,11 @@ SFX yL uire uira/ uire # is:ifut is:3sg
 SFX yL uire uirons/ uire # is:ifut is:1pl
 SFX yL uire uirez/ uire # is:ifut is:2pl
 SFX yL uire uiront/ uire # is:ifut is:3pl!
-SFX yL uire uirais/ uire # is:cond is:1sg is:2sg
-SFX yL uire uirait/ uire # is:cond is:3sg
-SFX yL uire uirions/ uire # is:cond is:1pl
-SFX yL uire uiriez/ uire # is:cond is:2pl
-SFX yL uire uiraient/ uire # is:cond is:3pl
+SFX yL uire uirais/ uire # is:cnd is:1sg is:2sg
+SFX yL uire uirait/ uire # is:cnd is:3sg
+SFX yL uire uirions/ uire # is:cnd is:1pl
+SFX yL uire uiriez/ uire # is:cnd is:2pl
+SFX yL uire uiraient/ uire # is:cnd is:3pl
 SFX yL uire uise/ uire # is:spre is:1sg is:3sg
 SFX yL uire uises/ uire # is:spre is:2sg
 SFX yL uire uisisse/ uire # is:simp is:1sg
@@ -6251,11 +6251,11 @@ SFX yM uire uira/ uire # is:ifut is:3sg
 SFX yM uire uirons/ uire # is:ifut is:1pl
 SFX yM uire uirez/ uire # is:ifut is:2pl
 SFX yM uire uiront/ uire # is:ifut is:3pl!
-SFX yM uire uirais/ uire # is:cond is:1sg is:2sg
-SFX yM uire uirait/ uire # is:cond is:3sg
-SFX yM uire uirions/ uire # is:cond is:1pl
-SFX yM uire uiriez/ uire # is:cond is:2pl
-SFX yM uire uiraient/ uire # is:cond is:3pl
+SFX yM uire uirais/ uire # is:cnd is:1sg is:2sg
+SFX yM uire uirait/ uire # is:cnd is:3sg
+SFX yM uire uirions/ uire # is:cnd is:1pl
+SFX yM uire uiriez/ uire # is:cnd is:2pl
+SFX yM uire uiraient/ uire # is:cnd is:3pl
 SFX yM uire uise/ uire # is:spre is:1sg is:3sg
 SFX yM uire uises/ uire # is:spre is:2sg
 SFX yM uire uisisse/ uire # is:simp is:1sg
@@ -6297,10 +6297,10 @@ SFX yN truire truira/ uire # is:ifut is:3sg
 SFX yN truire truirons/ uire # is:ifut is:1pl
 SFX yN truire truirez/ uire # is:ifut is:2pl
 SFX yN truire truiront/ uire # is:ifut is:3pl!
-SFX yN truire truirait/ uire # is:cond is:3sg
-SFX yN truire truirions/ uire # is:cond is:1pl
-SFX yN truire truiriez/ uire # is:cond is:2pl
-SFX yN truire truiraient/ uire # is:cond is:3pl
+SFX yN truire truirait/ uire # is:cnd is:3sg
+SFX yN truire truirions/ uire # is:cnd is:1pl
+SFX yN truire truiriez/ uire # is:cnd is:2pl
+SFX yN truire truiraient/ uire # is:cnd is:3pl
 SFX yN truire truise/ uire # is:spre is:3sg
 SFX yN truire truisît/ uire # is:simp is:3sg
 SFX yN truire truisissions/ uire # is:simp is:1pl
@@ -6341,11 +6341,11 @@ SFX yO détruire détruira/ détruire # is:ifut is:3sg
 SFX yO détruire détruirons/ détruire # is:ifut is:1pl
 SFX yO détruire détruirez/ détruire # is:ifut is:2pl
 SFX yO détruire détruiront/ détruire # is:ifut is:3pl!
-SFX yO détruire détruirais/ détruire # is:cond is:1sg is:2sg
-SFX yO détruire détruirait/ détruire # is:cond is:3sg
-SFX yO détruire détruirions/ détruire # is:cond is:1pl
-SFX yO détruire détruiriez/ détruire # is:cond is:2pl
-SFX yO détruire détruiraient/ détruire # is:cond is:3pl
+SFX yO détruire détruirais/ détruire # is:cnd is:1sg is:2sg
+SFX yO détruire détruirait/ détruire # is:cnd is:3sg
+SFX yO détruire détruirions/ détruire # is:cnd is:1pl
+SFX yO détruire détruiriez/ détruire # is:cnd is:2pl
+SFX yO détruire détruiraient/ détruire # is:cnd is:3pl
 SFX yO détruire détruise/ détruire # is:spre is:1sg is:3sg
 SFX yO détruire détruises/ détruire # is:spre is:2sg
 SFX yO détruire détruisisse/ détruire # is:simp is:1sg
@@ -6387,11 +6387,11 @@ SFX yU uire uira/ uire # is:ifut is:3sg
 SFX yU uire uirons/ uire # is:ifut is:1pl
 SFX yU uire uirez/ uire # is:ifut is:2pl
 SFX yU uire uiront/ uire # is:ifut is:3pl!
-SFX yU uire uirais/ uire # is:cond is:1sg is:2sg
-SFX yU uire uirait/ uire # is:cond is:3sg
-SFX yU uire uirions/ uire # is:cond is:1pl
-SFX yU uire uiriez/ uire # is:cond is:2pl
-SFX yU uire uiraient/ uire # is:cond is:3pl
+SFX yU uire uirais/ uire # is:cnd is:1sg is:2sg
+SFX yU uire uirait/ uire # is:cnd is:3sg
+SFX yU uire uirions/ uire # is:cnd is:1pl
+SFX yU uire uiriez/ uire # is:cnd is:2pl
+SFX yU uire uiraient/ uire # is:cnd is:3pl
 SFX yU uire uise/ uire # is:spre is:1sg is:3sg
 SFX yU uire uises/ uire # is:spre is:2sg
 SFX yU uire uisisse/ uire # is:simp is:1sg
@@ -6438,11 +6438,11 @@ SFX yV ire ira/ ire # is:ifut is:3sg
 SFX yV ire irons/ ire # is:ifut is:1pl
 SFX yV ire irez/ ire # is:ifut is:2pl
 SFX yV ire iront/ ire # is:ifut is:3pl!
-SFX yV ire irais/ ire # is:cond is:1sg is:2sg
-SFX yV ire irait/ ire # is:cond is:3sg
-SFX yV ire irions/ ire # is:cond is:1pl
-SFX yV ire iriez/ ire # is:cond is:2pl
-SFX yV ire iraient/ ire # is:cond is:3pl
+SFX yV ire irais/ ire # is:cnd is:1sg is:2sg
+SFX yV ire irait/ ire # is:cnd is:3sg
+SFX yV ire irions/ ire # is:cnd is:1pl
+SFX yV ire iriez/ ire # is:cnd is:2pl
+SFX yV ire iraient/ ire # is:cnd is:3pl
 SFX yV ire ise/ ire # is:spre is:1sg is:3sg
 SFX yV ire ises/ ire # is:spre is:2sg
 SFX yV ire isse/ ire # is:simp is:1sg
@@ -6486,11 +6486,11 @@ SFX yW ire ira/ rire # is:ifut is:3sg
 SFX yW ire irons/ rire # is:ifut is:1pl
 SFX yW ire irez/ rire # is:ifut is:2pl
 SFX yW ire iront/ rire # is:ifut is:3pl!
-SFX yW ire irais/ rire # is:cond is:1sg is:2sg
-SFX yW ire irait/ rire # is:cond is:3sg
-SFX yW ire irions/ rire # is:cond is:1pl
-SFX yW ire iriez/ rire # is:cond is:2pl
-SFX yW ire iraient/ rire # is:cond is:3pl
+SFX yW ire irais/ rire # is:cnd is:1sg is:2sg
+SFX yW ire irait/ rire # is:cnd is:3sg
+SFX yW ire irions/ rire # is:cnd is:1pl
+SFX yW ire iriez/ rire # is:cnd is:2pl
+SFX yW ire iraient/ rire # is:cnd is:3pl
 SFX yW ire ie/ rire # is:spre is:1sg is:3sg
 SFX yW ire ies/ rire # is:spre is:2sg
 SFX yW ire isse/ rire # is:simp is:1sg
@@ -6523,10 +6523,10 @@ SFX yX nuire nuira/ nuire # is:ifut is:3sg
 SFX yX nuire nuirons/ nuire # is:ifut is:1pl
 SFX yX nuire nuirez/ nuire # is:ifut is:2pl
 SFX yX nuire nuiront/ nuire # is:ifut is:3pl!
-SFX yX nuire nuirait/ nuire # is:cond is:3sg
-SFX yX nuire nuirions/ nuire # is:cond is:1pl
-SFX yX nuire nuiriez/ nuire # is:cond is:2pl
-SFX yX nuire nuiraient/ nuire # is:cond is:3pl
+SFX yX nuire nuirait/ nuire # is:cnd is:3sg
+SFX yX nuire nuirions/ nuire # is:cnd is:1pl
+SFX yX nuire nuiriez/ nuire # is:cnd is:2pl
+SFX yX nuire nuiraient/ nuire # is:cnd is:3pl
 SFX yX nuire nuise/ nuire # is:spre is:3sg
 SFX yX nuire nuisît/ nuire # is:simp is:3sg
 SFX yX nuire nuisissions/ nuire # is:simp is:1pl
@@ -6559,8 +6559,8 @@ SFX yZ rire rit/ rire # is:ipre is:3sg
 SFX yZ rire rirai/ rire # is:ifut is:1sg
 SFX yZ rire riras/ rire # is:ifut is:2sg
 SFX yZ rire rira/ rire # is:ifut is:3sg
-SFX yZ rire rirais/ rire # is:cond is:1sg is:2sg
-SFX yZ rire rirait/ rire # is:cond is:3sg
+SFX yZ rire rirais/ rire # is:cnd is:1sg is:2sg
+SFX yZ rire rirait/ rire # is:cnd is:3sg
 SFX yZ rire ris/ rire # is:impe is:2sg
 SFX yZ rire rit-e/ rire # is:ppas po:adj is:incl is:sg
 SFX yZ rire rit-es/ rire # is:ppas po:adj is:incl is:pl
