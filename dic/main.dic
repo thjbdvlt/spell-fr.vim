@@ -1,4 +1,5 @@
 -/&- #
+pianola/ # po:noun
 _/ #
 ½/ # po:num
 A4/
@@ -96,8 +97,8 @@ abêtifié·e/,,Ee&& # po:adj
 abêtifier/ # po:verb
 abêtir/f0p+ # po:verb
 abêtissant·e/,,Ee&& # po:adj
-quelqu'un·e/,,Ee&& # po:pron
-quelques-un·e/,,Ee&& # po:pron
+quelqu'un·e/,,Ee&& # po:pron is:3sg
+quelques-un·e/,,Ee&& # po:pron is:3pl
 abêtissement/Es&& # po:noun is:mas
 abhorrer/a0p+ # po:verb
 abicher/ # po:verb
@@ -2609,7 +2610,7 @@ amorceur·euse/,,rs&& # po:noun
 amorçoir/Es&& # po:noun is:mas
 amordancer/a0p+ # po:verb
 amoroso/ # po:adv
-amorphe/Es&& # po:noun is:epi
+amorphe/Es&& # po:noun is:epi po:adj
 amorphisme/Es&& # po:noun is:mas
 amorti/Es&& # po:noun is:mas
 amortir/f0p+ # po:verb
@@ -11670,9 +11671,7 @@ chachacha/Es&& # po:noun is:mas
 chachlik/Es&& # po:noun is:mas
 chacone/Es&& # po:noun is:fem
 chaconne/Es&& # po:noun is:fem
-chacun·e/,,Ee # po:pron is:sg
-chacune/ # po:pron is:sg is:fem
-chacun/ # po:pron is:sg is:mas
+chacun·e/,,Ee # po:pron is:3sg 
 chadburn/Es&& # po:noun is:mas
 chadouf/Es&& # po:noun is:mas
 chaféisme/Es&& # po:noun is:mas
@@ -12264,7 +12263,8 @@ chevaleresse/Es&& # po:noun is:fem
 chevalerie/Es&& # po:noun is:fem
 chevalet/Es&& # po:noun is:mas
 chevalier·ère/,,rr&& # po:noun po:adj
-chevalin·e/,,Ee&& # po:adj
+chevalin·e/,,Ee&& # po:adj po
+chevaline/,,Ee&& # po:adj po:noun
 chevalité/Es # po:noun
 cheval/lx&& # po:noun is:mas
 chevance/Es&& # po:noun is:fem
@@ -24077,7 +24077,7 @@ enfance/Es&& # po:noun is:fem
 enfançon·ne/,,ll&& # po:noun
 enfantement/Es&& # po:noun is:mas
 enfanter/a0p+ # po:verb
-enfant/Es&& # po:noun is:epi
+enfant/Es&& # po:noun is:epi po:adj
 enfantillage/Es&& # po:noun is:mas
 enfantin·e/,,Ee&& # po:adj
 enfantinement/ # po:adv
@@ -28300,7 +28300,7 @@ foisonnant·e/,,Ee&& # po:adj
 foisonnement/Es&& # po:noun is:mas
 foisonner/a0p. # po:verb
 foison/&& # po:noun is:sg is:fem
-fois/&& # po:noun is:inv is:fem
+fois/&& # po:noun is:inv is:fem is:sg is:pl
 folache/Es&& # po:noun is:fem
 folasse/Es&& # po:noun is:fem
 folate/Es&& # po:noun is:mas
@@ -35223,7 +35223,7 @@ indifférentiste/Es&& # po:noun po:adj is:epi
 indifférer/v0p+ # po:verb
 indigénat/Es&& # po:noun is:mas
 indigence/Es&& # po:noun is:fem
-indigène/Es&& # po:noun is:epi
+indigène/Es&& # po:noun is:epi po:adj
 indigénisme/Es&& # po:noun is:mas
 indigéniste/Es&& # po:noun po:adj is:epi
 indigent·e/,,Ee&& # po:noun po:adj
@@ -43921,7 +43921,10 @@ moudjahidin/&& # po:noun is:pl is:mas
 moudjahid/&& # po:noun is:sg is:mas
 moudre/xP # po:verb
 moue/Es&& # po:noun is:fem
-mou/Es&& # po:noun is:mas
+mou/Es&& # po:noun is:mas po:adj st:mou·olle
+mous/Es&& # po:noun is:mas po:adj st:mou·olle
+molle/Es&& # po:noun is:mas po:adj st:mou·olle
+molles/Es&& # po:noun is:mas po:adj st:mou·olle
 mouette/Es&& # po:noun is:fem
 mouetter/a0p. # po:verb
 moufeter/ # po:verb
@@ -45769,7 +45772,7 @@ nourrisson/Es&& # po:noun is:mas
 nourriture/Es&& # po:noun is:fem
 nous-même/Es # po:pron is:1pl is:epi
 nous-même/ # po:pron is:1pl is:epi
-nous/PP # po:pron is:3pl is:epi
+nous/PP # po:pron is:1pl is:epi
 nouure/Es&& # po:noun is:fem
 nouveau·elle/,,la&& # po:noun po:adj
 nouveauté/Es&& # po:noun is:fem
@@ -49756,7 +49759,7 @@ personne/Es&& # po:noun is:fem
 personnel/Es&& # po:noun is:mas
 personnel·le/,,ll&& # po:adj
 personnellement/ # po:adv
-personne/ # po:pron is:sg is:mas
+personne/ # po:pron is:3sg
 personnification/Es&& # po:noun is:fem
 personnifier/a0p+ # po:verb
 perso/&& # po:adj is:inv is:epi
@@ -60544,7 +60547,7 @@ sensoriellement/ # po:adv
 sensorimétrie/Es&& # po:noun is:fem
 sensorimétrique/Es&& # po:adj is:epi
 sensorimoteur·rice/,,ri&& # po:adj
-sens/&& # po:noun is:mas is:inv
+sens/&& # po:noun is:mas is:inv is:pl is:sg
 sensualisme/Es&& # po:noun is:mas
 sensualiste/Es&& # po:noun po:adj is:epi
 sensualité/Es&& # po:noun is:fem
@@ -62127,7 +62130,7 @@ spectacle/Es&& # po:noun is:mas
 spectaculaire/Es&& # po:adj is:epi
 spectaculairement/ # po:adv
 spectacularisation/Es&& # po:noun is:fem
-spectateur·rice/,,ri&& # po:noun
+spectateur·rice/,,ri&& # po:noun po:adj
 spectométrie/Es&& # po:noun is:fem
 spectral·e/,,al&& # po:adj
 spectralement/ # po:adv
@@ -64136,7 +64139,7 @@ synodal·e/,,al&& # po:adj
 synode/Es&& # po:noun is:mas
 synodique/Es&& # po:adj is:epi
 synœcisme/Es&& # po:noun is:mas st:synoecisme
-synonyme/Es&& # po:noun is:mas
+synonyme/Es&& # po:noun is:mas po:adj
 synonymie/Es&& # po:noun is:fem
 synonymique/Es&& # po:adj is:epi
 synopse/Es&& # po:noun is:fem

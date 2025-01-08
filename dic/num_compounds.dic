@@ -69,6 +69,21 @@ trois/EsNNCN # po:num
 vingt/EsNNCN # po:num
 zéro/EsNNCN # po:num
 
+1/00 # po:num
+2/00 # po:num
+3/00 # po:num
+4/00 # po:num
+5/00 # po:num
+6/00 # po:num
+7/00 # po:num
+8/00 # po:num
+9/00 # po:num
+0/00 # po:num
+e/Es0E # po:numord
+ème/Es0E # po:numord
+er/Es0E # po:numord
+ère/Es0E # po:numord
+
 et/EsNNCN # po:numconj
 million/EsNNCN # po:numconj
 un/EsNNCN # po:numconj
