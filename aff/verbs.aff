@@ -1652,8 +1652,10 @@ SFX p+ ir i·e·s/ ir # is:ppas po:adj is:incl is:pl
 SFX p+ er é-e-s/ er # is:ppas po:adj is:incl is:pl
 SFX p+ ir i-e-s/ ir # is:ppas po:adj is:incl is:pl
 
-SFX p. Y 2
-SFX p. er é/ er # is:ppas is:1jsg is:epi is:inv
+SFX p. Y 4
+SFX p. er é/Es er # is:ppas is:1jsg is:epi is:inv
+SFX p. er ée/Es er # is:ppas is:1jsg is:epi is:inv
+SFX p. er é·e/Es er # is:ppas is:1jsg is:epi is:inv
 SFX p. ir i/ ir # is:ppas is:epi is:inv
 
 SFX i0 Y 39

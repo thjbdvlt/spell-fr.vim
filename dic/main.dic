@@ -18692,7 +18692,7 @@ délarder/a0p+ # po:verb
 délassant·e/,,Ee&& # po:adj
 délassement/Es&& # po:noun is:mas
 délasser/a0p+ # po:verb
-délateur·rice/,,ri&& # po:noun
+délateur·rice/,,ri&& # po:noun po:adj
 délation/Es&& # po:noun is:fem
 délatter/a0p+ # po:verb
 délavage/Es&& # po:noun is:mas
@@ -24386,7 +24386,7 @@ ensauvagement/Es&& # po:noun is:mas
 ensauvager/a0p+ # po:verb
 ensauver/a0p+ # po:verb
 enseignable/Es&& # po:adj is:epi
-enseignant·e/Ee,, # po:adj
+enseignant·e/Ee,, # po:adj po:noun
 enseigne/Es&& # po:noun is:epi
 enseignement/Es&& # po:noun is:mas
 enseigner/a0p+ # po:verb
@@ -28776,6 +28776,8 @@ fraiser/a0p+ # po:verb
 fraiseraie/Es&& # po:noun is:fem
 fraiseur·euse/,,rs&& # po:noun
 frais/Fx&& # po:adj
+fraiche/Es&& # po:adj
+fraîche/Es&& # po:adj
 fraisiculteur·rice/,,ri&& # po:noun
 fraisière/Es&& # po:noun is:fem
 fraisier/Es&& # po:noun is:mas
@@ -31221,6 +31223,7 @@ gréciser/a0p+ # po:verb
 grécité/Es&& # po:noun is:fem
 grecquage/Es&& # po:noun is:mas
 grec·que/,,qc&& # po:noun po:adj
+grecque/,,qc&& # po:noun po:adj
 grecquer/a0p+ # po:verb
 gredin·e/,,Ee&& # po:noun
 gredinerie/Es&& # po:noun is:fem
@@ -37267,7 +37270,8 @@ jalonneur/Es&& # po:noun is:mas
 jalousement/ # po:adv
 jalouser/a0p+ # po:verb
 jalousie/Es&& # po:noun is:fem
-jaloux·euse/,,xz&& # po:noun po:adj
+jaloux/,,xz&& # po:noun po:adj
+jalouse/,,xz&& # po:noun po:adj
 jamaïcain·e/,,Ee&& # po:noun po:adj
 jamaïquain·e/,,Ee&& # po:noun po:adj
 jamais/ # po:adv
@@ -46834,8 +46838,7 @@ oralité/Es&& # po:noun is:fem
 oral/lx&& # po:noun is:mas
 oranais·e/,,Ee&& # po:noun po:adj
 orangeade/Es&& # po:noun is:fem
-orange/Es&& # po:noun is:epi
-orange/&& # po:adj is:inv is:epi
+orange/Es&& # po:noun is:epi po:adj
 oranger/a0p+ # po:verb
 orangeraie/Es&& # po:noun is:fem
 oranger/Es&& # po:noun is:mas
@@ -58544,7 +58547,7 @@ romancier·ère/,,rr&& # po:noun po:adj
 romand·e/,,Ee&& # po:adj
 roman·e/,,Ee&& # po:adj
 roman/Es&& # po:noun is:mas
-romanesque/Es&& # po:noun is:epi
+romanesque/Es&& # po:noun is:epi po:adj
 romanesquement/ # po:adv
 romanichel·le/,,ll&& # po:noun
 romani/Es&& # po:noun is:mas
@@ -60845,7 +60848,7 @@ sexagésime/Es&& # po:noun is:fem
 sexappeal/Es&& # po:noun is:mas
 sexe/Es&& # po:noun is:mas
 sexisme/Es&& # po:noun is:mas
-sexiste/Es&& # po:noun is:epi
+sexiste/Es&& # po:adj is:epi
 sexologie/Es&& # po:noun is:fem
 sexologique/Es&& # po:adj is:epi
 sexologue/Es&& # po:noun is:epi
@@ -70580,3 +70583,4 @@ zythologie/Es&& # po:noun is:fem
 zython/Es&& # po:noun is:mas
 zythum/Es&& # po:noun is:mas
 zzzz/ # po:intj
+marre/Es # po:noun

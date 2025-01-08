@@ -19,7 +19,7 @@ is:mas	Gender=Masc
 is:infi	VerbForm=Inf
 is:ifut	Tense=Fut|Mood=Ind
 is:iimp	Tense=Imp|Mood=Ind
-is:cond	Tense=Pres|Mood=Cnd
+is:cnd	Tense=Pres|Mood=Cnd
 is:impe	Tense=Pres|Mood=Imp
 is:ipre	Tense=Pres|Mood=Ind
 is:ipsi	Tense=Past|Mood=Ind
