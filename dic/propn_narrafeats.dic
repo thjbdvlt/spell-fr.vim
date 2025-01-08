@@ -172,7 +172,6 @@ antilles/ # po:propn
 apache/ # po:propn
 aphrodite/ # po:propn
 a./ # po:propn
-a/ # po:propn
 arcachon/ # po:propn
 ariège/ # po:propn
 aristophane/ # po:propn
@@ -231,7 +230,6 @@ bourges/ # po:propn
 bourgogne/ # po:propn
 boyan/ # po:propn
 b./ # po:propn
-b/ # po:propn
 bradley/ # po:propn
 brad/ # po:propn
 brahms/ # po:propn
@@ -313,7 +311,6 @@ cori/ # po:propn
 cousin/ # po:propn
 covid-19/ # po:propn
 c./ # po:propn
-c/ # po:propn
 craig/ # po:propn
 crimée/ # po:propn
 curly/ # po:propn
@@ -472,7 +469,6 @@ gonzales/ # po:propn
 gourmont/ # po:propn
 gowtham/ # po:propn
 g./ # po:propn
-g/ # po:propn
 grace/ # po:propn
 graebner/ # po:propn
 granchester/ # po:propn
@@ -1154,7 +1150,6 @@ vishnu/ # po:propn
 vivien/ # po:propn
 von/ # po:propn
 v./ # po:propn
-v/ # po:propn
 wagner/ # po:propn
 walther/ # po:propn
 warrick/ # po:propn
@@ -1181,7 +1176,6 @@ w./ # po:propn
 xavier/ # po:propn
 xenia/ # po:propn
 x./ # po:propn
-x/ # po:propn
 yang/ # po:propn
 y'en/ # po:propn
 yerkes/ # po:propn
@@ -1197,4 +1191,3 @@ zed/ # po:propn
 zoe/ # po:propn
 zola/ # po:propn
 z./ # po:propn
-z/ # po:propn
