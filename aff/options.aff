@@ -19,7 +19,7 @@ ICONV . ·
 # pas supporté par vim/neov
 # util pour les citations alterées: "iels arriv[aient]"
 # ou pour les cas comme "le(s) pluriel(s)"
-WORDCHARS []().·-
+WORDCHARS []().·-0123456789
 IGNORE []()
 
 # pour l'écriture inclusive

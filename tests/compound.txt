@@ -13,3 +13,6 @@ vingt-et-uns
 cent-vingt-et-uns
 avant-dernier
 avant-avant-dernier
+1234e
+14211ème
+1ère

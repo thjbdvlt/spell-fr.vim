@@ -1,74 +1,3 @@
-antépénultième/EsNNCN # po:numord
-centième/EsNNCN # po:numord
-cinquantième/EsNNCN # po:numord
-cinquième/EsNNCN # po:numord
-combientième/EsNNCN # po:numord
-dernier/EsNNCN # po:numord
-deuxième/EsNNCN # po:numord
-dixième/EsNNCN # po:numord
-douzième/EsNNCN # po:numord
-énième/EsNNCN # po:numord
-huitantième/EsNNCN # po:numord
-huitième/EsNNCN # po:numord
-ixième/EsNNCN # po:numord
-milliardième/EsNNCN # po:numord
-millième/EsNNCN # po:numord
-millionième/EsNNCN # po:numord
-neuvième/EsNNCN # po:numord
-nonantième/EsNNCN # po:numord
-octantième/EsNNCN # po:numord
-onzième/EsNNCN # po:numord
-pénultième/EsNNCN # po:numord
-premier/EsNNCN # po:numord
-première/EsNNCN # po:numord
-quarantième/EsNNCN # po:numord
-quatorzième/EsNNCN # po:numord
-quatrième/EsNNCN # po:numord
-quinzième/EsNNCN # po:numord
-second/EsNNCN # po:numord
-seconde/EsNNCN # po:numord
-seizième/EsNNCN # po:numord
-septantième/EsNNCN # po:numord
-septième/EsNNCN # po:numord
-sixième/EsNNCN # po:numord
-soixantième/EsNNCN # po:numord
-treizième/EsNNCN # po:numord
-trentième/EsNNCN # po:numord
-troisième/EsNNCN # po:numord
-unième/EsNNCN # po:numord
-vingtième/EsNNCN # po:numord
-zéroième/EsNNCN # po:numord
-
-cent/EsNNCN # po:num
-cinq/EsNNCN # po:num
-cinquante/EsNNCN # po:num
-deux/EsNNCN # po:num
-dix/EsNNCN # po:num
-douze/EsNNCN # po:num
-huit/EsNNCN # po:num
-huitante/EsNNCN # po:num
-mil/EsNNCN # po:num
-mille/EsNNCN # po:num
-million/EsNNCN # po:num
-neuf/EsNNCN # po:num
-nonante/EsNNCN # po:num
-octante/EsNNCN # po:num
-onze/EsNNCN # po:num
-quarante/EsNNCN # po:num
-quatorze/EsNNCN # po:num
-quatre/EsNNCN # po:num
-quinze/EsNNCN # po:num
-seize/EsNNCN # po:num
-sept/EsNNCN # po:num
-septante/EsNNCN # po:num
-six/EsNNCN # po:num
-soixante/EsNNCN # po:num
-treize/EsNNCN # po:num
-trente/EsNNCN # po:num
-trois/EsNNCN # po:num
-vingt/EsNNCN # po:num
-zéro/EsNNCN # po:num
-
 1/00 # po:num
 2/00 # po:num
 3/00 # po:num
@@ -79,13 +8,12 @@ zéro/EsNNCN # po:num
 8/00 # po:num
 9/00 # po:num
 0/00 # po:num
-e/Es0E # po:numord
-ème/Es0E # po:numord
-er/Es0E # po:numord
-ère/Es0E # po:numord
-
-et/EsNNCN # po:numconj
-million/EsNNCN # po:numconj
-un/EsNNCN # po:numconj
-une/EsNNCN # po:numconj
-avant/EsNNCN # po:numconj
+e/Es0E # po:ord
+ème/Es0E # po:ord
+er/Es0E # po:ord
+ère/Es0E # po:ord
+et/EsNNCN
+million/EsNNCN
+un/EsNNCN
+une/EsNNCN
+avant/EsNNCN
