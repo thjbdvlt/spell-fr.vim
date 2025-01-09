@@ -48,7 +48,7 @@ SFX re ·rice ·e/EsIs eur·rice # is:incl
 # accordeu -r -se -eureuse -exes
 SFX rs Y 7
 SFX rs 0 /EsIs . # is:incl
-SFX rs eur·euse eureuse/Es . # is:incl is:nodot
+SFX rs eur·euse eureuse/Es . # is:incl
 SFX rs eur·euse eureusex/Es . # is:incl is:nonb
 SFX rs eur·euse euse/Es . # is:fem
 SFX rs ·euse /Es . # is:mas
@@ -95,8 +95,8 @@ SFX la 0 /EsIs . # is:incl
 SFX la ·elle / . # is:mas
 SFX la ·elle x . # is:mas is:pl
 SFX la eau·elle elle/Es . # is:fem
-SFX la eau·elle elleau . # is:incl is:nodot
-SFX la eau·elle elleaux . # is:incl is:nodot
+SFX la eau·elle elleau . # is:incl
+SFX la eau·elle elleaux . # is:incl
 SFX la ·elle -elle/EsIs . # is:incl
 
 # po -étesse, -ète

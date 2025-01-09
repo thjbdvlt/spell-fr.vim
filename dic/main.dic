@@ -69107,7 +69107,7 @@ versionner/a0p+ # po:verb
 verso/Es&& # po:noun is:mas
 versoir/Es&& # po:noun is:mas
 vers/ # po:adp
-vers/&& # po:noun is:mas is:inv
+vers/&& # po:noun is:mas is:inv is:sg
 verste/Es&& # po:noun is:fem
 versus/ # po:adp
 vertébral·e/,,al&& # po:adj
