@@ -8,7 +8,7 @@ bugger/p+a0 # po:verb
 classe/Es # po:adj
 connaisseur·euse/,,rsEs&& # po:adj
 copyrighté/,,Ee&& # po:adj
-copyrighter/a0p+&& # po:verb
+copyrighter/a0p+ # po:verb
 coquinou/ # po:noun
 court-circuiter/a0p+ # po:verb
 cradinguerie/Es # po:noun
@@ -33,6 +33,7 @@ googler/a0p+ # po:verb
 googliser/a0p+ # po:verb
 gouvernementaliser/a0p+ # po:verb
 hello/ # po:intj
+infléchiser/a0p+ # po:verb
 intendant·e/,,Ee&& # po:noun
 lourdinguerie/Es # po:noun
 machiniser/a0p+ # po:verb
@@ -47,6 +48,7 @@ optionner/a0p. # po:verb
 ouai/ # po:adv
 ouais/ # po:adv
 photoshoper/a0p+ # po:verb
+piétonner/a0p+ # po:verb
 possible/ # po:noun
 remord/ES # po:noun
 rendez/Es # po:noun st:rendez-vous

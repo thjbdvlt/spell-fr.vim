@@ -1,24 +1,23 @@
-quelques-un·e/Ee # po:pron
-nan/ # po:adv
-ayiez/ # st:avoir po:verb po:aux is:impe is:2pl
-ayiez/ # st:avoir po:verb po:aux is:spre is:2pl
-ayions/ # st:avoir po:verb po:aux is:spre is:1pl
-ayions/ # st:avoir po:verb po:aux is:spre is:1pl
+quelques-un·e/Ee # po:pron ph:quelques-un·es
+nan/ # po:adv ph:non
+ayiez/ # st:avoir po:verb po:aux is:impe is:2pl ph:ayez
+ayiez/ # st:avoir po:verb po:aux is:spre is:2pl ph:ayez
+ayions/ # st:avoir po:verb po:aux is:spre is:1pl ph:ayons
+ayions/ # st:avoir po:verb po:aux is:spre is:1pl ph:ayons
 bugguer/p+a0 # po:verb
 buguer/p+a0 # po:verb
 buger/p+a0 # po:verb
-commancer/p+a0 # po:verb
-commender/p+a0 # po:verb
-concidérer/p+v0 # po:verb
-concluerai/ # po:verb
-concluerai/ # po:verb
-culturer/a0p+ # po:verb
-cridibiliser/a0p+ # po:verb
-fleurter/a0p+ # po:verb
-infléchiser/a0p+ # po:verb
-particper/a0p. # po:verb
-partciper/a0p. # po:verb
-piétonner/a0p+ # po:verb
-soupoudrer/a0p+ # po:verb
-strcturer/a0p+ # po:verb
-stucturer/a0p+ # po:verb
+commancer/p+a0 # po:verb ph:commencer
+commender/p+a0 # po:verb ph:commander
+concidérer/p+v0 # po:verb ph:considérer
+concluerai/ # po:verb ph:conclurai
+concluerais/ # po:verb ph:conclurais
+concluerait/ # po:verb ph:conclurait
+culturer/a0p+ # po:verb ph:cultiver
+cridibiliser/a0p+ # po:verb ph:crédibiliser
+fleurter/a0p+ # po:verb ph:flirter
+particper/a0p. # po:verb ph:participer
+partciper/a0p. # po:verb ph:participer
+soupoudrer/a0p+ # po:verb ph:saupoudrer
+strcturer/a0p+ # po:verb ph:structure
+stucturer/a0p+ # po:verb ph:structurer
