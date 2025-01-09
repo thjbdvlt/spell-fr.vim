@@ -1386,7 +1386,6 @@ ca/ # po:propn
 capotier/ # po:propn
 cappadoce/ # po:propn
 cap/ # po:propn
-cap/ # po:propn
 capucine/ # po:propn
 cap-vert/ # po:propn
 caracas/ # po:propn
@@ -4048,7 +4047,6 @@ joncherey/ # po:propn
 jones/ # po:propn
 jon/ # po:propn
 jo/ # po:propn
-jo/ # po:propn
 jordanie/ # po:propn
 jordan/ # po:propn
 jorgen/ # po:propn
@@ -5700,7 +5698,6 @@ n'djamena/ # po:propn
 ndlr/ # po:propn
 ndola/ # po:propn
 ndt/ # po:propn
-ndt/ # po:propn
 neandertal/ # po:propn
 néandertal/ # po:propn
 nebraska/ # po:propn
@@ -5725,6 +5722,7 @@ némésis/ # po:propn
 nemours/ # po:propn
 neo/ # po:propn
 néo-versailles/ # po:propn
+neovim/ # po:propn
 népal/ # po:propn
 nephtys/ # po:propn
 neptune/ # po:propn
@@ -5886,6 +5884,7 @@ nuremberg/ # po:propn
 nusselt/ # po:propn
 nuuk/ # po:propn
 nvidia/ # po:propn
+nvim/ # po:propn
 nyarlathotep/ # po:propn
 nyons/ # po:propn
 nyquist/ # po:propn
@@ -6270,6 +6269,7 @@ phocean/ # po:propn
 phoebe/ # po:propn
 phœbé/ # po:propn
 phoenix/ # po:propn
+photoshop/ # po:propn
 php/ # po:propn
 phragmen/ # po:propn
 phrygie/ # po:propn
@@ -7357,7 +7357,6 @@ sikasso/ # po:propn
 silas/ # po:propn
 silésie/ # po:propn
 sill/ # po:propn
-sill/ # po:propn
 silvère/ # po:propn
 silvestre/ # po:propn
 silvia/ # po:propn
@@ -7998,7 +7997,6 @@ ukraine/ # po:propn
 ulam/ # po:propn
 ulis/ # po:propn
 ulm/ # po:propn
-ulm/ # po:propn
 ulrich/ # po:propn
 ulster/ # po:propn
 ulysse/ # po:propn
@@ -8431,6 +8429,7 @@ wolverhampton/ # po:propn
 wommelgem/ # po:propn
 woody/ # po:propn
 woolf/ # po:propn
+word/ # po:propn
 writer/ # po:propn
 wroclaw/ # po:propn
 wuhan/ # po:propn
