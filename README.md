@@ -20,7 +20,7 @@ différences avec le dictionnaire orthographique français par défaut de Vim
 - Par conséquent, les apostrophes et traits d'unions ne sont pas considérés dans cette version comme des `WORDCHARS` mais comme des _word boundaries_.
 - Écriture inclusive: auteur·rice, auteurice, auteuricex, ... (Le _stemma_ des mots féminins ou masculins est la forme inclusive.)
 - Les mots contenant des ligatures `œ` et `æ` sont doublées de leurs versions non-ligaturées (ex. "oeuvre").
-- Aucun nom propre.
+- Aucun nom propre par défaut.
 
 formats d'écriture inclusive
 -----

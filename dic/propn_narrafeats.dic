@@ -171,7 +171,6 @@ angleterre/ # po:propn
 antilles/ # po:propn
 apache/ # po:propn
 aphrodite/ # po:propn
-a./ # po:propn
 arcachon/ # po:propn
 ariège/ # po:propn
 aristophane/ # po:propn
@@ -229,7 +228,6 @@ bouddha/ # po:propn
 bourges/ # po:propn
 bourgogne/ # po:propn
 boyan/ # po:propn
-b./ # po:propn
 bradley/ # po:propn
 brad/ # po:propn
 brahms/ # po:propn
@@ -310,7 +308,6 @@ connor/ # po:propn
 cori/ # po:propn
 cousin/ # po:propn
 covid-19/ # po:propn
-c./ # po:propn
 craig/ # po:propn
 crimée/ # po:propn
 curly/ # po:propn
@@ -361,7 +358,6 @@ dorziat/ # po:propn
 dostoïewsky/ # po:propn
 doug/ # po:propn
 doumic/ # po:propn
-d./ # po:propn
 drew/ # po:propn
 dtc/ # po:propn
 dubreuilh/ # po:propn
@@ -396,8 +392,6 @@ enguerrand/ # po:propn
 eoin/ # po:propn
 éoles/ # po:propn
 épinal/ # po:propn
-e./ # po:propn
-é./ # po:propn
 équateur/ # po:propn
 erasme/ # po:propn
 eschenburg/ # po:propn
@@ -426,7 +420,6 @@ fondu/ # po:propn
 ford/ # po:propn
 fort-de-france/ # po:propn
 fouquet/ # po:propn
-f./ # po:propn
 framabook/ # po:propn
 framabooks/ # po:propn
 framasoft.net/ # po:propn
@@ -468,7 +461,6 @@ gontcharof/ # po:propn
 gonzales/ # po:propn
 gourmont/ # po:propn
 gowtham/ # po:propn
-g./ # po:propn
 grace/ # po:propn
 graebner/ # po:propn
 granchester/ # po:propn
@@ -515,7 +507,6 @@ hopi/ # po:propn
 hornbostel/ # po:propn
 howard/ # po:propn
 howitt/ # po:propn
-h./ # po:propn
 hubert/ # po:propn
 hugh/ # po:propn
 hugo/ # po:propn
@@ -536,7 +527,6 @@ inception/ # po:propn
 inde/ # po:propn
 indien/ # po:propn
 inter/ # po:propn
-i./ # po:propn
 irl/ # po:propn
 isaac/ # po:propn
 isabel/ # po:propn
@@ -584,7 +574,6 @@ joshi/ # po:propn
 josh/ # po:propn
 joshua/ # po:propn
 jouffroy/ # po:propn
-j./ # po:propn
 json/ # po:propn
 juan/ # po:propn
 judy/ # po:propn
@@ -620,7 +609,6 @@ klondyke/ # po:propn
 knight/ # po:propn
 köhler/ # po:propn
 kolme/ # po:propn
-k./ # po:propn
 kralik/ # po:propn
 krauss/ # po:propn
 kris/ # po:propn
@@ -671,7 +659,6 @@ lottie/ # po:propn
 louise/ # po:propn
 louvre/ # po:propn
 louÿs/ # po:propn
-l./ # po:propn
 lucy/ # po:propn
 lukasz/ # po:propn
 luke/ # po:propn
@@ -774,7 +761,6 @@ moulins/ # po:propn
 mountain/ # po:propn
 mouquet/ # po:propn
 mozley/ # po:propn
-m./ # po:propn
 mukund/ # po:propn
 muldowney/ # po:propn
 muller/ # po:propn
@@ -821,7 +807,6 @@ norina/ # po:propn
 nouche/ # po:propn
 nouvelle-zélande/ # po:propn
 noyon/ # po:propn
-n./ # po:propn
 nuremberg/ # po:propn
 oakland/ # po:propn
 occident/ # po:propn
@@ -833,7 +818,6 @@ oliver/ # po:propn
 olivia/ # po:propn
 olly/ # po:propn
 onéguine/ # po:propn
-o./ # po:propn
 orléans/ # po:propn
 osef/ # po:propn
 osi/ # po:propn
@@ -893,7 +877,6 @@ poucet/ # po:propn
 pouchkine/ # po:propn
 pouget/ # po:propn
 pouhiou/ # po:propn
-p./ # po:propn
 prasad/ # po:propn
 pratchett/ # po:propn
 pratheesh/ # po:propn
@@ -908,7 +891,6 @@ puget/ # po:propn
 puvis/ # po:propn
 pyrénées/ # po:propn
 python/ # po:propn
-q./ # po:propn
 queensland/ # po:propn
 quinn/ # po:propn
 rajeshree/ # po:propn
@@ -973,7 +955,6 @@ roth/ # po:propn
 rougé/ # po:propn
 rowena/ # po:propn
 roy/ # po:propn
-r./ # po:propn
 ruge/ # po:propn
 russell/ # po:propn
 russe/ # po:propn
@@ -1058,7 +1039,6 @@ spaletti/ # po:propn
 spencer/ # po:propn
 spitzberg/ # po:propn
 spitz/ # po:propn
-s./ # po:propn
 stafford/ # po:propn
 states/ # po:propn
 stefan/ # po:propn
@@ -1112,7 +1092,6 @@ toots/ # po:propn
 torvald/ # po:propn
 toulouse/ # po:propn
 tourguenef/ # po:propn
-t./ # po:propn
 travis/ # po:propn
 trevor/ # po:propn
 tristan/ # po:propn
@@ -1125,7 +1104,6 @@ uday/ # po:propn
 umesh/ # po:propn
 unix/ # po:propn
 untel/ # po:propn
-u./ # po:propn
 valentina/ # po:propn
 vasco/ # po:propn
 vemmenhög/ # po:propn
@@ -1149,7 +1127,6 @@ vishal/ # po:propn
 vishnu/ # po:propn
 vivien/ # po:propn
 von/ # po:propn
-v./ # po:propn
 wagner/ # po:propn
 walther/ # po:propn
 warrick/ # po:propn
@@ -1172,10 +1149,8 @@ wim/ # po:propn
 winckelmann/ # po:propn
 wittgenstein/ # po:propn
 worcester/ # po:propn
-w./ # po:propn
 xavier/ # po:propn
 xenia/ # po:propn
-x./ # po:propn
 yang/ # po:propn
 y'en/ # po:propn
 yerkes/ # po:propn
@@ -1190,4 +1165,3 @@ zaheer/ # po:propn
 zed/ # po:propn
 zoe/ # po:propn
 zola/ # po:propn
-z./ # po:propn
