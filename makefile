@@ -9,11 +9,9 @@ CAT = sed -e '$$s/$$/\n/' -s
 
 .PHONY: ud vim all install clean test
 
-all:
-	make fr_ud.aff fr_ud.dic fr.utf-8.spl
+all: ud vim
 
-ud:
-	make fr_ud.aff fr_ud.dic
+ud: fr_ud.aff fr_ud.dic
 
 vim: fr.utf-8.spl
 
@@ -21,24 +19,25 @@ install: fr.utf-8.spl
 	cp fr.utf-8.spl $(VIMDIR)/fr.utf-8.spl
 
 
-# UD version
+# version for morphological analysis
 #
-# inspired by Universal Dependancies POS tags
+# it uses Universal Dependancies POS tags as values for `po:` feature
 # https://universaldependencies.org/u/pos/index.html
 fr_ud.aff: $(AFF) $(COMP)
 	$(CAT) $(AFF) $(COMP) | sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' > $@
+
 fr_ud.dic: $(DIC) $(DIC_SUPP)
 	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $(DIC) $(DIC_SUPP) \
 		| grep -v '^ *$$' | sort | uniq > $@
-	sed -i "1s/^/$$(wc -l fr_ud.dic | cut -d ' ' -f 1)\n/" $@
+	sed -i "1s/^/$$(wc -l $@ | cut -d ' ' -f 1)\n/" $@
 
 
-# VIM
+# VIM version, no morphological features (not supported by vim spell engine)
 fr.dic: $(DIC)
 	$(CAT) $(DIC) vim/*.dic | sort | uniq \
 		| sed -E 's|\s*#.*||' \
 		| grep -v '^\s*$$' > $@
-	sed -i "1s/^/$$(wc -l fr.dic | cut -d ' ' -f 1)\n/" $@
+	sed -i "1s/^/$$(wc -l $@ | cut -d ' ' -f 1)\n/" $@
 
 fr.aff: $(AFF)
 	$(CAT) $(AFF) | sed -E 's|\s*#.*||' \
