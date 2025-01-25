@@ -128,7 +128,7 @@ SFX xl 0 /EsIs . # is:incl
 SFX xl ·eille / . # is:mas
 SFX xl ·eille -eille/EsIs . # is:incl
 SFX xl eux·eille eille/Es . # is:incl
-SFX xl eux·eille eil/s . # is:fem
+SFX xl eux·eille eil/Es . # is:fem
 
 # br -ève -ef
 SFX ev Y 4

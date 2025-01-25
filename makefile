@@ -1,4 +1,6 @@
 VIMDIR = ~/.config/nvim/spell
+
+# 
 AFF = aff/options.aff aff/non-verbs.aff aff/rep.aff aff/verbs.aff
 DIC = dic/main.dic dic/prefixes.dic dic/compounds.dic dic/num_compounds.dic dic/hunspell_compound.dic
 DIC_SUPP = dic/intj.dic dic/common_mistakes.dic dic/allographe.dic dic/foreign.dic
@@ -7,7 +9,7 @@ COMP = aff/compound.aff
 CAT = sed -e '$$s/$$/\n/' -s 
 
 
-.PHONY: ud vim all install clean test
+.PHONY: ud vim all install clean test install_postgresql
 
 all: ud vim
 
@@ -17,7 +19,6 @@ vim: fr.utf-8.spl
 
 install: fr.utf-8.spl
 	cp fr.utf-8.spl $(VIMDIR)/fr.utf-8.spl
-
 
 # version for morphological analysis
 #
@@ -32,9 +33,9 @@ fr_ud.dic: $(DIC) $(DIC_SUPP)
 	sed -i "1s/^/$$(wc -l $@ | cut -d ' ' -f 1)\n/" $@
 
 
-# VIM version, no morphological features (not supported by vim spell engine)
-fr.dic: $(DIC)
-	$(CAT) $(DIC) vim/*.dic | sort | uniq \
+# VIM version, no morphological features (not supported by vim spell engine), but with PROPN (title case)
+fr.dic: $(DIC) $(DIC_PROPN)
+	$(CAT) $(DIC) $(DIC_PROPN) vim/*.dic | sort | uniq \
 		| sed -E 's|\s*#.*||' \
 		| grep -v '^\s*$$' > $@
 	sed -i "1s/^/$$(wc -l $@ | cut -d ' ' -f 1)\n/" $@
@@ -50,10 +51,10 @@ fr.utf-8.spl: fr.dic fr.aff
 
 
 # dump all words
-fr.txt: fr.utf-8.spl
+fr.txt: $(install)
 	nvim -c 'set spell spelllang=fr' -c 'spelldump!' \
 		-c 'write fr.txt' -c 'qa'
-	grep -v -E '(\.\w+[-·])|(-\w+[·\.])|(·\w+[-\.])' $@ | sponge $@
+	grep -v '[-.œæ]' $@ | sponge $@
 
 
 clean:
