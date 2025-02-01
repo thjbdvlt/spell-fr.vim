@@ -1,11 +1,10 @@
 VIMDIR = ~/.config/nvim/spell
 
-# 
 AFF = aff/options.aff aff/non-verbs.aff aff/rep.aff aff/verbs.aff
+COMP = aff/compound.aff
 DIC = dic/main.dic dic/prefixes.dic dic/compounds.dic dic/num_compounds.dic dic/hunspell_compound.dic
 DIC_SUPP = dic/intj.dic dic/common_mistakes.dic dic/allographe.dic dic/foreign.dic
 DIC_PROPN = dic/propn.dic dic/propn_narrafeats.dic dic/propn_init.dic 
-COMP = aff/compound.aff
 CAT = sed -e '$$s/$$/\n/' -s 
 
 
@@ -25,23 +24,24 @@ install: fr.utf-8.spl
 # it uses Universal Dependancies POS tags as values for `po:` feature
 # https://universaldependencies.org/u/pos/index.html
 fr_ud.aff: $(AFF) $(COMP)
-	$(CAT) $(AFF) $(COMP) | sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' > $@
+	for i in $^; do cat $$i; echo; done | \
+		sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' > $@
 
 fr_ud.dic: $(DIC) $(DIC_SUPP)
 	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $(DIC) $(DIC_SUPP) \
 		| grep -v '^ *$$' | sort | uniq > $@
-	sed -i "1s/^/$$(wc -l $@ | cut -d ' ' -f 1)\n/" $@
+	sed -i "1s/^/$$(wc -l < $@)\n/" $@
 
 
 # VIM version, no morphological features (not supported by vim spell engine), but with PROPN (title case)
-fr.dic: $(DIC) $(DIC_PROPN)
-	$(CAT) $(DIC) $(DIC_PROPN) vim/*.dic | sort | uniq \
-		| sed -E 's|\s*#.*||' \
-		| grep -v '^\s*$$' > $@
-	sed -i "1s/^/$$(wc -l $@ | cut -d ' ' -f 1)\n/" $@
+fr.dic: $(DIC) $(DIC_PROPN) vim/*.dic
+	for i in $^; do cat $$i; echo; done | \
+		sort | uniq | sed -E 's|\s*#.*||' | grep -v '^\s*$$' > $@
+	sed -i "1s/^/$$(wc -l < $@)\n/" $@
 
 fr.aff: $(AFF)
-	$(CAT) $(AFF) | sed -E 's|\s*#.*||' \
+	for i in $^; do cat $$i; echo; done | \
+		sed -E 's|\s*#.*||' \
 		| grep -E -v \
 		'^(ICONV|IGNORE|FULLSTRIP|BREAK|WORDCHARS)\b' > $@
 	python3 ./scripts/add_incl.py '.' $@

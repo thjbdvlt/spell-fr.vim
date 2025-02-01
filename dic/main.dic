@@ -3160,6 +3160,7 @@ annales/&& # po:noun is:pl is:fem
 annaliste/Es&& # po:noun is:epi
 annalistique/Es&& # po:adj is:epi
 annalistique/Es&& # po:noun is:fem
+romanistique/Es&& # po:noun is:fem
 annalité/Es&& # po:noun is:fem
 annamite/Es&& # po:noun is:epi
 anneau/lx&& # po:noun is:mas
@@ -16272,8 +16273,6 @@ covellite/Es&& # po:noun is:fem
 covenant/Es&& # po:noun is:mas
 covendeur·euse/,,rs&& # po:noun
 covergirl/Es&& # po:noun is:fem
-covid-19/&& # po:propn
-covid/&& # po:propn
 covin/Es&& # po:noun is:mas
 covoiturage/Es&& # po:noun is:mas
 covoiturer/a0p+&& # po:verb
@@ -18376,6 +18375,7 @@ défenestration/Es&& # po:noun is:fem
 défenestrer/a0p+&& # po:verb
 défense/Es&& # po:noun is:fem
 défenseur·e/,,Ee&& # po:noun
+défenseur·euse/,,rs&& # po:noun
 défensif·ve/,,fv&& # po:noun po:adj
 défensivement/&& # po:adv
 défens/&& # po:noun is:sg is:mas
