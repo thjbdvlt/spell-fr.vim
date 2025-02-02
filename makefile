@@ -7,7 +7,6 @@ DIC_SUPP = dic/intj.dic dic/common_mistakes.dic dic/allographe.dic dic/foreign.d
 DIC_PROPN = dic/propn.dic dic/propn_narrafeats.dic dic/propn_init.dic 
 CAT = sed -e '$$s/$$/\n/' -s 
 
-
 .PHONY: ud vim all install clean test install_postgresql
 
 all: ud vim
@@ -28,16 +27,16 @@ fr_ud.aff: $(AFF) $(COMP)
 		sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' > $@
 
 fr_ud.dic: $(DIC) $(DIC_SUPP)
-	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $(DIC) $(DIC_SUPP) \
+	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $^ \
 		| grep -v '^ *$$' | sort | uniq > $@
-	sed -i "1s/^/$$(wc -l < $@)\n/" $@
+	sed "1s/^/$$(wc -l < $@)\n/" $@ | sponge $@
 
 
 # VIM version, no morphological features (not supported by vim spell engine), but with PROPN (title case)
 fr.dic: $(DIC) $(DIC_PROPN) vim/*.dic
-	for i in $^; do cat $$i; echo; done | \
+	cat $^ | \
 		sort | uniq | sed -E 's|\s*#.*||' | grep -v '^\s*$$' > $@
-	sed -i "1s/^/$$(wc -l < $@)\n/" $@
+	sed "1s/^/$$(wc -l < $@)\n/" $@ | sponge $@
 
 fr.aff: $(AFF)
 	for i in $^; do cat $$i; echo; done | \
