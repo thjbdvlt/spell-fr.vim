@@ -1,0 +1,12 @@
+# i only use compound for "prefix+word" non-dash compunds:
+#   extraordinaire
+#   préindustriel
+# but not:
+#   auteurice-compositeurice
+
+COMPOUNDRULE 1
+COMPOUNDRULE c1c2
+
+CHECKCOMPOUNDPATTERN 1
+CHECKCOMPOUNDPATTERN [aeoiu] [aeoiu]
+NOCOMPOUNDSUGS

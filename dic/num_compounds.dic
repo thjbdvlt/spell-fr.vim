@@ -1,0 +1,19 @@
+1/00 # po:num
+2/00 # po:num
+3/00 # po:num
+4/00 # po:num
+5/00 # po:num
+6/00 # po:num
+7/00 # po:num
+8/00 # po:num
+9/00 # po:num
+0/00 # po:num
+e/Es0E # po:ord
+ème/Es0E # po:ord
+er/Es0E # po:ord
+ère/Es0E # po:ord
+et/EsNNCN
+million/EsNNCN
+un/EsNNCN
+une/EsNNCN
+avant/EsNNCN
