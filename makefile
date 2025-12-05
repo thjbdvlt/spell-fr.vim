@@ -5,69 +5,57 @@
 #
 # La variable $(VIMDIR) est aussi ajouter, pour une utiilsation plus facile
 # en ligne de commande: `make VIMDIR=~/.config/vim/spell`
+# (Idem pour HUNDIRS et HUNDIR.)
 VIMDIRS := $(HOME)/.vim/spell \
 					 $(HOME)/.config/nvim/spell \
 					 $(VIMDIR)
-HUNDIR  := /usr/share/hunspell
+HUNDIRS := /usr/share/hunspell \
+					 $(HUNDIR)
 
 # Définition du suffixe utilisé pour Hunspell.
 # Par exemple "fr" pour "fr_fr" ou "ch" pour "fr_ch".
-SUFFIX  := ud
-name    := fr_$(SUFFIX)
+name := fr_ud
 
 spl              := fr.utf-8.spl # le nom du fichier généré pour vim
+
 existing_vimdirs := $(wildcard $(VIMDIRS)) # ne conserver que les dossires existants
 vim_targets      := $(existing_vimdirs:=/$(spl)) # construire les cibles
 
-cat     := sed -e '$$s/$$/\n/' -s  # concaténer plusieurs fichiers en ajoutant des lignes
+dic     := $(wildcard dic/*.dic)
 
-dic     := dic/main.dic \
-		       dic/prefixes.dic \
-		       dic/compounds.dic \
-		       dic/num_compounds.dic \
-		       dic/hunspell_compound.dic
-dic_out := dic/intj.dic \
-		       dic/common_mistakes.dic \
-		       dic/allographe.dic \
-		       dic/foreign.dic
-dic_pn  := dic/propn.dic \
-		       dic/propn_narrafeats.dic \
-		       dic/propn_init.dic 
 aff     := aff/options.aff \
 		       aff/non-verbs.aff \
 		       aff/rep.aff \
 		       aff/verbs.aff
 comp    := aff/compound.aff
 
-.PHONY: all install-vim install-hunspell clean test morphology
+.PHONY: all install-vim install-hunspell clean test
 
 all: $(vim_targets)
 
-%/fr.utf-8.spl: fr.utf-8.spl
+%/$(spl): $(spl)
 	cp $< $@
 
-install-hunspell:  $(name).aff $(name).dic
-	cp $(name).aff $(name).dic $(HUNDIR)
-
-morphology: $(name).aff $(name).dic
+install-hunspell: $(name).aff $(name).dic
+	$(foreach d,$(wildcard $(HUNDIRS)),cp $^ $(d))
 
 # Version with morphological features and UD part-of-speeches
 $(name).aff: $(aff) $(comp)
 	for i in $^; do cat $$i; echo; done | \
 		sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' > $@
 
-$(name).dic: $(dic) $(dic_out)
+$(name).dic: dic/*.dic dic/outof/*.dic dic/propn/*.dic
 	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $^ \
 		| grep -v '^ *$$' | sort | uniq > $@
 	sed "1s/^/$$(wc -l < $@)\n/" $@ | sponge $@
 
 # Vim-compatible version
-fr.dic: $(dic) $(DIC_PROPN) vim/*.dic
+fr.dic: dic/*.dic dic/vim/*.dic
 	cat $^ | \
 		sort | uniq | sed -E 's|\s*#.*||' | grep -v '^\s*$$' > $@
 	sed "1s/^/$$(wc -l < $@)\n/" $@ | sponge $@
 
-fr.aff: $(aff) vim/compounds.aff
+fr.aff: $(aff) aff/vim/compounds.aff
 	for i in $^; do cat $$i; echo; done | \
 		sed -E 's|\s*#.*||' \
 		| grep -E -v \
@@ -86,7 +74,7 @@ fr.txt: $(install)
 
 
 clean:
-	rm -f fr.utf-8.spl $(name).aff $(name).dic fr.dic fr.aff fr.txt
+	rm -f $(spl) $(name).aff $(name).dic fr.dic fr.aff fr.txt
 
 
 test: clean $(name).aff $(name).dic
