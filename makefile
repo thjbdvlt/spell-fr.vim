@@ -36,34 +36,34 @@ install-hunspell: $(name).aff $(name).dic
 # Version with morphological features and UD part-of-speeches
 $(name).aff: $(aff) $(comp)
 	for i in $^; do cat $$i; echo; done | \
-		sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' > $@
+		sed -E "s/(\w+.*) *# *(.*$$)/\1 \2/" > $@
 
 $(name).dic: dic/*.dic dic/outof/*.dic dic/propn/*.dic
-	sed -E 's/(\w+.*) *# *(.*$$)/\1 \2/' $^ \
+	sed -E "s/(\w+.*) *# *(.*$$)/\1 \2/" $^ \
 		| grep -v '^ *$$' | sort | uniq > $@
 	sed "1s/^/$$(wc -l < $@)\n/" $@ | sponge $@
 
 # Vim-compatible version
 fr.dic: dic/*.dic dic/vim/*.dic
 	cat $^ | \
-		sort | uniq | sed -E 's|\s*#.*||' | grep -v '^\s*$$' > $@
+		sort | uniq | sed -E "s|\s*#.*||" | grep -v "^\s*$$" > $@
 	sed "1s/^/$$(wc -l < $@)\n/" $@ | sponge $@
 
 fr.aff: $(aff) aff/vim/compounds.aff
 	for i in $^; do cat $$i; echo; done | \
-		sed -E 's|\s*#.*||' \
+		sed -E "s|\s*#.*||" \
 		| grep -E -v \
-		'^(ICONV|IGNORE|FULLSTRIP|BREAK|WORDCHARS)\b' > $@
+		"^(ICONV|IGNORE|FULLSTRIP|BREAK|WORDCHARS)\b" > $@
 	python3 ./scripts/add_incl.py '.' $@
 
 $(spl): fr.dic fr.aff
-	vim -c "mkspell! fr" -c 'q'
+	vim -c "mkspell! fr" -c "q"
 
 # Dump all words in a text file
 fr.txt: $(install)
-	nvim -c 'set spell spelllang=fr' -c 'spelldump!' \
-		-c 'write fr.txt' -c 'qa'
-	grep -v '[-.œæ]' $@ | sponge $@
+	nvim -c "set spell spelllang=fr" -c "spelldump!" \
+		-c "write fr.txt" -c "qa"
+	grep -v "[-.œæ]" $@ | sponge $@
 
 clean:
 	rm -f $(spl) $(name).aff $(name).dic fr.dic fr.aff fr.txt
