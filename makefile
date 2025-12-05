@@ -51,8 +51,7 @@ fr.dic: dic/*.dic dic/vim/*.dic
 
 fr.aff: $(aff) aff/vim/compounds.aff
 	for i in $^; do cat $$i; echo; done | \
-		sed -E "s|\s*#.*||" \
-		| grep -E -v \
+		sed -E "s|\s*#.*||" | grep -E -v \
 		"^(ICONV|IGNORE|FULLSTRIP|BREAK|WORDCHARS)\b" > $@
 	python3 ./scripts/add_incl.py '.' $@
 
